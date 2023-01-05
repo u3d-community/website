@@ -1,0 +1,5 @@
+<map id="Urho3D::Drawable::GetLodGeometry" name="Urho3D::Drawable::GetLodGeometry">
+<area shape="rect" id="node1" title="Return the geometry for a specific LOD level." coords="477,22,653,62"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_decal_set.html#a51865d14929f67473aa71cc3b9ba36d6" title="Get triangle faces from the target geometry." coords="243,29,429,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_decal_set.html#a70a16cdcd0674837b6b2338f94f476b8" title="Add a decal at world coordinates, using a target drawable&#39;s geometry for reference...." coords="5,29,195,55"/>
+</map>

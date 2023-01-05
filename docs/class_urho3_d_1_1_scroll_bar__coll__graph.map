@@ -1,0 +1,27 @@
+<map id="Urho3D::ScrollBar" name="Urho3D::ScrollBar">
+<area shape="rect" id="node1" title="Scroll bar UI element with forward and back buttons." coords="2084,295,2211,320"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_border_image.html" title="Image UI element with optional border." coords="1045,323,1196,348"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_button.html" title="Push button UI element." coords="1295,49,1406,75"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_slider.html" title="Slider bar UI element." coords="1561,208,1668,233"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1269,258,1432,298"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html" title="Base class for UI elements." coords="743,657,878,683"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="404,523,543,548"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html" title="String class." coords="40,715,147,740"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_x_path_query.html" title="XPath query." coords="403,715,544,740"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_material.html" title="Describes how to render 3D geometries." coords="413,1119,534,1144"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html" title=" " coords="359,650,588,690"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_int_rect.html" title="Two&#45;dimensional bounding rectangle with integer values." coords="416,1207,531,1232"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="40,421,147,447"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_texture.html" title="Base class for texture resources." coords="415,345,531,371"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="369,765,577,805"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="414,941,533,967"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="406,117,541,143"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="24,1074,163,1114"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="384,991,563,1031"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html" title=" " coords="390,395,557,420"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="741,338,880,378"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="741,895,880,935"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1692,81,1831,121"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1855,230,1993,270"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="1297,99,1405,124"/>
+</map>

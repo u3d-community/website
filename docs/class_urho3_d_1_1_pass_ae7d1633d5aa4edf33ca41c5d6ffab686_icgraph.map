@@ -1,0 +1,12 @@
+<map id="Urho3D::Pass::GetDepthTestMode" name="Urho3D::Pass::GetDepthTestMode">
+<area shape="rect" id="node1" title=" " coords="1301,42,1524,67"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_technique.html#a990878e219ce61207b380ab0bdf13aca" title="Clone the technique. Passes will be deep copied to allow independent modification." coords="1106,5,1245,45"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="1097,70,1253,95"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_technique.html#a06c3bc21df26728f23a7ccd81eba8765" title="Return a clone with added shader compilation defines. Called internally by Material." coords="909,5,1047,45"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="907,70,1049,95"/>
+<area shape="rect" id="node10" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="907,120,1049,160"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="716,92,859,132"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,92,397,132"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="445,137,668,162"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,99,155,125"/>
+</map>

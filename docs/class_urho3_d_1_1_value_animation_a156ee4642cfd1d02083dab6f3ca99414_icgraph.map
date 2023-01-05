@@ -1,0 +1,6 @@
+<map id="Urho3D::ValueAnimation::SetInterpolationMethod" name="Urho3D::ValueAnimation::SetInterpolationMethod">
+<area shape="rect" id="node1" title=" " coords="432,37,599,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_value_animation.html#abb90d4733017bb3e85f68f344a4a9571" title="Load from JSON data. Return true if successful." coords="219,5,384,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_value_animation.html#a9ec6ef8e4dcd6e23e591936d45147991" title="Load from XML data. Return true if successful." coords="219,69,384,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_value_animation.html#a753729f770a747b938de50ff088356a4" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,69,171,109"/>
+</map>

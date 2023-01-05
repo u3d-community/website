@@ -1,0 +1,5 @@
+<map id="Urho3D::UISelectable::RegisterObject" name="Urho3D::UISelectable::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,5,152,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="200,5,373,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="421,5,576,45"/>
+</map>

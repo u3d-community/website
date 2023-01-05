@@ -1,0 +1,10 @@
+<map id="Urho3D::Node::LoadJSON" name="Urho3D::Node::LoadJSON">
+<area shape="rect" id="node1" title="Load from JSON data. Return true if successful." coords="919,104,1095,129"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a03f80f9703e4d92e89b0de7fd930d239" title="Instantiate scene content from JSON data. Return root node if successful." coords="658,29,869,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scene.html#aa66ba16b03bd936a00b96e18da703947" title="Load from a JSON file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY mo..." coords="656,79,871,104"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#afadea687110ecd2d6074d99cb7c44853" title="Load from JSON data. Removes all existing child nodes and components first. Return true if successful..." coords="674,128,853,153"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#a625934c3af5fb17f25a09767d4c0cc6b" title="Update asynchronous loading." coords="667,202,860,242"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#afb949e0fedbb2becb9aa7a3dfb0ed7b2" title="Update scene. Called by HandleUpdate." coords="451,209,608,235"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#ad3307d7a01b61f9b6ded6cff9a44f857" title="Handle the logic update event to update the scene, if active." coords="204,209,403,235"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#aecd178e1857bd96c3e4537651fd7f60c" title="Construct." coords="5,209,156,235"/>
+</map>

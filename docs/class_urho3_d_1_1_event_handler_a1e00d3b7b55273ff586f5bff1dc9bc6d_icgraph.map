@@ -1,0 +1,5 @@
+<map id="Urho3D::EventHandler::Invoke" name="Urho3D::EventHandler::Invoke">
+<area shape="rect" id="node1" title="Invoke event handler function." coords="441,5,592,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html#ad0ce1699ce5bd9d4033e5800bbb8c15b" title="Handle event." coords="231,13,393,38"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html#af8f8bd3f7e2f51ecca7199e737f53364" title="Send event with parameters to all subscribers." coords="5,13,183,38"/>
+</map>

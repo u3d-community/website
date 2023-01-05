@@ -1,0 +1,9 @@
+<map id="Urho3D::StringFactory" name="Urho3D::StringFactory">
+<area shape="rect" id="node1" title="String factory class that manages the string constants the script engine uses." coords="11,407,161,432"/>
+<area shape="rect" id="node2" title=" " coords="5,311,124,337"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="149,304,357,344"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="186,229,319,255"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_hash_node_base.html" title="Hash set/map node base class." coords="43,103,209,128"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="301,103,461,128"/>
+<area shape="rect" id="node7" href="$struct_urho3_d_1_1_allocator_node.html" title="Allocator node." coords="301,5,461,31"/>
+</map>

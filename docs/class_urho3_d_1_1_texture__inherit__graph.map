@@ -1,0 +1,12 @@
+<map id="Urho3D::Texture" name="Urho3D::Texture">
+<area shape="rect" id="node1" title="Base class for texture resources." coords="271,299,387,324"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_texture2_d.html" title="2D texture resource." coords="5,372,137,397"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture2_d_array.html" title="2D texture array resource." coords="162,372,325,397"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_texture3_d.html" title="3D texture resource." coords="349,372,481,397"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_texture_cube.html" title="Cube texture resource." coords="506,372,653,397"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource_with_metadata.html" title="Base class for resources that support arbitrary metadata stored. Metadata serialization shall be impl..." coords="125,225,335,251"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_resource.html" title=" " coords="166,152,294,177"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_object.html" title=" " coords="175,79,285,104"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="159,5,301,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_g_p_u_object.html" title="Base class for GPU resources." coords="359,225,495,251"/>
+</map>

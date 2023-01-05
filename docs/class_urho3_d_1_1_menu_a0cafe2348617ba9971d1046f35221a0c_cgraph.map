@@ -1,0 +1,7 @@
+<map id="Urho3D::Menu::RegisterObject" name="Urho3D::Menu::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,63,203,88"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_menu.html#ae43040e5e84959e2969100b81a9875ae" title=" " coords="251,5,457,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="267,55,441,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_menu.html#a3ad645a6382f8beba122c6cf873a9281" title=" " coords="251,120,457,145"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="505,55,660,95"/>
+</map>

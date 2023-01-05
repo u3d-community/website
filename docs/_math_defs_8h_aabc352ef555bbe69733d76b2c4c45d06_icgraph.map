@@ -1,0 +1,7 @@
+<map id="Urho3D::SmoothStep" name="Urho3D::SmoothStep">
+<area shape="rect" id="node1" title=" " coords="383,45,529,70"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ribbon_trail.html#a8ba0edb45a15578b55595a3c9245d031" title="Update/Rebuild tail mesh only if position changed (called by UpdateBatches())." coords="194,5,331,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_ribbon_trail.html#afd634ca73ce1acb9b0a8e491c9b629ae" title="Rewrite RibbonTrail vertex buffer." coords="191,69,335,109"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ribbon_trail.html#a14699a47b1051cde25a5db1a20de4e48" title="Update before octree reinsertion. Is called from a main thread." coords="5,5,143,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_ribbon_trail.html#ae50e330642685c41211a3c5103dc4204" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="5,69,143,109"/>
+</map>

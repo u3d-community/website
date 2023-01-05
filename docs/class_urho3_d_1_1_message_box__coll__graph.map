@@ -1,0 +1,27 @@
+<map id="Urho3D::MessageBox" name="Urho3D::MessageBox">
+<area shape="rect" id="node1" title="Message box dialog. Manages its lifetime automatically, so the application does not need to hold a re..." coords="1503,726,1652,751"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="995,95,1106,121"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="281,90,423,115"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="658,121,777,146"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="248,144,456,184"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i_element.html" title="Base class for UI elements." coords="650,673,785,698"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="632,5,803,45"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_u_i_selectable.html" title=" " coords="977,933,1124,958"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="283,667,421,693"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_string.html" title="String class." coords="5,569,112,594"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_x_path_query.html" title="XPath query." coords="281,569,423,594"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_text.html" title="Text UI element." coords="1267,875,1365,901"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector.html" title=" " coords="237,795,467,835"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_int_rect.html" title="Two&#45;dimensional bounding rectangle with integer values." coords="295,898,409,923"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="299,1147,405,1173"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="293,390,411,415"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="285,1309,419,1334"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_button.html" title="Push button UI element." coords="827,1313,937,1338"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="283,440,421,480"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="263,504,441,544"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_vector.html" title=" " coords="269,618,435,643"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="981,1253,1120,1293"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="961,735,1140,775"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="978,804,1123,844"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="978,868,1123,908"/>
+</map>

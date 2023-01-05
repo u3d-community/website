@@ -1,0 +1,5 @@
+<map id="Urho3D::Image::Save" name="Urho3D::Image::Save">
+<area shape="rect" id="node1" title="Save the image to a stream. Regardless of original format, the image is saved as png...." coords="436,5,580,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_image.html#a78a5e3043e9b5f7fa9375325f9ab0263" title="Save in PNG format. Return true if successful." coords="217,5,388,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_image.html#adcea1e1f246e18b77acfdc12937f95b3" title="Save the image to a file. Format of the image is determined by file extension. JPG is saved with maxi..." coords="5,5,169,31"/>
+</map>

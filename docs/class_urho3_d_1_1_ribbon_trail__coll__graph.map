@@ -1,0 +1,27 @@
+<map id="Urho3D::RibbonTrail" name="Urho3D::RibbonTrail">
+<area shape="rect" id="node1" title="Drawable component that creates a tail." coords="1336,695,1473,721"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="1022,398,1149,423"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_zone.html" title="Component that describes global rendering properties." coords="1353,231,1456,257"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_light.html" title="Light component." coords="1354,439,1455,465"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="615,621,758,646"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="269,621,408,646"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="263,242,414,267"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_octant.html" title=" " coords="631,327,742,353"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="17,553,136,578"/>
+<area shape="rect" id="node25" href="$struct_urho3_d_1_1_trail_point.html" title="Trail is consisting of series of tails. Two connected points make a tail." coords="440,743,567,769"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html" title=" " coords="603,505,770,545"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="268,513,409,538"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="614,377,759,417"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="614,441,759,481"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="817,568,963,608"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html" title=" " coords="807,659,973,699"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="1019,501,1151,526"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="1032,243,1139,269"/>
+<area shape="rect" id="node13" href="$struct_urho3_d_1_1_color_1_1_channel_mask.html" title="Mask describing color channels." coords="591,146,783,171"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1013,968,1157,1008"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_geometry.html" title="Defines one or more vertex buffers, an index buffer and a draw range." coords="621,970,752,995"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="261,932,416,972"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_index_buffer.html" title="Hardware index buffer." coords="5,939,148,965"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1005,853,1165,893"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vertex_buffer.html" title="Hardware vertex buffer." coords="613,865,760,890"/>
+</map>

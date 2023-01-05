@@ -1,0 +1,9 @@
+<map id="Urho3D::JSONFile::BeginLoad" name="Urho3D::JSONFile::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,144,200,169"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="286,5,437,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="267,55,456,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_deserializer.html#a59b68616d6572fed705f41237cb57be9" title=" " coords="290,105,433,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_deserializer.html#a29f095da2db6cf9e4c7e76365341466e" title=" " coords="290,169,433,209"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_deserializer.html#ae82036f72896194adc1cd02f3b03509b" title="Read bytes from the stream. Return number of bytes actually read." coords="290,233,433,273"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="248,297,475,323"/>
+</map>

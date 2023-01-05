@@ -1,0 +1,9 @@
+<map id="Urho3D::Node::GetSignedWorldScale" name="Urho3D::Node::GetSignedWorldScale">
+<area shape="rect" id="node1" title=" " coords="5,69,213,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_quaternion.html#a0a55e229141be1ba710b0c134c61c966" title=" " coords="288,5,425,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_matrix3x4.html#a56f1e338bd39e384a53e2e006f79b24e" title="Return the scaling part with the sign. Reference rotation matrix is required to avoid ambiguity." coords="287,69,426,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#af15430523a0d5a9d23c4b761018e37b8" title="Recalculate the world transform." coords="261,133,452,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a7f36ffbac48689b8453d03c6a57a776f" title=" " coords="518,91,713,117"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="507,141,724,166"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="500,190,731,215"/>
+</map>

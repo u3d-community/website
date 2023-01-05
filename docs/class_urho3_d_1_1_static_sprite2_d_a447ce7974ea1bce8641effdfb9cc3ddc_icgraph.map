@@ -1,0 +1,4 @@
+<map id="Urho3D::StaticSprite2D::OnSceneSet" name="Urho3D::StaticSprite2D::OnSceneSet">
+<area shape="rect" id="node1" title="Handle scene being assigned." coords="233,5,389,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animated_sprite2_d.html#a04cec7e57129b4f205c9976878f47f57" title="Handle scene being assigned." coords="5,5,185,45"/>
+</map>

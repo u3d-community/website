@@ -1,0 +1,5 @@
+<map id="Urho3D::Drawable::OnNodeSet" name="Urho3D::Drawable::OnNodeSet">
+<area shape="rect" id="node1" title="Handle node being assigned." coords="5,13,207,38"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a1df1e1bfa613bbd82fe6624c211db754" title="Add listener component that is notified of node being dirtied. Can either be in the same node or anot..." coords="255,13,439,38"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#ab49b4b66b2eb1601cf166972fe42e5ce" title="Handle scene node transform dirtied." coords="487,5,635,45"/>
+</map>

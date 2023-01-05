@@ -1,0 +1,6 @@
+<map id="Urho3D::UIElement::SetPriority" name="Urho3D::UIElement::SetPriority">
+<area shape="rect" id="node1" title=" " coords="219,69,359,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#a497ae1d9996a1eeb5d84ae738aed7ceb" title="Bring UI element to front." coords="18,5,158,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_sprite.html#aedada728de8e83b44472e1dd798a1b0d" title=" " coords="7,69,169,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_tool_tip.html#a1652f796b22acf7087e05e4929541104" title="Perform UI element update." coords="5,134,171,159"/>
+</map>

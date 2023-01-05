@@ -1,0 +1,27 @@
+<map id="Urho3D::Sin" name="Urho3D::Sin">
+<area shape="rect" id="node1" title=" " coords="827,319,917,345"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#a59fa78db5b0c709091ae4ba6eae4f815" title="Add a circle." coords="585,5,747,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_tile_map_layer2_d.html#aef0b04647bec35d267d982bf2439f81a" title="Add debug geometry to the debug renderer." coords="309,35,477,75"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_physics_world2_d.html#a57ba4c65de6942c5838227cf76e07e6c" title="Draw a circle." coords="581,120,751,160"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_physics_world2_d.html#ab1812a6709382c7fdb9c1457a5102610" title="Draw a solid circle." coords="581,184,751,224"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_particle_emitter.html#a4e4872622bad52221835f26ac78be6b4" title="Create a new particle. Return true if there was room." coords="586,248,746,288"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_particle_emitter2_d.html#a88c18c19af463afd96e5e5cdc52d6d1a" title="Emit particle." coords="583,312,749,352"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_text.html#ad553fd06643ea9dbbf0c18cbee39d9f0" title="Return UI rendering batches." coords="581,441,751,466"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_sphere.html#ab48a46b094436f9c12efac572dd1efef" title="Return point on the sphere relative to sphere position." coords="581,491,751,531"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_material.html#a2470fc628c1bbdb6b52054076714ff41" title="Set texture coordinate transform." coords="553,555,779,581"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_particle_emitter2_d.html#a10bb8346cda27c85c9da98084e8dcd77" title="Update particle." coords="583,376,749,416"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_particle_emitter2_d.html#ab6ce136d5aea89305429b83f8375faae" title="Update source batches." coords="583,605,749,645"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_physics_world2_d.html#ac920b1a845bb0c32ed9067b904a0f6c4" title="Draw a point." coords="307,184,478,224"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_particle_emitter.html#a482ed0bdc3327f8c7c5e856e4e39a812" title="Update before octree reinsertion. Is called from a worker thread." coords="313,248,473,288"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_particle_emitter2_d.html#a59d6b326bcbe8273a103208935845cef" title="Update." coords="309,312,476,352"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_particle_emitter2_d.html#abaa5fbe514eb5d5904039f69cd75257d" title="Handle scene post update." coords="27,257,211,297"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_text3_d.html#a1f643feab9477ca50a084501df1a8e3b" title="Update text UI batches." coords="299,429,486,469"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_text3_d.html#afb163e8eb837396d7578c13ea9224072" title="Apply attribute changes that can not be applied immediately." coords="14,322,223,347"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_text3_d.html#a08bfb84e885535f73aeefb4181491e3d" title="Recalculate the world&#45;space bounding box." coords="5,372,232,412"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_text3_d.html#a0e5e82af6713193ee73b60191a2048e0" title=" " coords="33,437,205,462"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_text3_d.html#a6c34a3c420fa1e6c35f4f4662c8248df" title="Set font by looking from resource cache by name and font size. Return true if successful." coords="36,486,201,511"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_text3_d.html#ae57645a33f1cefafd9b57908fba27569" title=" " coords="23,535,214,561"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_text3_d.html#a38405cba1bb3686bea808f0d997116e5" title=" " coords="27,585,210,610"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_debug_renderer.html#ac017e437c4ce73e3a3975d4c83b84b74" title="Add a sphere sector. Angle ranges from 0 to 360. Identity Quaternion yields the filled portion of the..." coords="311,493,474,533"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_material.html#a9e933fb78c269f4a88353174b0a640ee" title="Set texture coordinate transform." coords="280,558,505,583"/>
+</map>

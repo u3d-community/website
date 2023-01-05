@@ -1,0 +1,14 @@
+<map id="Urho3D::Drawable2D::RegisterObject" name="Urho3D::Drawable2D::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,101,148,141"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable2_d.html#a3cd65e5b5437ca81d151f7e873aa2a92" title=" " coords="196,5,339,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable2_d.html#aab7f03e7cf4d53ed4ff44ae69e124057" title=" " coords="196,69,339,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_drawable2_d.html#ac9f626566fe697b52a9a480124a9d17b" title=" " coords="196,133,339,173"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_drawable2_d.html#a69a05d67eda14a449c2b793f520d9d5b" title=" " coords="196,197,339,237"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="392,133,540,173"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_drawable2_d.html#a8decb5bbd0d13df6c899fca31ca9f2ad" title="Handle draw order changed." coords="387,197,545,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="618,69,766,109"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="618,133,766,173"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="593,221,791,261"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="855,77,1023,102"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="839,141,1039,166"/>
+</map>

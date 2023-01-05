@@ -1,0 +1,27 @@
+<map id="Urho3D::Text3D::UpdateBatches" name="Urho3D::Text3D::UpdateBatches">
+<area shape="rect" id="node1" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="5,587,215,612"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_text3_d.html#aa77a802e886bfb646350e8d0a0a70958" title="Recalculate camera facing and fixed screen size." coords="291,329,465,369"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_camera.html#adc14322198c5fd70f75ed8a739212e54" title="Return distance to position. In orthographic mode uses only Z coordinate." coords="280,557,476,583"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_drawable.html#a3930dc9342c0aefcfd4c94eb8079e365" title=" " coords="283,607,473,647"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="263,672,493,697"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_camera.html#a550d2bdf61207a877e5ecf7bbb6e247e" title="Return a world rotation for facing a camera on certain axes based on the existing world rotation." coords="543,222,762,262"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="1087,504,1303,529"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="1087,387,1304,412"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_camera.html#a0fd32e1ea1548d47099dfa40e72653dc" title=" " coords="541,172,764,197"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_camera.html#ad705a7447b5db893eb5642f0d05c02ca" title=" " coords="551,64,755,89"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_camera.html#a86a2e6d78d0ac6c20e043ada2f573401" title=" " coords="566,497,739,523"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="553,287,753,312"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_camera.html#acab170a8af63b2c412a908c52f43139c" title=" " coords="547,336,758,361"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector3.html#abab3fbca669183ad1e840902fbb8a8ab" title="Returns the angle between this vector and another vector in degrees." coords="846,120,1005,145"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_quaternion.html#a4b0b0a8b518f80caaa81c41f42b93432" title=" " coords="857,170,994,210"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_quaternion.html#a18879f2754646ddf9a8608d9eaafff35" title="Define from a direction to look in and an up direction. Return true if successful,..." coords="856,55,995,95"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a0d48bd78ed061cfb02780f874d808f25" title=" " coords="1143,144,1247,169"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector3.html#a8cec272610e59b1abfa3f42909c90351" title=" " coords="1113,240,1277,265"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector3.html#a93d1f364765af1c983dd840e76cf5423" title="Calculate cross product." coords="1092,5,1299,31"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_quaternion.html#a0f7fbbb259a665f94df597eb1d81dbc7" title="Define from orthonormal axes." coords="1127,55,1264,95"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_camera.html#aa2ca83a0c0ffdede12922e6ed72b69b6" title="Recalculate projection matrix." coords="812,5,1039,31"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_camera.html#a08d24e076d62c0b397817f2c9f92cc41" title=" " coords="828,437,1023,477"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="856,501,995,541"/>
+<area shape="rect" id="node22" href="$_math_defs_8h.html#ac3865cf9a0484b8452ccc4e62c5661ca" title=" " coords="605,691,701,716"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_drawable.html#af146747caaf6fd85ab71fda4e364bde4" title="Recalculate the world&#45;space bounding box." coords="560,741,745,781"/>
+</map>

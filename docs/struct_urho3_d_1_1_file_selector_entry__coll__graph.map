@@ -1,0 +1,4 @@
+<map id="Urho3D::FileSelectorEntry" name="Urho3D::FileSelectorEntry">
+<area shape="rect" id="node1" title="File selector&#39;s list entry (file or directory)." coords="5,93,177,119"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html" title="String class." coords="38,5,145,31"/>
+</map>

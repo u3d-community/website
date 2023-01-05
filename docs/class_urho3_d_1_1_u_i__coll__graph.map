@@ -1,0 +1,27 @@
+<map id="Urho3D::UI" name="Urho3D::UI">
+<area shape="rect" id="node1" title="UI subsystem. Manages the graphical user interface." coords="1747,730,1833,755"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="760,50,871,75"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_graphics.html" title="Graphics subsystem. Manages the application window, rendering state and GPU resources." coords="1041,292,1165,318"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="243,75,385,100"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="461,75,579,100"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,415,133,440"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1355,408,1534,448"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1355,544,1534,584"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="435,125,605,165"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_string.html" title="String class." coords="762,202,869,227"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i_element.html" title="Base class for UI elements." coords="1036,522,1171,547"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_cursor.html" title="Mouse cursor UI element." coords="1046,188,1161,214"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="748,582,883,607"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1371,480,1518,520"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1375,238,1514,278"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="1372,658,1517,698"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="1372,722,1517,762"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1365,786,1525,826"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="1367,850,1523,890"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="1391,915,1499,940"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1344,964,1545,1019"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1344,1043,1545,1098"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1344,1122,1545,1176"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html" title=" " coords="1361,1201,1528,1241"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1352,1266,1537,1320"/>
+</map>

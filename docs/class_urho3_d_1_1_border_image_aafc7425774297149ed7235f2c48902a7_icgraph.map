@@ -1,0 +1,8 @@
+<map id="Urho3D::BorderImage::GetBatches" name="Urho3D::BorderImage::GetBatches">
+<area shape="rect" id="node1" title="Return UI rendering batches." coords="259,97,409,137"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_button.html#a5d7cf3a33302bdf458b0e34a025581e0" title="Return UI rendering batches." coords="16,5,200,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_check_box.html#a3a0fde89f1336b86c5322240b955a99f" title="Return UI rendering batches." coords="5,55,211,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_cursor.html#a55277d925fe2f04440c7a45aece48045" title="Return UI rendering batches." coords="15,104,201,129"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_drop_down_list.html#a1ccb0767341512c2911fc5839e8b0265" title="Return UI rendering batches." coords="30,154,186,194"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_window.html#a455bbccbf47246497a114dde4d518098" title="Return UI rendering batches." coords="11,219,205,244"/>
+</map>

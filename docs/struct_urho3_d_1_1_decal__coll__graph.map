@@ -1,0 +1,8 @@
+<map id="Urho3D::Decal" name="Urho3D::Decal">
+<area shape="rect" id="node1" title="One decal in a decal set." coords="521,204,628,229"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="234,147,385,172"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="17,147,135,172"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="231,197,388,237"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,239,147,264"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="237,261,382,301"/>
+</map>

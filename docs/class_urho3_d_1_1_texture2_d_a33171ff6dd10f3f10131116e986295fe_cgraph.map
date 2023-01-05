@@ -1,0 +1,17 @@
+<map id="Urho3D::Texture2D::OnDeviceReset" name="Urho3D::Texture2D::OnDeviceReset">
+<area shape="rect" id="node1" title="Recreate the GPU resource and restore data if applicable." coords="5,321,144,361"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture2_d.html#af44c92053b2781a67a0330a4f72927c8" title="Create the GPU texture." coords="218,292,357,332"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="192,357,383,382"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture.html#a0dc9b5632a502d45cf001c0cdaebd8e5" title="Check maximum allowed mip levels for a specific texture size." coords="454,5,639,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture.html#a60c268d6f819bd4fdc219ba8f5f3820c" title=" " coords="449,70,645,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_graphics.html#a609ba19c78432946e8334cc3a7bcb92e" title="Return the API&#45;specific hardware depth&#45;stencil texture format." coords="455,120,639,160"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_texture.html#a09c2fc9bd5347131e3a0126b109d07ab" title=" " coords="451,184,642,224"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_graphics.html#af39a9a2972752ace04fa2aac273ecc9e" title="Return whether is using an OpenGL 3 context. Return always false on Direct3D9 &amp; Direct3D11." coords="711,345,884,385"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture.html#af49ebd8d0572e8616402f9c663b6a818" title=" " coords="459,299,634,325"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_texture.html#af633d70298690db00993d6c89b2f0a50" title=" " coords="437,349,656,374"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_texture.html#a49289626d40733f33cb84e044cca1eab" title=" " coords="442,398,651,423"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_texture.html#a8672316692e6b78cb6482cbcecfe409c" title="Regenerate mipmap levels for a rendertarget after rendering and before sampling. Called internally by..." coords="453,448,640,488"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_texture2_d.html#a195cc225951abc4d87099dd2bd2f76f3" title="Release the texture." coords="477,512,616,552"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_texture.html#a7eaf51cf81ac775bdc87e00ec1a47979" title="Update dirty parameters to the texture object. Called by Graphics when assigning the texture." coords="431,577,663,602"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_color.html#ac870749558797286cd923e11c182ce87" title="Return float data." coords="728,577,867,602"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Urho3D::ShaderVariation::OnDeviceLost" name="Urho3D::ShaderVariation::OnDeviceLost">
+<area shape="rect" id="node1" title="Mark the GPU resource destroyed on graphics context destruction." coords="5,27,172,67"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#ac6f0b2fb0bce5afbeb088c7cb15abbe1" title="Clear the string." coords="220,5,364,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_g_p_u_object.html#a054b2b9d1ac58c3dc81866bb7db6761a" title="Mark the GPU resource destroyed on graphics context destruction." coords="221,55,363,95"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="412,5,564,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a953822d6a39e507861ee02a24bb7996e" title="Copy chars from one buffer to another." coords="612,5,791,31"/>
+</map>

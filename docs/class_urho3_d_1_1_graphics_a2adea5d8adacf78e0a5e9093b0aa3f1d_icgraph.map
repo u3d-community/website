@@ -1,0 +1,6 @@
+<map id="Urho3D::Graphics::SetWindowModes" name="Urho3D::Graphics::SetWindowModes">
+<area shape="rect" id="node1" title=" " coords="723,5,920,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_graphics.html#a120f99124337d4775a2153c62ec329b1" title="Set default window modes. Return true if successful." coords="484,5,675,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_graphics.html#aac131622deee0f32dffe86943d704f95" title="Set default window modes. Deprecated. Return true if successful." coords="252,13,436,38"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_graphics.html#a87d6974090e42a8c0d8ec676ca4da504" title="Begin frame rendering. Return true if device available and can render." coords="5,13,204,38"/>
+</map>

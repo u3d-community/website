@@ -1,0 +1,27 @@
+<map id="Urho3D::Renderer::SetShadowQuality" name="Urho3D::Renderer::SetShadowQuality">
+<area shape="rect" id="node1" title=" " coords="5,326,204,366"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_renderer.html#a4e44255580c9a9665ae72d4a4f77c705" title="Blur the shadow map." coords="261,284,490,309"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_renderer.html#a03b35442eee1c6071cf8e06c0514bb9e" title="Remove all shadow maps. Called when global shadow map resolution or format is changed." coords="252,333,499,359"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_renderer.html#a4d500a70c61963017f40b2948cd27fef" title=" " coords="276,383,475,423"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a9f5a7068310ea03c58673eb5add7db21" title="Draw a fullscreen quad. Shaders and renderstates must have been set beforehand. Quad will be drawn to..." coords="547,55,773,80"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture.html#afac4f70c3ea7c7e681ac36d8472af876" title=" " coords="575,105,745,145"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_renderer.html#aa8239321fb6b01bc3be5fb4df152983f" title="Allocate a depth&#45;stencil surface that does not need to be readable. Should only be called during actu..." coords="567,169,753,209"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_renderer.html#a44c45f4e35cbce39ed18336ad8ff318d" title="Allocate a rendertarget or depth&#45;stencil texture for deferred rendering or postprocessing...." coords="830,226,1022,266"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_texture.html#ab47f6f48fa537e42dea9e21bc3a350cc" title=" " coords="567,284,753,309"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_texture.html#af496abc83a030e5dc9c8d46c7111fa1c" title=" " coords="570,333,750,359"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_texture.html#ae21b2e0a3510272473447faeeb27374e" title=" " coords="575,383,745,423"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_texture.html#a8e0474cd05b4b1de9caabdc670243141" title=" " coords="572,448,748,473"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_view.html#af8780a9f8ed62181090adf6d0f71e2e8" title="Set G&#45;buffer offset and inverse size shader parameters. Called by Batch and internally by View." coords="575,498,745,538"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_geometry.html#a4a7263e950743d3a59f18469766bfe19" title="Draw." coords="843,5,1009,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_camera.html#a0c4c64256ac952f0e1b93ba456be8f8c" title="Return vertical flipping mode." coords="821,55,1031,80"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_light.html#a2ac64042dfe3354b9be2663ea63ec4da" title="Return a transform for deferred fullscreen quad (directional light) rendering." coords="833,105,1019,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_graphics.html#a53af62ede0ca685ae4ad4e65898379a0" title="Draw non&#45;indexed geometry." coords="1101,5,1261,31"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_graphics.html#a609ba19c78432946e8334cc3a7bcb92e" title="Return the API&#45;specific hardware depth&#45;stencil texture format." coords="1089,119,1273,159"/>
+<area shape="rect" id="node12" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="1125,208,1236,233"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_texture.html#a60c268d6f819bd4fdc219ba8f5f3820c" title=" " coords="1083,257,1279,283"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_graphics.html#a1c014d24c89e047d834767e3c926630e" title="Return the API&#45;specific readable hardware depth format, or 0 if not supported." coords="1079,307,1283,347"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_resource.html#ad851573ccc5bb7ea1508da7cc0d58ce9" title="Reset last used timer." coords="1085,371,1276,411"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_graphics.html#ae842ba95e9207f49165b1af9c55e96b7" title="Return UV offset required for pixel perfect rendering." coords="837,441,1015,481"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_int_rect.html#a19bd7564d19878420163e25024e6d84b" title=" " coords="847,505,1005,531"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_int_rect.html#ac994f1ac126b1cf039ac6a0e6040f3b4" title=" " coords="849,555,1003,580"/>
+</map>

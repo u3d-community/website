@@ -1,0 +1,14 @@
+<map id="Urho3D::StaticModelGroup::DrawOcclusion" name="Urho3D::StaticModelGroup::DrawOcclusion">
+<area shape="rect" id="node1" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="5,280,184,320"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_occlusion_buffer.html#a62a292e64edc586d8d03b1494e2aa46d" title="Submit a triangle mesh to the buffer using non&#45;indexed geometry. Return true if did not overflow the ..." coords="253,5,420,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_material.html#a26428585da68410238f2f9c7dc9a4204" title=" " coords="235,70,439,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vertex_buffer.html#afdb3a120f19945f58c189cf76a00ee25" title="Return offset of a element within vertex, or M_MAX_UNSIGNED if does not exist." coords="263,120,410,160"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_geometry.html#a00c09617cfdc7175df34b3701050de7e" title=" " coords="241,184,432,224"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_geometry.html#a98faaf23ff0c4ab8a8e16011517fea80" title=" " coords="241,248,432,288"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_static_model.html#adf6c7441ada8f34d7dcd5541961a59ed" title="Return the geometry for a specific LOD level." coords="265,312,409,352"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_material.html#a237123b0f0a5462ddfeff07647e94e9b" title=" " coords="234,377,439,402"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_geometry.html#aec935a4a9c832f37255d72bc172c8f78" title="Return raw vertex and index data for CPU operations, or null pointers if not available...." coords="232,426,441,451"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_drawable.html#a3930dc9342c0aefcfd4c94eb8079e365" title=" " coords="242,476,431,516"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_occlusion_buffer.html#abb237b9998494fab164e9fd299aabcf9" title="Set culling mode." coords="253,540,420,580"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_drawable.html#af146747caaf6fd85ab71fda4e364bde4" title="Recalculate the world&#45;space bounding box." coords="489,476,675,516"/>
+</map>

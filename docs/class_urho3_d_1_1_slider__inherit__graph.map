@@ -1,0 +1,9 @@
+<map id="Urho3D::Slider" name="Urho3D::Slider">
+<area shape="rect" id="node1" title="Slider bar UI element." coords="27,445,134,471"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_border_image.html" title="Image UI element with optional border." coords="5,372,156,397"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html" title="Base class for UI elements." coords="13,299,148,324"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="11,225,150,251"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="11,152,151,177"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_object.html" title=" " coords="25,79,136,104"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="9,5,152,31"/>
+</map>

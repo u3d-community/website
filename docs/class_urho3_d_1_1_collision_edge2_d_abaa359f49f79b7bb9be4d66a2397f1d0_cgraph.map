@@ -1,0 +1,8 @@
+<map id="Urho3D::CollisionEdge2D::ApplyNodeWorldScale" name="Urho3D::CollisionEdge2D::ApplyNodeWorldScale">
+<area shape="rect" id="node1" title="Apply node world scale." coords="5,37,175,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_collision_edge2_d.html#abf21b3c9e2aee60148c2ff2f8db86bb9" title="Recreate fixture." coords="223,37,392,77"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_collision_shape2_d.html#a5c6ed3597e4e875162cbb9e4e679bac1" title="Create fixture." coords="440,5,616,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_collision_shape2_d.html#a52963467210c78bca21f7463f361c147" title="Release fixture." coords="440,69,616,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="664,13,865,38"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a6070c8208ad98595d8c3fe43778d6069" title="Return component in the same scene node by type. If there are several, returns the first." coords="913,5,1061,45"/>
+</map>

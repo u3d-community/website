@@ -1,0 +1,11 @@
+<map id="Urho3D::View3D::OnResize" name="Urho3D::View3D::OnResize">
+<area shape="rect" id="node1" title="React to resize." coords="5,191,184,217"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_graphics.html#a609ba19c78432946e8334cc3a7bcb92e" title="Return the API&#45;specific hardware depth&#45;stencil texture format." coords="232,5,416,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_render_surface.html#af27d07a0cf5fe7ed59d925a0c5eb3123" title="Queue manual update of the viewport(s)." coords="243,69,405,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_border_image.html#a6b690e13125601d6e4b4fca5b4761035" title=" " coords="663,188,813,228"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_render_surface.html#a76dc49aa127cbf774c68db3acc714809" title=" " coords="243,184,405,224"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_border_image.html#a6d362a60f796ef51fa4238e12e4f7bcd" title=" " coords="249,248,399,288"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_render_surface.html#afa8b8b42c265bab6f407a9c47b7ec379" title=" " coords="243,312,405,352"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_render_surface.html#a8504f3ef00cfd935f567a038d4d05e1e" title=" " coords="243,376,405,416"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_border_image.html#a61b5fd6eefc7e88a0c8be83788170999" title="Use whole texture as the image." coords="464,216,615,256"/>
+</map>

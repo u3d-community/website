@@ -1,0 +1,27 @@
+<map id="Urho3D::Renderer2D" name="Urho3D::Renderer2D">
+<area shape="rect" id="node1" title="2D renderer component." coords="1297,658,1440,683"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="953,243,1079,269"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_zone.html" title="Component that describes global rendering properties." coords="1317,165,1420,190"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_light.html" title="Light component." coords="1318,266,1419,291"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="211,473,353,498"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_camera.html" title="Camera component." coords="547,590,665,615"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="207,33,357,58"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_octant.html" title=" " coords="551,147,661,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector.html" title=" " coords="523,261,689,301"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="211,297,353,322"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="533,325,679,365"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="533,197,679,237"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="713,437,879,477"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="939,512,1093,552"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_index_buffer.html" title="Hardware index buffer." coords="535,491,677,517"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="947,581,1085,621"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_material.html" title="Describes how to render 3D geometries." coords="545,541,667,566"/>
+<area shape="rect" id="node17" href="$struct_urho3_d_1_1_frame_info.html" title="Rendering frame update parameters." coords="949,658,1083,683"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="539,751,673,777"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_frustum.html" title="Convex constructed of 6 planes." coords="221,651,343,677"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_plane.html" title=" " coords="5,621,111,646"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="915,954,1117,1009"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="539,890,673,915"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="903,781,1129,851"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="921,875,1111,930"/>
+</map>

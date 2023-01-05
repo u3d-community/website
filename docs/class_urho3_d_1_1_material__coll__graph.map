@@ -1,0 +1,27 @@
+<map id="Urho3D::Material" name="Urho3D::Material">
+<area shape="rect" id="node1" title="Describes how to render 3D geometries." coords="1995,319,2116,345"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html" title=" " coords="1027,243,1155,269"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_x_m_l_file.html" title="XML document resource." coords="1313,189,1433,214"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_j_s_o_n_file.html" title="JSON document resource." coords="1310,243,1437,269"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html" title=" " coords="762,159,873,185"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="243,95,385,121"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="461,95,579,121"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,65,133,90"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1284,27,1463,67"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="435,196,605,236"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_string.html" title="String class." coords="764,110,871,135"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_scene.html" title="Root scene node, represents the whole scene." coords="1037,71,1146,97"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="748,247,887,273"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="763,297,871,322"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector.html" title=" " coords="1575,351,1742,391"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="1303,358,1444,383"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1567,415,1750,470"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="1307,509,1440,534"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1566,494,1751,549"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1536,573,1781,643"/>
+<area shape="rect" id="node15" href="$struct_urho3_d_1_1_hash_node_base.html" title="Hash set/map node base class." coords="1008,459,1175,485"/>
+<area shape="rect" id="node16" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="1011,547,1171,573"/>
+<area shape="rect" id="node19" href="$struct_urho3_d_1_1_bias_parameters.html" title="Depth bias parameters. Used both by lights (for shadow mapping) and materials." coords="1575,667,1742,693"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1589,172,1728,212"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1589,236,1729,276"/>
+</map>

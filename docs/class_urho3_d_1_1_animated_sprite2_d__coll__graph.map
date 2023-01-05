@@ -1,0 +1,27 @@
+<map id="Urho3D::AnimatedSprite2D" name="Urho3D::AnimatedSprite2D">
+<area shape="rect" id="node1" title="Animated sprite component, it uses to play animation created by Spine (http://www...." coords="2108,350,2288,375"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_static_sprite2_d.html" title="Static sprite component." coords="1485,570,1641,595"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable2_d.html" title="Base class for 2D visible components." coords="1041,570,1184,595"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="610,511,737,537"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html" title=" " coords="291,529,434,554"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_spriter_1_1_spriter_instance.html" title="Spriter instance." coords="595,337,752,377"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html" title=" " coords="590,561,757,601"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="584,625,763,665"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1043,441,1182,481"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_animation_set2_d.html" title="Spriter animation set, it includes one or more animations, for more information please refer to http:..." coords="1479,277,1647,302"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_sprite2_d.html" title="Sprite." coords="612,413,735,438"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_resource.html" title=" " coords="299,286,427,311"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_material.html" title="Describes how to render 3D geometries." coords="613,462,734,487"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_string.html" title="String class." coords="5,223,112,249"/>
+<area shape="rect" id="node21" href="$struct_urho3_d_1_1_spriter_1_1_spriter_data.html" title="Spriter data." coords="271,223,455,249"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="303,690,422,715"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_rect.html" title=" " coords="843,795,941,821"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="1059,1011,1166,1037"/>
+<area shape="rect" id="node14" href="$struct_urho3_d_1_1_color_1_1_channel_mask.html" title="Mask describing color channels." coords="577,1011,769,1037"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1043,505,1182,545"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1792,288,1973,328"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="793,193,991,233"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1028,327,1197,367"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1015,134,1211,189"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="1235,377,1455,417"/>
+</map>

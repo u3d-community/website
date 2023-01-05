@@ -1,0 +1,27 @@
+<map id="Urho3D::BillboardSet::UpdateGeometry" name="Urho3D::BillboardSet::UpdateGeometry">
+<area shape="rect" id="node1" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="5,427,148,467"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_billboard_set.html#a89ce2a7854fe70aa88e94e709ff1cd01" title="Calculate billboard scale factors in fixed screen size mode." coords="196,323,375,363"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="1243,513,1459,538"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="1243,185,1460,210"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_camera.html#a550d2bdf61207a877e5ecf7bbb6e247e" title="Return a world rotation for facing a camera on certain axes based on the existing world rotation." coords="976,91,1195,131"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_billboard_set.html#ae915406356ebe4385e1f923c47221cbb" title="Resize billboard vertex and index buffers." coords="214,799,357,839"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_billboard_set.html#a294220448a9bc650e7a3a1e127127f1d" title="Rewrite billboard vertex buffer." coords="213,505,357,545"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_camera.html#a0fd32e1ea1548d47099dfa40e72653dc" title=" " coords="427,206,649,231"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_camera.html#ad705a7447b5db893eb5642f0d05c02ca" title=" " coords="436,305,640,330"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_camera.html#a86a2e6d78d0ac6c20e043ada2f573401" title=" " coords="728,389,901,414"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="423,406,653,431"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_camera.html#acab170a8af63b2c412a908c52f43139c" title=" " coords="433,255,643,281"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_camera.html#aa2ca83a0c0ffdede12922e6ed72b69b6" title="Recalculate projection matrix." coords="701,305,928,330"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_camera.html#a08d24e076d62c0b397817f2c9f92cc41" title=" " coords="988,413,1183,453"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="1016,349,1155,389"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector3.html#abab3fbca669183ad1e840902fbb8a8ab" title="Returns the angle between this vector and another vector in degrees." coords="1272,70,1431,95"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_quaternion.html#a4b0b0a8b518f80caaa81c41f42b93432" title=" " coords="1283,120,1420,160"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_quaternion.html#a18879f2754646ddf9a8608d9eaafff35" title="Define from a direction to look in and an up direction. Return true if successful,..." coords="1282,5,1421,45"/>
+<area shape="rect" id="node15" href="$_math_defs_8h.html#a0d48bd78ed061cfb02780f874d808f25" title=" " coords="1559,139,1663,165"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector3.html#a8cec272610e59b1abfa3f42909c90351" title=" " coords="1529,66,1693,91"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector3.html#a93d1f364765af1c983dd840e76cf5423" title="Calculate cross product." coords="1508,13,1715,38"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_camera.html#a68a03b28634de2c029279eb3105b5a3e" title="Return squared distance to position. In orthographic mode uses only Z coordinate." coords="440,505,636,545"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="464,620,612,660"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_matrix3x4.html#a0cdac780b2a7ea2077287c6b7a6ea631" title="Return the scaling part." coords="469,684,607,724"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="463,455,613,481"/>
+</map>

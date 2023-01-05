@@ -1,0 +1,4 @@
+<map id="Urho3D::StaticModelGeometryData" name="Urho3D::StaticModelGeometryData">
+<area shape="rect" id="node1" title="Static model per&#45;geometry extra data." coords="5,185,235,211"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="61,51,179,77"/>
+</map>

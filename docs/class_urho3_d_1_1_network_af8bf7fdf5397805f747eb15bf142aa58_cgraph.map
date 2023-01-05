@@ -1,0 +1,5 @@
+<map id="Urho3D::Network::SetSimulatedPacketLoss" name="Urho3D::Network::SetSimulatedPacketLoss">
+<area shape="rect" id="node1" title=" " coords="5,51,213,91"/>
+<area shape="rect" id="node2" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="299,29,410,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_network.html#adac5fa1674e39763fbfb4c8301023621" title="Reconfigure network simulator parameters on all existing connections." coords="261,79,448,119"/>
+</map>

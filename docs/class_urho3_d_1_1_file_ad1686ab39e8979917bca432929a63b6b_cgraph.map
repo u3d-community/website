@@ -1,0 +1,5 @@
+<map id="Urho3D::File::Write" name="Urho3D::File::Write">
+<area shape="rect" id="node1" title="Write bytes to the file. Return number of bytes actually written." coords="5,42,136,67"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_abstract_file.html#ada04895491d2abbb4d7d376869be7b4f" title="Return the file name." coords="184,5,327,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_file.html#adef704ac4cdbb2858593659cf462ccbb" title=" " coords="185,70,325,95"/>
+</map>

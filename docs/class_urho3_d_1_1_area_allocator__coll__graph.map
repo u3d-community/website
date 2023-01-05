@@ -1,0 +1,6 @@
+<map id="Urho3D::AreaAllocator" name="Urho3D::AreaAllocator">
+<area shape="rect" id="node1" title="Rectangular area allocator." coords="82,245,237,271"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="5,104,151,144"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="7,5,149,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="175,111,309,137"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Urho3D::ConstraintRevolute2D" name="Urho3D::ConstraintRevolute2D">
+<area shape="rect" id="node1" title="2D revolute constraint component." coords="5,445,204,471"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_constraint2_d.html" title="2D physics constraint component." coords="30,372,179,397"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="33,299,176,324"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="35,225,174,251"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="35,152,175,177"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_object.html" title=" " coords="49,79,160,104"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="33,5,176,31"/>
+</map>

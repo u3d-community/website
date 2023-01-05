@@ -1,0 +1,20 @@
+<map id="Urho3D::ScrollBar::RegisterObject" name="Urho3D::ScrollBar::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,325,137,365"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scroll_bar.html#a202d9c16974f8ddc69545e8034e51e97" title=" " coords="206,5,338,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scroll_bar.html#ac6dc05afcaa892948d50e01584b3669d" title=" " coords="206,69,338,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scroll_bar.html#a0db1f0d00169c0fc6b234303d7ae382b" title=" " coords="206,133,338,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scroll_bar.html#a1845f3790f6779ead6b8bfdba169b3f3" title=" " coords="206,197,338,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scroll_bar.html#acdbd94490eca6838f00e19a127efe2bd" title=" " coords="206,261,338,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="185,325,359,365"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scroll_bar.html#a08a7da485adf24fc57154fb931477610" title=" " coords="206,389,338,429"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_scroll_bar.html#a5ce3ea065c6659c533cfef8b97799cab" title=" " coords="206,453,338,493"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_scroll_bar.html#a2ff3d813b826d36a6aaaf0c7543ded0a" title=" " coords="418,511,550,551"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_scroll_bar.html#a9f9a1b88eb4b1e8bd276f3cbf4f5ab2e" title=" " coords="418,575,550,615"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_scroll_bar.html#a64a6b8b3da2f14f5ef23a46c88f1c403" title=" " coords="206,619,338,659"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="407,319,561,359"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_u_i_element.html#a5eb156615aef75c2c020de6c879cfd01" title=" " coords="414,383,554,423"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_scroll_bar.html#a43243d9cfc1faba14ebbfc1aab7618e8" title="React to resize." coords="418,447,550,487"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i_element.html#a74426efba577c8b92f7b49c307d7a446" title=" " coords="609,383,749,423"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_u_i_element.html#a8c3df9a7b24aa874345db797a95e130e" title=" " coords="609,447,749,487"/>
+<area shape="rect" id="node14" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="630,535,729,561"/>
+</map>

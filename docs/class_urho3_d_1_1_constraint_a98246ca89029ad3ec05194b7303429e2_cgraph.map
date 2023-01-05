@@ -1,0 +1,4 @@
+<map id="Urho3D::Constraint::DrawDebugGeometry" name="Urho3D::Constraint::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="5,5,159,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="207,13,365,38"/>
+</map>

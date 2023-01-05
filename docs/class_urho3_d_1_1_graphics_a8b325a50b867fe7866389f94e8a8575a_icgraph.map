@@ -1,0 +1,27 @@
+<map id="Urho3D::Graphics::SetTextureForUpdate" name="Urho3D::Graphics::SetTextureForUpdate">
+<area shape="rect" id="node1" title=" " coords="1843,313,2035,353"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_graphics.html#a3dd369dc58e2db876d8d001ba24762a5" title="Process dirtied state before draw." coords="1591,266,1795,291"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_graphics.html#abd08617bb78ea63930fed43edff8d3db" title="Resolve multisampled backbuffer to a texture rendertarget. The texture&#39;s size should match the viewpo..." coords="823,397,999,437"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_graphics.html#a33758d927c34d25bc22005430f7648cd" title=" " coords="1345,144,1522,184"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_graphics.html#a72c254ccb779fe20b39574042ba49786" title="Clear any or all of rendertarget, depth buffer and stencil buffer." coords="1093,209,1254,234"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_graphics.html#a53af62ede0ca685ae4ad4e65898379a0" title="Draw non&#45;indexed geometry." coords="559,431,719,457"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_graphics.html#a3b3826f68144fb6a1f222811207986b1" title="Draw indexed, instanced geometry. An instancing vertex buffer must be set." coords="1324,43,1543,69"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_graphics.html#ad417d2adc6d3fb173ec3e3d8fefd8b48" title="Set viewport." coords="1333,266,1534,291"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_render_surface.html#a13b0dbb3887f7c0f62143d4c9f71b7e3" title="Mark the GPU resource destroyed on graphics context destruction. Only used on OpenGL." coords="1093,144,1254,184"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_render_surface.html#aecc06693e0e34733062927ac0468b263" title="Release surface." coords="1093,80,1254,120"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_render_surface.html#a746b94ecfe7be66990598000d5ce0918" title="Create renderbuffer that cannot be sampled as a texture. Only used on OpenGL." coords="830,43,991,83"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_render_surface.html#adce2bc240161cab87735c02d85a48046" title="Destruct." coords="830,107,991,147"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_graphics.html#afdcde1ab06c42a77cc58fb29e4594f0c" title=" " coords="799,171,1023,197"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_graphics.html#a573706d930b58c9d903611affebae991" title=" " coords="527,43,751,69"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_graphics.html#a2adea5d8adacf78e0a5e9093b0aa3f1d" title=" " coords="540,93,737,133"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_graphics.html#a116de4d90d4b556f408b58878bfd5654" title="Toggle between full screen and windowed mode. Return true if successful." coords="554,157,723,197"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_geometry.html#a4a7263e950743d3a59f18469766bfe19" title="Draw." coords="296,431,463,457"/>
+<area shape="rect" id="node17" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="48,320,189,360"/>
+<area shape="rect" id="node15" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="47,385,190,410"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_view.html#a9f5a7068310ea03c58673eb5add7db21" title="Draw a fullscreen quad. Shaders and renderstates must have been set beforehand. Quad will be drawn to..." coords="5,434,232,459"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_graphics.html#ae1d5bec42a30f9b3d6ad41db33084388" title="Reset all rendertargets, depth&#45;stencil surface and viewport." coords="1071,259,1276,299"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_graphics.html#a87d6974090e42a8c0d8ec676ca4da504" title="Begin frame rendering. Return true if device available and can render." coords="280,279,479,305"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_graphics.html#ab7a2098ed479f28acbd7b3549c5dc205" title="Set texture." coords="543,326,735,351"/>
+<area shape="rect" id="node24" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="301,329,457,354"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_graphics.html#a4c192379ba1d77698b440e542e49200e" title="Set rendertarget." coords="284,215,475,255"/>
+</map>

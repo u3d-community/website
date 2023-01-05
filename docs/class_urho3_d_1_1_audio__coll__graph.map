@@ -1,0 +1,27 @@
+<map id="Urho3D::Audio" name="Urho3D::Audio">
+<area shape="rect" id="node1" title="Audio subsystem." coords="1434,286,1542,311"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="678,215,789,241"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_event_handler.html" title="Internal helper class for invoking event handler functions." coords="989,241,1140,266"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="291,215,434,241"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="1429,859,1547,885"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="21,139,149,165"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="476,132,639,172"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="273,25,452,65"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="943,1201,1186,1255"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="667,986,800,1011"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="965,1279,1164,1334"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="957,791,1173,846"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="953,871,1176,940"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="917,964,1212,1033"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="972,1122,1157,1177"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="961,1057,1169,1097"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="972,469,1157,523"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_hash_set.html" title=" " coords="975,548,1154,588"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="992,676,1137,716"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="663,619,804,645"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="989,612,1141,652"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="977,291,1152,331"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="1403,88,1573,128"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_mutex.html" title="Operating system mutual exclusion primitive." coords="1009,355,1120,381"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_sound_listener.html" title="Sound listener component." coords="5,33,164,58"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::Button::Update" name="Urho3D::Button::Update">
+<area shape="rect" id="node1" title="Perform UI element update." coords="208,5,367,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_menu.html#a9ab183bf69653455994fbe52c36153bb" title="Perform UI element update." coords="5,5,160,31"/>
+</map>

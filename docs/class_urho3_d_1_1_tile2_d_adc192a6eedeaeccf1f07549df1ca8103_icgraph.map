@@ -1,0 +1,8 @@
+<map id="Urho3D::Tile2D::GetSwapXY" name="Urho3D::Tile2D::GetSwapXY">
+<area shape="rect" id="node1" title=" " coords="1009,13,1193,38"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_tile_map_layer2_d.html#af4b22db6b9d22a9d00c7e5786b6e81e4" title="Set tile layer." coords="793,5,961,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_tile_map_layer2_d.html#a54b4cdcb017c10ea0d4a0e92a708f5b0" title="Initialize with tile map and tmx layer." coords="577,5,745,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_tile_map2_d.html#a6214ad04240021eaed58d71e25081bed" title=" " coords="387,5,529,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_tile_map2_d.html#a865be4dc3189f887cad580a108d42768" title="Set tile map file attribute." coords="196,5,339,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_tile_map2_d.html#a0d9c48fb509acdd122e14c12bedf1ff5" title=" " coords="5,5,148,45"/>
+</map>

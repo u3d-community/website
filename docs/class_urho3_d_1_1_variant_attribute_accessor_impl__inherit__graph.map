@@ -1,0 +1,5 @@
+<map id="Urho3D::VariantAttributeAccessorImpl&lt; TClassType, TGetFunction, TSetFunction &gt;" name="Urho3D::VariantAttributeAccessorImpl&lt; TClassType, TGetFunction, TSetFunction &gt;">
+<area shape="rect" id="node1" title="Template implementation of the variant attribute accessor." coords="5,152,201,207"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_attribute_accessor.html" title="Abstract base class for invoking attribute accessors." coords="13,79,193,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="32,5,175,31"/>
+</map>

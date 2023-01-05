@@ -1,0 +1,6 @@
+<map id="Urho3D::Light::GetAspectRatio" name="Urho3D::Light::GetAspectRatio">
+<area shape="rect" id="node1" title=" " coords="476,27,644,67"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_light.html#addf06c14a914ff91a084194c409a7917" title=" " coords="236,5,428,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a4d3766cb580e7a61b7ce50bc4e9aa926" title="Set up initial shadow camera view(s)." coords="238,55,426,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="5,63,188,88"/>
+</map>

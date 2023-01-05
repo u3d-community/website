@@ -1,0 +1,11 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:u3d-community/u3d-community.git",
+  "author": "Klaus Silveira <contact@klaussilveira.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "push-dir": "^0.4.1"
+  }
+}

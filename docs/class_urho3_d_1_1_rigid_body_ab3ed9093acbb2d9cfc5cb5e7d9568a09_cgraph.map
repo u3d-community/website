@@ -1,0 +1,20 @@
+<map id="Urho3D::RigidBody::OnMarkedDirty" name="Urho3D::RigidBody::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="5,248,144,288"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a3cd5eac8dc19288118ed5578257a17cb" title="Add a component to the delayed dirty notify queue. Is thread&#45;safe." coords="197,19,405,59"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_quaternion.html#a32a7ceb9f16b3e77aa2fa5a34b9c4519" title="Test for equality with another quaternion with epsilon." coords="471,5,608,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector3.html#a33cac219f3eab4ffe4d3d5effdde33e0" title="Test for equality with another vector with epsilon." coords="457,70,621,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="694,308,842,348"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="193,363,409,389"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="192,413,409,438"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="209,463,392,503"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_rigid_body.html#aed70a2b7db10634aa8f98cbac628fd30" title=" " coords="231,248,370,288"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_rigid_body.html#a59d127c11fae5261bd7eca9873c2db95" title=" " coords="231,184,370,224"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#ad6a5d6144733a3594df64e9f8cbb3610" title=" " coords="712,42,824,67"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="931,315,1099,341"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_rigid_body.html#a0549375a0e491e9ce9871aa9fbad6a23" title="Activate rigid body if it was resting." coords="470,184,609,224"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="465,248,613,288"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="694,156,842,196"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="669,244,867,284"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="915,163,1115,189"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_rigid_body.html#a3ade5533fdee7f3a31c67928d843ce1c" title=" " coords="470,120,609,160"/>
+</map>

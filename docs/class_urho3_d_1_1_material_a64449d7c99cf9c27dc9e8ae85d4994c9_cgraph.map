@@ -1,0 +1,5 @@
+<map id="Urho3D::Material::SetVertexShaderDefines" name="Urho3D::Material::SetVertexShaderDefines">
+<area shape="rect" id="node1" title=" " coords="5,29,189,69"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_material.html#a65d3ea1b8bc385776ddac8e86b136661" title="Reapply shader defines to technique index. By default reapply all." coords="237,29,439,69"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="487,37,637,62"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Urho3D::SoundSource::SetFrequency" name="Urho3D::SoundSource::SetFrequency">
+<area shape="rect" id="node1" title=" " coords="605,69,757,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_sound_source.html#a9c43c6bb72c0cc5f5f75e6d3c443fc5b" title="Play a sound." coords="405,69,557,109"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_sound_source.html#a47017bb872474bed5073a5b1b411fe13" title="Play a sound with specified frequency." coords="205,5,357,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_sound_source.html#ae5226226b14c06cc1e186a48d0eed0eb" title="Set sound playing attribute." coords="205,69,357,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_sound_source.html#a1118ae914cf066d769551dac6df4c0d6" title="Set sound attribute." coords="205,133,357,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_sound_source.html#aae9a850fca6b040a1162784c48305014" title=" " coords="5,101,157,141"/>
+</map>

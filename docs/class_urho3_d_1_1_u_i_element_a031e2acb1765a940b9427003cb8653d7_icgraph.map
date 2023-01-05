@@ -1,0 +1,27 @@
+<map id="Urho3D::UIElement::GetScreenPosition" name="Urho3D::UIElement::GetScreenPosition">
+<area shape="rect" id="node1" title=" " coords="721,590,861,630"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_batch.html#aadd10d72e59d9f8e1001b1b87d0ca40f" title="Add a quad." coords="479,191,661,216"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i_element.html#acdc7fcffd94cbfa796b2ffc71cdc83d2" title="Adjust scissor for rendering." coords="500,241,640,281"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_u_i_element.html#a0ce25dda5f6557938bd76b776efa8bf0" title="Convert element coordinates to screen coordinates." coords="500,305,640,345"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_list_view.html#ae2921128849b9ff41009cd07ea825cfd" title="Return index of item, or M_MAX_UNSIGNED If not found." coords="480,369,660,395"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_drop_down_list.html#a1ccb0767341512c2911fc5839e8b0265" title="Return UI rendering batches." coords="492,419,648,459"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_u_i_element.html#a2f0b9eac4fa09f5b65b5e9963e5d140a" title=" " coords="485,483,655,523"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_u_i.html#a64c370ff3f5dcbee044573fae5db7a43" title="Return UI element at screen position recursively." coords="483,548,657,573"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_sprite.html#af2e7d710eaa1236116799c499a95d86c" title="Update and return rendering transform, also used to transform child sprites." coords="473,597,667,623"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_input.html#a81b43d331225b80eb2f2e647b142ab5c" title="Handle touch events from the controls of screen joystick(s)." coords="475,647,665,687"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_u_i_element.html#a486c5023163ab7c684f65bd5978e0d79" title="Return whether is visible and inside a scissor rectangle and should be rendered." coords="500,711,640,751"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_drop_down_list.html#adb8bb7987d43e4bd48ce46d6084ecb9e" title="React to the popup being shown." coords="492,775,648,815"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i_element.html#afed5198a8da4bab8e33e0837a10930b4" title="Convert screen coordinates to element coordinates." coords="500,839,640,879"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_input.html#a42f016907a65f849a98e0ad9c24d97ee" title="Set whether the operating system mouse cursor is visible. When not visible (default),..." coords="467,904,673,929"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_menu.html#a7394cb40584fcfc33a8f0c623398b9d2" title=" " coords="479,977,661,1003"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_tool_tip.html#a1652f796b22acf7087e05e4929541104" title="Perform UI element update." coords="487,1027,653,1052"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_batch.html#a0c8fcf983576330117d1f3574a831821" title="Add a quad with tiled texture." coords="231,5,412,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_text.html#a18a702a227da75230588bee036a754f5" title="Construct batch." coords="224,55,419,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_text.html#ad553fd06643ea9dbbf0c18cbee39d9f0" title="Return UI rendering batches." coords="5,105,176,131"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_sprite.html#a76d599f607f45d7abbf5389983dec9b5" title="Return UI rendering batches." coords="231,508,411,533"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i_selectable.html#aaa115c0723cfc723c1f714f61e732d74" title="Return UI rendering batches." coords="248,155,395,195"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_window.html#a455bbccbf47246497a114dde4d518098" title="Return UI rendering batches." coords="224,220,419,245"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_border_image.html#ab2b83d25430d5985c6945455808348b7" title="Return UI rendering batches with offset to image rectangle." coords="246,270,397,310"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_u_i_element.html#a25f627ac3b7e4f6319174670b7bb3c59" title="Return UI rendering batches for debug draw." coords="243,334,399,374"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_u_i.html#aa007010436204316b3fe4859db32458e" title="Update the UI for rendering. Called by HandleRenderUpdate()." coords="233,399,409,424"/>
+</map>

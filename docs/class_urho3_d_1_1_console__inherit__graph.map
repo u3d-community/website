@@ -1,0 +1,5 @@
+<map id="Urho3D::Console" name="Urho3D::Console">
+<area shape="rect" id="node1" title="Console window with log history and command line prompt." coords="15,152,138,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="21,79,132,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,5,148,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Urho3D::IKSolver::SetAlgorithm" name="Urho3D::IKSolver::SetAlgorithm">
+<area shape="rect" id="node1" title="Selects the solver algorithm. Default is FABRIK. Note that this may not be the most efficient algorit..." coords="231,35,436,60"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_i_k_solver.html#acec072f80435bb30c78fa98e3f13edcc" title="Construct an IK root component." coords="5,5,183,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_i_k_solver.html#ad5339a36d93aab3d3302ed48ede3157e" title=" " coords="6,55,182,95"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Urho3D::Spline" name="Urho3D::Spline">
+<area shape="rect" id="node1" title="Spline class to get a point on it based off the interpolation mode." coords="38,168,146,193"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector.html" title=" " coords="5,80,179,105"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="21,5,163,31"/>
+</map>

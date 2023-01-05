@@ -1,0 +1,4 @@
+<map id="Urho3D::CharLocation" name="Urho3D::CharLocation">
+<area shape="rect" id="node1" title="Cached character location and size within text. Used for queries related to text editing." coords="5,171,157,196"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="22,37,141,62"/>
+</map>

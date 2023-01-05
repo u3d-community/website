@@ -1,0 +1,16 @@
+<map id="Urho3D::Menu::OnShowPopup" name="Urho3D::Menu::OnShowPopup">
+<area shape="rect" id="node1" title="React to the popup being shown." coords="991,170,1189,195"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_menu.html#a7394cb40584fcfc33a8f0c623398b9d2" title=" " coords="760,170,943,195"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_menu.html#ac84afc3c00c52de476c1e5e5c68470bc" title="Handle global focus change to check for hiding the popup." coords="515,5,706,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_drop_down_list.html#a03d4dd14c1af0da97deedcefdde09e4d" title="Handle listview item click event." coords="533,133,689,173"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_menu.html#a6b03c5dea3ca0e916969d3b29ac6edf8" title="Handle press and release for selection and toggling popup visibility." coords="509,69,712,109"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_menu.html#abdd3fd6b007fc4eefea8436df61584b3" title="React to mouse hover." coords="529,198,693,223"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_menu.html#a66a5d14b39c3787407fde907608fb17b" title=" " coords="527,247,695,273"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_menu.html#ab291d7ed99223e00c78cd2ed24048f4d" title="Destruct." coords="533,297,688,322"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_menu.html#a6eccfca31d308c80483949f8791c68a4" title="Construct." coords="284,19,429,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_drop_down_list.html#aea48d30276bbf2cac5a224fc2ac78515" title="Construct." coords="27,180,183,220"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_drop_down_list.html#a08725a9905a00fbcef08966a480aa135" title="Handle a key press from the listview." coords="279,180,435,220"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_menu.html#a913c00b170c69e2d54b002adb93daddb" title="Handle keypress for checking accelerator." coords="252,77,461,102"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_menu.html#a0e465956991d7d3e3c70d7b4be4f9261" title="Set accelerator key (set zero key code to disable)." coords="5,77,204,102"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_menu.html#a00efa90d9d6a5023541fffd71a38a984" title="Load from XML data with style. Return true if successful." coords="272,295,441,321"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::TileMapLayer2D::GetHeight" name="Urho3D::TileMapLayer2D::GetHeight">
+<area shape="rect" id="node1" title=" " coords="5,5,173,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_tmx_layer2_d.html#a534ed1c5dd185bc8140c4972a315d968" title="Return height." coords="221,5,368,45"/>
+</map>

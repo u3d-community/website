@@ -1,0 +1,6 @@
+<map id="Urho3D::Renderer::SetShadowMapSize" name="Urho3D::Renderer::SetShadowMapSize">
+<area shape="rect" id="node1" title=" " coords="5,95,204,135"/>
+<area shape="rect" id="node2" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="326,29,425,55"/>
+<area shape="rect" id="node3" href="$_math_defs_8h.html#a40d33200d2bcbe345b556045ca344b29" title="Round up to next power of two." coords="286,103,465,128"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_renderer.html#a03b35442eee1c6071cf8e06c0514bb9e" title="Remove all shadow maps. Called when global shadow map resolution or format is changed." coords="252,152,499,177"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Urho3D::Spline::BezierInterpolation" name="Urho3D::Spline::BezierInterpolation">
+<area shape="rect" id="node1" title="Perform Bezier interpolation on the spline." coords="5,419,231,445"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_spline.html#a0aeec951f053c2c0f6add719b690e0f2" title="Perform linear interpolation on the spline." coords="279,419,503,445"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="564,470,707,495"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="317,346,464,371"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="562,347,709,373"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="580,421,691,446"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="1212,235,1367,261"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#a17e4a13942a9512bc0eceb3e46d950dd" title="Insert elements into the vector using copy or move constructor." coords="551,212,720,252"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="1001,121,1151,146"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector.html#a05f68c0546419caf7d6050a3e7d8d1d5" title="Calculate new vector capacity." coords="768,320,940,360"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector.html#a5c0b7ecbd0ae0c75a9a69bf9dedc517a" title="Construct elements using default ctor." coords="988,336,1164,376"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="771,219,937,245"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector_base.html#aec648d72344954c3be22218eb180f6a4" title="Swap with another vector." coords="783,5,925,45"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector.html#afb87585db12d120ab5148ec782d14632" title="Call the elements&#39; destructors." coords="992,171,1160,211"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="1005,286,1147,311"/>
+</map>

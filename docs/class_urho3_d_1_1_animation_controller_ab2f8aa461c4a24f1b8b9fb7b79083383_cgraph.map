@@ -1,0 +1,27 @@
+<map id="Urho3D::AnimationController::RegisterObject" name="Urho3D::AnimationController::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,595,196,635"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animation_controller.html#a60629371354088d670b30d3806c02a85" title="Return animation control structures attribute." coords="249,41,439,81"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animation_controller.html#ad3f2d013771c410bc6f5d5c9b383e7dd" title="Return animations attribute for network replication." coords="249,467,439,507"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_animation_controller.html#a49f3ed3e46d53d9007dcfceb767ceb1d" title="Return node animation states attribute." coords="244,105,444,145"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="270,531,418,571"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="257,595,431,635"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_animation_controller.html#a0d36ecbe01b8b2b05c44b1baaae50cde" title="Set animation control structures attribute." coords="249,659,439,699"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="270,723,418,763"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_animation_controller.html#aad167fe194c7966566523bca3d871331" title="Set animations attribute for network replication." coords="249,787,439,827"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_animation_controller.html#a81023d409dc7bd2cc4df6904e118f4d2" title="Set node animation states attribute." coords="245,851,443,891"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="514,55,661,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="505,5,670,31"/>
+<area shape="rect" id="node6" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="532,257,643,283"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector_buffer.html#a870baf1a9abdbde6ed2973ef5aad0c28" title="Reset to zero size." coords="513,307,661,347"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_animation_controller.html#ab7c526940715e7410981aabbb483f890" title="Find an animation state by animation name." coords="492,907,683,947"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_animation_state.html#ab266ab3f7cf13998b6540c66b62b7127" title=" " coords="506,371,669,411"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector_buffer.html#a2f9263d81223cc1315806fd5325069dc" title="Return the buffer." coords="513,435,661,475"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_animation_state.html#a128515b46dbd571162439872bb265403" title=" " coords="506,499,669,539"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_animation_state.html#acbbd9a98c34c1fdbd8d1acbdb9931eea" title=" " coords="506,563,669,603"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_animation_state.html#a17237854b026d01be8df8b0f2d2a3c7f" title=" " coords="506,105,669,145"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_serializer.html#a3af3c5b41495c07411886122aa7fa71f" title="Write a 16&#45;bit integer." coords="523,627,651,667"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_serializer.html#a51c8222e9c2f0ce9deac7298ab0189c6" title="Write a null&#45;terminated string." coords="523,691,651,731"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_serializer.html#acfae08593bb40a16a3a78a2bc6426a88" title="Write a 32&#45;bit StringHash." coords="523,755,651,795"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_serializer.html#a4f90c5159c785e81d4ba74ebcfb961a5" title="Write an 8&#45;bit unsigned integer." coords="523,819,651,859"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_serializer.html#a7952d1242f92862ee07add3c2769f3e5" title="Write a 16&#45;bit unsigned integer." coords="523,169,651,209"/>
+</map>

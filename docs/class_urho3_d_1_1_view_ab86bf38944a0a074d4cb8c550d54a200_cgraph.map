@@ -1,0 +1,9 @@
+<map id="Urho3D::View::PrepareInstancingBuffer" name="Urho3D::View::PrepareInstancingBuffer">
+<area shape="rect" id="node1" title="Prepare instancing buffer by filling it with all instance transforms." coords="5,63,216,103"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vertex_buffer.html#a3a79aa5356d9e9044f01ae6cfd9193cf" title=" " coords="264,5,411,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vertex_buffer.html#a7ac86bc78fa3356eb5eb3045884319e3" title="Lock the buffer for write&#45;only editing. Return data pointer if successful. Optionally discard data ou..." coords="459,63,605,103"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vertex_buffer.html#a10d352ff496e04a7d1395559d72a0b17" title="Unlock the buffer and apply changes to the GPU buffer." coords="264,120,411,160"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="848,153,1037,178"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vertex_buffer.html#a20dd4ccb7666c5acc1abcf5034fcea00" title="Set a data range in the buffer. Optionally discard data outside the range." coords="459,177,605,217"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vertex_buffer.html#accec66f6c7f4ccd71afd4c59ada200f0" title="Set all data in the buffer." coords="653,228,800,268"/>
+</map>

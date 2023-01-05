@@ -1,0 +1,14 @@
+<map id="Urho3D::ListView::SetSelection" name="Urho3D::ListView::SetSelection">
+<area shape="rect" id="node1" title=" " coords="1367,99,1568,125"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_list_view.html#a4b292959b6c96229a342ec73999cf264" title="Add item to the selection, multiselect mode only." coords="1112,15,1319,41"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_list_view.html#a02c1afe654ab744d0883248a8d0ed0e8" title="Handle global UI mouseclick to check for selection change." coords="679,35,849,75"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_list_view.html#aaf9f6831a1e93ad5bc4ae93559b9a23e" title="Move selection by a delta and clamp at list ends. If additive (multiselect only), will add to the exi..." coords="1129,120,1301,160"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_file_selector.html#a5315d211e3108ad4012c648d1cbd3b6a" title="Handle file list key pressed." coords="1144,184,1287,224"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_list_view.html#ac943102f0ed053e17432cb33f1a3b223" title="Toggle selection of an item." coords="897,5,1064,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_list_view.html#a5ef1accc2d51944f79e12918ff828970" title="Update subscription to UI click events." coords="460,35,631,75"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_list_view.html#a180fbbadcc42a12d0b78dd839ee0b839" title="Construct." coords="232,13,409,38"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_list_view.html#ab145d4f9af77af7b57c109a218df3fe8" title=" " coords="229,63,412,103"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_list_view.html#afd22f7194211cc7487b59a454ce143a9" title=" " coords="5,63,181,103"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_list_view.html#a8a67087dd8eb4dc4f977f27769593e13" title="React to a key press." coords="898,127,1063,153"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_file_selector.html#ae0e66de218b839be46c7f802abf04c80" title="Construct." coords="909,184,1052,224"/>
+</map>

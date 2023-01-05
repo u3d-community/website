@@ -1,0 +1,6 @@
+<map id="Urho3D::CustomGeometry::GetNumOccluderTriangles" name="Urho3D::CustomGeometry::GetNumOccluderTriangles">
+<area shape="rect" id="node1" title="Return number of occlusion geometry triangles." coords="5,63,188,103"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_custom_geometry.html#adeb6410bb73e0111ea38c65b082258b0" title="Return the geometry for a specific LOD level." coords="249,5,428,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_material.html#a237123b0f0a5462ddfeff07647e94e9b" title=" " coords="236,70,441,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_geometry.html#a83dab7be1e1ca752552d9fc4ad56b2d7" title=" " coords="241,120,436,160"/>
+</map>

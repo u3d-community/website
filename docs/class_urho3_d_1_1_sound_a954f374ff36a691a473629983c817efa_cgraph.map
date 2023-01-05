@@ -1,0 +1,7 @@
+<map id="Urho3D::Sound::SetLooped" name="Urho3D::Sound::SetLooped">
+<area shape="rect" id="node1" title=" " coords="5,55,187,80"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_sound.html#acdae94d69fe559d7c7492080111bd276" title="Fix interpolation by copying data from loop start to loop end (looped), or adding silence (oneshot)...." coords="449,5,657,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="459,104,648,129"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_sound.html#a65b0ab0540cda0532b0a58643462dd71" title="Define loop." coords="235,55,401,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_sound.html#a9add9a9e5ef63135973e16d5cbfdff70" title=" " coords="450,55,657,80"/>
+</map>

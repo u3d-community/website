@@ -1,0 +1,27 @@
+<map id="Urho3D::RoundToInt" name="Urho3D::RoundToInt">
+<area shape="rect" id="node1" title=" " coords="519,511,660,536"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#ae34ebc6c877f3e56ae7c9c086f3b83dc" title="Allocate needed screen buffers." coords="268,6,463,46"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i.html#a38fcbcb1cdf8ba23084fe52d4601d6b8" title="Return effective size of the root element, according to UI scale and resolution / custom size." coords="284,87,447,127"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_renderer.html#a1019022bc7420a27a99aeac2434980ba" title="Allocate an occlusion buffer." coords="260,151,471,191"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_font.html#a703a0b17b58f3bdb85d343d2b26d4ac6" title="Return the total effective offset for a point size." coords="272,215,459,255"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_occlusion_buffer.html#a122d59b68ebbf2afd3c8845460c99628" title="Test a bounding box for visibility. For best performance, build depth hierarchy first." coords="282,279,449,319"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_sound_source.html#ae8fccdd9e725ac27fd83f8cfa12111c5" title="Mix mono sample to mono buffer." coords="289,343,441,383"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_sound_source.html#ac28c9ec4f3f1d2f76b5e805d5afcf747" title="Mix mono sample to mono buffer interpolated." coords="289,407,441,447"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_sound_source.html#aa877003c92aa63bae31777cb3a369d54" title="Mix stereo sample to mono buffer." coords="289,471,441,511"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_sound_source.html#adee5725a3f7e9f303dc4111152862ce2" title="Mix stereo sample to mono buffer interpolated." coords="289,535,441,575"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_sound_source.html#a911f3bf90f51338efab29afbf2c680bf" title="Mix stereo sample to stereo buffer." coords="289,599,441,639"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_sound_source.html#a7bb75a9d73b976f11d9889418af17715" title="Mix stereo sample to stereo buffer interpolated." coords="289,663,442,703"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_text.html#a879bb031eccf4b070d2e0f2cfa31dc38" title="Update cached character locations after text update, or when text alignment or indent has changed." coords="278,727,453,767"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_progress_bar.html#a017a2c95f9be162edae863fd34089957" title="Update ProgressBar knob position &amp; size." coords="293,791,438,831"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_slider.html#a33d3113310465e389245171b3ba6f578" title="Update slider knob position &amp; size." coords="271,856,460,881"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_text.html#a27a4bc43cff802472202b3d1e532ceba" title="Update text when text, font or spacing changed." coords="280,905,451,931"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_terrain.html#a3599516869ecc78d8c62e2b7e4790a46" title="Convert world position to heightmap pixel position. Note that the internal height data representation..." coords="280,955,451,995"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="34,5,183,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i.html#a0c77edf9094ab2df2011c36c74514400" title="Resize root element to effective size." coords="5,55,212,80"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i.html#a65d29ca3b07a6002e702deec015c5d5f" title="Scale UI to the specified height in pixels." coords="34,104,183,129"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i.html#ab7bfd17a2b528bd11d3348ab1bdd1fc8" title="Scale UI to the specified width in pixels." coords="36,153,181,179"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_view.html#a3f81217448a1fe4c22119364003eb6aa" title="Draw occluders to occlusion buffer." coords="10,287,207,312"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_sound_source.html#a7ab8653eff77e7561cad6103707ace67" title="Mix sound source output to a 32&#45;bit clipping buffer. Called by Audio." coords="19,511,199,536"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_text.html#ad553fd06643ea9dbbf0c18cbee39d9f0" title="Return UI rendering batches." coords="23,711,194,736"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_text.html#afbd63987ff0111c59383025b411cbd2e" title=" " coords="9,760,209,785"/>
+</map>

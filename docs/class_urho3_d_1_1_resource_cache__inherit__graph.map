@@ -1,0 +1,5 @@
+<map id="Urho3D::ResourceCache" name="Urho3D::ResourceCache">
+<area shape="rect" id="node1" title="Resource cache subsystem. Loads resources on demand and stores them for later access." coords="5,152,171,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="33,79,143,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="17,5,159,31"/>
+</map>

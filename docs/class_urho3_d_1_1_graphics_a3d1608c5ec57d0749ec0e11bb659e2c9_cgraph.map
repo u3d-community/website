@@ -1,0 +1,20 @@
+<map id="Urho3D::Graphics::GetOrCreateConstantBuffer" name="Urho3D::Graphics::GetOrCreateConstantBuffer">
+<area shape="rect" id="node1" title=" " coords="5,104,208,144"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="991,57,1150,82"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_hash_map.html#a9dc4e5c0ad1feb3eec2d2f1f1714698d" title="Return iterator to the pair with key, or end iterator if not found." coords="750,86,911,112"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html#ad7e80c0c98d795960287fdce2215e312" title="Insert a pair. Return an iterator to it." coords="262,137,433,162"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_base.html#a7790b0fb5131f0e0a098e322c9198f39" title="Set new size." coords="256,186,439,212"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1247,21,1403,46"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_map.html#a85f871cbe77f2d780e1a169f19936ad8" title="Find a node from the buckets. Do not call if the buckets have not been allocated." coords="973,137,1168,162"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html#a6baa78766271c323b914fd2e6ca70c66" title="Compute a hash based on the key and the bucket size." coords="987,338,1154,364"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_hash_map_1_1_node.html#a5b917a49ae9df7b89215e8808db681da" title="Return next node in the bucket." coords="1240,130,1409,170"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_base.html#ab2e9d0c50ac79b0a7eccd15b096745e9" title="Return bucket head pointers." coords="1243,217,1407,242"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_base.html#af0f242c3642f60dc7cf69f3b7d24fa11" title="Return number of buckets." coords="1217,388,1432,413"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html#a3501298fa6a20a6825ace2feffb2d8a4" title="Insert a key and value and return either the new or existing node." coords="487,238,689,264"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_base.html#aa42035b544f9dfee6c1353df83cc2d45" title="Allocate bucket head pointers + room for size and bucket count variables." coords="737,339,924,379"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html#a9b027f4d1b9c11c0454f1c60646af8bc" title="Rehash the buckets." coords="741,238,920,264"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_base.html#a42b5c2ba692fe96bff763b501b8922a9" title="Return number of elements." coords="749,404,913,429"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_base.html#a2774d115a617b0d6c315132352d43c01" title="Reset bucket head pointers." coords="972,388,1169,413"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="987,289,1155,314"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_map.html#a992327678684d4e38150f32fc676faaf" title="Return the head node." coords="1241,289,1409,314"/>
+</map>

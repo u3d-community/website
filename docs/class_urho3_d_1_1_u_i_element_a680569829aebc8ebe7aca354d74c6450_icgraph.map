@@ -1,0 +1,18 @@
+<map id="Urho3D::UIElement::HasColorGradient" name="Urho3D::UIElement::HasColorGradient">
+<area shape="rect" id="node1" title=" " coords="1427,185,1567,225"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_batch.html#a0c8fcf983576330117d1f3574a831821" title="Add a quad with tiled texture." coords="1195,163,1376,188"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_batch.html#a2f2038027b731686692757da512dfc0f" title="Restore UI element&#39;s default color." coords="1192,213,1379,253"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_text.html#a18a702a227da75230588bee036a754f5" title="Construct batch." coords="949,195,1144,220"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_u_i_batch.html#a96b2148cc7ea02f422e3da8501c22a1c" title="Construct with defaults." coords="961,244,1132,269"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_text.html#ad553fd06643ea9dbbf0c18cbee39d9f0" title="Return UI rendering batches." coords="731,195,901,220"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_text3_d.html#a1f643feab9477ca50a084501df1a8e3b" title="Update text UI batches." coords="496,187,683,227"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_text3_d.html#afb163e8eb837396d7578c13ea9224072" title="Apply attribute changes that can not be applied immediately." coords="230,5,439,31"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_text3_d.html#a08bfb84e885535f73aeefb4181491e3d" title="Recalculate the world&#45;space bounding box." coords="221,55,448,95"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_text3_d.html#a0e5e82af6713193ee73b60191a2048e0" title=" " coords="249,120,421,145"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_text3_d.html#a6c34a3c420fa1e6c35f4f4662c8248df" title="Set font by looking from resource cache by name and font size. Return true if successful." coords="252,169,417,195"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_text3_d.html#ae57645a33f1cefafd9b57908fba27569" title=" " coords="239,219,430,244"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_text3_d.html#a38405cba1bb3686bea808f0d997116e5" title=" " coords="243,268,426,293"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_text3_d.html#a539320e56a328d3923e6a50ab86c52c5" title=" " coords="253,317,417,343"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_text3_d.html#ae76455bed7ea206ebb893e49c5a14ae7" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="225,367,445,392"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_text3_d.html#a8d7300ae719ca749d031f65acdc0a23b" title=" " coords="5,187,173,227"/>
+</map>

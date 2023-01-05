@@ -1,0 +1,15 @@
+<map id="Urho3D::ShaderVariation::Release" name="Urho3D::ShaderVariation::Release">
+<area shape="rect" id="node1" title="Release the shader." coords="1817,91,1984,131"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_shader_variation.html#a796302110897b35c3faf6c18208e289c" title="Compile the shader. Return true if successful." coords="1603,59,1769,99"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_shader_variation.html#aa6386d61ac3d3fc5f71e599a8ec44ba9" title="Destruct." coords="1603,123,1769,163"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_graphics.html#a1f9ba79f344a68937947b6416685fe3a" title="Set shaders." coords="1356,66,1555,91"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_shader_precache.html#ae2b5464e3db1248b1e652dd79d5a05b9" title="Load shaders from an XML file." coords="1139,29,1308,69"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="1145,94,1301,119"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_graphics.html#ab7a91acbf613629e3b95f600b10e6c2a" title="Precache shader variations from an XML file generated with BeginDumpShaders()." coords="907,29,1091,69"/>
+<area shape="rect" id="node7" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="927,94,1070,119"/>
+<area shape="rect" id="node12" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="928,144,1069,184"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="716,116,859,156"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,116,397,156"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="445,161,668,186"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,123,155,149"/>
+</map>

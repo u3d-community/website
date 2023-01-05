@@ -1,0 +1,4 @@
+<map id="Urho3D::UnknownComponent::GetType" name="Urho3D::UnknownComponent::GetType">
+<area shape="rect" id="node1" title="Return type of the stored component." coords="251,5,448,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_unknown_component.html#abd17b2a631681ab65c709dfef77e6800" title="Save as binary data. Return true if successful." coords="5,5,203,45"/>
+</map>

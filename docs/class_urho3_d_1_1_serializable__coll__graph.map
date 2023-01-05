@@ -1,0 +1,27 @@
+<map id="Urho3D::Serializable" name="Urho3D::Serializable">
+<area shape="rect" id="node1" title="Base class for objects with automatic serialization through attributes." coords="1829,359,1969,385"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="450,1058,561,1083"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_event_handler.html" title="Internal helper class for invoking event handler functions." coords="752,1109,903,1134"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="243,1002,385,1027"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="1191,655,1310,681"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,1002,133,1027"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="706,865,949,919"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="439,578,572,603"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="728,441,927,495"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="719,519,935,574"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="716,599,939,668"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="680,692,975,761"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="735,786,920,841"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="723,376,931,416"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_hash_map.html" title="Hash map template class." coords="741,326,913,351"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="755,197,900,237"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="435,141,576,166"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="751,261,903,301"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html" title=" " coords="744,5,911,45"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_vector.html" title=" " coords="744,69,911,109"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="733,133,922,173"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="1165,1131,1336,1171"/>
+<area shape="rect" id="node20" href="$struct_urho3_d_1_1_network_state.html" title="Per&#45;object attribute state for network replication, allocated on demand." coords="1173,141,1328,166"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="1527,213,1693,253"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="1360,352,1503,392"/>
+</map>

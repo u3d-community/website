@@ -1,0 +1,27 @@
+<map id="Urho3D::Camera::GetProjection" name="Urho3D::Camera::GetProjection">
+<area shape="rect" id="node1" title=" " coords="775,513,979,538"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_billboard_set.html#a89ce2a7854fe70aa88e94e709ff1cd01" title="Calculate billboard scale factors in fixed screen size mode." coords="522,69,701,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_text3_d.html#aa77a802e886bfb646350e8d0a0a70958" title="Recalculate camera facing and fixed screen size." coords="524,176,699,216"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_camera.html#a03fccdfb98ae3788628eed114d1b37ed" title=" " coords="496,369,727,394"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_debug_renderer.html#a65ddc45de33de57b41a9889fdce2363c" title="Set the camera viewpoint. Call before rendering, or before adding geometry if you want to use culling..." coords="257,425,419,465"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_renderer.html#a3f4c5f6c7f7490e74f15349dc16a6c69" title="Return a scissor rectangle for a light." coords="521,476,701,516"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_camera.html#a653cf41d95901dc68abdc463b4b3d5fc" title="Return ray corresponding to normalized screen coordinates (0 &#45; 1), with origin on the near clip plane..." coords="508,541,715,566"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_renderer.html#a7d4509e32b17bff5f3069f8fe6fd448d" title="Allocate a shadow map. If shadow map reuse is disabled, a different map is returned each time." coords="498,590,725,615"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_view.html#a7d398cea4906919b033f5fc86f67d764" title="Process shadow casters&#39; visibilities and build their combined view&#45; or projection&#45;space bounding box." coords="510,640,713,680"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_occlusion_buffer.html#a2540b689f2451b6358fd99717151fff6" title="Set camera view to render from." coords="528,704,695,744"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_camera.html#a11f8754c90c4d6aff4bd88d48ae3373d" title="Convert a world space point to normalized screen coordinates (0 &#45; 1)." coords="503,768,719,808"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_billboard_set.html#ae8d8caed716187e339f5e6488d25f156" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="267,5,409,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_billboard_set.html#adc0ee0f5b93f2ecea3db3569355ba0fc" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="267,69,409,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_text3_d.html#aff78b88d77fa5beca14427ab5572c99b" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="233,134,443,159"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_text3_d.html#ae76455bed7ea206ebb893e49c5a14ae7" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="228,183,448,209"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="241,233,435,273"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_renderer.html#a408789b2d93f27c7884360b7ecccec55" title="Optimize a light by marking it to the stencil buffer and setting a stencil test." coords="246,297,430,337"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_view.html#afe8c414e896c0d06ee17ed18e5ce85dd" title="Set camera&#45;specific shader parameters. Called by Batch and internally by View." coords="231,361,445,401"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="18,241,167,266"/>
+<area shape="rect" id="node13" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="15,369,171,394"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_renderer.html#a0fa71f5839321a9d68def7a2978f452a" title="Update a queued viewport for rendering." coords="5,425,180,465"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_renderer.html#a7f8fe99765e7b8700c68577eca16103d" title="Optimize a light by scissor rectangle." coords="246,489,430,529"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_camera.html#a8d093c3479b71a707f3ec8887380396a" title="Convert normalized screen coordinates (0 &#45; 1) and distance along view Z axis (in Z coordinate) to a w..." coords="248,553,428,593"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="247,647,429,673"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_renderer.html#a1019022bc7420a27a99aeac2434980ba" title="Allocate an occlusion buffer." coords="233,704,443,744"/>
+</map>

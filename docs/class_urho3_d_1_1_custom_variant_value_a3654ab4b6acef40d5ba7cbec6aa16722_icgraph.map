@@ -1,0 +1,4 @@
+<map id="Urho3D::CustomVariantValue::Compare" name="Urho3D::CustomVariantValue::Compare">
+<area shape="rect" id="node1" title="Compare to another custom value." coords="237,5,431,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_variant.html#a75ec75631c87e305c8265482c65461b8" title="Test for equality with another variant." coords="5,13,189,38"/>
+</map>

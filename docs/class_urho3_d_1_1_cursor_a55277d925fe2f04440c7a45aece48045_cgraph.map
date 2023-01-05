@@ -1,0 +1,6 @@
+<map id="Urho3D::Cursor::GetBatches" name="Urho3D::Cursor::GetBatches">
+<area shape="rect" id="node1" title="Return UI rendering batches." coords="5,66,192,91"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_border_image.html#aafc7425774297149ed7235f2c48902a7" title="Return UI rendering batches." coords="249,29,400,69"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="240,94,409,119"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a1bc81ebf873ab97c4251c0bad93b568e" title=" " coords="457,29,597,69"/>
+</map>

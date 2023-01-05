@@ -1,0 +1,7 @@
+<map id="Urho3D::Technique::GetNumPasses" name="Urho3D::Technique::GetNumPasses">
+<area shape="rect" id="node1" title=" " coords="379,69,517,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_technique.html#ac62a7bc29ffdb55f118c4cbcae8f607b" title="Create a new pass." coords="192,5,331,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_technique.html#aca01010c78a647ccbfd7dba06915ee6a" title="Remove a pass." coords="192,69,331,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i.html#a5f23155e2af111b3f82736beb7929e44" title="Render UI batches to the current rendertarget. Geometry must have been uploaded first." coords="194,134,329,159"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_technique.html#a4760819cb750bd6c268ae6456df3493a" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,5,144,45"/>
+</map>

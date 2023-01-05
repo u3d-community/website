@@ -1,0 +1,5 @@
+<map id="Urho3D::Drawable2D::UpdateSourceBatches" name="Urho3D::Drawable2D::UpdateSourceBatches">
+<area shape="rect" id="node1" title="Update source batches." coords="443,5,601,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable2_d.html#a71706d718027bcc3e7d96d9f8d75c51f" title="Return all source batches (called by Renderer2D)." coords="252,5,395,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_static_sprite2_d.html#ab575c3117f1e436f04dd85d237def582" title="Recalculate the world&#45;space bounding box." coords="5,5,204,45"/>
+</map>

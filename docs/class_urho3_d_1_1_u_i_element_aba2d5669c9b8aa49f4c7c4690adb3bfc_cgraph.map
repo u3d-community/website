@@ -1,0 +1,27 @@
+<map id="Urho3D::UIElement::SaveXML" name="Urho3D::UIElement::SaveXML">
+<area shape="rect" id="node1" title="Save as XML data. Return true if successful." coords="5,450,145,490"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_x_m_l_element.html#af8968bd1a431788069818955496490d7" title="Create a child element." coords="637,34,785,74"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="636,631,787,656"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#aa687519f54b1c17919361066a20015b7" title="Filter attributes in serialization process." coords="197,754,337,794"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_x_m_l_element.html#ae8956473bc7d5907f82a4b4b2533a051" title="Set an attribute." coords="860,400,1008,440"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="612,356,811,382"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_serializable.html#aa20baf7a00b3c81f16e0c85c69f0b5ce" title=" " coords="197,818,337,858"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_animatable.html#a6deb3ef91d5828dd64e67fbe88bac8bd" title="Save as XML data. Return true if successful." coords="198,177,337,217"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_x_m_l_element.html#a38913cde7c196c658a9a858007d8efe4" title="Set a bool attribute." coords="193,508,341,548"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_x_m_l_element.html#a4b76864ac2e5d9345eda301a19469dcd" title="Set a string attribute." coords="193,393,341,433"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="1057,507,1213,532"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i_element.html#a19d489013e96a7ca8a4c9ce7c1d4ed40" title="Filter implicit attributes in serialization process." coords="401,996,552,1036"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_x_m_l_element.html#a49f0b7c1cec40b16581bc24d86ee5e25" title="Select an element/attribute using XPath query." coords="859,1060,1009,1100"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_x_path_query.html#ae49880eeaa6a9bd48f2f6aaa2058d0e2" title="Add/Set a bool variable. Return true if successful." coords="863,906,1005,946"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i_element.html#a35df32bd96d74db73baf6e9a7e1f8ec3" title="Filter UI&#45;style attributes in serialization process." coords="402,798,551,838"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="637,798,785,838"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_u_i_element.html#a3d28ede8516793a770ac92887bc25428" title="Return default style." coords="407,710,547,750"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_x_m_l_file.html#a657534de06bc465c977cc3c28139cec4" title="Return the root element, with optionally specified name. Return null element if not found." coords="389,660,564,686"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i_element.html#af20fa0798d41c04285757b8ba6c4a7f6" title=" " coords="641,1092,781,1132"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_u_i_element.html#af7389fe1ec87c47bd6c9e6bdb151cda1" title=" " coords="641,1028,781,1068"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_u_i_element.html#ad23ccc306cf25e891e8ab6c156492b79" title="Remove child XML element by matching attribute name." coords="641,964,781,1004"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_value_animation.html#afd9ee2195ab1501547c5699a9f224d30" title="Return owner." coords="394,177,559,217"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_serializable.html#a3fbac3aa471adea86dea09bfa4b3960f" title="Save as XML data. Return true if successful." coords="407,241,547,281"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_value_animation.html#af54548bd2522a3b8eee6d47e56c42b64" title="Save as XML data. Return true if successful." coords="394,62,559,102"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_x_m_l_element.html#ad22d73e151580d42f4486feec1c58a06" title="Set a float attribute." coords="637,149,785,189"/>
+</map>

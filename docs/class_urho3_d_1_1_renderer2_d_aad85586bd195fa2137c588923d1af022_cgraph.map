@@ -1,0 +1,4 @@
+<map id="Urho3D::Renderer2D::OnWorldBoundingBoxUpdate" name="Urho3D::Renderer2D::OnWorldBoundingBoxUpdate">
+<area shape="rect" id="node1" title="Recalculate the world&#45;space bounding box." coords="5,5,204,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_bounding_box.html#afd34713236804d7207ce7fd709e99db9" title="Define from another bounding box." coords="252,5,403,45"/>
+</map>

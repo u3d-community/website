@@ -1,0 +1,7 @@
+<map id="Urho3D::Drawable2D::OnMarkedDirty" name="Urho3D::Drawable2D::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="667,37,809,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_particle_emitter2_d.html#a59d6b326bcbe8273a103208935845cef" title="Update." coords="452,37,619,77"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_particle_emitter2_d.html#abaa5fbe514eb5d5904039f69cd75257d" title="Handle scene post update." coords="220,37,404,77"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_particle_emitter2_d.html#a09b2df5a425839d0feff440a78ce1f5f" title="Handle scene being assigned." coords="5,5,172,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_particle_emitter2_d.html#aaa7a512b4fb84e3343be39bf899fb58d" title="Handle enabled/disabled state change." coords="5,69,172,109"/>
+</map>

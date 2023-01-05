@@ -1,0 +1,11 @@
+<map id="Urho3D::Texture3D::BeginLoad" name="Urho3D::Texture3D::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,149,144,189"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="212,5,363,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_shared_ptr.html#aad239ae69fe4b58518847e32b49aea47" title="Return the raw pointer." coords="208,55,367,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_resource.html#a35f0e2447dcc25e8f3b9e42e10b69737" title="Return the asynchronous loading state." coords="192,105,383,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="213,257,361,297"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="213,193,361,233"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="192,321,383,347"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="431,204,587,229"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_x_m_l_element.html#afd561acf36305fd70cf86f60f666798f" title="Return attribute as C string, or null if missing." coords="435,257,583,297"/>
+</map>

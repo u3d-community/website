@@ -1,0 +1,23 @@
+<map id="Urho3D::Text3D::GetCharSize" name="Urho3D::Text3D::GetCharSize">
+<area shape="rect" id="node1" title=" " coords="5,253,199,279"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_text.html#a204675e22c484882482d0e1d49409ece" title=" " coords="247,253,424,279"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_text.html#a879bb031eccf4b070d2e0f2cfa31dc38" title="Update cached character locations after text update, or when text alignment or indent has changed." coords="472,246,647,286"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_font_face.html#a4b91e47bb935a890c515f4e840217c8b" title="Return pointer to the glyph structure corresponding to a character. Return null if glyph not found." coords="703,57,889,83"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_font_face.html#a7a5a7c77278cea7c12ac7ce9932d64f2" title="Return the kerning for a character and the next character." coords="697,107,895,132"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_text.html#a7f825634de0daf66485d970f2776377c" title="Return row start X position." coords="707,189,885,229"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="949,285,1118,311"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_font_face.html#a05b62b1e36e5d37fc20d0aad6841f748" title="Return textures." coords="695,304,897,329"/>
+<area shape="rect" id="node20" href="$_math_defs_8h.html#abd793d352fd1907d613db417160ba530" title=" " coords="741,377,851,403"/>
+<area shape="rect" id="node21" href="$_math_defs_8h.html#a1e0439c3642fe1b9779fe2199b9d89af" title=" " coords="725,451,867,476"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_base.html#acca34b209bda6149251edbb5a548ccc6" title="Return whether has no elements." coords="945,5,1121,31"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="1187,56,1346,81"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#a9dc4e5c0ad1feb3eec2d2f1f1714698d" title="Return iterator to the pair with key, or end iterator if not found." coords="953,107,1114,132"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1441,35,1597,60"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html#a85f871cbe77f2d780e1a169f19936ad8" title="Find a node from the buckets. Do not call if the buckets have not been allocated." coords="1169,107,1364,132"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_map.html#a6baa78766271c323b914fd2e6ca70c66" title="Compute a hash based on the key and the bucket size." coords="1183,171,1350,196"/>
+<area shape="rect" id="node11" href="$struct_urho3_d_1_1_hash_map_1_1_node.html#a5b917a49ae9df7b89215e8808db681da" title="Return next node in the bucket." coords="1435,85,1604,125"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_base.html#ab2e9d0c50ac79b0a7eccd15b096745e9" title="Return bucket head pointers." coords="1437,149,1601,175"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_base.html#af0f242c3642f60dc7cf69f3b7d24fa11" title="Return number of buckets." coords="1412,199,1627,224"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_u_i_element.html#af0d0d929939b0fb4b8d38c7699ecdfa0" title=" " coords="963,157,1103,197"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_u_i_element.html#a5eb156615aef75c2c020de6c879cfd01" title=" " coords="963,221,1103,261"/>
+</map>

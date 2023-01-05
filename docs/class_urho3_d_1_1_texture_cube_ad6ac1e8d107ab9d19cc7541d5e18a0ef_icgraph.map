@@ -1,0 +1,10 @@
+<map id="Urho3D::TextureCube::GetRenderSurface" name="Urho3D::TextureCube::GetRenderSurface">
+<area shape="rect" id="node1" title=" " coords="967,132,1113,172"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#a9403526247004c50f6f96e22930fb361" title="Helper function to get the render surface from a texture. 2D textures will always return the first fa..." coords="704,100,919,140"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_graphics.html#ad7719998ec41fa9a835c233b0465a056" title="Resolve a multisampled cube texture on itself." coords="723,164,899,204"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#ae34ebc6c877f3e56ae7c9c086f3b83dc" title="Allocate needed screen buffers." coords="203,5,397,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a07fcfa3743eb980a7f821d810abc42e5" title="Blit the viewport from one surface to another." coords="452,82,649,107"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,125,397,165"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#aead31506eaa52b206a905888717ac63f" title="Set rendertargets for current render command." coords="445,183,656,209"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,75,155,101"/>
+</map>

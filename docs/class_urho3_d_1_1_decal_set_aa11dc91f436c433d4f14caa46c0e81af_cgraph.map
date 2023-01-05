@@ -1,0 +1,6 @@
+<map id="Urho3D::DecalSet::UpdateGeometry" name="Urho3D::DecalSet::UpdateGeometry">
+<area shape="rect" id="node1" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="5,37,179,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_decal_set.html#a7ca6c81e87da7e19b2bfe84ada328ddb" title="Rewrite decal vertex and index buffers." coords="227,5,400,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_decal_set.html#a524315fdadb6957a578663c3005d1118" title="Recalculate skinning." coords="227,69,400,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="448,77,679,102"/>
+</map>

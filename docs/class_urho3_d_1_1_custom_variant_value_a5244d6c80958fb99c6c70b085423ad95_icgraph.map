@@ -1,0 +1,5 @@
+<map id="Urho3D::CustomVariantValue::GetSize" name="Urho3D::CustomVariantValue::GetSize">
+<area shape="rect" id="node1" title="Get size." coords="465,5,659,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_variant.html#a6b137fe6d863cce819c1ed9d71f48b5d" title="Set custom value." coords="231,5,417,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_variant.html#a08021c6832a6dcdafd9eccacae93d0fd" title="Assign from another variant." coords="5,13,183,38"/>
+</map>

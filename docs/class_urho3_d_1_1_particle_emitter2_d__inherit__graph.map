@@ -1,0 +1,10 @@
+<map id="Urho3D::ParticleEmitter2D" name="Urho3D::ParticleEmitter2D">
+<area shape="rect" id="node1" title="2D particle emitter component." coords="5,519,181,544"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable2_d.html" title="Base class for 2D visible components." coords="22,445,165,471"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="30,372,157,397"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html" title=" " coords="22,299,165,324"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="24,225,163,251"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="23,152,163,177"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object.html" title=" " coords="38,79,149,104"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="22,5,165,31"/>
+</map>

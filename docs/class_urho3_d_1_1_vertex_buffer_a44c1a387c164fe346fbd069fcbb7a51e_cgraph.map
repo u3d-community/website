@@ -1,0 +1,7 @@
+<map id="Urho3D::VertexBuffer::Release" name="Urho3D::VertexBuffer::Release">
+<area shape="rect" id="node1" title="Release buffer." coords="5,5,152,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vertex_buffer.html#a10d352ff496e04a7d1395559d72a0b17" title="Unlock the buffer and apply changes to the GPU buffer." coords="200,5,347,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="784,34,973,59"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vertex_buffer.html#a20dd4ccb7666c5acc1abcf5034fcea00" title="Set a data range in the buffer. Optionally discard data outside the range." coords="395,33,541,73"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vertex_buffer.html#accec66f6c7f4ccd71afd4c59ada200f0" title="Set all data in the buffer." coords="589,84,736,124"/>
+</map>

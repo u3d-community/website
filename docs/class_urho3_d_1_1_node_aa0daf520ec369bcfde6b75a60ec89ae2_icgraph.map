@@ -1,0 +1,8 @@
+<map id="Urho3D::Node::AddReplicationState" name="Urho3D::Node::AddReplicationState">
+<area shape="rect" id="node1" title="Add a replication state that is tracking this node." coords="648,37,849,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#aef92923d99f0bdecfc24d0d677a86c46" title="Add a replication state that is tracking this scene." coords="396,5,600,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_connection.html#affa0596b7a738171d78ee00b9e5a64a2" title="Process a node that the client has not yet received." coords="428,69,568,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_connection.html#af5f85615f5bc114e16629a9a7a2c4df9" title="Process a node for sending a network update. Recurses to process depended on node(s) first." coords="208,69,348,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_connection.html#a373c8b228b0225e949c3a5a1683be28a" title="Process a node that the client has already received." coords="5,69,160,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_connection.html#a472f26b2a1f4546a2eeb68026cff213e" title="Send scene update messages. Called by Network." coords="13,133,153,173"/>
+</map>

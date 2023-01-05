@@ -1,0 +1,8 @@
+<map id="Urho3D::Constraint2D::OnSetEnabled" name="Urho3D::Constraint2D::OnSetEnabled">
+<area shape="rect" id="node1" title="Handle enabled/disabled state change." coords="5,69,155,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_constraint2_d.html#a5bd16c56eb8593d219bb77c676c2d531" title="Create joint." coords="203,5,352,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="203,69,351,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_constraint2_d.html#a96753482a7b07d8a9cd15c55c22d1079" title="Release joint." coords="203,133,352,173"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_constraint2_d.html#acb84b297b4881b1c7c549e8468f26105" title="Return joint def." coords="411,5,560,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="400,77,571,102"/>
+</map>

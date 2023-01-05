@@ -1,0 +1,27 @@
+<map id="Urho3D::Texture2D::SetSize" name="Urho3D::Texture2D::SetSize">
+<area shape="rect" id="node1" title="Set size, format, usage and multisampling parameters for rendertargets. Zero size will follow applica..." coords="5,484,144,524"/>
+<area shape="rect" id="node2" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="234,291,345,317"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture2_d.html#af44c92053b2781a67a0330a4f72927c8" title="Create the GPU texture." coords="220,341,359,381"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_texture2_d.html#a024726411f9f3414a4833e2b290abf05" title="Handle render surface update event." coords="192,484,387,524"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="202,659,377,699"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_object.html#a153b96c4397e045b2ca2b2d5471d097c" title="Unsubscribe from an event." coords="195,840,384,880"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture.html#a0dc9b5632a502d45cf001c0cdaebd8e5" title="Check maximum allowed mip levels for a specific texture size." coords="458,5,643,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture.html#a60c268d6f819bd4fdc219ba8f5f3820c" title=" " coords="453,70,649,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_graphics.html#a609ba19c78432946e8334cc3a7bcb92e" title="Return the API&#45;specific hardware depth&#45;stencil texture format." coords="459,120,643,160"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_texture.html#a09c2fc9bd5347131e3a0126b109d07ab" title=" " coords="455,184,646,224"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_graphics.html#af39a9a2972752ace04fa2aac273ecc9e" title="Return whether is using an OpenGL 3 context. Return always false on Direct3D9 &amp; Direct3D11." coords="715,345,888,385"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_texture.html#af49ebd8d0572e8616402f9c663b6a818" title=" " coords="463,299,638,325"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_texture.html#af633d70298690db00993d6c89b2f0a50" title=" " coords="441,349,660,374"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_texture.html#a49289626d40733f33cb84e044cca1eab" title=" " coords="446,398,655,423"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_texture.html#a8672316692e6b78cb6482cbcecfe409c" title="Regenerate mipmap levels for a rendertarget after rendering and before sampling. Called internally by..." coords="457,448,644,488"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_texture2_d.html#a195cc225951abc4d87099dd2bd2f76f3" title="Release the texture." coords="481,512,620,552"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_texture.html#a7eaf51cf81ac775bdc87e00ec1a47979" title="Update dirty parameters to the texture object. Called by Graphics when assigning the texture." coords="435,577,667,602"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_color.html#ac870749558797286cd923e11c182ce87" title="Return float data." coords="732,577,871,602"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="460,627,641,667"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="457,691,644,731"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="465,755,636,795"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="726,748,877,788"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_object.html#a00bec56f305dd6636d186e5b351d0264" title="Find the first event handler with no specific sender." coords="465,869,637,909"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_context.html#a7b5bd076e695054df7930255c3eee18b" title="Remove event receiver from specific events." coords="449,933,653,973"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_event_handler.html#ae09d06f06d3590e6f4e06006efa90176" title="Return event type." coords="726,869,877,909"/>
+</map>

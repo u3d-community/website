@@ -1,0 +1,5 @@
+<map id="Urho3D::Drawable::OnSceneSet" name="Urho3D::Drawable::OnSceneSet">
+<area shape="rect" id="node1" title="Handle scene being assigned." coords="213,45,417,70"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_particle_emitter.html#afe74659b2f5ad4d4e8ddea2763d532d4" title="Handle scene being assigned." coords="5,5,165,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ribbon_trail.html#abcd8d907e0e358d04be6c6dc384b5952" title="Handle node being assigned." coords="17,69,154,109"/>
+</map>

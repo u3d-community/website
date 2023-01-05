@@ -1,0 +1,4 @@
+<map id="Urho3D::Window::OnDragEnd" name="Urho3D::Window::OnDragEnd">
+<area shape="rect" id="node1" title="React to mouse drag end." coords="5,13,199,38"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#a2b04af05ca3d8a8e13e8ebcaa42a04c5" title="React to mouse drag end." coords="247,5,387,45"/>
+</map>

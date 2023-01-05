@@ -1,0 +1,8 @@
+<map id="Urho3D::Billboard" name="Urho3D::Billboard">
+<area shape="rect" id="node1" title=" " coords="235,424,359,449"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="5,246,124,271"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="233,37,352,62"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_rect.html" title=" " coords="317,246,415,271"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="521,246,627,271"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_color_1_1_channel_mask.html" title="Mask describing color channels." coords="478,37,670,62"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::Terrain::SetHeightMap" name="Urho3D::Terrain::SetHeightMap">
+<area shape="rect" id="node1" title=" " coords="5,395,208,421"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="270,259,418,299"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_terrain.html#a22a49ec302f5976a837f343248e5c28c" title="Set heightmap image and optionally recreate the geometry immediately. Return true if successful." coords="256,445,432,485"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="507,151,655,191"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="507,215,655,255"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="483,303,680,343"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="754,158,922,183"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="738,222,938,247"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_terrain.html#a4c3774f5e5fb85197eb87d8fd1fff046" title="Regenerate terrain geometry." coords="731,395,945,421"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_terrain.html#a43af67aece762c4ec605c85eb51815ba" title="Handle heightmap image reload finished." coords="482,417,681,457"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_image.html#a7f857b190bc10a60737469481fb407af" title=" " coords="480,482,683,507"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="494,532,669,572"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_object.html#a153b96c4397e045b2ca2b2d5471d097c" title="Unsubscribe from an event." coords="487,596,676,636"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_p_o_d_vector.html#ac564a928bd75354adfdeb2b7fd225149" title="Return iterator to the beginning." coords="1031,5,1175,45"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_terrain.html#a3836071d62973e24f72cfaf65d46afee" title="Calculate LOD errors for a patch." coords="1016,93,1189,133"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_terrain_patch.html#a8713045be618a976aa03e1ca0fff7712" title="Return patch coordinates." coords="1260,151,1407,191"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#ab23d77af7fe3350c1dcfec8281849ed3" title="Create a component to this node (with specified ID if provided)." coords="993,209,1212,234"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_terrain.html#ac5f9117661ac3c1b077540c4732cda94" title="Create index data shared by all patches." coords="994,282,1211,307"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_terrain.html#a03006159674e5b8e1bb6d34e2afdcc81" title="Regenerate patch geometry." coords="1007,356,1198,396"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_node.html#aefe4240e24961864d51e9a0d9f742756" title="Create a temporary child scene node (with specified ID if provided)." coords="996,420,1209,460"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_p_o_d_vector.html#ad9cedde70f6aac8dde2b7bfba7ca4fbb" title="Return iterator to the end." coords="1019,485,1186,510"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_node.html#aa413f1ee8b3fd0928b371a6d9875563c" title="Return child scene node by index." coords="1021,534,1184,559"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_node.html#a8018ae5a2c8035dd296966c0508916c2" title="Return child scene nodes with a specific component." coords="1013,584,1193,624"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="1002,649,1203,674"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="1019,699,1186,739"/>
+</map>

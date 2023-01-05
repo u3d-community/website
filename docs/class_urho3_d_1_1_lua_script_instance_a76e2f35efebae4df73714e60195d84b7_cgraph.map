@@ -1,0 +1,11 @@
+<map id="Urho3D::LuaScriptInstance::OnMarkedDirty" name="Urho3D::LuaScriptInstance::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="5,165,184,205"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_lua_function.html#aaebe8556aab514240aae0a06f82c2629" title="Begin function call. When a script object is given then pass it as self argument (first parameter) to..." coords="264,37,408,77"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#a3cd5eac8dc19288118ed5578257a17cb" title="Add a component to the delayed dirty notify queue. Is thread&#45;safe." coords="232,101,440,141"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_lua_function.html#a10c1b2a030d1763e524b5fd50e4afd8b" title="End call and actually execute the function. The return values, if any, are still left in the stack wh..." coords="264,165,408,205"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="262,229,410,269"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="245,293,427,333"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_lua_script_instance.html#a3516536d2ba9fac5b5f8e708de85fb70" title="Return Lua reference to script object." coords="488,5,667,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_lua_function.html#aec2f70c0be7886a14ec8417235a15e48" title="Check that function is valid." coords="505,69,649,109"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="493,237,661,262"/>
+</map>

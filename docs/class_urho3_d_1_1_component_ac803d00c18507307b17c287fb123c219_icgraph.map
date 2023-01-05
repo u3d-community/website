@@ -1,0 +1,27 @@
+<map id="Urho3D::Component::GetID" name="Urho3D::Component::GetID">
+<area shape="rect" id="node1" title=" " coords="1279,261,1427,301"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a33ae61edab40444e22d014c844e19c55" title="Clone node recursively." coords="1028,29,1231,55"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#a6b1a145dd07c1d09ac9126c35577aa09" title="Component added. Add to ID map." coords="773,75,957,115"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene.html#a72dbbc1c1e593069b21ec3e608d39ba6" title="Component removed. Remove from ID map." coords="1037,133,1221,173"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_scene.html#a7e6a52ecf14db5d598710f5ae05d2932" title="Mark a component for attribute check on the next network update." coords="1031,197,1228,237"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_script_instance.html#aee0f9ac35b780bf4e050ac6521e26a6b" title="Handle attribute read access." coords="1051,261,1208,301"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_connection.html#a373c8b228b0225e949c3a5a1683be28a" title="Process a node that the client has already received." coords="1052,325,1207,365"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_connection.html#affa0596b7a738171d78ee00b9e5a64a2" title="Process a node that the client has not yet received." coords="529,325,669,365"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_collision_shape.html#a80db6f4f9f30854ad9b04b6a7ce6fd9b" title="Set as specified shape type using CustomGeometry." coords="1049,471,1209,511"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_crowd_manager.html#a775ce41762a5c2d1207b0f7dd586629d" title=" " coords="1047,723,1211,763"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a2005276776f4ecca887f34438e161c68" title="Clone scene node, components and child nodes. Return the clone." coords="792,25,939,51"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a3792a0c2e23b120ac879c2931d6f9dc4" title="Add a pre&#45;created component. Using this function from application code is discouraged,..." coords="496,83,703,108"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#af7c4ba456a0fdbd205c063761126b02e" title="Node added. Assign scene pointer and add to ID map." coords="505,160,693,185"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#ab23d77af7fe3350c1dcfec8281849ed3" title="Create a component to this node (with specified ID if provided)." coords="229,57,448,83"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a7d5ace493b64e225e28101f4f8c697ee" title="Create component, allowing UnknownComponent if actual type is not supported. Leave typeName empty if ..." coords="5,75,181,115"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scene.html#ae689b835fa42ad65090796e0a88d2410" title="Node removed. Remove from ID map." coords="763,164,967,189"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a9ebc93d0dede9247dbbe0b17cdbcbb93" title="Remove a component from this node with the specified iterator." coords="751,213,980,239"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_connection.html#af5f85615f5bc114e16629a9a7a2c4df9" title="Process a node for sending a network update. Recurses to process depended on node(s) first." coords="795,325,935,365"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_collision_shape.html#ad48332cd76e2d45239d6bb1fd8ae24bf" title="Set as a convex hull from CustomGeometry." coords="785,439,946,479"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_collision_shape.html#ab1ab42be9071e598fbd58997b8674c29" title="Set as a triangle mesh from CustomGeometry." coords="777,503,954,543"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_collision_shape.html#ae003977d5c7497a5ddb882c121d7a08f" title="Set as a triangle mesh from CustomGeometry." coords="779,567,952,607"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_crowd_manager.html#ad8d550786dd86d2b9377b7108565158c" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="783,631,947,671"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_crowd_manager.html#a6403f27fff22efe998938b9165ada00a" title="Handle component added in the scene to check for late addition of the navmesh." coords="776,695,955,735"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_crowd_manager.html#a9dbdfed1b0a990177a765546f090efc2" title="Handle scene being assigned." coords="517,723,681,763"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_crowd_manager.html#acd1475ee2f1c1705aeb6efeed7382999" title="Handle navigation mesh changed event. It can be navmesh being rebuilt or being removed from its node." coords="776,810,955,850"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::RaycastVehicle::RegisterObject" name="Urho3D::RaycastVehicle::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,696,167,736"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_raycast_vehicle.html#afb2e747a991eaef885084e2ee68918d2" title="Get wheel data attribute for serialization." coords="244,600,405,640"/>
+<area shape="rect" id="node23" href="$namespace_urho3_d_1_1_attribute_metadata.html#a0eec60ed91ef3d0a83f7c94563ac8f43" title="Names of vector struct elements. StringVector." coords="215,664,435,704"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="238,728,411,768"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_raycast_vehicle.html#adb8e7db4c2151caed76274d2d81e2446" title="Set wheel data attribute during loading." coords="244,792,405,832"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_raycast_vehicle.html#ada7ad359e613452330dcfb3673ae88e1" title="Get hand brake value." coords="509,5,671,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_raycast_vehicle.html#a7d8f37727db2ca3f58aea19f3425a4ed" title="Get contact normal." coords="509,69,671,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_raycast_vehicle.html#aed3776b4edbc1d41d16fb44b8b6d7000" title="Get wheel contact position." coords="509,133,671,173"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_raycast_vehicle.html#a6cd7c98ef98522369a099c8872102076" title="Get engine force for the wheel." coords="509,197,671,237"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a1ce16fa386bfc7b728711030eb941723" title=" " coords="517,262,663,287"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_raycast_vehicle.html#a65a0ae7d5201ae6ebde6d6325ddb814d" title=" " coords="509,312,671,352"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_raycast_vehicle.html#a1f5040ade15d86b4711f1fc92be2c41d" title="Get steering value of particular wheel." coords="509,376,671,416"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_raycast_vehicle.html#afe67b91f84e5ea31a948eab7eb04d83d" title="Get wheel axle vector." coords="509,440,671,480"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_raycast_vehicle.html#abe640b43d0bd8b5f17bfc5023e1527ee" title="Get wheel connection point relative to RigidBody." coords="499,504,681,544"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_raycast_vehicle.html#a369f3d6f9179838142820e1e315b3cde" title="Get wheel damping compression." coords="483,568,697,608"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_raycast_vehicle.html#ae8ddcaafd9ed33b178180c8291bd3b7d" title="Get wheel damping relaxation." coords="491,632,689,672"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_raycast_vehicle.html#aed2230aa074f7260e297b4231ec8fcf6" title="Get wheel direction vector." coords="509,696,671,736"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_raycast_vehicle.html#a04e4c3c6f24526e3a78a76af8efa1c19" title="Get wheel friction slip." coords="509,760,671,800"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_raycast_vehicle.html#af502dc8b8aad32eda15a6450566e9711" title="Get wheel max suspension force." coords="485,824,695,864"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_raycast_vehicle.html#abaed0ce987137448f728f74a21b25668" title="Get node of the wheel." coords="509,888,671,928"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_raycast_vehicle.html#aa0650eb5695ded0fa4003fd45419b886" title="Get wheel radius." coords="509,952,671,992"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_raycast_vehicle.html#a1f7947587bdcb7e31d74a638948ede05" title="Get wheel rest length." coords="509,1016,671,1056"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_raycast_vehicle.html#aff389b9021e558a2c80a86b57f8b0ded" title="Get wheel roll influence." coords="509,1080,671,1120"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_raycast_vehicle.html#ade1777d095d210ee858cb492dfb4ecec" title="Get wheel slide speed." coords="506,1144,674,1184"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_raycast_vehicle.html#a5525534a76f60ce7909b7f022625c200" title="Sliding factor 0 &lt;= x &lt;= 1." coords="509,1208,671,1248"/>
+</map>

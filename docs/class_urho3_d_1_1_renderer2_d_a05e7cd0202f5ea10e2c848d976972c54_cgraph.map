@@ -1,0 +1,18 @@
+<map id="Urho3D::Renderer2D::UpdateGeometry" name="Urho3D::Renderer2D::UpdateGeometry">
+<area shape="rect" id="node1" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="5,235,148,275"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vertex_buffer.html#a9ffb4421860e3421726f4a6b949766ee" title=" " coords="207,5,354,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vertex_buffer.html#a7ac86bc78fa3356eb5eb3045884319e3" title="Lock the buffer for write&#45;only editing. Return data pointer if successful. Optionally discard data ou..." coords="835,64,981,104"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="231,185,330,210"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vertex_buffer.html#ae3a60a0235f13bc2bc719f296068e134" title="Set size, vertex elements and dynamic mode. Previous data will be lost." coords="207,235,354,275"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vertex_buffer.html#a10d352ff496e04a7d1395559d72a0b17" title="Unlock the buffer and apply changes to the GPU buffer." coords="835,176,981,216"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="209,414,352,439"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="196,463,365,489"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="1419,150,1608,175"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vertex_buffer.html#a0a5f88c7e55d2e40d1136b0614f386f9" title="Create buffer." coords="421,120,568,160"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_shared_array_ptr.html#a5f621b62e29d89c1d29f1c2089932bd5" title="Reset to null and release the array reference." coords="413,235,576,275"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vertex_buffer.html#a913472a1f3817d473639ed6f5fb35ae1" title="Update offsets of vertex elements." coords="421,299,568,339"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vertex_buffer.html#a44c1a387c164fe346fbd069fcbb7a51e" title="Release buffer." coords="632,120,779,160"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vertex_buffer.html#a20dd4ccb7666c5acc1abcf5034fcea00" title="Set a data range in the buffer. Optionally discard data outside the range." coords="1029,176,1176,216"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vertex_buffer.html#accec66f6c7f4ccd71afd4c59ada200f0" title="Set all data in the buffer." coords="1224,225,1371,265"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_shared_array_ptr.html#a4fe651dd5116bb958bd304858c5f3a35" title="Release the array reference and delete it and the RefCount structure if necessary." coords="624,235,787,275"/>
+</map>

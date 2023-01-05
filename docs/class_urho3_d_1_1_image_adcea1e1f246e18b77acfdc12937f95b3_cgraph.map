@@ -1,0 +1,27 @@
+<map id="Urho3D::Image::SaveFile" name="Urho3D::Image::SaveFile">
+<area shape="rect" id="node1" title="Save the image to a file. Format of the image is determined by file extension. JPG is saved with maxi..." coords="5,588,169,613"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#abb9a80d4cbfd3471a5d5f45afa551a9c" title="Return whether ends with a string." coords="223,88,392,113"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_image.html#acdb99a419aaf19b2b8aaba87ba345e82" title="Save in BMP format. Return true if successful." coords="446,537,618,563"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_image.html#a14d0e7c60a23e7c6aca1dc9f97d40b0e" title="Save in DDS format. Only uncompressed RGBA images are supported. Return true if successful." coords="222,335,393,360"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_image.html#a65ef8d3cf5b9c4e4bf12f8929618f12f" title="Save in JPG format with specified quality. Return true if successful." coords="448,639,616,664"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_image.html#a78a5e3043e9b5f7fa9375325f9ab0263" title="Save in PNG format. Return true if successful." coords="222,740,393,765"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_image.html#a3a0016b82138cc5b1136fb8b9c3748fb" title="Save in TGA format. Return true if successful." coords="447,740,617,765"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_image.html#a03b0cd2a466d2b6d9dadf1c77fe23622" title="Save in WebP format with minimum (fastest) or specified compression. Return true if successful...." coords="217,588,397,613"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a4e5b8a91af2ee6014ef12810da1d82f8" title="Return index to the last occurrence of a string, or NPOS if not found." coords="451,88,613,113"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a0a988cc147946dd80bf73cea2c1ac04c" title=" " coords="692,5,844,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="690,423,846,448"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="673,689,863,715"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_image.html#a7f857b190bc10a60737469481fb407af" title=" " coords="667,613,869,639"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_image.html#add482522465d7581c4c3876750ca5181" title="Get all stored mip levels starting from this." coords="445,236,619,261"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_file.html#adef704ac4cdbb2858593659cf462ccbb" title=" " coords="698,472,838,497"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="447,285,617,311"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_file.html#ad1686ab39e8979917bca432929a63b6b" title="Write bytes to the file. Return number of bytes actually written." coords="467,335,597,360"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_serializer.html#a467e97940ee0e2911b7d8bfa837a875b" title="Write a four&#45;letter file ID. If the string is not long enough, spaces will be appended." coords="468,154,596,194"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_p_o_d_vector.html#a56e61cb5b8216360fd62b20eb78b5faf" title="Clear the vector." coords="696,243,840,283"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html#a3eb78093c096ab9e9d68595facc56470" title="Add an element at the end." coords="681,308,855,333"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_abstract_file.html#ada04895491d2abbb4d7d376869be7b4f" title="Return the file name." coords="697,358,839,398"/>
+<area shape="rect" id="node18" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="721,79,815,104"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_serializer.html#af1212487507dad99d9f389f9c8b48a60" title="Write bytes to the stream. Return number of bytes actually written." coords="917,179,1045,219"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_serializer.html#ae8dca217acc7e982a97262ce8f0d7357" title="Write an 8&#45;bit integer." coords="704,179,832,219"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_image.html#a5c3047b0fe26178f7245f964f16e63b6" title="Save the image to a stream. Regardless of original format, the image is saved as png...." coords="460,789,604,815"/>
+</map>

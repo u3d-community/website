@@ -1,0 +1,4 @@
+<map id="Urho3D::RibbonTrail::OnWorldBoundingBoxUpdate" name="Urho3D::RibbonTrail::OnWorldBoundingBoxUpdate">
+<area shape="rect" id="node1" title="Recalculate the world&#45;space bounding box." coords="5,5,204,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_bounding_box.html#a4befcf3c67e94eb2f1924e1179b09bd2" title="Merge a point." coords="252,5,403,45"/>
+</map>

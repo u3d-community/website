@@ -1,0 +1,8 @@
+<map id="Urho3D::Texture3D::Release" name="Urho3D::Texture3D::Release">
+<area shape="rect" id="node1" title="Release the texture." coords="565,69,704,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture3_d.html#a083e117048ce7fc26e8a2b0c2c24b94b" title="Create the GPU texture." coords="379,37,517,77"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_texture3_d.html#a7488f116de937d450382b76df2a7af1d" title="Destruct." coords="379,101,517,141"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture3_d.html#ae22c5e6560235f1ffdfbd8ff178396ea" title="Recreate the GPU resource and restore data if applicable." coords="192,5,331,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture3_d.html#aca029903e75e685f2c73975c51ed0627" title="Set size, format and usage. Zero size will follow application window size. Return true if successful." coords="192,69,331,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture3_d.html#adc338a79d4dbbb51605bf14a252135a3" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="5,69,144,109"/>
+</map>

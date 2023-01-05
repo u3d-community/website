@@ -1,0 +1,27 @@
+<map id="Urho3D::JSONValue::GetValueType" name="Urho3D::JSONValue::GetValueType">
+<area shape="rect" id="node1" title=" " coords="681,396,827,436"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_j_s_o_n_value.html#a5d201ed16c4fe1f3b7cc59eb72a67fcc" title="Return iterator to the beginning." coords="475,15,621,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_j_s_o_n_value.html#a3cc9ca81f8840109329e4e644cf94bbd" title="Clear array or object." coords="475,79,621,119"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_j_s_o_n_value.html#a621ebce4250fb5971da25974b3fa3e8e" title="Return whether contains a pair with key." coords="475,143,621,183"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_j_s_o_n_value.html#ab31ea008137a3a7eb2813b38eb42f963" title="Return iterator to the beginning." coords="464,207,632,233"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_j_s_o_n_value.html#a454ee7b38116a1838b124b65aed859f3" title="Erase a range of JSON values." coords="475,257,621,297"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_j_s_o_n_value.html#a8ef53c37d618d5fb4d4288135c289ae7" title="Return JSON value with key." coords="465,322,631,347"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_j_s_o_n_value.html#a70402e8589b4bf3eaded5ddeb422e5b0" title=" " coords="475,396,621,436"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_j_s_o_n_value.html#a2783dbe89ba7d558ca49b848a5e734d0" title="Insert an JSON value at position." coords="475,460,621,500"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_j_s_o_n_value.html#ac8bd29e781182940397d0de67c9d60e0" title="Assign from another JSON value." coords="475,524,621,564"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_j_s_o_n_value.html#ad94fc99b7d23c01aeffe0b37ef997be4" title="Return JSON value at index." coords="475,588,621,628"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_j_s_o_n_value.html#ac3ea500b15c728aea30078a1a5d75b6a" title="Remove the last JSON value." coords="464,653,632,678"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_j_s_o_n_value.html#aaa39b31173d0e0dd2021de34b08cc4a0" title="Set value type and number type, internal function." coords="475,703,621,743"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_j_s_o_n_value.html#a3d68e1b4e5acb3c8c5f1cb67e4bdab5b" title=" " coords="463,767,633,793"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_animation.html#a457f24ea561a38677e2994741f6d863e" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="234,5,373,45"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_sprite_sheet2_d.html#a6ac266c978182f23967a322b022b22a9" title="Begin load from JSON file." coords="216,69,391,109"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_material.html#a4395cdd6b565b52783713ea1712ec0c1" title="Helper function for loading JSON files." coords="192,134,415,159"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_sprite_sheet2_d.html#a342ae88d8e8f88834900568a735e6f67" title="End load from JSON file." coords="220,184,387,224"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_scene.html#a03f80f9703e4d92e89b0de7fd930d239" title="Instantiate scene content from JSON data. Return root node if successful." coords="198,273,409,298"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_material.html#a2f610bf80fad592119370c0682d9c324" title="Load from a JSON value. Return true if successful." coords="225,322,382,347"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_scene.html#aa66ba16b03bd936a00b96e18da703947" title="Load from a JSON file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY mo..." coords="196,371,411,397"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_object_animation.html#a6abe177f7630bc448bf4ffe7d0a0695c" title="Load from JSON data. Return true if successful." coords="218,421,389,461"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_serializable.html#a7363a7dda75d1dc158a0841d459b32e4" title="Load from JSON data. Return true if successful." coords="233,485,373,525"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_animatable.html#ad1b16987196e91435eb8af471b7a2714" title="Load from JSON data. Return true if successful." coords="5,515,144,555"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_value_animation.html#abb90d4733017bb3e85f68f344a4a9571" title="Load from JSON data. Return true if successful." coords="221,600,386,640"/>
+</map>

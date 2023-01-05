@@ -1,0 +1,16 @@
+<map id="Urho3D::Camera::GetOrthoSize" name="Urho3D::Camera::GetOrthoSize">
+<area shape="rect" id="node1" title=" " coords="2299,89,2501,115"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#a12e115af146e183d6ac73cd2de04e39d" title="Finalize shadow camera view after shadow casters and the shadow map are known." coords="2047,18,2245,58"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_camera.html#a7135721d90b089309a667a16bd27a603" title=" " coords="2059,82,2233,122"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_view.html#a97f9dbaf8b51572832e0890af3e53e4b" title="Query for occluders as seen from a camera." coords="2041,147,2251,172"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a22d0ec09958510be31cf7e42a9d7f88f" title="Get batches from lit geometries and shadowcasters." coords="1791,29,1993,55"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#a9fa4e0593945674a5ab2b52ac89e785a" title="Construct batches from the drawable objects." coords="1561,32,1736,57"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a50c3fe5d5c2b3040e13925aa277a8d93" title="Update and cull objects and construct rendering batches." coords="1357,75,1507,100"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_renderer.html#a0fa71f5839321a9d68def7a2978f452a" title="Update a queued viewport for rendering." coords="1135,67,1309,107"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_renderer.html#a993f63f35d27a9ea6df861962018f354" title="Update for rendering. Called by HandleRenderUpdate()." coords="912,75,1087,100"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_renderer.html#adf594e7a524f6e003e8370cf23dbee13" title="Handle render update event." coords="689,67,864,107"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_renderer.html#ae0d765a240f7cf5f829ddc95cb2729c9" title="Initialize when screen mode initially set." coords="461,75,641,100"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_renderer.html#ade42fa3aa8f7f48620bffc61ab32c635" title="Handle screen mode event." coords="239,38,413,78"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_renderer.html#a8e41f9dda2e33e9e208c5ccfd0d1c6ac" title="Construct." coords="5,75,191,100"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_view.html#a0cddca92d8a715b17404427840d201fb" title="Query the octree for drawable objects." coords="1555,111,1743,136"/>
+</map>

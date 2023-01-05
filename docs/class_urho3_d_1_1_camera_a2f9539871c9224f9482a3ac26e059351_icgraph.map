@@ -1,0 +1,27 @@
+<map id="Urho3D::Camera::GetFrustumSize" name="Urho3D::Camera::GetFrustumSize">
+<area shape="rect" id="node1" title="Return frustum near and far sizes." coords="2189,304,2408,329"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_light.html#a2ac64042dfe3354b9be2663ea63ec4da" title="Return a transform for deferred fullscreen quad (directional light) rendering." coords="1488,267,1675,307"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_view.html#afe8c414e896c0d06ee17ed18e5ce85dd" title="Set camera&#45;specific shader parameters. Called by Batch and internally by View." coords="1927,325,2141,365"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a9f5a7068310ea03c58673eb5add7db21" title="Draw a fullscreen quad. Shaders and renderstates must have been set beforehand. Quad will be drawn to..." coords="1213,277,1440,303"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_light.html#a3b3648ecb50a410286b5be3b9fa4ddfc" title="Return light volume model transform." coords="1241,137,1413,177"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#a07fcfa3743eb980a7f821d810abc42e5" title="Blit the viewport from one surface to another." coords="952,283,1149,308"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_renderer.html#a4e44255580c9a9665ae72d4a4f77c705" title="Blur the shadow map." coords="936,144,1165,169"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_view.html#a798fe80282652472bd0fb2c0694bbfb8" title="Perform a quad rendering command." coords="961,332,1141,357"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="691,329,886,369"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="477,307,626,332"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_renderer.html#ad3cd417832137ad7fca7704fb0f40af1" title=" " coords="689,137,888,177"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_renderer.html#ae0d765a240f7cf5f829ddc95cb2729c9" title="Initialize when screen mode initially set." coords="461,144,641,169"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_renderer.html#ade42fa3aa8f7f48620bffc61ab32c635" title="Handle screen mode event." coords="239,165,413,205"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_renderer.html#a8e41f9dda2e33e9e208c5ccfd0d1c6ac" title="Construct." coords="5,144,191,169"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_view.html#a22d0ec09958510be31cf7e42a9d7f88f" title="Get batches from lit geometries and shadowcasters." coords="949,29,1152,55"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_renderer.html#a408789b2d93f27c7884360b7ecccec55" title="Optimize a light by marking it to the stencil buffer and setting a stencil test." coords="959,79,1143,119"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_view.html#aad3ec16bf264ae329528b17f79db267d" title="Set up a light volume rendering batch." coords="967,194,1135,234"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_view.html#a9fa4e0593945674a5ab2b52ac89e785a" title="Construct batches from the drawable objects." coords="701,29,876,55"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_view.html#a50c3fe5d5c2b3040e13925aa277a8d93" title="Update and cull objects and construct rendering batches." coords="477,29,626,55"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_renderer.html#a0fa71f5839321a9d68def7a2978f452a" title="Update a queued viewport for rendering." coords="239,22,413,62"/>
+<area shape="rect" id="node21" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="1723,383,1879,408"/>
+<area shape="rect" id="node22" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="1510,383,1653,408"/>
+<area shape="rect" id="node25" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="1511,433,1652,473"/>
+<area shape="rect" id="node23" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="1255,415,1398,455"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="939,405,1162,431"/>
+</map>

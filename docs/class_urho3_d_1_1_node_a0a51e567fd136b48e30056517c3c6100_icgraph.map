@@ -1,0 +1,13 @@
+<map id="Urho3D::Node::SetWorldRotation" name="Urho3D::Node::SetWorldRotation">
+<area shape="rect" id="node1" title=" " coords="1024,166,1240,191"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_rigid_body.html#a1683e21222126986b0d7c8c7c58e4b8f" title="Apply new world transform after a simulation step. Called internally." coords="785,37,937,77"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_rigid_body2_d.html#a536af8f567b3c277e89a704b473cb34c" title="Apply specified world position &amp; rotation. Called by PhysicsWorld2D." coords="782,101,941,141"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#afb32a557cfa6483f55c896046efb9b4a" title="Look at a target position in the chosen transform space. Note that the up vector is always specified ..." coords="784,166,939,191"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_raycast_vehicle.html#af8fbffa173151c09fa798fac6eaf1b8d" title="Perform variable step post&#45;update." coords="781,216,942,256"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a8aa097522ad1d8d502ec74610a05ada4" title="Set both position and rotation in world space as an atomic operation." coords="747,281,976,306"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_rigid_body.html#ab4840875f0cc02f2ea6f27d5aaf8401c" title=" " coords="515,5,653,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_physics_world.html#a282dce733280a5175597b3ee7d4c9e14" title="Step the simulation forward." coords="507,69,661,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_physics_world.html#ab0ca17f00837381a0866ec5a8ddbc758" title="Handle the scene subsystem update event, step simulation here." coords="208,69,421,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_physics_world.html#a0b0a8200a977bb58e0a7ee4693ed6b30" title="Handle scene being assigned." coords="5,69,160,109"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#ae4eb180d8cfd3b80ba96ca14fd9f7797" title="Set position, rotation, and scale in world space as an atomic operation from a transformation matrix." coords="469,281,699,306"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Urho3D::Camera::GetUseClipping" name="Urho3D::Camera::GetUseClipping">
+<area shape="rect" id="node1" title=" " coords="445,45,660,70"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,5,397,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_camera.html#a7135721d90b089309a667a16bd27a603" title=" " coords="213,69,387,109"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,13,155,38"/>
+</map>

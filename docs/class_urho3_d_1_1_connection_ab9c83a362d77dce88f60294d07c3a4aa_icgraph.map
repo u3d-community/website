@@ -1,0 +1,18 @@
+<map id="Urho3D::Connection::IsClient" name="Urho3D::Connection::IsClient">
+<area shape="rect" id="node1" title=" " coords="1697,261,1837,301"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_connection.html#ac46cf6056542e5473ba0c3a1cbe05306" title="Process a Controls message from the client. Called by Network." coords="1477,5,1617,45"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_connection.html#a24a8f75c9a0394e26ccc1b9a3db38926" title="Process an Identity message from the client. Called by Network." coords="1477,69,1617,109"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_connection.html#afced676df11b5ac349a054ec61ce97e9" title="Process a LoadScene message from the server. Called by Network." coords="1475,133,1618,173"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_connection.html#a1c702780a42ef4fd2365fb2698db6509" title="Process package download related messages. Called by Network." coords="1453,197,1640,237"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_connection.html#a973be30a579c912cd2d0439649c6fc52" title="Process a SyncPackagesInfo message from server." coords="1471,261,1622,301"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_connection.html#afd98f952dcdeea8ef142bc6c7004c698" title="Process a SceneChecksumError message from the server. Called by Network." coords="1444,325,1649,365"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_connection.html#ae3093aef92fc9b1a487449fd888194a9" title="Process a SceneLoaded message from the client. Called by Network." coords="1468,389,1625,429"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_connection.html#a0a9e39346bc1f85b9186d3258a178ac1" title="Process a scene update message from the server. Called by Network." coords="1469,453,1624,493"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_connection.html#a6dae739b15dfd75880596f396769f2e8" title="Trigger client connection to download a package file from the server. Can be used to download additio..." coords="1469,517,1625,557"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_connection.html#a577c99b55dfd76a7e6b7f8b1de90c5bd" title="Process a message from the server or client. Called by Network." coords="1256,229,1396,269"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_network.html#a27e675ccc446bc8f6567b4b9f2248f32" title="Handle an inbound message." coords="981,237,1208,262"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_network.html#a3d878e00c02066e4b7d5a77e3e129e12" title="All incoming packages are handled here." coords="707,229,933,269"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_network.html#a71021827cd049524ec014dd55cc24ea5" title="Process incoming messages from connections. Called by HandleBeginFrame." coords="487,237,659,262"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_network.html#aa03da1be461abb4b6567e8470966c594" title="Handle begin frame event." coords="235,229,439,269"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_network.html#a566fbbabc194a73f96b4dee6a62a3854" title="Construct." coords="5,237,187,262"/>
+</map>

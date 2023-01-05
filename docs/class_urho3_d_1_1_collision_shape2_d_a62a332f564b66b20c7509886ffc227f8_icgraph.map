@@ -1,0 +1,4 @@
+<map id="Urho3D::CollisionShape2D::ApplyNodeWorldScale" name="Urho3D::CollisionShape2D::ApplyNodeWorldScale">
+<area shape="rect" id="node1" title="Apply Node world scale." coords="229,5,405,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_collision_shape2_d.html#a09f1167efaa82dc515bef953daa4ad47" title="Handle node transform being dirtied." coords="5,5,181,45"/>
+</map>

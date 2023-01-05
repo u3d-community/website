@@ -1,0 +1,27 @@
+<map id="Urho3D::IndexBuffer" name="Urho3D::IndexBuffer">
+<area shape="rect" id="node1" title="Hardware index buffer." coords="955,78,1097,103"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_graphics.html" title="Graphics subsystem. Manages the application window, rendering state and GPU resources." coords="1387,115,1511,141"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="624,182,735,207"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_event_handler.html" title="Internal helper class for invoking event handler functions." coords="951,323,1101,349"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="243,182,385,207"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="1390,649,1509,674"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,70,133,95"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1608,108,1787,148"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="409,63,572,103"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="905,823,1147,878"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="613,838,746,863"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="927,902,1125,957"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="918,981,1134,1035"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="915,1060,1137,1129"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="879,587,1173,656"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="933,745,1119,799"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="922,680,1130,720"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="953,523,1099,563"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="609,497,750,522"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="950,459,1102,499"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="1364,229,1535,269"/>
+<area shape="rect" id="node16" href="$struct_urho3_d_1_1_linked_list_node.html" title="Singly&#45;linked list node base class." coords="596,358,763,383"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="610,270,749,295"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_g_p_u_object.html" title="Base class for GPU resources." coords="1893,115,2029,141"/>
+<area shape="rect" id="node24" href="$union_urho3_d_1_1_g_p_u_object_handle.html" title="API&#45;specific GPU object representation." coords="1608,173,1787,198"/>
+</map>

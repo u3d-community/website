@@ -1,0 +1,27 @@
+<map id="Urho3D::RigidBody" name="Urho3D::RigidBody">
+<area shape="rect" id="node1" title="Physics rigid body component." coords="2036,344,2168,369"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html" title=" " coords="1050,305,1193,331"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_physics_world.html" title="Physics simulation world component. Should be added only to the root scene node." coords="1361,548,1516,573"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_smoothed_transform.html" title="Transform smoothing component for network updates." coords="1340,241,1537,267"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="465,320,604,345"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="778,260,885,285"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="54,231,194,256"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="33,281,215,321"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_set.html" title=" " coords="39,345,209,385"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="5,409,243,464"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scene.html" title="Root scene node, represents the whole scene." coords="1067,237,1176,263"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="469,249,601,275"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="475,147,594,172"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_quaternion.html" title="Rotation represented as a four&#45;dimensional normalized vector." coords="466,429,603,455"/>
+<area shape="rect" id="node13" title=" " coords="1697,255,1802,280"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="1680,305,1819,345"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="1675,369,1823,409"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1660,433,1839,473"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="1044,665,1199,705"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="464,649,605,675"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="759,607,904,647"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector_buffer.html" title="Dynamically sized buffer that can be read and written to as a stream." coords="1047,580,1195,605"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_abstract_file.html" title="A common root class for objects that implement both Serializer and Deserializer." coords="760,557,903,583"/>
+<area shape="rect" id="node23" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="1375,311,1503,336"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1660,190,1839,230"/>
+</map>

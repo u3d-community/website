@@ -1,0 +1,27 @@
+<map id="Urho3D::Text3D" name="Urho3D::Text3D">
+<area shape="rect" id="node1" title="3D text component." coords="1224,714,1339,739"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="846,346,973,371"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_zone.html" title="Component that describes global rendering properties." coords="1230,266,1333,291"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_light.html" title="Light component." coords="1231,423,1332,449"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="404,438,547,463"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="18,131,169,157"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_octant.html" title=" " coords="420,131,531,157"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector.html" title=" " coords="392,488,559,528"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="843,561,975,586"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="40,577,147,602"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_text.html" title="Text UI element." coords="860,1057,959,1082"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_u_i_selectable.html" title=" " coords="402,897,549,922"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="403,232,548,272"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="403,373,548,413"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="406,947,545,987"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="386,1011,565,1051"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_string.html" title="String class." coords="422,1114,529,1139"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="408,1275,543,1301"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="403,1389,548,1429"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="403,832,548,872"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html" title=" " coords="347,1325,604,1365"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_vector.html" title=" " coords="796,611,1023,651"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="829,675,989,715"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="840,739,979,779"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="837,803,982,843"/>
+</map>

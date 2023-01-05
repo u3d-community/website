@@ -1,0 +1,27 @@
+<map id="Urho3D::Text3D::ApplyAttributes" name="Urho3D::Text3D::ApplyAttributes">
+<area shape="rect" id="node1" title="Apply attribute changes that can not be applied immediately." coords="5,824,215,849"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_text.html#acce2275e97c18c180ed5ff719bd24032" title="Apply attribute changes that can not be applied immediately." coords="263,233,456,259"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_text3_d.html#ad44e2ab1dccca583ae229245729a5d19" title="Mark text &amp; geometry dirty." coords="271,970,447,1010"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_text3_d.html#a1f643feab9477ca50a084501df1a8e3b" title="Update text UI batches." coords="266,663,453,703"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_text3_d.html#a63bf86fc02caa281fb5fc8a54356abfb" title="Create materials for text rendering. May only be called from the main thread. Text UI batches must be..." coords="266,1066,453,1106"/>
+<area shape="rect" id="node3" href="$_math_defs_8h.html#ac3865cf9a0484b8452ccc4e62c5661ca" title=" " coords="563,68,659,93"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializable.html#a58f03d097b05420b50a9017f44a24593" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="541,118,681,158"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_text.html#addf8cee35ae07d806d55953f8e37bd99" title="UTF8 to Unicode." coords="504,183,719,208"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_string.html#a0a988cc147946dd80bf73cea2c1ac04c" title=" " coords="775,85,927,111"/>
+<area shape="rect" id="node8" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="802,328,901,353"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_text.html#a27a4bc43cff802472202b3d1e532ceba" title="Update text when text, font or spacing changed." coords="526,335,697,360"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_text.html#ae0ac58c7dfc1c6efdcfe69214b98eeb8" title="Validate text selection to be within the text." coords="509,436,714,461"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_p_o_d_vector.html#a56e61cb5b8216360fd62b20eb78b5faf" title="Clear the vector." coords="779,226,923,266"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_u_i_element.html#a8c3df9a7b24aa874345db797a95e130e" title=" " coords="781,378,921,418"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="767,464,936,489"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="537,970,685,1010"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_drawable.html#a04a978441415a93f044721f6473df0e3" title="Handle node transform being dirtied." coords="514,1034,709,1074"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_bounding_box.html#afef3c1bfa3910387adb4f5992371a8dd" title="Clear to undefined state." coords="536,791,687,831"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_bounding_box.html#afd34713236804d7207ce7fd709e99db9" title="Define from another bounding box." coords="536,855,687,895"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_text.html#ad553fd06643ea9dbbf0c18cbee39d9f0" title="Return UI rendering batches." coords="526,485,697,511"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_u_i_element.html#a74426efba577c8b92f7b49c307d7a446" title=" " coords="541,535,681,575"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_u_i_element.html#abd9eb79eba9f209d93cb101eb21c4574" title=" " coords="530,599,693,639"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i_element.html#a81a39a64719e35a717960bd631275827" title=" " coords="539,663,684,703"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_bounding_box.html#a4befcf3c67e94eb2f1924e1179b09bd2" title="Merge a point." coords="536,727,687,767"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_graphics.html#a161673ebd757f36216d04199959e917f" title="Return the API&#45;specific alpha texture format." coords="520,1098,703,1138"/>
+</map>

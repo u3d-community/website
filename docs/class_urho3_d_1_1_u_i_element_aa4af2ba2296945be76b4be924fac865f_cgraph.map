@@ -1,0 +1,3 @@
+<map id="Urho3D::UIElement::LoadXML" name="Urho3D::UIElement::LoadXML">
+<area shape="rect" id="node1" title="Load from XML data. Return true if successful." coords="5,29,145,69"/>
+</map>

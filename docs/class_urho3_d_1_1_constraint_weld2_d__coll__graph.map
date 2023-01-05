@@ -1,0 +1,27 @@
+<map id="Urho3D::ConstraintWeld2D" name="Urho3D::ConstraintWeld2D">
+<area shape="rect" id="node1" title="2D weld constraint component." coords="2792,267,2971,292"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_constraint2_d.html" title="2D physics constraint component." coords="2473,188,2623,213"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="2792,135,2971,175"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="1055,129,1197,155"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_physics_world2_d.html" title="2D physics simulation world component. Should be added only to the root scene node." coords="1292,188,1463,213"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_rigid_body2_d.html" title="2D rigid body component." coords="1888,120,2036,145"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="513,95,652,120"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="855,368,961,393"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="54,5,194,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="33,55,215,95"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_set.html" title=" " coords="39,119,209,159"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="5,184,243,239"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_scene.html" title="Root scene node, represents the whole scene." coords="1071,412,1181,437"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="517,543,649,568"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="479,783,687,823"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="523,733,642,759"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_quaternion.html" title="Rotation represented as a four&#45;dimensional normalized vector." coords="514,183,651,208"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html" title=" " coords="464,233,701,273"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html" title=" " coords="482,297,683,337"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector.html" title=" " coords="468,361,697,401"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="510,425,655,465"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1572,166,1751,206"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="1067,291,1185,316"/>
+<area shape="rect" id="node22" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="1313,59,1441,84"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="2173,113,2352,153"/>
+</map>

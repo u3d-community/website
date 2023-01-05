@@ -1,0 +1,221 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " coords="1027,335,1156,360"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_physics_world2_d.html" title="2D physics simulation world component. Should be added only to the root scene node." coords="1224,359,1395,384"/>
+<area shape="rect" id="node3" title=" " coords="1058,384,1125,409"/>
+<area shape="rect" id="node4" title=" " coords="1039,1052,1143,1077"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_physics_world.html" title="Physics simulation world component. Should be added only to the root scene node." coords="1232,945,1387,971"/>
+<area shape="rect" id="node6" title=" " coords="1039,1205,1144,1231"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_rigid_body.html" title="Physics rigid body component." coords="1243,995,1375,1020"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_deserializer.html" title=" " coords="5,256,148,281"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_abstract_file.html" title="A common root class for objects that implement both Serializer and Deserializer." coords="229,156,372,181"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_http_request.html" title="An HTTP connection with response data stream." coords="227,848,374,873"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_file.html" title="File opened either through the filesystem or from within a package file." coords="537,156,630,181"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_memory_buffer.html" title=" " coords="504,5,663,31"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_named_pipe.html" title="Named pipe for interprocess communication." coords="512,205,655,231"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector_buffer.html" title="Dynamically sized buffer that can be read and written to as a stream." coords="509,55,657,80"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_g_p_u_object.html" title="Base class for GPU resources." coords="233,2623,369,2648"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_constant_buffer.html" title="Hardware constant buffer." coords="502,2623,665,2648"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_index_buffer.html" title="Hardware index buffer." coords="512,2129,655,2155"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_shader_program.html" title="Linked shader program on the GPU." coords="501,2724,666,2749"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_shader_variation.html" title="Vertex or pixel shader on the GPU." coords="500,2773,667,2799"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_texture.html" title="Base class for texture resources." coords="1033,457,1149,483"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vertex_buffer.html" title="Hardware vertex buffer." coords="510,2080,657,2105"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_texture2_d.html" title="2D texture resource." coords="1243,556,1375,581"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_texture2_d_array.html" title="2D texture array resource." coords="1228,408,1391,433"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_texture3_d.html" title="3D texture resource." coords="1243,457,1375,483"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_texture_cube.html" title="Cube texture resource." coords="1236,507,1383,532"/>
+<area shape="rect" id="node26" href="$class_urho3_d_1_1_lua_script_event_listener.html" title="Lua script event listener." coords="197,231,404,256"/>
+<area shape="rect" id="node27" href="$class_urho3_d_1_1_lua_script.html" title="Lua script subsystem." coords="519,255,647,280"/>
+<area shape="rect" id="node28" href="$class_urho3_d_1_1_lua_script_instance.html" title="Lua script object component." coords="1220,685,1399,711"/>
+<area shape="rect" id="node29" href="$class_urho3_d_1_1_octant.html" title=" " coords="1036,1415,1147,1440"/>
+<area shape="rect" id="node30" href="$class_urho3_d_1_1_octree.html" title="Octree component. Should be added only to the root scene node." coords="1254,1044,1365,1069"/>
+<area shape="rect" id="node31" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,2475,148,2500"/>
+<area shape="rect" id="node32" href="$class_urho3_d_1_1_animation_state.html" title="Animation instance." coords="219,2203,382,2228"/>
+<area shape="rect" id="node33" href="$class_urho3_d_1_1_attribute_accessor.html" title="Abstract base class for invoking attribute accessors." coords="211,3021,391,3047"/>
+<area shape="rect" id="node35" href="$class_urho3_d_1_1_background_loader.html" title=" " coords="208,995,393,1020"/>
+<area shape="rect" id="node36" href="$struct_urho3_d_1_1_collision_geometry_data.html" title="Base class for collision shape geometry data." coords="196,2327,405,2352"/>
+<area shape="rect" id="node41" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="241,2524,360,2549"/>
+<area shape="rect" id="node42" href="$class_urho3_d_1_1_event_receiver_group.html" title="Tracking structure for event receivers." coords="206,2573,395,2599"/>
+<area shape="rect" id="node43" href="$class_urho3_d_1_1_font_face.html" title="Font face description." coords="237,2376,364,2401"/>
+<area shape="rect" id="node46" href="$class_urho3_d_1_1_lua_function.html" title="C++ representation of Lua function object." coords="229,2775,373,2800"/>
+<area shape="rect" id="node47" href="$class_urho3_d_1_1_object.html" title=" " coords="245,1291,356,1316"/>
+<area shape="rect" id="node198" href="$class_urho3_d_1_1_object_factory.html" title="Base class for object factories." coords="223,2475,378,2500"/>
+<area shape="rect" id="node200" href="$class_urho3_d_1_1_pass.html" title="Material rendering pass, which defines shaders and render state." coords="249,2824,352,2849"/>
+<area shape="rect" id="node201" href="$class_urho3_d_1_1_property_set2_d.html" title="Property set." coords="222,2873,379,2899"/>
+<area shape="rect" id="node202" href="$class_urho3_d_1_1_render_path.html" title="Rendering path definition. A sequence of commands (e.g. clear screen, draw objects with specific pass..." coords="230,2972,371,2997"/>
+<area shape="rect" id="node203" href="$class_urho3_d_1_1_render_surface.html" title="Color or depth&#45;stencil surface that can be rendered into." coords="220,1241,381,1267"/>
+<area shape="rect" id="node204" href="$class_urho3_d_1_1_sound_stream.html" title="Base class for sound streams." coords="224,2923,377,2948"/>
+<area shape="rect" id="node207" href="$class_urho3_d_1_1_tile2_d.html" title="Tile define." coords="245,1143,356,1168"/>
+<area shape="rect" id="node208" href="$class_urho3_d_1_1_tile_map_object2_d.html" title="Tile map object." coords="214,1192,387,1217"/>
+<area shape="rect" id="node209" href="$class_urho3_d_1_1_tmx_layer2_d.html" title="Tmx layer." coords="227,3103,374,3128"/>
+<area shape="rect" id="node213" href="$class_urho3_d_1_1_value_animation_info.html" title="Base class for a value animation instance, which includes animation runtime information and updates t..." coords="206,2252,395,2277"/>
+<area shape="rect" id="node216" href="$struct_urho3_d_1_1_work_item.html" title=" " coords="235,2425,367,2451"/>
+<area shape="rect" id="node34" href="$class_urho3_d_1_1_variant_attribute_accessor_impl.html" title="Template implementation of the variant attribute accessor." coords="485,3000,681,3055"/>
+<area shape="rect" id="node37" href="$struct_urho3_d_1_1_convex_data.html" title="Convex hull geometry data." coords="511,2327,655,2352"/>
+<area shape="rect" id="node38" href="$struct_urho3_d_1_1_g_impact_mesh_data.html" title="Triangle mesh geometry data." coords="492,2376,675,2401"/>
+<area shape="rect" id="node39" href="$struct_urho3_d_1_1_heightfield_data.html" title="Heightfield geometry data." coords="502,2425,665,2451"/>
+<area shape="rect" id="node40" href="$struct_urho3_d_1_1_triangle_mesh_data.html" title="Triangle mesh geometry data." coords="494,2277,673,2303"/>
+<area shape="rect" id="node44" href="$class_urho3_d_1_1_font_face_bitmap.html" title="Bitmap font face description." coords="499,2524,667,2549"/>
+<area shape="rect" id="node45" href="$class_urho3_d_1_1_font_face_free_type.html" title="Free type font face description." coords="494,2475,673,2500"/>
+<area shape="rect" id="node48" href="$class_urho3_d_1_1_application.html" title="Base class for creating applications which initialize the Urho3D engine and run a main loop until exi..." coords="514,452,653,477"/>
+<area shape="rect" id="node49" href="$class_urho3_d_1_1_audio.html" title="Audio subsystem." coords="529,501,637,527"/>
+<area shape="rect" id="node50" href="$class_urho3_d_1_1_connection.html" title="Connection to a remote network host." coords="513,551,653,576"/>
+<area shape="rect" id="node51" href="$class_urho3_d_1_1_console.html" title="Console window with log history and command line prompt." coords="522,600,645,625"/>
+<area shape="rect" id="node52" href="$class_urho3_d_1_1_database.html" title="Database subsystem. Manage database connections." coords="519,649,647,675"/>
+<area shape="rect" id="node53" href="$class_urho3_d_1_1_db_connection.html" title="Database connection." coords="505,699,661,724"/>
+<area shape="rect" id="node54" href="$class_urho3_d_1_1_debug_hud.html" title="Displays rendering stats and profiling information." coords="516,748,651,773"/>
+<area shape="rect" id="node55" href="$class_urho3_d_1_1_engine.html" title="Urho3D engine. Creates the other subsystems." coords="527,797,639,823"/>
+<area shape="rect" id="node56" href="$class_urho3_d_1_1_file_selector.html" title="File selector dialog." coords="512,847,655,872"/>
+<area shape="rect" id="node57" href="$class_urho3_d_1_1_file_system.html" title="Subsystem for file and directory operations and access control." coords="515,945,652,971"/>
+<area shape="rect" id="node58" href="$class_urho3_d_1_1_file_watcher.html" title="Watches a directory and its subdirectories for files being modified." coords="512,304,655,329"/>
+<area shape="rect" id="node59" href="$class_urho3_d_1_1_geometry.html" title="Defines one or more vertex buffers, an index buffer and a draw range." coords="518,995,649,1020"/>
+<area shape="rect" id="node60" href="$class_urho3_d_1_1_graphics.html" title="Graphics subsystem. Manages the application window, rendering state and GPU resources." coords="521,1044,645,1069"/>
+<area shape="rect" id="node61" href="$class_urho3_d_1_1_input.html" title="Input subsystem. Converts operating system window messages to input state and events." coords="532,1093,635,1119"/>
+<area shape="rect" id="node62" href="$class_urho3_d_1_1_localization.html" title="Localization subsystem. Stores all the strings in all languages." coords="511,1143,655,1168"/>
+<area shape="rect" id="node63" href="$class_urho3_d_1_1_log.html" title="Logging subsystem." coords="536,1192,631,1217"/>
+<area shape="rect" id="node64" href="$class_urho3_d_1_1_lua_script_event_invoker.html" title="Lua script event invoker." coords="482,1291,685,1316"/>
+<area shape="rect" id="node65" href="$class_urho3_d_1_1_message_box.html" title="Message box dialog. Manages its lifetime automatically, so the application does not need to hold a re..." coords="509,1340,658,1365"/>
+<area shape="rect" id="node66" href="$class_urho3_d_1_1_network.html" title="Network subsystem. Manages client&#45;server communications using the UDP protocol." coords="521,1389,645,1415"/>
+<area shape="rect" id="node67" href="$class_urho3_d_1_1_occlusion_buffer.html" title="Software renderer for occlusion." coords="500,1439,667,1464"/>
+<area shape="rect" id="node68" href="$class_urho3_d_1_1_package_file.html" title="Stores files of a directory tree sequentially for convenient access." coords="512,1488,655,1513"/>
+<area shape="rect" id="node69" href="$class_urho3_d_1_1_profiler.html" title="Hierarchical performance profiler subsystem." coords="526,1241,641,1267"/>
+<area shape="rect" id="node71" href="$class_urho3_d_1_1_renderer.html" title="High&#45;level rendering subsystem. Manages drawing of 3D views." coords="520,1587,647,1612"/>
+<area shape="rect" id="node72" href="$class_urho3_d_1_1_resource.html" title=" " coords="519,1537,647,1563"/>
+<area shape="rect" id="node95" href="$class_urho3_d_1_1_resource_cache.html" title="Resource cache subsystem. Loads resources on demand and stores them for later access." coords="501,1636,666,1661"/>
+<area shape="rect" id="node96" href="$class_urho3_d_1_1_resource_router.html" title=" " coords="500,1685,667,1711"/>
+<area shape="rect" id="node97" href="$class_urho3_d_1_1_script.html" title="Scripting subsystem. Allows execution of AngelScript." coords="530,1735,637,1760"/>
+<area shape="rect" id="node98" href="$class_urho3_d_1_1_script_event_invoker.html" title="Helper class for forwarding events to script objects that are not part of a scene." coords="492,1784,675,1809"/>
+<area shape="rect" id="node99" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="513,2031,653,2056"/>
+<area shape="rect" id="node192" href="$class_urho3_d_1_1_shader_precache.html" title="Utility class for collecting used shader combinations during runtime for precaching." coords="499,1833,668,1859"/>
+<area shape="rect" id="node193" href="$class_urho3_d_1_1_time.html" title="Time and frame counter subsystem." coords="532,1883,635,1908"/>
+<area shape="rect" id="node194" href="$class_urho3_d_1_1_u_i.html" title="UI subsystem. Manages the graphical user interface." coords="540,1932,627,1957"/>
+<area shape="rect" id="node195" href="$class_urho3_d_1_1_view.html" title="Internal structure for 3D rendering work. Created for each backbuffer and texture viewport,..." coords="533,1981,634,2007"/>
+<area shape="rect" id="node196" href="$class_urho3_d_1_1_viewport.html" title="Viewport definition either for a render surface or the backbuffer." coords="521,353,646,379"/>
+<area shape="rect" id="node197" href="$class_urho3_d_1_1_work_queue.html" title="Work queue subsystem for multithreading." coords="512,403,655,428"/>
+<area shape="rect" id="node70" href="$class_urho3_d_1_1_event_profiler.html" title="Hierarchical performance event profiler subsystem." coords="793,1069,940,1095"/>
+<area shape="rect" id="node73" href="$class_urho3_d_1_1_animation_set2_d.html" title="Spriter animation set, it includes one or more animations, for more information please refer to http:..." coords="783,1316,951,1341"/>
+<area shape="rect" id="node74" href="$class_urho3_d_1_1_font.html" title="Font resource." coords="817,1365,916,1391"/>
+<area shape="rect" id="node75" href="$class_urho3_d_1_1_image.html" title="Image resource." coords="811,1415,922,1440"/>
+<area shape="rect" id="node76" href="$class_urho3_d_1_1_j_s_o_n_file.html" title="JSON document resource." coords="803,1464,930,1489"/>
+<area shape="rect" id="node77" href="$class_urho3_d_1_1_lua_file.html" title="Lua file." coords="809,1513,924,1539"/>
+<area shape="rect" id="node78" href="$class_urho3_d_1_1_material.html" title="Describes how to render 3D geometries." coords="806,1563,927,1588"/>
+<area shape="rect" id="node79" href="$class_urho3_d_1_1_object_animation.html" title="Object animation class, an object animation include one or more attribute animations and theirs wrap ..." coords="781,1612,952,1637"/>
+<area shape="rect" id="node80" href="$class_urho3_d_1_1_p_list_file.html" title="Property list (plist)." coords="805,1661,928,1687"/>
+<area shape="rect" id="node81" href="$class_urho3_d_1_1_particle_effect.html" title="Particle effect definition." coords="791,1711,942,1736"/>
+<area shape="rect" id="node82" href="$class_urho3_d_1_1_particle_effect2_d.html" title="2D particle effect resource." coords="783,1760,950,1785"/>
+<area shape="rect" id="node83" href="$class_urho3_d_1_1_resource_with_metadata.html" title="Base class for resources that support arbitrary metadata stored. Metadata serialization shall be impl..." coords="761,2009,972,2035"/>
+<area shape="rect" id="node87" href="$class_urho3_d_1_1_script_file.html" title="Script file resource." coords="803,995,930,1020"/>
+<area shape="rect" id="node88" href="$class_urho3_d_1_1_shader.html" title="Shader resource consisting of several shader variations." coords="809,1809,924,1835"/>
+<area shape="rect" id="node89" href="$class_urho3_d_1_1_sprite2_d.html" title="Sprite." coords="805,1859,928,1884"/>
+<area shape="rect" id="node90" href="$class_urho3_d_1_1_sprite_sheet2_d.html" title="Sprite sheet." coords="789,1908,945,1933"/>
+<area shape="rect" id="node91" href="$class_urho3_d_1_1_technique.html" title="Material technique. Consists of several passes." coords="800,1119,933,1144"/>
+<area shape="rect" id="node92" href="$class_urho3_d_1_1_tmx_file2_d.html" title="Tile map file." coords="799,1168,934,1193"/>
+<area shape="rect" id="node93" href="$class_urho3_d_1_1_value_animation.html" title="Value animation class." coords="784,1217,949,1243"/>
+<area shape="rect" id="node94" href="$class_urho3_d_1_1_x_m_l_file.html" title="XML document resource." coords="807,1267,927,1292"/>
+<area shape="rect" id="node84" href="$class_urho3_d_1_1_animation.html" title="Skeletal animation resource." coords="1025,1156,1158,1181"/>
+<area shape="rect" id="node85" href="$class_urho3_d_1_1_model.html" title="3D model resource." coords="1036,1365,1147,1391"/>
+<area shape="rect" id="node86" href="$class_urho3_d_1_1_sound.html" title="Sound resource." coords="1036,1003,1147,1028"/>
+<area shape="rect" id="node100" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="797,2304,936,2329"/>
+<area shape="rect" id="node101" href="$class_urho3_d_1_1_component.html" title=" " coords="1020,1685,1163,1711"/>
+<area shape="rect" id="node171" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="1038,2451,1145,2476"/>
+<area shape="rect" id="node173" href="$class_urho3_d_1_1_u_i_element.html" title="Base class for UI elements." coords="1024,2696,1159,2721"/>
+<area shape="rect" id="node102" href="$class_urho3_d_1_1_animation_controller.html" title="Component that drives an AnimatedModel&#39;s animations." coords="1214,2524,1405,2549"/>
+<area shape="rect" id="node103" href="$class_urho3_d_1_1_camera.html" title="Camera component." coords="1250,1093,1369,1119"/>
+<area shape="rect" id="node104" href="$class_urho3_d_1_1_collision_shape.html" title="Physics collision shape component." coords="1229,1143,1389,1168"/>
+<area shape="rect" id="node105" href="$class_urho3_d_1_1_collision_shape2_d.html" title="2D collision shape component." coords="1221,1192,1397,1217"/>
+<area shape="rect" id="node111" href="$class_urho3_d_1_1_constraint.html" title="Physics constraint component. Connects two rigid bodies together, or one rigid body to a static point..." coords="1243,1241,1376,1267"/>
+<area shape="rect" id="node112" href="$class_urho3_d_1_1_constraint2_d.html" title="2D physics constraint component." coords="1235,1291,1384,1316"/>
+<area shape="rect" id="node124" href="$class_urho3_d_1_1_crowd_agent.html" title="Crowd agent component, requires a CrowdManager component in the scene. When not set explicitly,..." coords="1236,1340,1383,1365"/>
+<area shape="rect" id="node125" href="$class_urho3_d_1_1_crowd_manager.html" title="Crowd manager scene component. Should be added only to the root scene node." coords="1227,1389,1391,1415"/>
+<area shape="rect" id="node126" href="$class_urho3_d_1_1_debug_renderer.html" title="Debug geometry rendering component. Should be added only to the root scene node." coords="1228,1439,1391,1464"/>
+<area shape="rect" id="node127" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="1246,1488,1373,1513"/>
+<area shape="rect" id="node147" href="$class_urho3_d_1_1_i_k_constraint.html" title=" " coords="1237,1537,1382,1563"/>
+<area shape="rect" id="node148" href="$class_urho3_d_1_1_i_k_effector.html" title=" " coords="1243,1587,1375,1612"/>
+<area shape="rect" id="node149" href="$class_urho3_d_1_1_i_k_solver.html" title="Marks the root or &quot;beginning&quot; of an IK chain or multiple IK chains. The solving algorithm can be set ..." coords="1248,1636,1371,1661"/>
+<area shape="rect" id="node150" href="$class_urho3_d_1_1_logic_component.html" title="Helper base class for user&#45;defined game logic components that hooks up to update events and forwards ..." coords="1222,1685,1397,1711"/>
+<area shape="rect" id="node152" href="$class_urho3_d_1_1_nav_area.html" title=" " coords="1248,1735,1371,1760"/>
+<area shape="rect" id="node153" href="$class_urho3_d_1_1_navigable.html" title="Component which tags geometry for inclusion in the navigation mesh. Optionally auto&#45;includes geometry..." coords="1244,1784,1375,1809"/>
+<area shape="rect" id="node154" href="$class_urho3_d_1_1_navigation_mesh.html" title="Navigation mesh component. Collects the navigation geometry from child nodes with the Navigable compo..." coords="1225,1833,1393,1859"/>
+<area shape="rect" id="node156" href="$class_urho3_d_1_1_network_priority.html" title="Network interest management settings component." coords="1226,1883,1393,1908"/>
+<area shape="rect" id="node157" href="$class_urho3_d_1_1_obstacle.html" title="Obstacle for dynamic navigation mesh." coords="1247,1932,1371,1957"/>
+<area shape="rect" id="node158" href="$class_urho3_d_1_1_off_mesh_connection.html" title="A link between otherwise unconnected regions of the navigation mesh." coords="1213,1981,1405,2007"/>
+<area shape="rect" id="node159" href="$class_urho3_d_1_1_rigid_body2_d.html" title="2D rigid body component." coords="1235,2031,1383,2056"/>
+<area shape="rect" id="node160" href="$class_urho3_d_1_1_script_instance.html" title="Script object component." coords="1231,896,1388,921"/>
+<area shape="rect" id="node161" href="$class_urho3_d_1_1_smoothed_transform.html" title="Transform smoothing component for network updates." coords="1211,2080,1408,2105"/>
+<area shape="rect" id="node162" href="$class_urho3_d_1_1_sound_listener.html" title="Sound listener component." coords="1230,2129,1389,2155"/>
+<area shape="rect" id="node163" href="$class_urho3_d_1_1_sound_source.html" title="Sound source component with stereo position. A sound source needs to be created to a node to be consi..." coords="1233,2179,1385,2204"/>
+<area shape="rect" id="node165" href="$class_urho3_d_1_1_spline_path.html" title="Spline for creating smooth movement based on Speed along a set of Control Points modified by the Inte..." coords="1242,2228,1377,2253"/>
+<area shape="rect" id="node166" href="$class_urho3_d_1_1_terrain.html" title="Heightmap terrain component." coords="1253,2277,1366,2303"/>
+<area shape="rect" id="node167" href="$class_urho3_d_1_1_tile_map2_d.html" title="Tile map component." coords="1241,2327,1377,2352"/>
+<area shape="rect" id="node168" href="$class_urho3_d_1_1_tile_map_layer2_d.html" title="Tile map component." coords="1225,2376,1393,2401"/>
+<area shape="rect" id="node169" href="$class_urho3_d_1_1_u_i_component.html" title=" " coords="1232,2425,1387,2451"/>
+<area shape="rect" id="node170" href="$class_urho3_d_1_1_unknown_component.html" title="Placeholder for allowing unregistered components to be loaded &amp; saved along with scenes." coords="1211,2475,1408,2500"/>
+<area shape="rect" id="node106" href="$class_urho3_d_1_1_collision_box2_d.html" title="2D box collision component." coords="1484,649,1647,675"/>
+<area shape="rect" id="node107" href="$class_urho3_d_1_1_collision_chain2_d.html" title="2D chain collision component." coords="1479,699,1652,724"/>
+<area shape="rect" id="node108" href="$class_urho3_d_1_1_collision_circle2_d.html" title="2D circle collision component." coords="1479,748,1652,773"/>
+<area shape="rect" id="node109" href="$class_urho3_d_1_1_collision_edge2_d.html" title="2D edge collision component." coords="1481,797,1650,823"/>
+<area shape="rect" id="node110" href="$class_urho3_d_1_1_collision_polygon2_d.html" title="2D polygon collision component." coords="1472,847,1659,872"/>
+<area shape="rect" id="node113" href="$class_urho3_d_1_1_constraint_distance2_d.html" title="2D distance constraint component." coords="1465,945,1665,971"/>
+<area shape="rect" id="node114" href="$class_urho3_d_1_1_constraint_friction2_d.html" title="2D friction constraint component." coords="1469,995,1662,1020"/>
+<area shape="rect" id="node115" href="$class_urho3_d_1_1_constraint_gear2_d.html" title="2D gear constraint component." coords="1477,1044,1654,1069"/>
+<area shape="rect" id="node116" href="$class_urho3_d_1_1_constraint_motor2_d.html" title="2D motor constraint component." coords="1472,1093,1659,1119"/>
+<area shape="rect" id="node117" href="$class_urho3_d_1_1_constraint_mouse2_d.html" title="2D mouse constraint component." coords="1470,1143,1661,1168"/>
+<area shape="rect" id="node118" href="$class_urho3_d_1_1_constraint_prismatic2_d.html" title="2D prismatic constraint component." coords="1463,1192,1668,1217"/>
+<area shape="rect" id="node119" href="$class_urho3_d_1_1_constraint_pulley2_d.html" title="2D pulley constraint component." coords="1474,1241,1657,1267"/>
+<area shape="rect" id="node120" href="$class_urho3_d_1_1_constraint_revolute2_d.html" title="2D revolute constraint component." coords="1466,1291,1665,1316"/>
+<area shape="rect" id="node121" href="$class_urho3_d_1_1_constraint_rope2_d.html" title="2D rope constraint component." coords="1476,1340,1655,1365"/>
+<area shape="rect" id="node122" href="$class_urho3_d_1_1_constraint_weld2_d.html" title="2D weld constraint component." coords="1476,1389,1655,1415"/>
+<area shape="rect" id="node123" href="$class_urho3_d_1_1_constraint_wheel2_d.html" title="2D wheel constraint component." coords="1473,896,1658,921"/>
+<area shape="rect" id="node128" href="$class_urho3_d_1_1_billboard_set.html" title="Billboard component." coords="1494,1488,1637,1513"/>
+<area shape="rect" id="node130" href="$class_urho3_d_1_1_custom_geometry.html" title="Custom geometry component." coords="1476,1537,1655,1563"/>
+<area shape="rect" id="node131" href="$class_urho3_d_1_1_decal_set.html" title="Decal renderer component." coords="1503,1587,1628,1612"/>
+<area shape="rect" id="node132" href="$class_urho3_d_1_1_drawable2_d.html" title="Base class for 2D visible components." coords="1494,1636,1637,1661"/>
+<area shape="rect" id="node137" href="$class_urho3_d_1_1_light.html" title="Light component." coords="1515,1685,1616,1711"/>
+<area shape="rect" id="node138" href="$class_urho3_d_1_1_renderer2_d.html" title="2D renderer component." coords="1494,1735,1637,1760"/>
+<area shape="rect" id="node139" href="$class_urho3_d_1_1_ribbon_trail.html" title="Drawable component that creates a tail." coords="1497,1784,1634,1809"/>
+<area shape="rect" id="node140" href="$class_urho3_d_1_1_static_model.html" title="Static model component." coords="1493,1833,1637,1859"/>
+<area shape="rect" id="node144" href="$class_urho3_d_1_1_terrain_patch.html" title="Individually rendered part of a heightmap terrain." coords="1492,1883,1639,1908"/>
+<area shape="rect" id="node145" href="$class_urho3_d_1_1_text3_d.html" title="3D text component." coords="1508,1932,1623,1957"/>
+<area shape="rect" id="node146" href="$class_urho3_d_1_1_zone.html" title="Component that describes global rendering properties." coords="1514,1439,1617,1464"/>
+<area shape="rect" id="node129" href="$class_urho3_d_1_1_particle_emitter.html" title="Particle emitter component." coords="1732,1488,1892,1513"/>
+<area shape="rect" id="node133" href="$class_urho3_d_1_1_particle_emitter2_d.html" title="2D particle emitter component." coords="1724,1611,1900,1636"/>
+<area shape="rect" id="node134" href="$class_urho3_d_1_1_static_sprite2_d.html" title="Static sprite component." coords="1734,1660,1890,1685"/>
+<area shape="rect" id="node135" href="$class_urho3_d_1_1_animated_sprite2_d.html" title="Animated sprite component, it uses to play animation created by Spine (http://www...." coords="1953,1636,2133,1661"/>
+<area shape="rect" id="node136" href="$class_urho3_d_1_1_stretchable_sprite2_d.html" title="Stretchable sprite component." coords="1949,1685,2137,1711"/>
+<area shape="rect" id="node141" href="$class_urho3_d_1_1_animated_model.html" title="Animated model component." coords="1728,1883,1896,1908"/>
+<area shape="rect" id="node142" href="$class_urho3_d_1_1_skybox.html" title="Static model component with fixed position in relation to the camera." coords="1755,1784,1869,1809"/>
+<area shape="rect" id="node143" href="$class_urho3_d_1_1_static_model_group.html" title="Renders several object instances while culling and receiving light as one unit. Can be used as a CPU&#45;..." coords="1723,1833,1901,1859"/>
+<area shape="rect" id="node151" href="$class_urho3_d_1_1_raycast_vehicle.html" title=" " coords="1485,1981,1646,2007"/>
+<area shape="rect" id="node155" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html" title=" " coords="1456,2031,1675,2056"/>
+<area shape="rect" id="node164" href="$class_urho3_d_1_1_sound_source3_d.html" title="Sound source component with three&#45;dimensional position." coords="1481,2179,1649,2204"/>
+<area shape="rect" id="node172" href="$class_urho3_d_1_1_scene.html" title="Root scene node, represents the whole scene." coords="1255,2573,1364,2599"/>
+<area shape="rect" id="node174" href="$class_urho3_d_1_1_border_image.html" title="Image UI element with optional border." coords="1234,2771,1385,2796"/>
+<area shape="rect" id="node186" href="$class_urho3_d_1_1_scroll_view.html" title="Scrollable UI element for showing a (possibly large) child element." coords="1242,2893,1377,2919"/>
+<area shape="rect" id="node188" href="$class_urho3_d_1_1_sprite.html" title="UI element which allows sub&#45;pixel positioning and size, as well as rotation. Only other Sprites shoul..." coords="1256,2623,1363,2648"/>
+<area shape="rect" id="node189" href="$class_urho3_d_1_1_tool_tip.html" title="Tooltip UI element." coords="1251,2672,1368,2697"/>
+<area shape="rect" id="node190" href="$class_urho3_d_1_1_u_i_selectable.html" title=" " coords="1236,2721,1383,2747"/>
+<area shape="rect" id="node175" href="$class_urho3_d_1_1_button.html" title="Push button UI element." coords="1510,2647,1621,2672"/>
+<area shape="rect" id="node178" href="$class_urho3_d_1_1_check_box.html" title="UI element that can be toggled between unchecked and checked state." coords="1499,2696,1631,2721"/>
+<area shape="rect" id="node179" href="$class_urho3_d_1_1_cursor.html" title="Mouse cursor UI element." coords="1508,2745,1623,2771"/>
+<area shape="rect" id="node180" href="$class_urho3_d_1_1_line_edit.html" title="Single&#45;line text editor UI element." coords="1506,2795,1625,2820"/>
+<area shape="rect" id="node181" href="$class_urho3_d_1_1_progress_bar.html" title="ProgressBar bar UI element." coords="1493,2844,1638,2869"/>
+<area shape="rect" id="node182" href="$class_urho3_d_1_1_scroll_bar.html" title="Scroll bar UI element with forward and back buttons." coords="1502,2893,1629,2919"/>
+<area shape="rect" id="node183" href="$class_urho3_d_1_1_slider.html" title="Slider bar UI element." coords="1512,2943,1619,2968"/>
+<area shape="rect" id="node184" href="$class_urho3_d_1_1_window.html" title="Window UI element that can optionally by moved or resized." coords="1505,2597,1626,2623"/>
+<area shape="rect" id="node176" href="$class_urho3_d_1_1_menu.html" title="Menu UI element that optionally shows a popup." coords="1759,2647,1865,2672"/>
+<area shape="rect" id="node177" href="$class_urho3_d_1_1_drop_down_list.html" title="Menu UI element that displays a popup list view." coords="1965,2647,2121,2672"/>
+<area shape="rect" id="node185" href="$class_urho3_d_1_1_view3_d.html" title="UI element which renders a 3D scene." coords="1753,2597,1871,2623"/>
+<area shape="rect" id="node187" href="$class_urho3_d_1_1_list_view.html" title="Scrollable list UI element." coords="1504,2992,1627,3017"/>
+<area shape="rect" id="node191" href="$class_urho3_d_1_1_text.html" title="Text UI element." coords="1516,2548,1615,2573"/>
+<area shape="rect" id="node199" href="$class_urho3_d_1_1_object_factory_impl.html" title="Template implementation of the object factory." coords="479,2573,687,2599"/>
+<area shape="rect" id="node205" href="$class_urho3_d_1_1_buffered_sound_stream.html" title="Sound stream that supports manual buffering of data from the main thread." coords="482,2940,685,2965"/>
+<area shape="rect" id="node206" href="$class_urho3_d_1_1_ogg_vorbis_sound_stream.html" title="Ogg Vorbis sound stream." coords="476,2891,691,2916"/>
+<area shape="rect" id="node210" href="$class_urho3_d_1_1_tmx_image_layer2_d.html" title="Tmx image layer." coords="491,3177,675,3203"/>
+<area shape="rect" id="node211" href="$class_urho3_d_1_1_tmx_object_group2_d.html" title="Tmx objects layer." coords="490,3079,677,3104"/>
+<area shape="rect" id="node212" href="$class_urho3_d_1_1_tmx_tile_layer2_d.html" title="Tmx tile layer." coords="499,3128,667,3153"/>
+<area shape="rect" id="node214" href="$class_urho3_d_1_1_attribute_animation_info.html" title="Attribute animation instance." coords="480,2179,687,2204"/>
+<area shape="rect" id="node215" href="$class_urho3_d_1_1_shader_parameter_animation_info.html" title="Material&#39;s shader parameter animation instance." coords="453,2228,713,2253"/>
+<area shape="rect" id="node217" href="$class_urho3_d_1_1_script_event_listener.html" title="Interface class for allowing script objects or functions to subscribe to events." coords="491,896,676,921"/>
+<area shape="rect" id="node218" href="$class_urho3_d_1_1_serializer.html" title=" " coords="13,156,141,181"/>
+<area shape="rect" id="node219" href="$class_urho3_d_1_1_thread.html" title="Operating system thread." coords="19,848,134,873"/>
+</map>

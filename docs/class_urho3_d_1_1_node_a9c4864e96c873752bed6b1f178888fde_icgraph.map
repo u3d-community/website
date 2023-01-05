@@ -1,0 +1,27 @@
+<map id="Urho3D::Node::MarkNetworkUpdate" name="Urho3D::Node::MarkNetworkUpdate">
+<area shape="rect" id="node1" title="Mark for attribute check on the next network update." coords="767,467,961,507"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#aefe578aa19c22b27311a4377239cca01" title="Add a child scene node at a specific index. If index is not explicitly specified or is greater than c..." coords="524,55,691,80"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a3792a0c2e23b120ac879c2931d6f9dc4" title="Add a pre&#45;created component. Using this function from application code is discouraged,..." coords="504,153,711,179"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#af02551fed0c1b325fd48332936062742" title="Add a tag." coords="528,811,687,836"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a7d20c591eb136f06b302edbe42fd674b" title="Remove all tags." coords="506,203,709,228"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#ad325f3f7bc7b89b57bb8624b8c052e90" title="Remove tag. Return true if existed." coords="517,252,698,277"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a071a25236d4886d8a8a7c7ab8f583ace" title="Rotate around a point in the chosen transform space." coords="511,301,704,327"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#af976764d78d73c0e6559e40ec169da99" title="Modify scale in parent space." coords="535,351,679,376"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_node.html#a34e18d709fe99b03eaa56bc1ef202059" title="Set enabled/disabled state with optional recursion. Optionally affect the remembered enable state." coords="518,400,697,425"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_node.html#a4fe38a2be941c8ca1fa59b9639775c09" title=" " coords="524,449,691,475"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_node.html#aa2fd960b4c5641cd38771280a6b84fb8" title=" " coords="518,499,697,524"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_node.html#a11bd9b2bfda2503123a32889b144aea1" title=" " coords="517,548,697,573"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_node.html#a2c082c1db09bb3498117d0b3586ecba2" title=" " coords="526,597,689,623"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_scene.html#a1a98707b3d010c1260553d2465dc1848" title=" " coords="508,647,707,687"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_scene.html#a8290804ab553ae30abe3d6ad00869e6f" title=" " coords="496,712,719,737"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_scene.html#ac8b0f11b63f431f1e605dd7379f39ede" title=" " coords="509,761,705,787"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#af7fc2b6d072cd23a0b7b87e509d010fd" title="Set both position and rotation in parent space as an atomic operation. This is faster than setting po..." coords="511,104,704,129"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_node.html#a70dad27412862b789eaadab43cb1fd0b" title="Set a user variable." coords="532,860,683,885"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_node.html#a407412d8ff08e79afdd609d82afadff7" title="Move the scene node in the chosen transform space." coords="525,909,690,935"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a418b30665ae7a725c94bfcacbf629238" title="Create a child node with specific ID." coords="249,5,429,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a3739b426a217d968f04b9d0128922f1e" title="Set network parent attribute." coords="233,55,444,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a8a62d2fd3157b3d569753b57de8d065d" title=" " coords="255,104,423,129"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ab23d77af7fe3350c1dcfec8281849ed3" title="Create a component to this node (with specified ID if provided)." coords="229,153,448,179"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a7d5ace493b64e225e28101f4f8c697ee" title="Create component, allowing UnknownComponent if actual type is not supported. Leave typeName empty if ..." coords="5,171,181,211"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a9629ef32d32424c031e40adae5454115" title="Add tags." coords="256,811,421,836"/>
+</map>

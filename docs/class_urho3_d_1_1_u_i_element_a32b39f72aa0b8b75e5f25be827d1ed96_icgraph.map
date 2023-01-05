@@ -1,0 +1,6 @@
+<map id="Urho3D::UIElement::OnHover" name="Urho3D::UIElement::OnHover">
+<area shape="rect" id="node1" title="React to mouse hover." coords="232,47,372,87"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_menu.html#abdd3fd6b007fc4eefea8436df61584b3" title="React to mouse hover." coords="13,5,177,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_slider.html#a209afd804d6d30903f3cac1a824bd645" title="React to mouse hover." coords="12,55,177,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_window.html#ad453fbdaf401511490f0206a40c94b59" title="React to mouse hover." coords="5,104,184,129"/>
+</map>

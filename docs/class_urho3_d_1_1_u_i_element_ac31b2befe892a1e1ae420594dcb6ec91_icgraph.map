@@ -1,0 +1,7 @@
+<map id="Urho3D::UIElement::GetName" name="Urho3D::UIElement::GetName">
+<area shape="rect" id="node1" title=" " coords="465,65,605,105"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_input.html#ae6e2a0dd7db2be45379d5551187afb7b" title="Add screen joystick." coords="5,5,179,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_input.html#a81b43d331225b80eb2f2e647b142ab5c" title="Handle touch events from the controls of screen joystick(s)." coords="227,33,417,73"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_sprite.html#aedada728de8e83b44472e1dd798a1b0d" title=" " coords="241,97,403,137"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#aa6fad1d07806bb3035f0759984b2afc1" title=" " coords="252,161,392,201"/>
+</map>

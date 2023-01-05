@@ -1,0 +1,5 @@
+<map id="Urho3D::Sprite::SetScale" name="Urho3D::Sprite::SetScale">
+<area shape="rect" id="node1" title=" " coords="217,42,381,67"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_sprite.html#aedada728de8e83b44472e1dd798a1b0d" title=" " coords="7,5,168,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_sprite.html#a446f8c9849eb5fbd00cf1c82c4cfc977" title="Set scale. Scale also affects child sprites." coords="5,70,169,95"/>
+</map>

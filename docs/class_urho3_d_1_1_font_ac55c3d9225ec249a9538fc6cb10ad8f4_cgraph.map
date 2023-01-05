@@ -1,0 +1,16 @@
+<map id="Urho3D::Font::BeginLoad" name="Urho3D::Font::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,148,172,173"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="495,5,685,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_deserializer.html#a29f095da2db6cf9e4c7e76365341466e" title=" " coords="262,54,405,94"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_font.html#aaa35a6d45cbb33f80cc18f6c0eec995b" title="Load font glyph offset parameters from an optional XML file. Called internally when loading TrueType ..." coords="232,119,435,144"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_deserializer.html#ae82036f72896194adc1cd02f3b03509b" title="Read bytes from the stream. Return number of bytes actually read." coords="262,169,405,209"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_shared_array_ptr.html#a5f621b62e29d89c1d29f1c2089932bd5" title="Reset to null and release the array reference." coords="252,233,415,273"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="220,297,447,323"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="733,51,881,91"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_x_m_l_element.html#af7c1e4d20b23c78b43b10a7d11d5aafd" title="Return a float attribute, or zero if missing." coords="516,109,664,149"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_x_m_l_element.html#aee06acb7085894da986940750c2735be" title="Return an integer attribute, or zero if missing." coords="516,173,664,213"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="929,63,1085,88"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="733,115,881,155"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_x_m_l_element.html#afd561acf36305fd70cf86f60f666798f" title="Return attribute as C string, or null if missing." coords="933,115,1081,155"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_shared_array_ptr.html#a4fe651dd5116bb958bd304858c5f3a35" title="Release the array reference and delete it and the RefCount structure if necessary." coords="509,237,671,277"/>
+</map>

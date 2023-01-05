@@ -1,0 +1,5 @@
+<map id="Urho3D::ParticleEmitter2D::OnWorldBoundingBoxUpdate" name="Urho3D::ParticleEmitter2D::OnWorldBoundingBoxUpdate">
+<area shape="rect" id="node1" title="Recalculate the world&#45;space bounding box." coords="5,37,213,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_bounding_box.html#afef3c1bfa3910387adb4f5992371a8dd" title="Clear to undefined state." coords="261,5,412,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_bounding_box.html#a4befcf3c67e94eb2f1924e1179b09bd2" title="Merge a point." coords="261,69,412,109"/>
+</map>

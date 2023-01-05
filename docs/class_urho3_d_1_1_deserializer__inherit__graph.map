@@ -1,0 +1,9 @@
+<map id="Urho3D::Deserializer" name="Urho3D::Deserializer">
+<area shape="rect" id="node1" title=" " coords="302,5,445,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_abstract_file.html" title="A common root class for objects that implement both Serializer and Deserializer." coords="218,79,361,104"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_http_request.html" title="An HTTP connection with response data stream." coords="385,79,532,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_file.html" title="File opened either through the filesystem or from within a package file." coords="5,152,99,177"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_memory_buffer.html" title=" " coords="123,152,282,177"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_named_pipe.html" title="Named pipe for interprocess communication." coords="306,152,449,177"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector_buffer.html" title="Dynamically sized buffer that can be read and written to as a stream." coords="473,152,621,177"/>
+</map>

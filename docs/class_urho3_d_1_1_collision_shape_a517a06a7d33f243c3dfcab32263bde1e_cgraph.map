@@ -1,0 +1,27 @@
+<map id="Urho3D::CollisionShape::ApplyAttributes" name="Urho3D::CollisionShape::ApplyAttributes">
+<area shape="rect" id="node1" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="5,417,165,457"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_collision_shape.html#a8cfe09cb27ec041dedcd92a69293bcbc" title="Update the new collision shape to the RigidBody." coords="951,420,1111,460"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_collision_shape.html#a5ecb900b219e57ddf9696a1fb194f33a" title="Update the collision shape after attribute changes." coords="213,253,373,293"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="1199,89,1358,114"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_collision_shape.html#ab1f08f05ff8c76e97b03d6d9a94baf7e" title="Find the parent rigid body component and return its compound collision shape." coords="1185,268,1372,308"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="1179,485,1379,510"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="1205,420,1353,460"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="1427,427,1597,453"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector3.html#a6b5f7e4dcec16c52e21e7dbf0a3cff15" title="Return absolute vector." coords="707,90,855,115"/>
+<area shape="rect" id="node11" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="477,121,575,146"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_collision_shape.html#ae8711104bc670ce7d5ec44ee687c5986" title="Release the collision shape." coords="951,12,1111,52"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_collision_shape.html#a02029eaf22f387547af8d3cdbe430323" title="Update cached geometry collision shape." coords="421,285,631,325"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_collision_shape.html#a41c97935a817938bf566419da49581e7" title=" " coords="446,221,606,261"/>
+<area shape="rect" id="node10" href="$_math_defs_8h.html#ac3865cf9a0484b8452ccc4e62c5661ca" title=" " coords="983,101,1079,126"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_unique_ptr.html#a908fda172f7c703c8e22f8b6e49509b3" title="Reset." coords="1209,12,1348,52"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="951,150,1110,175"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_map.html#a9dc4e5c0ad1feb3eec2d2f1f1714698d" title="Return iterator to the pair with key, or end iterator if not found." coords="700,191,861,217"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_scene.html#a0c7ddadabfbb191e42b39877ca84cd67" title="Return component from the whole scene by ID, or null if not found." coords="679,370,883,395"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="707,241,855,281"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_collision_shape.html#ac5372bd6380621dc23b08e4601136582" title="Update trimesh or convex shape after a model has reloaded itself." coords="681,420,880,460"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="693,305,868,345"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1201,150,1357,175"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_map.html#a85f871cbe77f2d780e1a169f19936ad8" title="Find a node from the buckets. Do not call if the buckets have not been allocated." coords="933,199,1128,225"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_hash_map.html#a6baa78766271c323b914fd2e6ca70c66" title="Compute a hash based on the key and the bucket size." coords="947,249,1114,274"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="931,370,1131,395"/>
+</map>

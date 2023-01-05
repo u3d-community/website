@@ -1,0 +1,8 @@
+<map id="Urho3D::Navigable" name="Urho3D::Navigable">
+<area shape="rect" id="node1" title="Component which tags geometry for inclusion in the navigation mesh. Optionally auto&#45;includes geometry..." coords="11,372,142,397"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html" title=" " coords="5,299,148,324"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="7,225,146,251"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="7,152,147,177"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object.html" title=" " coords="21,79,132,104"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,5,148,31"/>
+</map>

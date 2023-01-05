@@ -1,0 +1,4 @@
+<map id="Urho3D::UIElement::OnDragCancel" name="Urho3D::UIElement::OnDragCancel">
+<area shape="rect" id="node1" title="React to a mouse drag cancel event (ie, when an extra button is pressed)." coords="264,5,404,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_window.html#aedff495d092ea1a241c08fe9f9c05397" title="React to mouse drag cancel." coords="5,13,216,38"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Urho3D::Scene::IsUpdateEnabled" name="Urho3D::Scene::IsUpdateEnabled">
+<area shape="rect" id="node1" title=" " coords="457,13,672,38"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_octree.html#aa8eb76b6cb6ec002fd1687a001668222" title="Handle render update in case of headless execution." coords="208,5,409,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_octree.html#aef63e04e9942efa2edb1e451040cd8ce" title="Construct." coords="5,13,160,38"/>
+</map>

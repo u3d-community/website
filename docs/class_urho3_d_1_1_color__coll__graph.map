@@ -1,0 +1,4 @@
+<map id="Urho3D::Color" name="Urho3D::Color">
+<area shape="rect" id="node1" title="RGBA color." coords="48,183,155,209"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_color_1_1_channel_mask.html" title="Mask describing color channels." coords="5,5,197,31"/>
+</map>

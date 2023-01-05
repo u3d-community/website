@@ -1,0 +1,27 @@
+<map id="Urho3D::CrowdAgent::OnSceneSet" name="Urho3D::CrowdAgent::OnSceneSet">
+<area shape="rect" id="node1" title="Handle node being assigned." coords="5,891,152,931"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_crowd_agent.html#a5f8ee77ec07f0b2337f5396b09f1230b" title="Add agent into crowd." coords="226,449,373,489"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_node.html#ad4e4b1798b1b55d0c60730bd061362af" title="Create a component to this node if it does not exist already." coords="207,919,391,959"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="200,983,399,1009"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_crowd_agent.html#aaece7e290f7941476f7ceeb2676e2fa1" title="Remove agent from crowd." coords="977,791,1157,831"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_crowd_agent.html#a74d8463b0d5555025468631be1655fbd" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="483,407,629,447"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_crowd_agent.html#a10ee874b4a7c18600a751cb8630a1179" title=" " coords="1205,313,1352,353"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_crowd_agent.html#a10bc365863ee6cf7868dc3d0c104713d" title=" " coords="748,601,895,641"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_crowd_agent.html#ae23e8523d663fa975f4354da53f22332" title=" " coords="483,573,629,613"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="473,5,639,45"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="482,69,630,109"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_crowd_agent.html#a817b1390bcfaa25c2b7ef4d6d5fd4758" title=" " coords="483,689,629,729"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="713,767,929,793"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_crowd_agent.html#a077caac909aa421b1e39c375c3021e07" title=" " coords="483,804,629,844"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="467,158,645,183"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="772,414,871,439"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="774,487,869,513"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_crowd_agent.html#a72f4e3378a2a6ef1679f1e94b409d286" title="Reset any target request for the specified agent. Note that the agent will continue to move into the ..." coords="994,281,1141,321"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_crowd_agent.html#a54ada3350dd622792e0447102c993819" title=" " coords="748,224,895,264"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_crowd_agent.html#afe2055fa49b9a4d10d6668ecafedf24d" title=" " coords="994,345,1141,385"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_crowd_agent.html#af7bd90820dbf00df2aa763f606663f38" title="Update Detour crowd agent parameter." coords="748,537,895,577"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_crowd_agent.html#a9570c793c0cc976e1c25ac1696ea3e86" title="Get internal Detour crowd agent." coords="987,629,1148,669"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="733,5,909,45"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_node.html#ab23d77af7fe3350c1dcfec8281849ed3" title="Create a component to this node (with specified ID if provided)." coords="447,923,665,949"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="455,973,657,998"/>
+</map>

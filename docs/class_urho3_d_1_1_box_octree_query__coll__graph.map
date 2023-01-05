@@ -1,0 +1,8 @@
+<map id="Urho3D::BoxOctreeQuery" name="Urho3D::BoxOctreeQuery">
+<area shape="rect" id="node1" title=" " coords="82,363,249,388"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_octree_query.html" title="Base class for octree queries." coords="7,275,153,300"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="5,119,155,159"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="9,5,151,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="177,275,327,300"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="193,126,311,151"/>
+</map>

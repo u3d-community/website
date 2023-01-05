@@ -1,0 +1,6 @@
+<map id="Urho3D::DynamicNavigationMesh::ReleaseNavigationMesh" name="Urho3D::DynamicNavigationMesh::ReleaseNavigationMesh">
+<area shape="rect" id="node1" title="Release the navigation mesh, query, and tile cache." coords="5,37,208,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#a8697f7700e19448df268ebe330e13d12" title="Release the navigation mesh and the query." coords="265,5,434,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a62c2f11e461a02a32d62b6a3e46a4a33" title="Free the tile cache." coords="256,69,443,109"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_bounding_box.html#afef3c1bfa3910387adb4f5992371a8dd" title="Clear to undefined state." coords="491,5,641,45"/>
+</map>

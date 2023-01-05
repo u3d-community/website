@@ -1,0 +1,10 @@
+<map id="Urho3D::UIElement::FindAttributeAnimationTarget" name="Urho3D::UIElement::FindAttributeAnimationTarget">
+<area shape="rect" id="node1" title="Find target of an attribute animation from object hierarchy by name." coords="5,105,199,145"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="247,5,393,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a2c03c90ba946b4ea7cbf53947201dc99" title="Return first char, or 0 if empty." coords="249,55,391,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#a4273bc9c9436696282a4bf5b29feba1e" title=" " coords="250,105,390,145"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="249,169,391,195"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_string.html#a954d2f1f13dc059aa7268e99bc3ff30f" title="Return substrings split by a separator char. By default don&#39;t return empty strings." coords="251,243,389,268"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="442,5,597,31"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="441,243,597,268"/>
+</map>

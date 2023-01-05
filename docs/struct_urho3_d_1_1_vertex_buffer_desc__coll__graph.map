@@ -1,0 +1,7 @@
+<map id="Urho3D::VertexBufferDesc" name="Urho3D::VertexBufferDesc">
+<area shape="rect" id="node1" title="Description of vertex buffer data for asynchronous loading." coords="577,45,755,70"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="256,5,428,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,13,147,38"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="261,69,423,109"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="12,77,140,102"/>
+</map>

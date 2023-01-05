@@ -1,0 +1,7 @@
+<map id="Urho3D::DynamicNavigationMesh::GetTileData" name="Urho3D::DynamicNavigationMesh::GetTileData">
+<area shape="rect" id="node1" title="Return tile data." coords="5,37,192,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector_buffer.html#a2f9263d81223cc1315806fd5325069dc" title="Return the buffer." coords="259,5,407,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a88843a407287d3e5444879ba57d09bd5" title="Write tiles data." coords="240,69,427,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializer.html#af1212487507dad99d9f389f9c8b48a60" title="Write bytes to the stream. Return number of bytes actually written." coords="651,69,779,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializer.html#a8fafd0034fc92b582689802c41112376" title="Write a 32&#45;bit integer." coords="475,97,603,137"/>
+</map>

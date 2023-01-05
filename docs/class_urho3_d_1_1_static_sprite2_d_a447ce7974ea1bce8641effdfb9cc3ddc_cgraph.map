@@ -1,0 +1,27 @@
+<map id="Urho3D::StaticSprite2D::OnSceneSet" name="Urho3D::StaticSprite2D::OnSceneSet">
+<area shape="rect" id="node1" title="Handle scene being assigned." coords="5,957,161,997"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable2_d.html#ae55f58970b6c3cb563adec9ce9dbbb5c" title="Handle scene being assigned." coords="216,925,359,965"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_static_sprite2_d.html#ac98579f086625a4d7b1eb5116ad52de3" title="Update material." coords="209,989,365,1029"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#ad4e4b1798b1b55d0c60730bd061362af" title="Create a component to this node if it does not exist already." coords="413,893,597,933"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="431,957,579,997"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#ab23d77af7fe3350c1dcfec8281849ed3" title="Create a component to this node (with specified ID if provided)." coords="645,787,864,813"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="654,909,855,934"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a3792a0c2e23b120ac879c2931d6f9dc4" title="Add a pre&#45;created component. Using this function from application code is discouraged,..." coords="912,355,1119,381"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_node.html#a9db232116d4278bd3e10c365d2ef57d5" title=" " coords="1451,606,1635,631"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_context.html#a26cfc48202f21e82e9ec8f1029d15ef3" title="Create an object by type. Return pointer to it or null if no factory found." coords="915,787,1115,813"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_string_hash.html#a444cf37ce746edd1e266a4ecca31c0c5" title="Return as string." coords="946,837,1085,877"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a6b1a145dd07c1d09ac9126c35577aa09" title="Component added. Add to ID map." coords="1178,61,1362,101"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a1011fadd1f7da49e3eb59b34d0d5f3de" title="Get free component ID, either non&#45;local or local." coords="1421,26,1664,51"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_component.html#a871e9a8397df466d804a02786970788c" title=" " coords="1469,104,1617,144"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene.html#a0c7ddadabfbb191e42b39877ca84cd67" title="Return component from the whole scene by ID, or null if not found." coords="1168,177,1372,202"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="1187,227,1353,267"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="1196,291,1344,331"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="1171,355,1369,381"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="1196,405,1344,445"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a9c4864e96c873752bed6b1f178888fde" title="Mark for attribute check on the next network update." coords="1173,469,1367,509"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_node.html#a473c783c66c1bc0b497878bc787b1451" title="Mark node dirty in scene replication states." coords="1167,533,1373,573"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_component.html#ab49b4b66b2eb1601cf166972fe42e5ce" title="Handle scene node transform dirtied." coords="1196,597,1344,637"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="1181,686,1359,711"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_component.html#a6070c8208ad98595d8c3fe43778d6069" title="Return component in the same scene node by type. If there are several, returns the first." coords="941,901,1089,941"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="669,965,840,990"/>
+</map>

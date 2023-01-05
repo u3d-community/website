@@ -1,0 +1,7 @@
+<map id="Urho3D::ScriptInstance::OnGetAttribute" name="Urho3D::ScriptInstance::OnGetAttribute">
+<area shape="rect" id="node1" title="Handle attribute read access." coords="5,88,163,128"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#ac803d00c18507307b17c287fb123c219" title=" " coords="244,5,392,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a1ce16fa386bfc7b728711030eb941723" title=" " coords="245,70,391,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_variant.html#a9fef7ef6f527f3647dc01cdc73b4db4c" title="Return a resource reference or empty on type mismatch." coords="211,119,425,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializable.html#a18c5041e406e9df1ff04ac9b31733661" title="Handle attribute read access. Default implementation reads the variable at offset,..." coords="248,169,388,209"/>
+</map>

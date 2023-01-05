@@ -1,0 +1,27 @@
+<map id="Urho3D::OctreeQueryResult" name="Urho3D::OctreeQueryResult">
+<area shape="rect" id="node1" title="General octree query result. Used for Lua bindings only." coords="2265,296,2447,322"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="1957,664,2083,690"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_zone.html" title="Component that describes global rendering properties." coords="2305,687,2407,712"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_light.html" title="Light component." coords="2305,968,2407,994"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="951,551,1094,576"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_octree.html" title="Octree component. Should be added only to the root scene node." coords="1327,676,1437,702"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="245,502,384,527"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="648,334,755,359"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html" title="Root scene node, represents the whole scene." coords="968,299,1077,324"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="249,948,381,974"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="211,93,419,133"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="255,692,374,718"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="1307,468,1457,494"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_octant.html" title=" " coords="1626,664,1737,690"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_quaternion.html" title="Rotation represented as a four&#45;dimensional normalized vector." coords="246,452,383,478"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector.html" title=" " coords="196,157,433,197"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,292,147,318"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector.html" title=" " coords="214,221,415,261"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector.html" title=" " coords="200,285,429,325"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector.html" title=" " coords="457,786,624,826"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="948,729,1097,769"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="779,37,924,77"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="1129,837,1275,877"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="242,349,387,389"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="1967,1016,2073,1042"/>
+</map>

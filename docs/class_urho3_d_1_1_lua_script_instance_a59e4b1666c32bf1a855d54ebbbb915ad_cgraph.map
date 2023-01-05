@@ -1,0 +1,18 @@
+<map id="Urho3D::LuaScriptInstance::OnGetAttribute" name="Urho3D::LuaScriptInstance::OnGetAttribute">
+<area shape="rect" id="node1" title="Handle attribute read access." coords="5,234,184,274"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#ad0c08d8a8228bb534693254b3ad62b56" title="Return last char, or 0 if empty." coords="250,5,393,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_lua_function.html#aaebe8556aab514240aae0a06f82c2629" title="Begin function call. When a script object is given then pass it as self argument (first parameter) to..." coords="249,55,393,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="243,120,399,145"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_lua_function.html#a10c1b2a030d1763e524b5fd50e4afd8b" title="End call and actually execute the function. The return values, if any, are still left in the stack wh..." coords="249,170,393,210"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_lua_script_instance.html#aaa1819ee98091c32628e30c9bb107041" title="Return script object&#39;s funcition." coords="232,234,411,274"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_string.html#a0a988cc147946dd80bf73cea2c1ac04c" title=" " coords="245,299,397,324"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_serializable.html#a18c5041e406e9df1ff04ac9b31733661" title="Handle attribute read access. Default implementation reads the variable at offset,..." coords="251,349,391,389"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_string.html#a812ed0a9a7397006169814ac64295b78" title="Return a substring from position to end." coords="237,413,405,439"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_string.html#add58cf48fff88b540e31d30f6235e537" title="Return string in uppercase." coords="240,463,403,488"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_lua_script_instance.html#a3516536d2ba9fac5b5f8e708de85fb70" title="Return Lua reference to script object." coords="459,23,637,63"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_lua_function.html#aec2f70c0be7886a14ec8417235a15e48" title="Check that function is valid." coords="476,87,620,127"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_lua_script.html#a4a61fb194eba833e56e2afb4882d7612" title="Return Lua function at the given stack index." coords="481,234,615,274"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_string.html#a953822d6a39e507861ee02a24bb7996e" title="Copy chars from one buffer to another." coords="685,388,864,413"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="472,413,624,439"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_string.html#aaad16c980aa7b6bbe445af70ac699bb1" title="Construct empty." coords="475,463,621,488"/>
+</map>

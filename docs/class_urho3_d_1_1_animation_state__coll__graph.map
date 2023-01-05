@@ -1,0 +1,27 @@
+<map id="Urho3D::AnimationState" name="Urho3D::AnimationState">
+<area shape="rect" id="node1" title="Animation instance." coords="1421,594,1584,619"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="960,578,1103,603"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="357,578,485,603"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1127,503,1305,543"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="757,629,936,669"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animated_model.html" title="Animated model component." coords="763,274,931,299"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_static_model.html" title="Static model component." coords="349,58,493,83"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_skeleton.html" title=" " coords="359,107,483,133"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html" title=" " coords="300,285,543,325"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,265,147,290"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector.html" title=" " coords="338,349,505,389"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector.html" title=" " coords="317,414,525,469"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="349,157,494,197"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector.html" title=" " coords="333,221,509,261"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector.html" title=" " coords="567,5,733,45"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="346,493,497,518"/>
+<area shape="rect" id="node24" href="$struct_urho3_d_1_1_bone.html" title=" " coords="1165,737,1267,762"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="17,593,135,618"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="368,722,475,747"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="10,819,142,845"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_quaternion.html" title="Rotation represented as a four&#45;dimensional normalized vector." coords="7,707,145,733"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1143,857,1289,897"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_animation.html" title="Skeletal animation resource." coords="780,1001,913,1026"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_string.html" title="String class." coords="368,918,475,943"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="352,1011,491,1037"/>
+</map>

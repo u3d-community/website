@@ -1,0 +1,27 @@
+<map id="Urho3D::ScriptFile::AddEventHandler" name="Urho3D::ScriptFile::AddEventHandler">
+<area shape="rect" id="node1" title="Add a scripted event handler for a specific sender." coords="5,215,136,255"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_script_file.html#a17d98023315637bbbf83696e7617a02f" title="Add an event handler and create the necessary proxy object." coords="184,215,359,255"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_script_file.html#a519de38b227a400380cd363b78083290" title="Return a function by declaration. Will be stored to a search cache so that further searches should be..." coords="900,203,1027,243"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_script_file.html#a76c72a859d30266e96dc13697134eca3" title="Return an object method by declaration." coords="900,139,1027,179"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="868,299,1059,324"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_script_event_invoker.html#a94b58f81c5e94f53a23ff0b81db822aa" title="Handle an event in script." coords="407,478,589,518"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="1112,204,1268,229"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#aa9fe9030164a42e2d73dd57f2db7c991" title="Return index to the first occurrence of a string, or NPOS if not found." coords="1121,253,1259,279"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#ad100f77dbca5f666613aa300447092a0" title="Return string with whitespace trimmed from the beginning and the end." coords="1107,155,1273,180"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_string.html#a812ed0a9a7397006169814ac64295b78" title="Return a substring from position to end." coords="1335,155,1503,180"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="1339,104,1498,129"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html#a9dc4e5c0ad1feb3eec2d2f1f1714698d" title="Return iterator to the pair with key, or end iterator if not found." coords="1109,53,1271,79"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1564,104,1720,129"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_map.html#a85f871cbe77f2d780e1a169f19936ad8" title="Find a node from the buckets. Do not call if the buckets have not been allocated." coords="1321,55,1516,80"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_map.html#a6baa78766271c323b914fd2e6ca70c66" title="Compute a hash based on the key and the bucket size." coords="1335,5,1502,31"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_script_file.html#a2f79f30668794f1e04c2f5a1bb9e4896" title="Clean up an event invoker object when its associated script object no longer exists." coords="653,565,804,605"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_script_file.html#af534ee5786894b6b8bedc2c93a9f3818" title="Query for a function by declaration and execute if found." coords="665,322,792,362"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_object.html#a94327944766d5984af37cf128bd870ca" title="Return active event handler. Null outside event handling." coords="645,693,812,733"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_event_handler.html#a123d775998ca76a3e683498a65d153f1" title="Return userdata." coords="653,629,804,669"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_script_file.html#a4e023cf21c2701f9e88b4a628da5be0a" title="Return whether script compiled successfully." coords="665,386,792,426"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_script_event_invoker.html#a5673528d6144650d931ef3e504e3c5b2" title="Returns whether the ScriptObject is still alive. Will return true if there is no reference and object..." coords="637,450,820,490"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="655,515,802,540"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_context.html#ab453809b2c77fe1c412137525a1f6b0b" title="Return active event handler. Set by Object. Null outside event handling." coords="875,693,1051,733"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="890,544,1037,569"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector.html#a17e4a13942a9512bc0eceb3e46d950dd" title="Insert elements into the vector using copy or move constructor." coords="879,479,1048,519"/>
+</map>

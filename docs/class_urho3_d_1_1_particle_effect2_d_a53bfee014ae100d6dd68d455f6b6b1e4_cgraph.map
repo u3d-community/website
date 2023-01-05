@@ -1,0 +1,4 @@
+<map id="Urho3D::ParticleEffect2D::Clone" name="Urho3D::ParticleEffect2D::Clone">
+<area shape="rect" id="node1" title="Clone the 2D particle effect." coords="5,5,172,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html#a5e14c5f01c2fc33fa20bef5094a7ea42" title=" " coords="220,13,447,38"/>
+</map>

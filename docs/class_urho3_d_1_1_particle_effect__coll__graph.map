@@ -1,0 +1,27 @@
+<map id="Urho3D::ParticleEffect" name="Urho3D::ParticleEffect">
+<area shape="rect" id="node1" title="Particle effect definition." coords="2264,687,2415,712"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html" title=" " coords="1247,140,1375,165"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_material.html" title="Describes how to render 3D geometries." coords="1648,515,1769,540"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html" title=" " coords="941,143,1051,168"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="243,227,385,252"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="638,112,757,137"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,343,133,368"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="409,474,588,514"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="612,162,783,202"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_string.html" title="String class." coords="943,231,1049,256"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="927,44,1065,69"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="942,93,1050,119"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1984,481,2123,521"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector.html" title=" " coords="1227,835,1394,875"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="925,900,1067,925"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html" title=" " coords="1457,891,1624,931"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector.html" title=" " coords="1793,943,1960,983"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1219,263,1402,317"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1218,341,1403,396"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1188,421,1433,490"/>
+<area shape="rect" id="node18" href="$struct_urho3_d_1_1_bias_parameters.html" title="Depth bias parameters. Used both by lights (for shadow mapping) and materials." coords="1227,515,1394,540"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1241,707,1380,747"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1241,771,1381,811"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="1994,687,2113,712"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="1994,848,2113,873"/>
+</map>

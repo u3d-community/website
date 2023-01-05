@@ -1,0 +1,5 @@
+<map id="Urho3D::ParticleEffect::SetAnimationLodBias" name="Urho3D::ParticleEffect::SetAnimationLodBias">
+<area shape="rect" id="node1" title=" " coords="403,5,557,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_particle_effect.html#a6dc4d9435d5a4231bbe2e062a8868a8c" title="Load resource from XMLElement synchronously. Return true if successful." coords="204,5,355,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_particle_effect.html#aa0d9efcb340d6a16860aef9d7cd9916f" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,5,156,45"/>
+</map>

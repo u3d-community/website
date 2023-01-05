@@ -1,0 +1,27 @@
+<map id="Urho3D::ListView::GetNumItems" name="Urho3D::ListView::GetNumItems">
+<area shape="rect" id="node1" title=" " coords="2021,401,2199,441"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_list_view.html#a4b292959b6c96229a342ec73999cf264" title="Add item to the selection, multiselect mode only." coords="895,812,1101,837"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_list_view.html#ac943102f0ed053e17432cb33f1a3b223" title="Toggle selection of an item." coords="673,857,840,897"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_list_view.html#a02c1afe654ab744d0883248a8d0ed0e8" title="Handle global UI mouseclick to check for selection change." coords="449,626,620,666"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_list_view.html#aaf9f6831a1e93ad5bc4ae93559b9a23e" title="Move selection by a delta and clamp at list ends. If additive (multiselect only), will add to the exi..." coords="912,419,1084,459"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_list_view.html#a8a67087dd8eb4dc4f977f27769593e13" title="React to a key press." coords="674,141,839,167"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_list_view.html#a84269ea23d32d38cb9ecf7dbf2712674" title="Expand item at index. Only has effect in hierarchy mode." coords="1757,129,1929,155"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_list_view.html#ae7a9230a51d7b6272e339781d8e7be48" title="Toggle item&#39;s expanded flag at index. Only has effect in hierarchy mode." coords="1478,166,1645,206"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_console.html#a13476aa3348e2965240853b8a8fa9a0a" title=" " coords="1713,433,1973,459"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_console.html#a21804113c047d876e9358aaa9daabf67" title="Handle the application post&#45;update." coords="1181,269,1379,309"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_list_view.html#a90c06f24f74cf3cb8dafcd280e52da5f" title="Handle global UI mouse doubleclick." coords="449,285,620,325"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_list_view.html#a2c7adecbfcfc748d393a79f945d84faf" title="Remove specific item, starting search at the specified index if provided. In hierarchy mode will also..." coords="1460,332,1663,357"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_console.html#a18546b712ec118a256122c627696662e" title=" " coords="1151,383,1409,408"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_list_view.html#ae8cd3c06143b5a5bc9cf13ad610013d5" title="Remove item from the selection." coords="1473,887,1649,927"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_console.html#ab6c414693bfee660f1e871d2d76d509c" title=" " coords="1749,834,1938,874"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_list_view.html#a71aeb11dc012c14ed9fb268a354848d7" title="Set multiple selected items. If multiselect disabled, sets only the first." coords="1457,611,1665,636"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_list_view.html#a98c7355308df9e43a68c5604ed2d5ce0" title="Update selection effect when selection or focus changes." coords="1758,678,1929,718"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_list_view.html#a5ef1accc2d51944f79e12918ff828970" title="Update subscription to UI click events." coords="231,626,401,666"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_list_view.html#a180fbbadcc42a12d0b78dd839ee0b839" title="Construct." coords="5,633,183,659"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_console.html#a6b523b3fbdff6cc3da360dc128be09fd" title=" " coords="893,369,1103,395"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_console.html#afa65f6eacc596b544de5b0c3bc1a3d55" title="Construct." coords="668,333,845,359"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_list_view.html#afebca1ac4b38eaaa1d97bb3f64c2cddd" title="Remove item at index. In hierarchy mode will also remove any children." coords="1179,333,1381,359"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_list_view.html#a2f9e3fec256a10393489a0814dea0037" title="Clear selection." coords="1173,685,1387,711"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_list_view.html#a6b017f148d7ebef0564b6d239940c936" title=" " coords="1179,636,1381,661"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_list_view.html#a0dc41b175612db37dd3085aa9d3482a3" title="Handle focus changed." coords="913,686,1083,726"/>
+</map>

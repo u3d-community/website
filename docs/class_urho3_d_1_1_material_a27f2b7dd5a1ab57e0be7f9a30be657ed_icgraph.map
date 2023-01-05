@@ -1,0 +1,25 @@
+<map id="Urho3D::Material::SetShaderParameter" name="Urho3D::Material::SetShaderParameter">
+<area shape="rect" id="node1" title=" " coords="1025,166,1213,206"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_material.html#a843c233ee44a1b2d1aaea55d989782fe" title="Load from an XML element. Return true if successful." coords="513,5,670,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_material.html#a2a6e0e7eae446f7c7513090852aeac21" title="Reset to defaults." coords="777,126,952,166"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_material.html#a2470fc628c1bbdb6b52054076714ff41" title="Set texture coordinate transform." coords="752,223,977,248"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_text3_d.html#a63bf86fc02caa281fb5fc8a54356abfb" title="Create materials for text rendering. May only be called from the main thread. Text UI batches must be..." coords="771,498,958,538"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_material.html#a2ed97bf462e83b2587c88fbabd794229" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="236,5,416,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_material.html#a112d8e95b1deb1fee8524f7cc69eb921" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="231,107,421,132"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_material.html#a4395cdd6b565b52783713ea1712ec0c1" title="Helper function for loading JSON files." coords="480,107,703,132"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_material.html#a34c505680ced124298f079470392a3bb" title="Helper function for loading XML files." coords="483,156,699,181"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_material.html#a54e189178f0bccae32a4a99610e24a37" title="Construct." coords="504,205,679,231"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_material.html#a9e933fb78c269f4a88353174b0a640ee" title="Set texture coordinate transform." coords="479,255,704,280"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_text3_d.html#afb163e8eb837396d7578c13ea9224072" title="Apply attribute changes that can not be applied immediately." coords="487,304,696,329"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_text3_d.html#a0e5e82af6713193ee73b60191a2048e0" title=" " coords="240,391,412,416"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_text3_d.html#adb0bba5d9d10971807c3b60550d2d056" title=" " coords="239,458,413,498"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_text3_d.html#a6c34a3c420fa1e6c35f4f4662c8248df" title="Set font by looking from resource cache by name and font size. Return true if successful." coords="509,456,674,481"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_text3_d.html#ae57645a33f1cefafd9b57908fba27569" title=" " coords="496,505,687,531"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_text3_d.html#a94f9f160c95632a4dd1ce1f656eded13" title=" " coords="498,555,685,580"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_text3_d.html#a38405cba1bb3686bea808f0d997116e5" title=" " coords="235,595,417,620"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_text3_d.html#a539320e56a328d3923e6a50ab86c52c5" title=" " coords="509,656,673,681"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_text3_d.html#a0f1b794375477084fbbcf58383a485d7" title=" " coords="492,705,691,731"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_text3_d.html#ae76455bed7ea206ebb893e49c5a14ae7" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="481,755,701,780"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_text3_d.html#a8d7300ae719ca749d031f65acdc0a23b" title=" " coords="5,467,173,507"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_text3_d.html#ae45180d8f677330f58729788695bfea1" title="Set material attribute." coords="221,545,431,571"/>
+</map>

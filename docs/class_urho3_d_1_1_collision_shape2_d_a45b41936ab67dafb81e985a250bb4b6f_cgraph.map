@@ -1,0 +1,9 @@
+<map id="Urho3D::CollisionShape2D::OnSetEnabled" name="Urho3D::CollisionShape2D::OnSetEnabled">
+<area shape="rect" id="node1" title="Handle enabled/disabled state change." coords="5,69,181,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_collision_shape2_d.html#a5c6ed3597e4e875162cbb9e4e679bac1" title="Create fixture." coords="229,5,405,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="243,69,391,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_collision_shape2_d.html#a52963467210c78bca21f7463f361c147" title="Release fixture." coords="229,133,405,173"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="453,13,655,38"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#a6070c8208ad98595d8c3fe43778d6069" title="Return component in the same scene node by type. If there are several, returns the first." coords="703,5,851,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="469,77,639,102"/>
+</map>

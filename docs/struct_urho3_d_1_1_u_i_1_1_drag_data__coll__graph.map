@@ -1,0 +1,5 @@
+<map id="Urho3D::UI::DragData" name="Urho3D::UI::DragData">
+<area shape="rect" id="node1" title="Data structure used to represent the drag data associated to a UIElement." coords="141,171,287,196"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="5,37,140,62"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="232,37,340,62"/>
+</map>

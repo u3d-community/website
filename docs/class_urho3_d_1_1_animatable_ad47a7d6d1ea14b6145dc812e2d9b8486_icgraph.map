@@ -1,0 +1,13 @@
+<map id="Urho3D::Animatable::SetObjectAnimation" name="Urho3D::Animatable::SetObjectAnimation">
+<area shape="rect" id="node1" title=" " coords="451,205,595,245"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animatable.html#ad1b16987196e91435eb8af471b7a2714" title="Load from JSON data. Return true if successful." coords="247,63,385,103"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animatable.html#afa12710c0500b10d8e68eb6f62847204" title="Load from XML data. Return true if successful." coords="247,173,385,213"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_animatable.html#afeba9bad5cf17049c904da9978f76ef4" title="Remove object animation. Same as calling SetObjectAnimation with a null pointer." coords="229,237,403,277"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animatable.html#afa9b7e0ab148a3d1a4eab44808a44c0f" title="Set object animation attribute." coords="233,301,399,341"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animated_model.html#ab15e3ce26d49e3a40458e56372bade50" title="Load from JSON data. Return true if successful." coords="9,5,177,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a5e1c150d8d013c7550537c5251bf86f7" title="Load components from XML data and optionally load child nodes." coords="5,70,181,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animated_model.html#a8132d5f7592e0beee39b8c68fc6d8603" title="Load from XML data. Return true if successful." coords="9,120,177,160"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ab44e461de1af5859a176dfaa75ec95bd" title="Load components from XML data and optionally load child nodes." coords="9,185,178,210"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_u_i_element.html#ae38f1a5383c92526b1d8ba66b2e50ea1" title="Load from XML data with style. Return true if successful." coords="23,235,163,275"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_animatable.html#a6e04d362924281f977a4775ccff73427" title=" " coords="24,301,163,341"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::Animatable::OnAttributeAnimationAdded" name="Urho3D::Animatable::OnAttributeAnimationAdded">
+<area shape="rect" id="node1" title="Handle attribute animation added." coords="1399,325,1593,365"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animatable.html#a1aa4f5c600142e625eec608261cca98b" title="Set attribute animation." coords="1193,325,1351,365"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animatable.html#ad1b16987196e91435eb8af471b7a2714" title="Load from JSON data. Return true if successful." coords="247,37,385,77"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animatable.html#afa12710c0500b10d8e68eb6f62847204" title="Load from XML data. Return true if successful." coords="247,293,385,333"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animatable.html#ae6ca516abed8b44c3ea4a0cc60fbb9ae" title="Remove attribute animation. Same as calling SetAttributeAnimation with a null pointer." coords="955,383,1141,423"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_animatable.html#a33be41bda0392de337c590c46a283011" title="Set object attribute animation internal." coords="951,204,1145,244"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_animatable.html#a5df03d0160dbec915cb43193684ea971" title="Update attribute animations." coords="955,447,1141,487"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animated_model.html#ab15e3ce26d49e3a40458e56372bade50" title="Load from JSON data. Return true if successful." coords="9,9,177,49"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a5e1c150d8d013c7550537c5251bf86f7" title="Load components from XML data and optionally load child nodes." coords="5,74,181,99"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_animated_model.html#a8132d5f7592e0beee39b8c68fc6d8603" title="Load from XML data. Return true if successful." coords="9,236,177,276"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#ab44e461de1af5859a176dfaa75ec95bd" title="Load components from XML data and optionally load child nodes." coords="9,301,178,326"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_u_i_element.html#ae38f1a5383c92526b1d8ba66b2e50ea1" title="Load from XML data with style. Return true if successful." coords="23,351,163,391"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_animatable.html#ad3511e697a94f51323f04e2e74ab6063" title="Handle attribute animation added." coords="705,46,885,101"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_animatable.html#afa4ade46a2db8254e613c5bd8e80c875" title="Handle attribute animation removed." coords="705,125,885,179"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_animatable.html#a9f44b0d39595e7fd312ee5f2bd3faaa7" title="Handle object animation added." coords="704,204,885,244"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_animatable.html#ab4a67ba315ef8f458d0a2b97a096fb00" title="Handle object animation removed." coords="696,268,893,308"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_animatable.html#ad47a7d6d1ea14b6145dc812e2d9b8486" title=" " coords="473,176,617,216"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_animatable.html#afeba9bad5cf17049c904da9978f76ef4" title="Remove object animation. Same as calling SetObjectAnimation with a null pointer." coords="229,149,403,189"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_animatable.html#afa9b7e0ab148a3d1a4eab44808a44c0f" title="Set object animation attribute." coords="233,213,399,253"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_component.html#a7bc30b0443591af70652faa9d40a3893" title="Handle scene attribute animation update event." coords="687,383,903,423"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_node.html#a8ed2616a227d94a7dddf6163b0f88a27" title="Handle attribute animation update event." coords="693,447,897,487"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_u_i_element.html#abc7aff91ac6944d78d9df58e9d37077f" title="Handle logic post&#45;update event." coords="725,511,865,551"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_component.html#ae124af54fe3f62a04f68c8e0c5e7ab52" title="Handle attribute animation added." coords="451,383,639,423"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#ae42a19a160bffd6c77e3a0a901ece94b" title="Handle attribute animation added." coords="455,447,634,487"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_u_i_element.html#a1997a9a0231d90938077d85086710eed" title="Handle attribute animation added." coords="451,511,639,551"/>
+</map>

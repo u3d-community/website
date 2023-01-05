@@ -1,0 +1,27 @@
+<map id="Urho3D::RenderSurface::GetHeight" name="Urho3D::RenderSurface::GetHeight">
+<area shape="rect" id="node1" title=" " coords="1304,321,1465,361"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#ae34ebc6c877f3e56ae7c9c086f3b83dc" title="Allocate needed screen buffers." coords="283,5,477,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#a07fcfa3743eb980a7f821d810abc42e5" title="Blit the viewport from one surface to another." coords="541,194,739,219"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#a38bd2f1292778c57fae949c4e271c20d" title="Define with rendertarget and viewport. Return true if successful." coords="1088,519,1232,545"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#a13308c358756474b667377d2c266d7ba" title="Return the proper depth&#45;stencil surface to use for a rendertarget." coords="807,126,1007,151"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_graphics.html#a8630db4d2c1e15642f4c5b85e550c625" title="Return current rendertarget width and height." coords="1064,321,1256,361"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i.html#a134bf8272c7a86fccd27a8437996adfb" title="Render the UI. If renderUICommand is false (default), is assumed to be the default UI render to backb..." coords="1093,593,1227,618"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_graphics.html#a33e1c860b8638bb3694939fa0b9d93f7" title="Set depth&#45;stencil surface." coords="1069,455,1251,495"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="43,101,192,126"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="283,123,477,163"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_renderer.html#a0fa71f5839321a9d68def7a2978f452a" title="Update a queued viewport for rendering." coords="819,633,994,673"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_renderer.html#a993f63f35d27a9ea6df861962018f354" title="Update for rendering. Called by HandleRenderUpdate()." coords="553,641,727,666"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_view.html#aead31506eaa52b206a905888717ac63f" title="Set rendertargets for current render command." coords="535,121,745,146"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_graphics.html#a72c254ccb779fe20b39574042ba49786" title="Clear any or all of rendertarget, depth buffer and stencil buffer." coords="559,309,721,334"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_graphics.html#a3dd369dc58e2db876d8d001ba24762a5" title="Process dirtied state before draw." coords="805,405,1009,430"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_graphics.html#ad417d2adc6d3fb173ec3e3d8fefd8b48" title="Set viewport." coords="539,358,741,383"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_graphics.html#a27670beb9e90540f69da3d24da2d07bd" title="Set scissor test." coords="797,253,1016,278"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_graphics.html#afdcde1ab06c42a77cc58fb29e4594f0c" title=" " coords="5,337,229,362"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_graphics.html#a33758d927c34d25bc22005430f7648cd" title=" " coords="551,507,729,547"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_graphics.html#a53af62ede0ca685ae4ad4e65898379a0" title="Draw non&#45;indexed geometry." coords="560,407,720,433"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_graphics.html#a3b3826f68144fb6a1f222811207986b1" title="Draw indexed, instanced geometry. An instancing vertex buffer must be set." coords="531,457,749,482"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_graphics.html#ae1d5bec42a30f9b3d6ad41db33084388" title="Reset all rendertargets, depth&#45;stencil surface and viewport." coords="277,359,483,399"/>
+<area shape="rect" id="node21" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="569,244,711,284"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_graphics.html#a158d17c4bdef10c48db965e0677022f0" title="Reset depth&#45;stencil surface." coords="808,455,1005,495"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_graphics.html#a331dfe88f72d685e394780d3f5506e05" title="Set depth&#45;stencil surface." coords="815,519,998,559"/>
+</map>

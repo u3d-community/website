@@ -1,0 +1,12 @@
+<map id="Urho3D::Sprite::ScreenToElement" name="Urho3D::Sprite::ScreenToElement">
+<area shape="rect" id="node1" title="Convert screen coordinates to element coordinates." coords="5,219,173,259"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_sprite.html#af2e7d710eaa1236116799c499a95d86c" title="Update and return rendering transform, also used to transform child sprites." coords="221,197,416,222"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="249,247,388,287"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a75032690b0214d2551eac5744a306644" title=" " coords="475,5,615,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#abd9eb79eba9f209d93cb101eb21c4574" title=" " coords="464,69,627,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#a031e2acb1765a940b9427003cb8653d7" title=" " coords="475,157,615,197"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i_element.html#a5eb156615aef75c2c020de6c879cfd01" title=" " coords="475,221,615,261"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_u_i_element.html#a81a39a64719e35a717960bd631275827" title=" " coords="473,285,618,325"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_matrix3x4.html#a8a997c13dea4269829fee68ecb039fbe" title="Set translation elements." coords="476,349,615,389"/>
+<area shape="rect" id="node6" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="675,165,773,190"/>
+</map>

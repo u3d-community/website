@@ -1,0 +1,27 @@
+<map id="Urho3D::XMLElement" name="Urho3D::XMLElement">
+<area shape="rect" id="node1" title="Element in an XML file." coords="1985,121,2133,147"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1424,114,1603,154"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_x_path_result_set.html" title="XPath query result set." coords="1677,152,1840,177"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_x_m_l_file.html" title="XML document resource." coords="1205,93,1325,119"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_resource.html" title=" " coords="778,93,906,119"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object.html" title=" " coords="449,351,559,376"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_event_handler.html" title="Internal helper class for invoking event handler functions." coords="767,301,917,327"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="243,351,385,376"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="1206,805,1325,831"/>
+<area shape="rect" id="node7" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,189,133,215"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="721,827,963,881"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="437,769,571,795"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="743,1035,941,1089"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="734,1113,950,1168"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="731,495,953,565"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="695,589,989,658"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="749,683,935,737"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="738,762,946,802"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="769,970,915,1010"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="766,906,918,946"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="1180,321,1351,361"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="435,251,573,276"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_string.html" title="String class." coords="451,44,557,69"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="450,93,558,119"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="765,29,919,69"/>
+</map>

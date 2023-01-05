@@ -1,0 +1,6 @@
+<map id="Urho3D::Slider::SetValue" name="Urho3D::Slider::SetValue">
+<area shape="rect" id="node1" title=" " coords="243,55,407,80"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_slider.html#aaa1091c237b161c41c53636c94abcc97" title="Change value by a delta." coords="5,5,195,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_slider.html#ab7214d023dca1013378e084378769753" title="React to mouse drag motion." coords="5,55,195,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_slider.html#ae2b50ba9f7bf6a09f99fdf7231a28fa0" title=" " coords="19,105,181,145"/>
+</map>

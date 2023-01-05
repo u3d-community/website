@@ -1,0 +1,5 @@
+<map id="Urho3D::RigidBody::IsTrigger" name="Urho3D::RigidBody::IsTrigger">
+<area shape="rect" id="node1" title=" " coords="411,29,549,69"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_physics_world.html#a9506da0ff3e9fa5f0ceb26ac52bca06e" title="Send accumulated collision events." coords="208,29,363,69"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_physics_world.html#a4d42550d32c7f33394c2acede1e3a481" title="Trigger update after each physics simulation step." coords="5,29,160,69"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Urho3D::NavArea::DrawDebugGeometry" name="Urho3D::NavArea::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Render debug geometry for the bounds." coords="5,173,201,213"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#a6755ab0e0b3feef19e558a5dcb8c0e4f" title="Add a bounding box." coords="276,87,439,127"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="249,151,465,177"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="283,201,431,241"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_matrix3x4.html#a8a997c13dea4269829fee68ecb039fbe" title="Set translation elements." coords="288,265,427,305"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="732,29,895,69"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="943,94,1093,119"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_debug_renderer.html#ab868b2db01ad55a58a1b24d957abc7eb" title="Add a solid quadrangular polygon." coords="517,144,680,184"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="1141,94,1252,119"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_debug_renderer.html#a098d3d22f1af148c3a9b7657eed89454" title="Add a solid triangle." coords="732,168,895,208"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="513,209,684,234"/>
+</map>

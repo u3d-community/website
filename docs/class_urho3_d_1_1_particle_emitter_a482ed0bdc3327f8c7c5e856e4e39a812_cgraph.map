@@ -1,0 +1,27 @@
+<map id="Urho3D::ParticleEmitter::Update" name="Urho3D::ParticleEmitter::Update">
+<area shape="rect" id="node1" title="Update before octree reinsertion. Is called from a worker thread." coords="5,654,165,694"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_billboard_set.html#a197bedeabeabd165c9b94b866db3698a" title="Mark for bounding box and vertex buffer update. Call after modifying the billboards." coords="505,902,648,942"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_particle_emitter.html#a4e4872622bad52221835f26ac78be6b4" title="Create a new particle. Return true if there was room." coords="233,309,393,349"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="468,5,685,31"/>
+<area shape="rect" id="node17" href="$_math_defs_8h.html#a92b4fa80f10e34623ced9d751d1c113e" title="Return a random float between 0.0 (inclusive) and 1.0 (exclusive)." coords="515,536,638,561"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="505,585,648,611"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="213,685,413,711"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_quaternion.html#a4d4b3c4b38d40c1e216c51e058709545" title="Return inverse." coords="245,735,382,775"/>
+<area shape="rect" id="node23" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="264,824,363,849"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector3.html#a005fcc19e10062672549703f42401854" title="Return normalized to unit length." coords="216,636,411,661"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_billboard_set.html#a284dc0a73ef00e1713b61fd3a2305968" title=" " coords="242,874,385,914"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="740,838,888,878"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_billboard_set.html#ab8531127f88c6a4ae7928e4f4d1cc229" title="Mark billboard vertex buffer to need an update." coords="743,934,885,974"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="961,870,1109,910"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="961,718,1109,758"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="936,806,1133,846"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_drawable.html#a04a978441415a93f044721f6473df0e3" title="Handle node transform being dirtied." coords="937,934,1132,974"/>
+<area shape="rect" id="node10" href="$_math_defs_8h.html#af7564744da23adb0019e989279ea7d88" title=" " coords="528,152,625,177"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_particle_emitter.html#ad00b415243fa66d525c918e0a37f42f5" title="Return a free particle index." coords="497,202,657,242"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="461,267,692,292"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector3.html#a36a9d6e80d2b51c4aec51d6c7f5f9541" title="Normalize to unit length." coords="483,316,670,341"/>
+<area shape="rect" id="node16" href="$_math_defs_8h.html#a77ddc07b907070becb998b7ec3b3c283" title=" " coords="527,389,626,415"/>
+<area shape="rect" id="node18" href="$_math_defs_8h.html#a1e064ec2f12ba951dafbe7d38b6f89ed" title=" " coords="531,463,622,488"/>
+<area shape="rect" id="node20" href="$_math_defs_8h.html#a5cba0374723cae00759052bcebc3960e" title=" " coords="527,79,626,104"/>
+<area shape="rect" id="node15" href="$_math_defs_8h.html#ad6a5d6144733a3594df64e9f8cbb3610" title=" " coords="758,476,870,501"/>
+</map>

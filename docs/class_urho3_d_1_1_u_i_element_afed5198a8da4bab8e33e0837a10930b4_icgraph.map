@@ -1,0 +1,25 @@
+<map id="Urho3D::UIElement::ScreenToElement" name="Urho3D::UIElement::ScreenToElement">
+<area shape="rect" id="node1" title="Convert screen coordinates to element coordinates." coords="1660,98,1800,138"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i.html#a61b6b9a0bf5f98fa5bdce42808e0ccc1" title="Handle a file being drag&#45;dropped into the application window." coords="718,15,901,40"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#a479f87ac369c89be8df4e9da40e6fa3a" title="Return whether a point (either in element or screen coordinates) is inside the element." coords="1443,98,1583,138"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_u_i.html#ade4982e869bc50740a842cbee1a826a3" title="Send a UI element drag or hover begin event." coords="1413,282,1612,322"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i.html#a2c011c43ca66ff4270e98601e4f9c4cf" title="Construct." coords="5,264,111,290"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i.html#a64c370ff3f5dcbee044573fae5db7a43" title="Return UI element at screen position recursively." coords="959,78,1132,103"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i_element.html#aaa6b4eddcd2e94d531ef885a68e0f13a" title="Return whether a point (either in element or screen coordinates) is inside the combined rect of the e..." coords="1203,98,1343,138"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_button.html#ac3c389cbe081dedc86b090eaaa99a82b" title="React to mouse click end." coords="1180,163,1365,188"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_button.html#a6c6bffb4a9177202735ee0e465a23225" title="React to a key press." coords="968,163,1123,188"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_u_i.html#a0b6b1255ad63bf5e9a68152113b6b97b" title="Handle button or touch end." coords="461,166,653,191"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_u_i.html#a1c229cf9c4379637441b75fe2ff714f6" title="Handle clean up on a drag cancel." coords="453,264,660,290"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_u_i.html#a444cb18d7cdbab6b37be5a6245c77388" title="Handle button or touch hover." coords="1185,315,1361,340"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_u_i.html#a72b99e98631cc015245568170dc221e0" title="Update the UI logic. Called by HandlePostUpdate()." coords="978,352,1113,378"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_u_i.html#a2efa993d5cd9644feb5b915c746fab19" title="Handle mouse or touch move." coords="470,416,643,442"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_u_i.html#a202ce9721e6df2268a76fd2a2eaf6137" title="Handle mouse button up event." coords="167,116,397,142"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i.html#a13758a604f1ecbc65b79a9d2557515f1" title="Handle touch end event." coords="185,166,379,191"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_u_i.html#aa7966075651b12fe5bc1dae57a5bb636" title="Handle keypress event." coords="187,215,377,240"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_u_i.html#a0c3fcb4a57507c8c853110327a37e78e" title="Handle mouse button down event." coords="159,264,405,290"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_u_i.html#a13c304d61ad9f05554b32fe017e07e0b" title="Handle logic post&#45;update event." coords="708,352,911,378"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_u_i.html#a5bb71ed105d2bb465a10f66c9bfcb275" title="Initialize when screen mode initially set." coords="487,352,627,378"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_u_i.html#aefd3544d155762334a00429ef8196bae" title="Handle screen mode event." coords="177,366,387,391"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i.html#ab060eae35465694dc81aae13d95a38ca" title="Handle mouse move event." coords="178,415,386,440"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_u_i.html#a278173dfecab92ee2e34545a7a861048" title="Handle touch move event." coords="181,464,383,490"/>
+</map>

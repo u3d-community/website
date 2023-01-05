@@ -1,0 +1,26 @@
+<map id="Urho3D::AttributeAnimationInfo::ApplyValue" name="Urho3D::AttributeAnimationInfo::ApplyValue">
+<area shape="rect" id="node1" title="Apply new animation value to the target object. Called by Update()." coords="5,517,188,557"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_serializable.html#a3785d97ef92557bab8239688af94ac5e" title="Handle attribute write access. Default implementation writes to the variable at offset,..." coords="236,517,376,557"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_variant.html#a6cd65631c81e9f1fcfeca4870c690420" title="Return bool or false on type mismatch." coords="448,5,615,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_variant.html#a9db8e2a8abefa3141e70c3bf85e7b8c9" title="Return buffer or empty on type mismatch." coords="443,55,619,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_variant.html#a6a99ff6eb60d077b8a73d32347fcb1a1" title="Return color or default on type mismatch. Vector4 is aliased to Color if necessary." coords="445,104,618,129"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_variant.html#af1685b3c414986d0f26d68d8cd115be9" title="Return double or zero on type mismatch. Ints and floats are converted." coords="441,153,622,179"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_variant.html#ae7c3f7d2a22b443a233548abe65355f3" title="Return float or zero on type mismatch. Ints and doubles are converted." coords="447,203,616,228"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_variant.html#a61ad89a11dde2836cc8d21565b694361" title="Return int or zero on type mismatch. Floats and doubles are converted." coords="454,252,609,277"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_variant.html#a1637cd789ecf022559d1937752b611e4" title="Return 64 bit int or zero on type mismatch. Floats and doubles are converted." coords="447,301,616,327"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_variant.html#ac06ee32be1d31c57a532b8a66ed2bdae" title="Return an integer rect or empty on type mismatch." coords="441,351,622,376"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_variant.html#a2b32e2c1cf14b6a483059d5c9af75018" title="Return an IntVector2 or empty on type mismatch." coords="431,400,632,425"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_variant.html#aa31a06b4687d16edfa911b0d143bb0d7" title="Return an IntVector3 or empty on type mismatch." coords="431,449,632,475"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_variant.html#ac3bf4784f4276be08230405025bec1bd" title="Return quaternion or identity on type mismatch." coords="429,499,633,524"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_variant.html#a9fef7ef6f527f3647dc01cdc73b4db4c" title="Return a resource reference or empty on type mismatch." coords="424,548,639,573"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_variant.html#ace9fd18265875dffeab276f01dd2e0f7" title="Return a resource reference list or empty on type mismatch." coords="434,598,629,638"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_variant.html#afbe0cfc700df69ffc981a524379589c5" title="Return string or empty on type mismatch." coords="444,663,619,688"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_variant.html#a7e1d4e2925ea5430868fc2aeaf9b1d93" title="Return a string vector or empty on type mismatch." coords="444,713,619,753"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_variant.html#a0bccb93cf8fd110f33ac08426b3b5bf0" title="Return a variant map or empty on type mismatch." coords="428,777,635,803"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_variant.html#aa28373473fd23bbbcae34ea4b4cbe2f1" title="Return a variant vector or empty on type mismatch." coords="441,827,622,867"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_variant.html#ae172619fd3a7192c191859c45ea9a698" title="Return Vector2 or zero on type mismatch." coords="438,892,625,917"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_variant.html#a68809bf51496951f26b810448e41a207" title="Return Vector3 or zero on type mismatch." coords="438,941,625,967"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_variant.html#afddb682a83aa90a07fd952a92563f336" title="Return Vector4 or zero on type mismatch." coords="438,991,625,1016"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_serializable.html#a428c1b2e9b098b23684f7d6228e97177" title="Mark for attribute check on the next network update." coords="455,1041,607,1081"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_serializable.html#ae7c4c6b4aaa1375ac927e2c0fdb4537e" title="Set instance&#45;level default flag." coords="461,1105,601,1145"/>
+</map>

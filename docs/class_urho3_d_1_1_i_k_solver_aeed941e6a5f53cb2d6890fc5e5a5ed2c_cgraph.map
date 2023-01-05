@@ -1,0 +1,27 @@
+<map id="Urho3D::IKSolver::SetFeature" name="Urho3D::IKSolver::SetFeature">
+<area shape="rect" id="node1" title=" " coords="5,295,196,321"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="271,160,419,200"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_i_k_solver.html#a33f6db3304063adb8c43f713c5be3b7a" title="Invokes the IK solver." coords="244,235,447,275"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="258,320,433,360"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_object.html#a153b96c4397e045b2ca2b2d5471d097c" title="Unsubscribe from an event." coords="251,475,440,515"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="513,162,681,187"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_i_k_solver.html#ad37fe0e1e1a31fff36b3f3f923853373" title="Invokes the solver. The solution is applied back to the scene graph automatically." coords="517,211,677,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_i_k_solver.html#af540808afa75e025e732014817ff4b4a" title=" " coords="751,5,947,45"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_i_k_solver.html#a36875cec883b9efb373f6b87f5bbf210" title=" " coords="747,69,951,109"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_i_k_solver.html#a4b857cf9c23cd910eb4b08f2952b28b7" title=" " coords="751,133,947,173"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_i_k_solver.html#afff682e8ed5f30b4f9f87ef5d1ba6740" title=" " coords="751,197,947,237"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_i_k_solver.html#a715202e1b01b8ad6add31441c8460ee8" title="Returns false if calling Solve() would cause the IK library to abort. Urho3D&#39;s error handling philoso..." coords="761,261,937,301"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_i_k_solver.html#a75ebc853336630a79e4b6ec7857cd78d" title="Updates the solver&#39;s internal data structures, which is required whenever the tree is modified in any..." coords="763,325,934,365"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_i_k_solver.html#a215740ec5753a2347b9da9ec9d84cc07" title="Builds the solver&#39;s tree to match the scene graph&#39;s tree. If a tree already exists,..." coords="751,390,947,415"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_i_k_solver.html#afaa45ef02d8aee5717b9eabece7ac883" title="Builds a chain of nodes up to the node of the specified effector component." coords="1006,351,1189,391"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_i_k_solver.html#ac31967b5c4363bddf59ff0c2e4cfd5e0" title=" " coords="999,415,1196,455"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="506,261,687,301"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="503,325,690,365"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="511,389,682,429"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="773,440,924,480"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_object.html#a00bec56f305dd6636d186e5b351d0264" title="Find the first event handler with no specific sender." coords="511,504,683,544"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_context.html#a7b5bd076e695054df7930255c3eee18b" title="Remove event receiver from specific events." coords="495,568,699,608"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_event_handler.html#ae09d06f06d3590e6f4e06006efa90176" title="Return event type." coords="773,504,924,544"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_context.html#a1b685db14efe388bbf40ec5c27bab7eb" title="Return event receivers for a sender and event type, or null if they do not exist." coords="761,568,937,608"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_event_receiver_group.html#a3074ee82cc374a0a9145fe8847086022" title="Remove receiver. Leave holes during send, which requires later cleanup." coords="754,632,943,672"/>
+</map>

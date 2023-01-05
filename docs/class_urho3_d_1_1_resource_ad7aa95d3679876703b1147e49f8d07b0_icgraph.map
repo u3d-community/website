@@ -1,0 +1,4 @@
+<map id="Urho3D::Resource::Save" name="Urho3D::Resource::Save">
+<area shape="rect" id="node1" title="Save resource. Return true if successful." coords="236,5,399,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html#a253d8241f5630bb232d9076ab79adc2d" title=" " coords="5,5,188,31"/>
+</map>

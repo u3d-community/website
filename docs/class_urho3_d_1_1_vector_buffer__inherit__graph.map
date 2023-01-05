@@ -1,0 +1,6 @@
+<map id="Urho3D::VectorBuffer" name="Urho3D::VectorBuffer">
+<area shape="rect" id="node1" title="Dynamically sized buffer that can be read and written to as a stream." coords="83,152,231,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_abstract_file.html" title="A common root class for objects that implement both Serializer and Deserializer." coords="85,79,228,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_deserializer.html" title=" " coords="5,5,148,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializer.html" title=" " coords="173,5,301,31"/>
+</map>

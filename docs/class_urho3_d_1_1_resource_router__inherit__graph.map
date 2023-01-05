@@ -1,0 +1,6 @@
+<map id="Urho3D::ResourceRouter" name="Urho3D::ResourceRouter">
+<area shape="rect" id="node1" title=" " coords="23,152,189,177"/>
+<area shape="rect" id="node4" title=" " coords="5,225,207,251"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="51,79,161,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="35,5,177,31"/>
+</map>

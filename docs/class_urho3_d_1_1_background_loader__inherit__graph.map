@@ -1,0 +1,5 @@
+<map id="Urho3D::BackgroundLoader" name="Urho3D::BackgroundLoader">
+<area shape="rect" id="node1" title=" " coords="60,79,245,104"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,5,148,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_thread.html" title="Operating system thread." coords="173,5,287,31"/>
+</map>

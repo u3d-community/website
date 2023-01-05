@@ -1,0 +1,14 @@
+<map id="Urho3D::Button::RegisterObject" name="Urho3D::Button::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,248,171,288"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_button.html#a4e617038bdc48748495e195853ff55d9" title=" " coords="227,5,413,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_button.html#aaa7922e5b15de18b39d5dc621cac196a" title=" " coords="227,69,413,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_button.html#ac76098caf429d62eaf62a4c6c12ec851" title=" " coords="231,133,409,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_button.html#ad2aa3e0c8c5e80916343aea44e6a7123" title=" " coords="219,198,421,223"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="233,248,407,288"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_button.html#afce660c2fa58d11872387787ea0f3c17" title=" " coords="228,312,412,352"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_button.html#a7919321e7cf4203134565161f53d40cb" title=" " coords="228,376,412,416"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_button.html#a852e47032d34a6152c97469a09332a98" title=" " coords="232,440,408,480"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_button.html#a0183e39a6a19a2b71917ebdd841a448c" title=" " coords="219,505,421,530"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="469,248,624,288"/>
+<area shape="rect" id="node11" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="497,475,596,501"/>
+</map>

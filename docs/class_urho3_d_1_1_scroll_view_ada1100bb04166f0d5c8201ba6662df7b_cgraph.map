@@ -1,0 +1,27 @@
+<map id="Urho3D::ScrollView::Update" name="Urho3D::ScrollView::Update">
+<area shape="rect" id="node1" title="Perform UI element update." coords="5,229,140,269"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#a18e7fd77a7862d66b4f66a444c602f41" title=" " coords="188,5,339,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a2213dfdd16c9f98be3696a23cdd31388" title=" " coords="193,69,333,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#a1bc81ebf873ab97c4251c0bad93b568e" title=" " coords="193,133,333,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#aa0fc52c72d10162a656d0b5231995d21" title=" " coords="193,197,333,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i_element.html#a8d8ba4e0f53c653b1defd109f5335246" title=" " coords="193,261,333,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scroll_view.html#a9f1b793840d28cb17a353c2531b856b2" title="Handle the scroll smoothing." coords="196,325,331,365"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scroll_view.html#ae94d56b53ef42a14be5d6fc56a29656a" title=" " coords="196,389,331,429"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="192,454,335,479"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scroll_view.html#a22536fbdac5ebd948a424eb15d7a7c39" title="Update the scrollbars&#39; ranges and positions." coords="387,357,521,397"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scroll_view.html#a7246427277d9a85bb7eaaabeec9828f5" title="Limit and update the view with a new position." coords="387,421,521,461"/>
+<area shape="rect" id="node11" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="603,371,713,397"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="575,421,741,461"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="569,510,747,535"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="795,421,971,461"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="1019,429,1185,454"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="1248,305,1416,330"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="1253,354,1411,379"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_hash_map.html#a3313b8ec65ab0b23c74570898b09175c" title="Free a node." coords="1235,403,1429,429"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_hash_base.html#a2774d115a617b0d6c315132352d43c01" title="Reset bucket head pointers." coords="1233,453,1431,478"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_hash_base.html#a7790b0fb5131f0e0a098e322c9198f39" title="Set new size." coords="1241,502,1423,527"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_hash_base.html#a42b5c2ba692fe96bff763b501b8922a9" title="Return number of elements." coords="1250,551,1414,577"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_map.html#a992327678684d4e38150f32fc676faaf" title="Return the head node." coords="1502,305,1670,330"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1508,354,1664,379"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_hash_base.html#af0f242c3642f60dc7cf69f3b7d24fa11" title="Return number of buckets." coords="1479,453,1693,478"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::NavigationMesh::RemoveAllTiles" name="Urho3D::NavigationMesh::RemoveAllTiles">
+<area shape="rect" id="node1" title="Remove all tiles from navigation mesh." coords="240,5,408,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a5e88f8b75553b969ff511ec21ecbb087" title="Remove all tiles from navigation mesh." coords="5,5,192,45"/>
+</map>

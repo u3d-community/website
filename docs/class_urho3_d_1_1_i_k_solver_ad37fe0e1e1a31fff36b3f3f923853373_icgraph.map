@@ -1,0 +1,6 @@
+<map id="Urho3D::IKSolver::Solve" name="Urho3D::IKSolver::Solve">
+<area shape="rect" id="node1" title="Invokes the solver. The solution is applied back to the scene graph automatically." coords="503,31,663,56"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_i_k_solver.html#a33f6db3304063adb8c43f713c5be3b7a" title="Invokes the IK solver." coords="252,23,455,63"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_i_k_solver.html#a6f5b2b735e88b17320841393e88990bd" title="Subscribe to drawable update finished event here." coords="5,5,204,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_i_k_solver.html#aeed941e6a5f53cb2d6890fc5e5a5ed2c" title=" " coords="9,55,200,80"/>
+</map>

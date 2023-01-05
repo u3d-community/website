@@ -1,0 +1,27 @@
+<map id="Urho3D::Skybox" name="Urho3D::Skybox">
+<area shape="rect" id="node1" title="Static model component with fixed position in relation to the camera." coords="1912,292,2027,317"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_static_model.html" title="Static model component." coords="1527,247,1671,272"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="971,576,1097,601"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_zone.html" title="Component that describes global rendering properties." coords="1278,655,1381,680"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_light.html" title="Light component." coords="1279,559,1380,584"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html" title=" " coords="531,465,674,491"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="5,453,144,479"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="215,497,322,523"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="193,665,344,691"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_octant.html" title=" " coords="547,632,658,657"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_model.html" title="3D model resource." coords="979,280,1089,305"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html" title=" " coords="519,273,686,313"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="198,243,339,268"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="530,337,675,377"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="530,401,675,441"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="720,208,925,263"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html" title=" " coords="509,143,696,197"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html" title=" " coords="519,93,686,119"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1260,273,1399,313"/>
+<area shape="rect" id="node19" href="$struct_urho3_d_1_1_resource_ref_list.html" title="List of typed resource references." coords="949,93,1119,119"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="533,44,672,69"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1495,313,1704,353"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="1263,879,1396,904"/>
+<area shape="rect" id="node24" href="$struct_urho3_d_1_1_hash_node_base.html" title="Hash set/map node base class." coords="951,879,1117,904"/>
+<area shape="rect" id="node25" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="954,967,1114,992"/>
+</map>

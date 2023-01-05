@@ -1,0 +1,27 @@
+<map id="Urho3D::RaycastVehicle::ApplyAttributes" name="Urho3D::RaycastVehicle::ApplyAttributes">
+<area shape="rect" id="node1" title="Perform post&#45;load after deserialization. Acquire the components from the scene nodes." coords="5,302,167,342"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector.html#a816870b165f6d7662f3d806ad73c5c59" title="Clear the vector." coords="232,56,381,81"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#af130e2e88e5d29e1da2b9d4e52d73db2" title="Return node from the whole scene by ID, or null if not found." coords="472,213,640,239"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_raycast_vehicle.html#a65a0ae7d5201ae6ebde6d6325ddb814d" title=" " coords="226,334,387,374"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#ad4e4b1798b1b55d0c60730bd061362af" title="Create a component to this node if it does not exist already." coords="215,270,399,310"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="233,398,381,438"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="233,462,381,502"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="233,151,380,176"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_raycast_vehicle.html#a92d99b123a3f09358a79e3f5041f6f35" title="Set steering value of particular wheel." coords="226,526,387,566"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a5d21ed173348c7bca276c417ed7d38e2" title="Resize the vector." coords="477,11,635,36"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html#ae9748e916e5595ad4ea377f2a0d1a1b7" title="Resize the vector and create/remove new elements as necessary." coords="729,5,904,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="991,80,1145,105"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="968,232,1168,257"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#ab23d77af7fe3350c1dcfec8281849ed3" title="Create a component to this node (with specified ID if provided)." coords="447,307,665,332"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="455,360,657,385"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a3792a0c2e23b120ac879c2931d6f9dc4" title="Add a pre&#45;created component. Using this function from application code is discouraged,..." coords="713,307,920,332"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_context.html#a26cfc48202f21e82e9ec8f1029d15ef3" title="Create an object by type. Return pointer to it or null if no factory found." coords="717,356,917,381"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a9db232116d4278bd3e10c365d2ef57d5" title=" " coords="725,257,909,283"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_string_hash.html#a444cf37ce746edd1e266a4ecca31c0c5" title="Return as string." coords="747,406,886,446"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_component.html#a6070c8208ad98595d8c3fe43778d6069" title="Return component in the same scene node by type. If there are several, returns the first." coords="743,470,891,510"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="472,409,640,435"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="471,469,641,495"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="743,55,890,80"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html#a17e4a13942a9512bc0eceb3e46d950dd" title="Insert elements into the vector using copy or move constructor." coords="471,143,641,183"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="741,156,892,181"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::Node::RegisterObject" name="Urho3D::Node::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,481,203,507"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a7b1640a3996061023dab8751238dc79b" title=" " coords="279,29,447,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a355a2e2bd5dd0300092810ebda808776" title="Return network parent attribute." coords="257,79,469,104"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a31415827adc7967fdd6fe26b0f0d9084" title="Return network position attribute." coords="251,128,474,153"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#aa6970dbbbcb09728f9e0887e87c58240" title="Return network rotation attribute." coords="251,177,475,203"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a9c4d222bfa87cfe55268ed1ccbcdc65c" title=" " coords="273,227,453,252"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#a4eee69efff9e18b82364ac5a22df5c32" title=" " coords="272,276,453,301"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a5a0319e7efa9231cb49be4d900b8a6da" title=" " coords="281,325,445,351"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a49a0f7165252bfcf62cb897067d80044" title=" " coords="283,375,443,400"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="277,424,448,449"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="276,474,449,514"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_node.html#aebf77521a93e12e059ce1bb953af5c4f" title=" " coords="273,563,452,588"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_node.html#a4fe38a2be941c8ca1fa59b9639775c09" title=" " coords="279,612,446,637"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_node.html#a3739b426a217d968f04b9d0128922f1e" title="Set network parent attribute." coords="257,661,468,687"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_node.html#ae88fc463f3b9045af0eaaaf33d38711c" title="Set network position attribute." coords="251,711,474,736"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_node.html#aa2fd960b4c5641cd38771280a6b84fb8" title=" " coords="533,736,711,761"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_node.html#ade5376cdb305ed25f152ef344660b284" title="Set network rotation attribute." coords="251,812,474,837"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#a11bd9b2bfda2503123a32889b144aea1" title=" " coords="532,837,712,863"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_node.html#ace951aa924dd417a731746cbf92ead06" title="Set uniform scale in parent space." coords="281,937,444,963"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_node.html#a439a78f3d890caaa6dd33680bb5e493a" title="Set tags. Old tags are overwritten." coords="283,987,442,1012"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a1ce16fa386bfc7b728711030eb941723" title=" " coords="549,5,695,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#af4ea811eb622efbd7b063b2d08ed6459" title="Return name hash." coords="523,55,721,80"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a1bc658c7b719ce21531882df362ea958" title=" " coords="537,104,707,129"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="538,432,706,457"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a9db232116d4278bd3e10c365d2ef57d5" title=" " coords="530,153,714,179"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::PackageFile::IsCompressed" name="Urho3D::PackageFile::IsCompressed">
+<area shape="rect" id="node1" title=" " coords="183,5,325,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_file.html#a602e0ef54455f993d4b78fc26c643df8" title="Open from within a package file. Return true if successful." coords="5,13,135,38"/>
+</map>

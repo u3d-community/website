@@ -1,0 +1,27 @@
+<map id="Urho3D::Node::GetScene" name="Urho3D::Node::GetScene">
+<area shape="rect" id="node1" title=" " coords="1280,482,1448,507"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#aefe578aa19c22b27311a4377239cca01" title="Add a child scene node at a specific index. If index is not explicitly specified or is greater than c..." coords="532,146,699,171"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a3739b426a217d968f04b9d0128922f1e" title="Set network parent attribute." coords="251,95,461,120"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_network.html#a737b8c83e6b42623dff10a5ed42c2cec" title="Broadcast a remote event with the specified node as a sender. Is sent to all client connections in th..." coords="1035,145,1225,185"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a355a2e2bd5dd0300092810ebda808776" title="Return network parent attribute." coords="509,44,721,70"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="1056,342,1204,382"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_scene.html#af7c4ba456a0fdbd205c063761126b02e" title="Node added. Assign scene pointer and add to ID map." coords="781,706,969,731"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_scene.html#ae689b835fa42ad65090796e0a88d2410" title="Node removed. Remove from ID map." coords="1028,431,1232,456"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_node.html#ae42a19a160bffd6c77e3a0a901ece94b" title="Handle attribute animation added." coords="1041,532,1219,572"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_node.html#a40cae184b813fc5397e6ba64e9f8a2c0" title="Handle attribute animation removed." coords="1041,596,1219,636"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_network.html#a9cd2a8e5698132f649b56657977126ba" title="Send outgoing messages after frame logic. Called by HandleRenderUpdate." coords="1031,660,1229,686"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_connection.html#ac7c176e65aa26be5add9841c9861566f" title="Send a remote event with the specified node as sender." coords="1060,710,1200,750"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_ribbon_trail.html#a9cedd249eabc33b3017a1ddbd7fb6b63" title=" " coords="1061,774,1199,814"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_i_k_effector.html#ad5050a41248a4af9a649fd9d854b4786" title="Intended to be used by IKSolver. Copies the positions/rotations of the target node into the effector." coords="1037,838,1223,878"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a418b30665ae7a725c94bfcacbf629238" title="Create a child node with specific ID." coords="266,144,446,170"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a8a62d2fd3157b3d569753b57de8d065d" title=" " coords="272,194,440,219"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a0bf5b40b97dc36a8b39370aee92ccd9d" title=" " coords="5,70,203,95"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_drawable.html#adaacb5c93a02cfd9d662b167b0bae813" title="Add to octree." coords="769,439,980,464"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a2b7ade339dad6d4a0360e5c5aff707dc" title="Allocate the navigation mesh without building any tiles. Bounding box is not padded...." coords="781,489,968,529"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_script_instance.html#aec3e097d88feedbb38b040e6009f64e4" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="796,553,953,593"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_static_model_group.html#a873741eda737adb67c2ee85819105259" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="785,617,964,657"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_terrain.html#ab75024299e9c5e44b3c7266ab3b0e361" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="771,196,979,222"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_crowd_manager.html#ad8d550786dd86d2b9377b7108565158c" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="793,246,957,286"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_off_mesh_connection.html#a4e86ebaa97f280cdcaa15c60eb18792d" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="779,310,971,350"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_constraint.html#a8c9d37e56291499492b0dfdb90a6d841" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="808,374,941,414"/>
+</map>

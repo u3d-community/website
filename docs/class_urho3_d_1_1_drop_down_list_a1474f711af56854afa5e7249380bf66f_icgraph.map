@@ -1,0 +1,18 @@
+<map id="Urho3D::DropDownList::GetSelection" name="Urho3D::DropDownList::GetSelection">
+<area shape="rect" id="node1" title=" " coords="1371,133,1527,173"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_file_selector.html#ad6a0bccbba2e29eddb5ba6d5fc1bd700" title=" " coords="1163,5,1306,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drop_down_list.html#ad174aa1b669904775a3bdd5642ef4f2c" title="Handle the listview selection change. Set placeholder text hidden/visible as necessary." coords="1147,69,1323,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_drop_down_list.html#a1f363750b6cc3c853058c152c608b128" title="Insert item to a specific position." coords="1157,133,1313,173"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_drop_down_list.html#a85e0a34f62137085644c6c7746fff976" title="React to the popup being hidden." coords="1157,197,1313,237"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_drop_down_list.html#ae53093c625d8d3393107d22e37d6b0e7" title=" " coords="1157,261,1313,301"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_drop_down_list.html#aea48d30276bbf2cac5a224fc2ac78515" title="Construct." coords="943,69,1099,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_drop_down_list.html#a2580d19901c29e65fb3d27cadaec1c7f" title="Add item to the end of the list." coords="943,133,1099,173"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_console.html#aa78240b2be979065acb6b3dd39a71bba" title="Populate the command line interpreters that could handle the console command." coords="716,101,895,141"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_file_selector.html#a8f0352bf675048a625d1b8e5ae2ce8ea" title="Set filters." coords="734,165,877,205"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_console.html#a1326b059443a666f16fbe89cb000c662" title=" " coords="483,109,668,134"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_console.html#a2da5b84e5872cbe7df7a7d5491eb09bd" title="Handle close button being pressed." coords="231,37,435,77"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_console.html#a20b0b2076b279c2fcb8ac02257c63722" title="Handle a log message." coords="237,101,429,141"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_console.html#a62a7add1a0c2dab1f2b0ed01691fed27" title="Toggle visibility." coords="249,166,416,191"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_console.html#afa65f6eacc596b544de5b0c3bc1a3d55" title="Construct." coords="5,77,183,102"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_file_selector.html#ae0e66de218b839be46c7f802abf04c80" title="Construct." coords="504,165,647,205"/>
+</map>

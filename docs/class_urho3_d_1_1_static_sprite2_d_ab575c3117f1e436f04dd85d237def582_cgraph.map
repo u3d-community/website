@@ -1,0 +1,11 @@
+<map id="Urho3D::StaticSprite2D::OnWorldBoundingBoxUpdate" name="Urho3D::StaticSprite2D::OnWorldBoundingBoxUpdate">
+<area shape="rect" id="node1" title="Recalculate the world&#45;space bounding box." coords="5,184,204,224"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_bounding_box.html#afef3c1bfa3910387adb4f5992371a8dd" title="Clear to undefined state." coords="292,5,443,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable2_d.html#a71706d718027bcc3e7d96d9f8d75c51f" title="Return all source batches (called by Renderer2D)." coords="296,69,439,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="252,134,483,159"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="298,184,437,224"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_bounding_box.html#a4befcf3c67e94eb2f1924e1179b09bd2" title="Merge a point." coords="292,248,443,288"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="296,313,439,338"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_bounding_box.html#a00fe243d05516209a4ef6f83ff7179df" title="Return transformed by a 3x3 matrix." coords="292,387,443,427"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_drawable2_d.html#aaa3ee2dfe5f37c32ed8fd11a3b169e6e" title="Update source batches." coords="531,69,689,109"/>
+</map>

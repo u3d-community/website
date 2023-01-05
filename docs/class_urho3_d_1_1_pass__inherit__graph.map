@@ -1,0 +1,4 @@
+<map id="Urho3D::Pass" name="Urho3D::Pass">
+<area shape="rect" id="node1" title="Material rendering pass, which defines shaders and render state." coords="25,79,128,104"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,5,148,31"/>
+</map>

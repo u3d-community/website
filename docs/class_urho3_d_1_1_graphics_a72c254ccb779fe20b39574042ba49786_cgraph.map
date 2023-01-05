@@ -1,0 +1,27 @@
+<map id="Urho3D::Graphics::Clear" name="Urho3D::Graphics::Clear">
+<area shape="rect" id="node1" title="Clear any or all of rendertarget, depth buffer and stencil buffer." coords="5,976,167,1001"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_graphics.html#a8630db4d2c1e15642f4c5b85e550c625" title="Return current rendertarget width and height." coords="499,911,691,951"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_int_rect.html#a19bd7564d19878420163e25024e6d84b" title=" " coords="516,976,675,1001"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_graphics.html#a3dd369dc58e2db876d8d001ba24762a5" title="Process dirtied state before draw." coords="222,484,426,509"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_graphics.html#a491fe007ce9f8dce215ba00f5c27ff0d" title="Set color write on/off." coords="233,1077,415,1117"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_graphics.html#abce9b1421f7b2d1179659ca887171f2a" title="Set depth write on/off." coords="233,1141,415,1181"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_graphics.html#a27670beb9e90540f69da3d24da2d07bd" title="Set scissor test." coords="215,925,433,951"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_int_rect.html#ac994f1ac126b1cf039ac6a0e6040f3b4" title=" " coords="518,1025,673,1051"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_render_surface.html#a9456dcc2b317d57bfb8ab13d9f1c4b8b" title=" " coords="757,879,919,919"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_render_surface.html#a1c44bd8b104b1692c87c464fad2db0fd" title=" " coords="757,943,919,983"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_p_o_d_vector.html#ac564a928bd75354adfdeb2b7fd225149" title="Return iterator to the beginning." coords="523,719,667,759"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_graphics.html#a5f50cd062d2ef3cde9fa62a708bb2acb" title="Bind a framebuffer color attachment using either extension or core functionality. Used only on OpenGL..." coords="501,783,690,823"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_graphics.html#ae19c4b22ebcbf2242f462b2e330ad166" title="Bind a framebuffer depth attachment using either extension or core functionality. Used only on OpenGL..." coords="500,847,691,887"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_graphics.html#aecd0066098f01560de4784346ace7a2f" title="Bind a framebuffer using either extension or core functionality. Used only on OpenGL." coords="481,5,709,31"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_graphics.html#a620884eac01f008636eda07edd907aa5" title="Bind a framebuffer stencil attachment using either extension or core functionality...." coords="498,55,693,95"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_graphics.html#a36e7c254c8eb1a1f977d150b0d7f6f6c" title="Create a framebuffer using either extension or core functionality. Used only on OpenGL." coords="511,119,679,159"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_p_o_d_vector.html#ad9cedde70f6aac8dde2b7bfba7ca4fbb" title="Return iterator to the end." coords="512,184,679,209"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vertex_buffer.html#ad9efc94999d3db657364bfdf06ce8c4b" title=" " coords="522,234,669,274"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_texture.html#ab47f6f48fa537e42dea9e21bc3a350cc" title=" " coords="503,299,688,324"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_g_p_u_object.html#afeb0a749cfb6c1bb4c7f1b4a35d7f901" title="Return the object name. Applicable only on OpenGL." coords="524,349,667,389"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_texture.html#a815de5066aa280a6680242340fcbc3ac" title="Return whether the parameters are dirty." coords="490,413,701,453"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_render_surface.html#a55e9abe7e376d6cb62f9ad7f926f56dc" title=" " coords="515,477,676,517"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_render_surface.html#a67ad65367292b981e5367a8b398da5b3" title="Return OpenGL renderbuffer if created." coords="515,541,676,581"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_texture.html#af49ebd8d0572e8616402f9c663b6a818" title=" " coords="508,605,683,631"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vertex_buffer.html#a3a79aa5356d9e9044f01ae6cfd9193cf" title=" " coords="522,655,669,695"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::LuaScript::AddEventHandler" name="Urho3D::LuaScript::AddEventHandler">
+<area shape="rect" id="node1" title="Add a scripted event handler by function name for a specific sender." coords="5,5,140,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_lua_script.html#a4a61fb194eba833e56e2afb4882d7612" title="Return Lua function at the given stack index." coords="188,5,323,45"/>
+</map>

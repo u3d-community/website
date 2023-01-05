@@ -1,0 +1,5 @@
+<map id="Urho3D::FontFaceFreeType" name="Urho3D::FontFaceFreeType">
+<area shape="rect" id="node1" title="Free type font face description." coords="5,152,184,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_font_face.html" title="Font face description." coords="31,79,158,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="23,5,166,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Urho3D::RaycastVehicle" name="Urho3D::RaycastVehicle">
+<area shape="rect" id="node1" title=" " coords="12,445,173,471"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_logic_component.html" title="Helper base class for user&#45;defined game logic components that hooks up to update events and forwards ..." coords="5,372,180,397"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="21,299,164,324"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="23,225,162,251"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="23,152,163,177"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_object.html" title=" " coords="37,79,148,104"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="21,5,164,31"/>
+</map>

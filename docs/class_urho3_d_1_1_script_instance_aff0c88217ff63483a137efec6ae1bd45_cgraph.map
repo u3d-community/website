@@ -1,0 +1,27 @@
+<map id="Urho3D::ScriptInstance::RegisterObject" name="Urho3D::ScriptInstance::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,485,163,525"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_script_instance.html#ab92fd3788ad5bddcf4b6a30de7c0c7ba" title="Return class name." coords="223,101,381,141"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_script_instance.html#a26be5de8fe84ab047637d7d1d44cdc51" title="Return delayed method calls attribute." coords="223,165,381,205"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_script_instance.html#ac3ee35fe92b771428e2fa8e0f22a0aae" title="Get script file serialization attribute by calling a script function." coords="223,229,381,269"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_script_instance.html#a44d6da163a077981ca9f811df8ae0663" title="Return script file attribute." coords="223,293,381,333"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_script_instance.html#a0552edba975f87d5c6fc65179089c291" title="Get script network serialization attribute by calling a script function." coords="211,357,393,397"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="228,421,376,461"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="215,485,389,525"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_script_instance.html#a47633c77c9e23e7db7504f6d630c120f" title="Set class name only. Recreate object if necessary." coords="223,549,381,589"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_script_instance.html#a423999b132adc89bdc3300533be15004" title="Set delayed method calls attribute." coords="223,677,381,717"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="228,613,376,653"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_script_instance.html#a4546c513f442f71b5bf4d91a8f1250b8" title="Set script file serialization attribute by calling a script function." coords="223,741,381,781"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_script_instance.html#a41479323a4b184adb0cc5f869874ed0f" title="Set script file attribute." coords="223,805,381,845"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_script_instance.html#acba944e1d07be5e9b9ea0c91a3ca9303" title="Set script network serialization attribute by calling a script function." coords="211,869,393,909"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector_buffer.html#a2f9263d81223cc1315806fd5325069dc" title="Return the buffer." coords="446,312,594,352"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializer.html#a44ddefbaf5a7b7b67a002ed1c6d6d0da" title="Write a bool." coords="456,5,584,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_serializer.html#af2b0a9945e01a6e05ff0392970d86df2" title="Write a float." coords="456,69,584,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_serializer.html#a51c8222e9c2f0ce9deac7298ab0189c6" title="Write a null&#45;terminated string." coords="456,133,584,173"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_serializer.html#aafa0871855a21d84adbc84f180c3c41e" title="Write a variant vector." coords="451,197,589,237"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_serializer.html#ae4429a6ec1f94508037c2d21430d2124" title="Write a variable&#45;length encoded unsigned integer, which can use 29 bits maximum." coords="647,227,775,267"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="443,421,597,461"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_script_instance.html#a9cb950babe4d5200878faf0af129d5d8" title="(Re)create the script object and check for supported methods if successfully created." coords="441,549,599,589"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="446,613,594,653"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_script_instance.html#ae44410be41a35179cac7bc6ba864b62f" title="Release the script object." coords="441,485,599,525"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_deserializer.html#a18e879f71f2fc03551358b39d73931bc" title="Read a bool." coords="449,677,591,717"/>
+</map>

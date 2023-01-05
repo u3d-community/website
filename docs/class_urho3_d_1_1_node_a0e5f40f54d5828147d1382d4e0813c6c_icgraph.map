@@ -1,0 +1,10 @@
+<map id="Urho3D::Node::LoadXML" name="Urho3D::Node::LoadXML">
+<area shape="rect" id="node1" title="Load from XML data. Return true if successful." coords="912,104,1081,129"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a16c9193018c0cfadaae69961b9132762" title="Instantiate scene content from XML data. Return root node if successful." coords="659,29,861,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scene.html#a3cd90a6194226a9279aa127222401cf4" title="Load from an XML file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY mo..." coords="656,79,864,104"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#a238a6b49c396e644dcaa8844110b9d1b" title="Load from XML data. Removes all existing child nodes and components first. Return true if successful." coords="674,128,846,153"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#a625934c3af5fb17f25a09767d4c0cc6b" title="Update asynchronous loading." coords="663,202,857,242"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#afb949e0fedbb2becb9aa7a3dfb0ed7b2" title="Update scene. Called by HandleUpdate." coords="451,209,608,235"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#ad3307d7a01b61f9b6ded6cff9a44f857" title="Handle the logic update event to update the scene, if active." coords="204,209,403,235"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#aecd178e1857bd96c3e4537651fd7f60c" title="Construct." coords="5,209,156,235"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Urho3D::ListIteratorBase" name="Urho3D::ListIteratorBase">
+<area shape="rect" id="node1" title="Doubly&#45;linked list iterator base class." coords="62,5,229,31"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_list_1_1_const_iterator.html" title="List const iterator." coords="5,79,133,119"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_list_1_1_iterator.html" title="List iterator." coords="157,79,285,119"/>
+</map>

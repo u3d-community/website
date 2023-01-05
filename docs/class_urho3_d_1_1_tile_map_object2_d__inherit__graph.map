@@ -1,0 +1,4 @@
+<map id="Urho3D::TileMapObject2D" name="Urho3D::TileMapObject2D">
+<area shape="rect" id="node1" title="Tile map object." coords="5,79,179,104"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="21,5,163,31"/>
+</map>

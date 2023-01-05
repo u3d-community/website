@@ -1,0 +1,5 @@
+<map id="Urho3D::ScriptEventInvoker" name="Urho3D::ScriptEventInvoker">
+<area shape="rect" id="node1" title="Helper class for forwarding events to script objects that are not part of a scene." coords="5,152,188,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="41,79,152,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="25,5,168,31"/>
+</map>

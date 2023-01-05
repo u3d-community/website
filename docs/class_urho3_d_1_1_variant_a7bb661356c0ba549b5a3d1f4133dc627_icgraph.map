@@ -1,0 +1,27 @@
+<map id="Urho3D::Variant::GetType" name="Urho3D::Variant::GetType">
+<area shape="rect" id="node1" title=" " coords="756,511,923,537"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_spline.html#aa77a744c301a9c7475d635d00b4df2e7" title="Add a knot to the end of the spline." coords="513,109,679,134"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_spline.html#a82f7d213067167d0469e03a011589e50" title="Linear interpolation between two Variants based on underlying type." coords="484,226,708,251"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_variant.html#a08021c6832a6dcdafd9eccacae93d0fd" title="Assign from another variant." coords="507,275,685,301"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_serializable.html#a52c377ff65bd3198a3c460c6a43dc008" title=" " coords="526,325,666,365"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_value_animation.html#a016a7527d1b85fec4b37bdc47ce00977" title="Set key frame." coords="513,389,679,429"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_spline.html#ad5a5477e8dd8bd471c6a00e508cfc399" title="Set the value of an existing knot." coords="516,454,676,479"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_material.html#a27f2b7dd5a1ab57e0be7f9a30be657ed" title=" " coords="502,504,690,544"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_graphics.html#a4f821ce1143128a6563139f356c4ab1a" title="Set shader constant from a variant. Supported variant types: bool, float, vector2,..." coords="501,568,691,608"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_x_m_l_element.html#abcddcb142e2672f6ef1131cacdd907b1" title="Set a variant attribute excluding the type." coords="522,632,670,672"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_j_s_o_n_value.html#a884b1e10484fc8c46fbe04d64943473c" title="Set variant value, context must provide for resource ref." coords="523,696,669,736"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_x_m_l_element.html#ad12a4b8470fc5cbffeebd4421afd2ad6" title="Set a float, Vector or Matrix attribute stored in a variant." coords="522,760,670,800"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_serializer.html#a512b833ebf115c9c25df30ed4ccb7a11" title="Write a variant." coords="259,845,387,885"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_serializer.html#a33ad05e0f6b05140fe8941ebee14cc15" title="Write a variant without the type information." coords="532,875,660,915"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_spline_path.html#aeda8d385fe734579f66408158582ada0" title="Add a Node to the SplinePath as a Control Point." coords="256,5,391,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_spline_path.html#a050f0c34ef856d7794b007bb1bc6d5db" title="Apply Attributes to the SplinePath." coords="256,69,391,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_spline_path.html#a70332b257f6b5adc371291208dd7e430" title="Listener to manage Control Point enabling." coords="252,133,395,173"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene_resolver.html#a4322ce210921b372aa621462408597cc" title="Resolve component and node ID attributes and reset." coords="243,197,403,237"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_script_instance.html#aa535e7691f379c6e5cf1bf10f485d5ad" title="Restore values of script attributes after hot reload is complete." coords="241,261,405,301"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_value_animation.html#abb90d4733017bb3e85f68f344a4a9571" title="Load from JSON data. Return true if successful." coords="241,325,406,365"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_value_animation.html#a9ec6ef8e4dcd6e23e591936d45147991" title="Load from XML data. Return true if successful." coords="241,389,406,429"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_spline_path.html#a52f7ac7452d9c538da76d297030d8841" title="Listener to manage Control Point movement." coords="256,453,391,493"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_material.html#a843c233ee44a1b2d1aaea55d989782fe" title="Load from an XML element. Return true if successful." coords="5,547,163,573"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_material.html#a2a6e0e7eae446f7c7513090852aeac21" title="Reset to defaults." coords="236,568,411,608"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_material.html#a2470fc628c1bbdb6b52054076714ff41" title="Set texture coordinate transform." coords="211,633,436,658"/>
+</map>

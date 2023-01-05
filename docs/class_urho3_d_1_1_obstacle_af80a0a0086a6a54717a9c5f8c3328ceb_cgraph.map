@@ -1,0 +1,11 @@
+<map id="Urho3D::Obstacle::DrawDebugGeometry" name="Urho3D::Obstacle::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Render debug information." coords="5,115,203,155"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#a0d99abb43932492c162c983954086ef9" title="Add a cylinder." coords="277,57,440,97"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="251,122,467,147"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="285,172,433,212"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="519,29,681,69"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_sphere.html#a87d3287a4cae266144da2ae624933ef1" title="Return point on the sphere." coords="515,94,685,119"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="733,37,884,62"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="932,37,1043,62"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="515,179,685,205"/>
+</map>

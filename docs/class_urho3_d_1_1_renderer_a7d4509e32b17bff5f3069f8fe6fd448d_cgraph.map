@@ -1,0 +1,27 @@
+<map id="Urho3D::Renderer::GetShadowMap" name="Urho3D::Renderer::GetShadowMap">
+<area shape="rect" id="node1" title="Allocate a shadow map. If shadow map reuse is disabled, a different map is returned each time." coords="5,470,232,495"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_bounding_box.html#afd34713236804d7207ce7fd709e99db9" title="Define from another bounding box." coords="307,5,457,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_light.html#a47c0b2231bd8b1bec4e4a59da8f4f284" title=" " coords="291,70,473,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="308,120,456,160"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_light.html#ae6a55e95ebc821b244733d20a9fcfe8c" title=" " coords="280,235,484,275"/>
+<area shape="rect" id="node6" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="598,214,693,239"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_camera.html#ad705a7447b5db893eb5642f0d05c02ca" title=" " coords="280,299,484,325"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_light.html#a5ec2f6cd35b8a412f2b97a499e146257" title=" " coords="301,349,463,374"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_light.html#a22f1ebb7c007817525e276e851d11bd6" title=" " coords="295,399,469,439"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_light.html#a4b65d3366b589ca4b6b179461d42f4d8" title=" " coords="295,463,469,503"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_camera.html#a86a2e6d78d0ac6c20e043ada2f573401" title=" " coords="295,578,469,603"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="807,570,1023,595"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_light.html#aa1b8ac01b70cad7e6add4d0b164d611b" title="Return spotlight frustum in the specified view space." coords="287,636,477,676"/>
+<area shape="rect" id="node19" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="866,778,965,803"/>
+<area shape="rect" id="node20" href="$_math_defs_8h.html#a40d33200d2bcbe345b556045ca344b29" title="Round up to next power of two." coords="293,790,471,815"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_bounding_box.html#aa700d4d93ccb180f9d5738a89408f8a2" title="Return projected by a 4x4 projection matrix." coords="307,840,457,880"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_shared_ptr.html#a438333cddc59c6f41a55bbf50ad39299" title="Reset with another pointer." coords="313,904,451,944"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_rect.html#a00fcda11338d9ae64f88dc65023177b6" title=" " coords="317,969,447,994"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_camera.html#aa2ca83a0c0ffdede12922e6ed72b69b6" title="Recalculate projection matrix." coords="532,299,759,325"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_camera.html#a08d24e076d62c0b397817f2c9f92cc41" title=" " coords="548,563,743,603"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="576,499,715,539"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="807,649,1024,674"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_frustum.html#ae3bb6685c4a3500651952fe03e6442ae" title="Define with projection parameters and a transform matrix." coords="563,753,728,778"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_rect.html#a31dd9880cc9d0dda98cb34976bb3bd80" title="Merge a point." coords="574,854,717,879"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_shared_ptr.html#a913ae8f8f0e4eced71a33195f3343a08" title="Swap with another SharedPtr." coords="560,911,731,937"/>
+</map>

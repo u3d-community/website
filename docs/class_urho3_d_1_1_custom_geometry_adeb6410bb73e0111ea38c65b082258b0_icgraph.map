@@ -1,0 +1,5 @@
+<map id="Urho3D::CustomGeometry::GetLodGeometry" name="Urho3D::CustomGeometry::GetLodGeometry">
+<area shape="rect" id="node1" title="Return the geometry for a specific LOD level." coords="236,37,415,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_custom_geometry.html#a31a154baaef524bd807cfeaae3e8f262" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="7,5,186,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_custom_geometry.html#a38a3d209076cf5f992e9ae8289230fc4" title="Return number of occlusion geometry triangles." coords="5,69,188,109"/>
+</map>

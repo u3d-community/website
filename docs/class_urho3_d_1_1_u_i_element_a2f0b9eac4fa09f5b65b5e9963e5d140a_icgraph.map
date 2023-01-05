@@ -1,0 +1,5 @@
+<map id="Urho3D::UIElement::GetCombinedScreenRect" name="Urho3D::UIElement::GetCombinedScreenRect">
+<area shape="rect" id="node1" title=" " coords="415,5,584,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#aaa6b4eddcd2e94d531ef885a68e0f13a" title="Return whether a point (either in element or screen coordinates) is inside the combined rect of the e..." coords="227,5,367,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i.html#a64c370ff3f5dcbee044573fae5db7a43" title="Return UI element at screen position recursively." coords="5,13,179,38"/>
+</map>

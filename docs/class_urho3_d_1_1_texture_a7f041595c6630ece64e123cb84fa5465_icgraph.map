@@ -1,0 +1,8 @@
+<map id="Urho3D::Texture::SetNumLevels" name="Urho3D::Texture::SetNumLevels">
+<area shape="rect" id="node1" title="Set number of requested mip levels. Needs to be called before setting size." coords="263,141,469,166"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture_cube.html#a40f3c72a68d864e9d0e57d35491f9934" title="Set data of one face from an image. Return true if successful. Optionally make a single channel image..." coords="37,5,183,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture2_d.html#ab49167ad05742f9610fd938c2f9f29ce" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="41,69,179,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture3_d.html#adc338a79d4dbbb51605bf14a252135a3" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="41,133,179,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture2_d_array.html#a6bf5a1b684ec0d37ea5e81e0f2d7dd84" title="Set data of one layer from an image. Return true if successful. Optionally make a single channel imag..." coords="29,197,191,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_texture.html#aee2915774cd960588e9dcdb3e213ff33" title="Set additional parameters from an XML element." coords="5,262,215,287"/>
+</map>

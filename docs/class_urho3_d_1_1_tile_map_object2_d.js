@@ -1,0 +1,26 @@
+var class_urho3_d_1_1_tile_map_object2_d =
+[
+    [ "GetName", "class_urho3_d_1_1_tile_map_object2_d.html#a8c6e79accff1690fb27f4df5ed7506b0", null ],
+    [ "GetNumPoints", "class_urho3_d_1_1_tile_map_object2_d.html#a885ee5860177b2a10580a1651cbf97b8", null ],
+    [ "GetObjectType", "class_urho3_d_1_1_tile_map_object2_d.html#a746b6d7e1b29c37f0b03778cd06ef447", null ],
+    [ "GetPoint", "class_urho3_d_1_1_tile_map_object2_d.html#a38809a8757d6e917bb08c6788ae70178", null ],
+    [ "GetPosition", "class_urho3_d_1_1_tile_map_object2_d.html#a13464596e15798005f6418074c1887e7", null ],
+    [ "GetProperty", "class_urho3_d_1_1_tile_map_object2_d.html#a8666dfcbb2bc3dc307e39bab34eebcba", null ],
+    [ "GetSize", "class_urho3_d_1_1_tile_map_object2_d.html#ada9bbda0070cf5473018a8d0dadea6a4", null ],
+    [ "GetTileFlipX", "class_urho3_d_1_1_tile_map_object2_d.html#a328d17d38b2ae587c2b550d1f985246e", null ],
+    [ "GetTileFlipY", "class_urho3_d_1_1_tile_map_object2_d.html#ac4f532a274483575adbc9288e5b6179e", null ],
+    [ "GetTileGid", "class_urho3_d_1_1_tile_map_object2_d.html#a1008229e09c8f861d8fdcdbd140fcfe1", null ],
+    [ "GetTileSprite", "class_urho3_d_1_1_tile_map_object2_d.html#a9544722772b604bb66bc529035fa0e0f", null ],
+    [ "GetTileSwapXY", "class_urho3_d_1_1_tile_map_object2_d.html#a94667ac80d1cf4a3d47eac57d55a10a4", null ],
+    [ "GetType", "class_urho3_d_1_1_tile_map_object2_d.html#a3e028d276ccb3dca27c98dfb98685c2f", null ],
+    [ "HasProperty", "class_urho3_d_1_1_tile_map_object2_d.html#a42be3bec308f3062bf5a1746afda54c2", null ],
+    [ "gid_", "class_urho3_d_1_1_tile_map_object2_d.html#ae5ed76210cf70b7bc767cb67f77fa629", null ],
+    [ "name_", "class_urho3_d_1_1_tile_map_object2_d.html#a4cd84aaa4d2e5a35e38f587329dbfdfe", null ],
+    [ "objectType_", "class_urho3_d_1_1_tile_map_object2_d.html#a1a2f6234138cb1befac13239398a3b58", null ],
+    [ "points_", "class_urho3_d_1_1_tile_map_object2_d.html#a36c952e97c9d4f972a68419290c6c123", null ],
+    [ "position_", "class_urho3_d_1_1_tile_map_object2_d.html#a05905678d8608ce256e2ed8d6559177d", null ],
+    [ "propertySet_", "class_urho3_d_1_1_tile_map_object2_d.html#a8d76134e2d807e7486e06d64cc517b7e", null ],
+    [ "size_", "class_urho3_d_1_1_tile_map_object2_d.html#a23a770306e0da802f525a9ac4c5b3778", null ],
+    [ "sprite_", "class_urho3_d_1_1_tile_map_object2_d.html#addbe11e766d6036100770cf96e0b32d9", null ],
+    [ "type_", "class_urho3_d_1_1_tile_map_object2_d.html#a1279005361ee1d8d6c819c9686f4408b", null ]
+];

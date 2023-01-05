@@ -1,0 +1,27 @@
+<map id="Urho3D::Text3D::SetVerticalAlignment" name="Urho3D::Text3D::SetVerticalAlignment">
+<area shape="rect" id="node1" title=" " coords="5,353,188,393"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_text3_d.html#ad44e2ab1dccca583ae229245729a5d19" title="Mark text &amp; geometry dirty." coords="236,233,412,273"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_u_i_element.html#a9150b8c86bc499849dcc62105b2c4689" title=" " coords="252,415,396,455"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="483,123,631,163"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_drawable.html#a04a978441415a93f044721f6473df0e3" title="Handle node transform being dirtied." coords="460,233,655,273"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="974,151,1122,191"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="727,93,875,133"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="703,29,900,69"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="1201,158,1369,183"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="948,101,1148,126"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_octant.html#a7c998cf647fa3ba6fc98d05a9a04dc9d" title="Return octree root." coords="719,265,884,290"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_octree.html#a578eb27fbff722b23eecfd03ef0e5571" title="Mark drawable object as requiring an update and a reinsertion." coords="703,215,899,241"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="957,215,1139,255"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_u_i_element.html#ac2708f43d9290982eb31d26a7cc10afa" title=" " coords="487,387,627,427"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_u_i_element.html#ad18ecc5e79b04d47079bdc979eed8240" title="Mark screen position as needing an update." coords="978,444,1118,484"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_u_i_element.html#a4a5e995e122f9caafc20a8fd5ccc92bc" title="Update anchored size &amp; position. Only called when anchoring is enabled." coords="487,561,627,601"/>
+<area shape="rect" id="node17" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="993,813,1103,838"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_u_i_element.html#a9637bdc3ff09125524784682dffaf1b5" title=" " coords="731,387,871,427"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i_element.html#a388303ecaef3a6d4764cf84f3dfcceb8" title=" " coords="731,623,871,663"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="1201,623,1368,663"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_u_i_element.html#a1bb93347504295168ef246844957e0cd" title="React to position change." coords="978,279,1118,319"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="1196,509,1373,534"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_u_i_element.html#a6eca4b74842f82376a1d9a7f889aa174" title="Return effective minimum size, also considering layout. Used internally." coords="1215,708,1355,748"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_u_i_element.html#aa99ec115621b2ef219b0f17edd1ff91c" title="React to resize." coords="978,559,1118,599"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_u_i_element.html#a7cba78373c23a734a1ccd2d4a27d8cb0" title="Manually update layout. Should not be necessary in most cases, but is provided for completeness." coords="978,623,1118,663"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="Urho3D::FontFaceBitmap::Load" name="Urho3D::FontFaceBitmap::Load">
+<area shape="rect" id="node1" title="Load font face." coords="5,353,173,393"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="768,207,924,233"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="527,76,675,116"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="527,171,675,211"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_object.html#a8bd9b32c8a56c2f6d618d8afe8091eb7" title="Return execution context." coords="755,554,937,579"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_x_m_l_element.html#aee06acb7085894da986940750c2735be" title="Return an integer attribute, or zero if missing." coords="261,5,409,45"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_resource.html#a5e14c5f01c2fc33fa20bef5094a7ea42" title=" " coords="221,286,448,311"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="239,335,430,361"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_x_m_l_element.html#a9aafd5a9e7302bcda8cf64b0664b588b" title="Return next sibling element." coords="527,340,675,380"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_object.html#a9fb7d12773df7b6467f62415ee4ce977" title="Return subsystem by type." coords="234,501,435,526"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_x_m_l_element.html#a355dd709c5aa4cef307fd928cf5c37a4" title="Return an unsigned integer attribute, or zero if missing." coords="261,69,409,109"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_x_m_l_element.html#ad7c2e67e5dfefddc309e1c809aa1ba74" title=" " coords="261,601,409,641"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_x_m_l_element.html#a83c9e8cdf51efcf7a24fb02c1d94d1f7" title=" " coords="527,576,675,616"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_font_face.html#a270c6597baebbf93245d7dca6e5f6116" title="Load font face texture from image resource." coords="239,436,430,476"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="221,717,448,742"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_x_m_l_element.html#afd561acf36305fd70cf86f60f666798f" title="Return attribute as C string, or null if missing." coords="772,76,920,116"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_context.html#afa33678f2b94acd249a1667249725975" title="Return subsystem by type." coords="496,501,707,526"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_font_face.html#ab14c6bd4c65d7a2adff056a23d378167" title="Create a texture for font rendering." coords="516,436,687,476"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Urho3D::AnimatedSprite2D" name="Urho3D::AnimatedSprite2D">
+<area shape="rect" id="node1" title="Animated sprite component, it uses to play animation created by Spine (http://www...." coords="5,592,185,617"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_static_sprite2_d.html" title="Static sprite component." coords="17,519,173,544"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable2_d.html" title="Base class for 2D visible components." coords="24,445,167,471"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="32,372,159,397"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html" title=" " coords="24,299,167,324"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="26,225,165,251"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="25,152,165,177"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_object.html" title=" " coords="40,79,151,104"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="24,5,167,31"/>
+</map>

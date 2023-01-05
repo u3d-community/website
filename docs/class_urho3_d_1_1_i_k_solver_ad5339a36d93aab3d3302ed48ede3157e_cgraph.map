@@ -1,0 +1,27 @@
+<map id="Urho3D::IKSolver::RegisterObject" name="Urho3D::IKSolver::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,170,181,210"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_i_k_solver.html#a92334edf573fa3d3b4885de427281c92" title=" " coords="230,5,437,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_i_k_solver.html#ab4f197fe9ffcd61a5cdd9c42c3db4857" title=" " coords="229,55,437,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_i_k_solver.html#acb94aab774a7b65255834abb955041bf" title=" " coords="231,120,436,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="247,170,420,210"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_i_k_solver.html#a78158a230b7e123b9ca73f82d51824d5" title="Selects the solver algorithm. Default is FABRIK. Note that this may not be the most efficient algorit..." coords="231,235,436,260"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_i_k_solver.html#ae81360d40814c704d9b0861c589e92f1" title="Sets the maximum number of iterations the solver is allowed to perform before applying the result." coords="230,285,437,325"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_i_k_solver.html#a8a2071caa4cfa7795e0a6570ede45d8e" title="Sets the distance at which the effector is &quot;close enough&quot; to the target node, at which point the algo..." coords="231,349,435,375"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="510,134,665,174"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_i_k_solver.html#afe4c1364201933e830b92ac7b6712f6a" title=" " coords="485,198,689,238"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_i_k_solver.html#aad4ab41a3accf0ff067ad591d0f7c67e" title="Destroys the solver&#39;s tree." coords="742,235,941,260"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_i_k_solver.html#a215740ec5753a2347b9da9ec9d84cc07" title="Builds the solver&#39;s tree to match the scene graph&#39;s tree. If a tree already exists,..." coords="489,341,685,367"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_i_k_solver.html#afaa45ef02d8aee5717b9eabece7ac883" title="Builds a chain of nodes up to the node of the specified effector component." coords="750,449,933,489"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_i_k_solver.html#a47e782eedb4819ac1f24020a3cce5eaa" title="Creates the ik library node and sets the current rotation/position and user data correctly." coords="1013,242,1179,282"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_i_k_solver.html#ac31967b5c4363bddf59ff0c2e4cfd5e0" title=" " coords="743,599,940,639"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_node.html#a33c8b46fb4ba500ad71dbf7f2652066f" title="Return all components." coords="737,284,945,309"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_i_k_solver.html#a33218dc2749da6a94ea2d6e6df62f8c8" title="Indicates that the internal structures of the IK library need to be updated. See the documentation of..." coords="742,334,941,374"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html#a02b72389727e56688c9f6ed66c2f8733" title="Return last element." coords="1247,505,1420,531"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a1ce16fa386bfc7b728711030eb941723" title=" " coords="1261,279,1406,304"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="1022,657,1170,697"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_node.html#a1bc658c7b719ce21531882df362ea958" title=" " coords="1011,607,1181,632"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_node.html#a01570d66b89fd1fa1ee8305cf00e9a3b" title="Return whether has a specific component." coords="993,357,1199,383"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_p_o_d_vector.html#a76e8bca181c0ab7e7ebbe5b325c35aa2" title="Remove the last element." coords="1013,407,1179,432"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_p_o_d_vector.html#a3eb78093c096ab9e9d68595facc56470" title="Add an element at the end." coords="1009,456,1183,481"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="1011,505,1181,531"/>
+</map>

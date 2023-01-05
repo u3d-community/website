@@ -1,0 +1,15 @@
+<map id="Urho3D::CrowdAgent::DrawDebugGeometry" name="Urho3D::CrowdAgent::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Draw debug feelers." coords="5,183,159,223"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#a0d99abb43932492c162c983954086ef9" title="Add a cylinder." coords="207,87,369,127"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="444,29,607,69"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_crowd_agent.html#a10bc365863ee6cf7868dc3d0c104713d" title=" " coords="215,151,361,191"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_crowd_agent.html#ab0c51a78ac8c7b78afc1322a26a66117" title=" " coords="215,215,361,255"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_crowd_agent.html#a817b1390bcfaa25c2b7ef4d6d5fd4758" title=" " coords="215,343,361,383"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_crowd_agent.html#afd2b18da05e1a2e3b258de9ca0f80c7c" title=" " coords="215,279,361,319"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_sphere.html#a87d3287a4cae266144da2ae624933ef1" title="Return point on the sphere." coords="441,94,610,119"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="681,37,832,62"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="880,37,991,62"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_crowd_agent.html#a9570c793c0cc976e1c25ac1696ea3e86" title="Get internal Detour crowd agent." coords="445,247,606,287"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_crowd_agent.html#a10ee874b4a7c18600a751cb8630a1179" title=" " coords="683,247,830,287"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="417,350,633,375"/>
+</map>

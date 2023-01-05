@@ -1,0 +1,27 @@
+<map id="Urho3D::DecalSet::RegisterObject" name="Urho3D::DecalSet::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,669,184,709"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_decal_set.html#a51674c68b8680dc72e7b932a9a3b3f2c" title="Return decals attribute." coords="236,198,449,223"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_drawable.html#aaace7f6327baffa0a0c4adb1d840de24" title=" " coords="251,248,434,288"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_decal_set.html#a028de85b7d452f66141910ff4853cc6f" title="Return material attribute." coords="232,313,453,338"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_decal_set.html#a0e271a52ae6919d302d10d792a9788a5" title=" " coords="254,363,431,403"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_decal_set.html#af190e2bf03fab38304091e6100bb1900" title=" " coords="254,427,431,467"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_decal_set.html#a62ce826868ef398305e2f05a24b6ae54" title=" " coords="241,491,444,531"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="269,555,417,595"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_drawable.html#aabd4960e08a707a45f9720fcb30dfa39" title=" " coords="243,619,442,645"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="256,669,429,709"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_decal_set.html#a923a3994c943b0640359d3eed97917e6" title="Set decals attribute." coords="237,734,449,759"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_drawable.html#a6fa21af838026c1566496968bc7a696c" title=" " coords="251,784,434,824"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="269,848,417,888"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_decal_set.html#a3f7184b4669dbc3a8078db736ff5f450" title="Set material attribute." coords="233,913,453,938"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_decal_set.html#af900f38a29c2e870e4cbf7f9548eb10b" title=" " coords="255,963,431,1003"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_decal_set.html#aaa1efc44c8cb8e7da1ae29cb48e3dc48" title=" " coords="255,1027,431,1067"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_drawable.html#aa1e97bbb2427a3626a5b6816dfc888d6" title=" " coords="239,1091,446,1117"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_decal_set.html#a6a09d311e0bc809dde4c73ba7d186c80" title=" " coords="241,1141,444,1181"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector_buffer.html#a2f9263d81223cc1315806fd5325069dc" title="Return the buffer." coords="501,5,649,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector_buffer.html#a69e3d44e433b55fee41ff1f8667ad116" title="Write bytes to the buffer. Return number of bytes actually written." coords="501,69,649,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializer.html#a44ddefbaf5a7b7b67a002ed1c6d6d0da" title="Write a bool." coords="511,133,639,173"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_serializer.html#a4f90c5159c785e81d4ba74ebcfb961a5" title="Write an 8&#45;bit unsigned integer." coords="697,163,825,203"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_serializer.html#a5b72d159d2d843c9ffaf3e17be25fef7" title="Write a bounding box." coords="507,248,643,288"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_serializer.html#af2b0a9945e01a6e05ff0392970d86df2" title="Write a float." coords="511,312,639,352"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_serializer.html#a51c8222e9c2f0ce9deac7298ab0189c6" title="Write a null&#45;terminated string." coords="511,376,639,416"/>
+</map>

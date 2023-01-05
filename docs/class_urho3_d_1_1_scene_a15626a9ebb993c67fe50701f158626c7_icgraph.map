@@ -1,0 +1,13 @@
+<map id="Urho3D::Scene::GetElapsedTime" name="Urho3D::Scene::GetElapsedTime">
+<area shape="rect" id="node1" title=" " coords="1592,64,1804,89"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a0fe334f7776874f008b411b66d4e8f0a" title=" " coords="1341,35,1541,60"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#ab5121071c672db6986aa3fba4e116be0" title="Set global (per&#45;frame) shader parameters. Called by Batch and internally by View." coords="1339,85,1544,125"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="1135,63,1291,88"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_view.html#a798fe80282652472bd0fb2c0694bbfb8" title="Perform a quad rendering command." coords="716,120,896,145"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="944,5,1087,31"/>
+<area shape="rect" id="node10" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="945,55,1086,95"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="735,27,877,67"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,62,397,102"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="445,69,668,95"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,69,155,95"/>
+</map>

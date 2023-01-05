@@ -1,0 +1,27 @@
+<map id="Urho3D::Scene::MarkNetworkUpdate" name="Urho3D::Scene::MarkNetworkUpdate">
+<area shape="rect" id="node1" title="Mark for attribute check on the next network update." coords="503,599,700,639"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="283,599,431,639"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_node.html#a9c4864e96c873752bed6b1f178888fde" title="Mark for attribute check on the next network update." coords="260,251,455,291"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_scene.html#af7c4ba456a0fdbd205c063761126b02e" title="Node added. Assign scene pointer and add to ID map." coords="263,688,451,713"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a3792a0c2e23b120ac879c2931d6f9dc4" title="Add a pre&#45;created component. Using this function from application code is discouraged,..." coords="5,5,212,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_billboard_set.html#a197bedeabeabd165c9b94b866db3698a" title="Mark for bounding box and vertex buffer update. Call after modifying the billboards." coords="37,55,180,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_ribbon_trail.html#ad39bbe48e48acc6d1067e1cb3cc12938" title="Mark for bounding box and vertex buffer update. Call after modifying the trails." coords="40,119,177,159"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animation_controller.html#acfd99f001f534afb3fe83fd2361644ff" title="Fade animation to target weight. Return true on success." coords="13,183,204,223"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_animation_controller.html#a1cc653f88d384ad6cdfeaa0abf0b30d8" title="Fade other animations on the same layer to target weight. Return true on success." coords="13,247,204,287"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_text3_d.html#ad44e2ab1dccca583ae229245729a5d19" title="Mark text &amp; geometry dirty." coords="21,311,197,351"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_rigid_body2_d.html#ab1ea2ffb93b7896c20ba717416dbbba9" title="Handle enabled/disabled state change." coords="35,375,183,415"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animation_controller.html#a5d1adceee492a37666943e3ed92fd55a" title="Play an animation and set full target weight. Name must be the full resource name...." coords="13,439,204,479"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_sound_source.html#a9c43c6bb72c0cc5f5f75e6d3c443fc5b" title="Play a sound." coords="33,503,185,543"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_animated_model.html#a7a811e5872e93b564fda596c65d9b425" title="Reset all vertex morphs to zero." coords="25,567,193,607"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_crowd_agent.html#a72f4e3378a2a6ef1679f1e94b409d286" title="Reset any target request for the specified agent. Note that the agent will continue to move into the ..." coords="35,631,182,671"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_navigation_mesh.html#a3be7466752eb04a67bd9de880691dcea" title=" " coords="25,695,193,735"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_navigation_mesh.html#aec635bae0afa695b3c301e07a73ea087" title=" " coords="25,759,193,799"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_navigation_mesh.html#a9efdaaead3623ea411232aee95d69682" title=" " coords="25,823,193,863"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_navigation_mesh.html#a6c9363662928a76877d8c5607ed31464" title=" " coords="25,887,193,927"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_rigid_body2_d.html#abaffb46348df8817237d1241bbfb2062" title=" " coords="35,951,183,991"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_static_sprite2_d.html#a6f21758ff295d02f202a4c8cae4bf47d" title=" " coords="31,1015,187,1055"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_network_priority.html#a1017aa1b2e13f2822f3ddc8acb45cb7a" title=" " coords="24,1079,193,1119"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_zone.html#ad16f86f99899d239003e0200c848ebdb" title=" " coords="20,1143,197,1183"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_zone.html#acc0abbfaa7acab6f7ea2f4cdfb983cd6" title=" " coords="20,1207,197,1247"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_constraint_friction2_d.html#acacbc0a4e303b2c48f96286420c7742b" title=" " coords="17,1271,201,1311"/>
+</map>

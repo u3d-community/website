@@ -1,0 +1,4 @@
+<map id="Urho3D::DynamicNavigationMesh::DrawDebugGeometry" name="Urho3D::DynamicNavigationMesh::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="240,5,427,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac3525ed32fcfa8a82da4e67fda1a811a" title="Add debug geometry to the debug renderer." coords="5,5,192,45"/>
+</map>

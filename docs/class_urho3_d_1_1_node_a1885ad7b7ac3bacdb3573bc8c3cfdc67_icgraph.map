@@ -1,0 +1,18 @@
+<map id="Urho3D::Node::ApplyAttributes" name="Urho3D::Node::ApplyAttributes">
+<area shape="rect" id="node1" title="Apply attribute changes that can not be applied immediately recursively to child nodes and components..." coords="1152,188,1353,213"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a2005276776f4ecca887f34438e161c68" title="Clone scene node, components and child nodes. Return the clone." coords="938,5,1085,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scene.html#a019a062421bf4e2d4f5f213245008f28" title="Finish asynchronous loading." coords="919,181,1104,221"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#a1cca9113f43ff1b7517cf036f569ee52" title="Instantiate scene content from binary data. Return root node if successful." coords="923,395,1099,420"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene.html#a03f80f9703e4d92e89b0de7fd930d239" title="Instantiate scene content from JSON data. Return root node if successful." coords="658,32,869,57"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scene.html#a16c9193018c0cfadaae69961b9132762" title="Instantiate scene content from XML data. Return root node if successful." coords="662,392,865,417"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a4d35bd54bbd8692b4d6f87e87cd40df9" title="Load from JSON data. Return true if successful." coords="923,131,1099,156"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a0e5f40f54d5828147d1382d4e0813c6c" title="Load from XML data. Return true if successful." coords="927,269,1096,295"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#a625934c3af5fb17f25a09767d4c0cc6b" title="Update asynchronous loading." coords="667,205,860,245"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#afb949e0fedbb2becb9aa7a3dfb0ed7b2" title="Update scene. Called by HandleUpdate." coords="451,212,608,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#ad3307d7a01b61f9b6ded6cff9a44f857" title="Handle the logic update event to update the scene, if active." coords="204,212,403,237"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#aecd178e1857bd96c3e4537651fd7f60c" title="Construct." coords="5,212,156,237"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_scene.html#aa66ba16b03bd936a00b96e18da703947" title="Load from a JSON file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY mo..." coords="656,131,871,156"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_scene.html#afadea687110ecd2d6074d99cb7c44853" title="Load from JSON data. Removes all existing child nodes and components first. Return true if successful..." coords="674,81,853,107"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_scene.html#a3cd90a6194226a9279aa127222401cf4" title="Load from an XML file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY mo..." coords="659,319,867,344"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_scene.html#a238a6b49c396e644dcaa8844110b9d1b" title="Load from XML data. Removes all existing child nodes and components first. Return true if successful." coords="677,269,849,295"/>
+</map>

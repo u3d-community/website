@@ -1,0 +1,27 @@
+<map id="Urho3D::AttributeAnimationInfo" name="Urho3D::AttributeAnimationInfo">
+<area shape="rect" id="node1" title="Attribute animation instance." coords="2435,310,2641,335"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_value_animation_info.html" title="Base class for a value animation instance, which includes animation runtime information and updates t..." coords="2196,114,2385,139"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="281,137,423,162"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_object.html" title=" " coords="1063,194,1173,219"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="707,251,825,277"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_attribute_accessor.html" title="Abstract base class for invoking attribute accessors." coords="676,301,856,326"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="8,41,136,66"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1345,21,1524,61"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_resource.html" title=" " coords="1371,201,1499,226"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="248,485,456,525"/>
+<area shape="rect" id="node16" href="$struct_urho3_d_1_1_attribute_info.html" title="Description of an automatically serializable variable." coords="1361,431,1508,457"/>
+<area shape="rect" id="node25" href="$union_urho3_d_1_1_variant_value.html" title="Union for the possible variant values. Objects exceeding the VARIANT_VALUE_SIZE are allocated on the ..." coords="693,650,839,675"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="5,795,139,821"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_hash_map.html" title="Hash map template class." coords="480,873,652,898"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="681,187,851,227"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1901,136,2080,176"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_value_animation.html" title="Value animation class." coords="1645,143,1811,169"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_string.html" title="String class." coords="19,462,125,487"/>
+<area shape="rect" id="node21" href="$struct_urho3_d_1_1_resource_ref.html" title="Typed resource reference." coords="278,550,426,575"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html" title=" " coords="1351,136,1518,176"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1021,288,1215,328"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_variant.html" title="Variable that supports a fixed set of types." coords="1061,710,1175,735"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="279,773,425,813"/>
+<area shape="rect" id="node22" href="$struct_urho3_d_1_1_resource_ref_list.html" title="List of typed resource references." coords="267,715,437,741"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html" title="Vector template class." coords="696,710,836,735"/>
+</map>

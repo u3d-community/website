@@ -1,0 +1,25 @@
+<map id="Urho3D::Menu::OnHover" name="Urho3D::Menu::OnHover">
+<area shape="rect" id="node1" title="React to mouse hover." coords="5,127,169,153"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#a3d1bc36c4e359fec052df1a6b3debc46" title="Template version of returning child element by index using static cast." coords="239,5,379,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_variant.html#a0c52666e1ae68cc65a845478b8f9c573" title="Return a RefCounted pointer or null on type mismatch. Will return null if holding a void pointer,..." coords="229,70,388,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#a3e0ff133d2ec02395ff3b04e9302e67e" title="Return a user variable." coords="239,120,379,160"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_u_i_element.html#a32b39f72aa0b8b75e5f25be827d1ed96" title="React to mouse hover." coords="239,184,379,224"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_menu.html#a7394cb40584fcfc33a8f0c623398b9d2" title=" " coords="217,323,400,349"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a4273bc9c9436696282a4bf5b29feba1e" title=" " coords="477,5,617,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="713,77,871,102"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html#a9dc4e5c0ad1feb3eec2d2f1f1714698d" title="Return iterator to the pair with key, or end iterator if not found." coords="467,127,628,153"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="967,43,1123,69"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#a85f871cbe77f2d780e1a169f19936ad8" title="Find a node from the buckets. Do not call if the buckets have not been allocated." coords="695,127,889,153"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_map.html#a6baa78766271c323b914fd2e6ca70c66" title="Compute a hash based on the key and the bucket size." coords="709,181,875,206"/>
+<area shape="rect" id="node10" href="$struct_urho3_d_1_1_hash_map_1_1_node.html#a5b917a49ae9df7b89215e8808db681da" title="Return next node in the bucket." coords="960,93,1129,133"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_base.html#ab2e9d0c50ac79b0a7eccd15b096745e9" title="Return bucket head pointers." coords="963,158,1127,183"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_base.html#af0f242c3642f60dc7cf69f3b7d24fa11" title="Return number of buckets." coords="937,207,1152,233"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_p_o_d_vector.html#ac564a928bd75354adfdeb2b7fd225149" title="Return iterator to the beginning." coords="475,177,619,217"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_p_o_d_vector.html#ad9cedde70f6aac8dde2b7bfba7ca4fbb" title="Return iterator to the end." coords="464,242,631,267"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_u_i_element.html#a031e2acb1765a940b9427003cb8653d7" title=" " coords="477,316,617,356"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_menu.html#a450765eb70b6da964f12b1118c2b1260" title="React to the popup being hidden." coords="451,381,644,406"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_menu.html#a012391fe1d6f000a0739459e602160ed" title="React to the popup being shown." coords="448,430,647,455"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_u_i_element.html#a7a085bb6b90aad996999804bd7e8a3e7" title="Set a user variable." coords="477,480,617,520"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_p_o_d_vector.html#a75ae397d58ffa509b1c4df45913107d6" title="Return the buffer with right type." coords="720,233,864,273"/>
+<area shape="rect" id="node20" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="743,323,841,349"/>
+</map>

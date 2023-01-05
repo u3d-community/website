@@ -1,0 +1,19 @@
+<map id="Urho3D::Pass::SetPixelShaderDefines" name="Urho3D::Pass::SetPixelShaderDefines">
+<area shape="rect" id="node1" title=" " coords="981,99,1177,139"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_technique.html#a4760819cb750bd6c268ae6456df3493a" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="771,5,909,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_technique.html#a990878e219ce61207b380ab0bdf13aca" title="Clone the technique. Passes will be deep copied to allow independent modification." coords="771,69,909,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_technique.html#a06c3bc21df26728f23a7ccd81eba8765" title="Return a clone with added shader compilation defines. Called internally by Material." coords="519,69,658,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_text3_d.html#a63bf86fc02caa281fb5fc8a54356abfb" title="Create materials for text rendering. May only be called from the main thread. Text UI batches must be..." coords="747,328,933,368"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_text3_d.html#afb163e8eb837396d7578c13ea9224072" title="Apply attribute changes that can not be applied immediately." coords="484,134,693,159"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_text3_d.html#a0e5e82af6713193ee73b60191a2048e0" title=" " coords="240,195,412,221"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_text3_d.html#adb0bba5d9d10971807c3b60550d2d056" title=" " coords="239,267,413,307"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_text3_d.html#a6c34a3c420fa1e6c35f4f4662c8248df" title="Set font by looking from resource cache by name and font size. Return true if successful." coords="506,286,671,311"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_text3_d.html#ae57645a33f1cefafd9b57908fba27569" title=" " coords="493,335,684,361"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_text3_d.html#a94f9f160c95632a4dd1ce1f656eded13" title=" " coords="495,385,682,410"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_text3_d.html#a38405cba1bb3686bea808f0d997116e5" title=" " coords="235,423,417,449"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_text3_d.html#a539320e56a328d3923e6a50ab86c52c5" title=" " coords="507,486,671,511"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_text3_d.html#a0f1b794375477084fbbcf58383a485d7" title=" " coords="489,535,688,561"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_text3_d.html#ae76455bed7ea206ebb893e49c5a14ae7" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="479,585,699,610"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_text3_d.html#a8d7300ae719ca749d031f65acdc0a23b" title=" " coords="5,339,173,379"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_text3_d.html#ae45180d8f677330f58729788695bfea1" title="Set material attribute." coords="221,374,431,399"/>
+</map>

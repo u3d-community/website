@@ -1,0 +1,27 @@
+<map id="Urho3D::Variant::GetTypeName" name="Urho3D::Variant::GetTypeName">
+<area shape="rect" id="node1" title=" " coords="744,362,947,387"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_spline.html#aa77a744c301a9c7475d635d00b4df2e7" title="Add a knot to the end of the spline." coords="526,109,693,134"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_context.html#a55851d5ab03e8f1decedf34ccd510518" title="Register object attribute." coords="523,229,696,269"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_serializable.html#a52c377ff65bd3198a3c460c6a43dc008" title=" " coords="539,325,679,365"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_spline.html#ad5a5477e8dd8bd471c6a00e508cfc399" title="Set the value of an existing knot." coords="529,394,689,419"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_x_m_l_element.html#ad1c6f524bcba2da8d00f55d169caac19" title="Set a variant attribute." coords="535,532,683,572"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_j_s_o_n_value.html#a80c79eecad170464d49770972271564e" title="Set variant, context must provide for resource ref." coords="537,747,682,787"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_spline_path.html#aeda8d385fe734579f66408158582ada0" title="Add a Node to the SplinePath as a Control Point." coords="302,5,437,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_spline_path.html#a050f0c34ef856d7794b007bb1bc6d5db" title="Apply Attributes to the SplinePath." coords="302,69,437,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_spline_path.html#a70332b257f6b5adc371291208dd7e430" title="Listener to manage Control Point enabling." coords="298,133,441,173"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_context.html#a5fba2d85bd03dec059392a71b83682bf" title="Template version of registering an object attribute." coords="283,197,456,237"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene_resolver.html#a4322ce210921b372aa621462408597cc" title="Resolve component and node ID attributes and reset." coords="289,261,449,301"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_script_instance.html#aa535e7691f379c6e5cf1bf10f485d5ad" title="Restore values of script attributes after hot reload is complete." coords="287,325,451,365"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a2005276776f4ecca887f34438e161c68" title="Clone scene node, components and child nodes. Return the clone." coords="37,171,184,197"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_scene.html#a019a062421bf4e2d4f5f213245008f28" title="Finish asynchronous loading." coords="18,221,203,261"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_scene.html#a1cca9113f43ff1b7517cf036f569ee52" title="Instantiate scene content from binary data. Return root node if successful." coords="23,310,199,335"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_scene.html#a03f80f9703e4d92e89b0de7fd930d239" title="Instantiate scene content from JSON data. Return root node if successful." coords="5,383,216,409"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_spline_path.html#a52f7ac7452d9c538da76d297030d8841" title="Listener to manage Control Point movement." coords="302,389,437,429"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_animation.html#a1bc19982a7e4306cd738af534be5e1fe" title="Save resource. Return true if successful." coords="27,493,194,518"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_resource_with_metadata.html#a5d03bdec155fe2a32f1931ba40b2dbd6" title="Save as &lt;metadata&gt; children of XML element." coords="264,504,475,544"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_value_animation.html#af54548bd2522a3b8eee6d47e56c42b64" title="Save as XML data. Return true if successful." coords="28,589,193,629"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_x_m_l_element.html#a46558fc4621b551bf9f8d48369c4250f" title="Set a variant map attribute. Creates child elements as necessary." coords="295,619,443,659"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_x_m_l_element.html#aa9a4b14072f37b4e6eaf07b071eb296f" title="Set a variant vector attribute. Creates child elements as necessary." coords="295,683,443,723"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_value_animation.html#a8669b6494851ffe6004350c5618b5f75" title="Save as XML data. Return true if successful." coords="287,747,452,787"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_j_s_o_n_value.html#a5dc37275712c849350731daeb15bf6d7" title="Set variant vector, context must provide for resource ref." coords="297,811,442,851"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Urho3D::Renderer::SetVSMMultiSample" name="Urho3D::Renderer::SetVSMMultiSample">
+<area shape="rect" id="node1" title=" " coords="5,47,213,87"/>
+<area shape="rect" id="node2" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="329,29,440,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_renderer.html#a03b35442eee1c6071cf8e06c0514bb9e" title="Remove all shadow maps. Called when global shadow map resolution or format is changed." coords="261,79,508,104"/>
+</map>

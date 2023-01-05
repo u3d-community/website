@@ -1,0 +1,4 @@
+<map id="Urho3D::Material::GetPixelShaderDefines" name="Urho3D::Material::GetPixelShaderDefines">
+<area shape="rect" id="node1" title=" " coords="188,5,363,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i.html#a5f23155e2af111b3f82736beb7929e44" title="Render UI batches to the current rendertarget. Geometry must have been uploaded first." coords="5,13,140,38"/>
+</map>

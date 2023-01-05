@@ -1,0 +1,27 @@
+<map id="Urho3D::TmxTileLayer2D" name="Urho3D::TmxTileLayer2D">
+<area shape="rect" id="node1" title="Tmx tile layer." coords="2369,626,2537,651"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_tmx_layer2_d.html" title="Tmx layer." coords="2173,107,2320,133"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="243,85,385,110"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_object.html" title=" " coords="449,189,559,214"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_property_set2_d.html" title="Property set." coords="1639,50,1796,75"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,706,133,731"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1869,493,2048,533"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_tmx_file2_d.html" title="Tile map file." coords="1650,501,1785,526"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_resource.html" title=" " coords="695,217,823,242"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_x_m_l_file.html" title="XML document resource." coords="943,185,1063,210"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_string.html" title="String class." coords="451,139,557,165"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="435,326,573,351"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="450,238,558,263"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1197,168,1335,208"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1173,297,1359,351"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="936,390,1069,415"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1168,375,1364,430"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1168,454,1364,509"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1147,583,1385,652"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1173,232,1359,272"/>
+<area shape="rect" id="node16" href="$struct_urho3_d_1_1_tile_map_info2_d.html" title=" " coords="1186,533,1346,558"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector.html" title=" " coords="1183,777,1349,817"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="932,819,1073,845"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector.html" title=" " coords="1409,819,1615,859"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1873,43,2044,83"/>
+</map>

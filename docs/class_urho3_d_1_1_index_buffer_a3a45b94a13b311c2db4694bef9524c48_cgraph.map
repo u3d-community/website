@@ -1,0 +1,10 @@
+<map id="Urho3D::IndexBuffer::OnDeviceReset" name="Urho3D::IndexBuffer::OnDeviceReset">
+<area shape="rect" id="node1" title="Recreate the buffer and restore data if applicable. May be a no&#45;op depending on the API." coords="5,54,148,94"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_index_buffer.html#ae31e230aad30bec9beb7483f80f5d9a8" title="Create buffer." coords="196,27,339,67"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_index_buffer.html#ac9c048ad7c84bcda500b7265591ffc4b" title="Update the shadow data to the GPU buffer." coords="768,87,911,127"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_index_buffer.html#a702908f2461350f6bd7a945919c6170e" title="Release buffer." coords="387,25,529,65"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_index_buffer.html#abd80b2ed1d3e4f9243712f3370a59469" title="Unlock the buffer and apply changes to the GPU buffer." coords="577,23,720,63"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="1149,53,1339,79"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_index_buffer.html#a6b4939821435c61218cfd58a06211484" title="Set a data range in the buffer. Optionally discard data outside the range." coords="768,23,911,63"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_index_buffer.html#a21f9b30d2a72457f6cd33e769e5b59cd" title="Set all data in the buffer." coords="959,74,1101,114"/>
+</map>

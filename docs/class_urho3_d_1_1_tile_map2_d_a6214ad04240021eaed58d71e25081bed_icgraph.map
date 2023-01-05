@@ -1,0 +1,5 @@
+<map id="Urho3D::TileMap2D::SetTmxFile" name="Urho3D::TileMap2D::SetTmxFile">
+<area shape="rect" id="node1" title=" " coords="387,5,529,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_tile_map2_d.html#a865be4dc3189f887cad580a108d42768" title="Set tile map file attribute." coords="196,5,339,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_tile_map2_d.html#a0d9c48fb509acdd122e14c12bedf1ff5" title=" " coords="5,5,148,45"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Urho3D::TmxFile2D::BeginLoad" name="Urho3D::TmxFile2D::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,245,147,285"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html#a35f0e2447dcc25e8f3b9e42e10b69737" title="Return the asynchronous loading state." coords="195,5,385,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="216,93,364,133"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_deserializer.html#a59b68616d6572fed705f41237cb57be9" title=" " coords="219,157,361,197"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="433,338,624,363"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_x_m_l_element.html#a9aafd5a9e7302bcda8cf64b0664b588b" title="Return next sibling element." coords="216,245,364,285"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_tmx_file2_d.html#add0af31cb583761237fbb115259cf99e" title="Load TSX file." coords="219,360,361,400"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_resource.html#a82b7b9d5ff3beebd961ad2ae5fe0f382" title=" " coords="195,425,385,450"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="451,177,607,202"/>
+</map>

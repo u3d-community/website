@@ -1,0 +1,9 @@
+<map id="Urho3D::RenderSurface::GetLinkedDepthStencil" name="Urho3D::RenderSurface::GetLinkedDepthStencil">
+<area shape="rect" id="node1" title=" " coords="952,109,1113,149"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#a13308c358756474b667377d2c266d7ba" title="Return the proper depth&#45;stencil surface to use for a rendertarget." coords="704,79,904,104"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i.html#a134bf8272c7a86fccd27a8437996adfb" title="Render the UI. If renderUICommand is false (default), is assumed to be the default UI render to backb..." coords="737,152,871,177"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a07fcfa3743eb980a7f821d810abc42e5" title="Blit the viewport from one surface to another." coords="452,79,649,104"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,79,155,104"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#aead31506eaa52b206a905888717ac63f" title="Set rendertargets for current render command." coords="445,5,656,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,14,397,54"/>
+</map>

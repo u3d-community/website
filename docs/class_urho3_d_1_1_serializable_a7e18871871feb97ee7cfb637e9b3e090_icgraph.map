@@ -1,0 +1,27 @@
+<map id="Urho3D::Serializable::GetAttributes" name="Urho3D::Serializable::GetAttributes">
+<area shape="rect" id="node1" title="Return attribute descriptions, or null if none defined." coords="713,457,853,497"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a2c8ee5a128ea2f04b5220bd9f29c389b" title="Clone a component from another node and specify the create mode. Return the clone if successful or nu..." coords="451,5,665,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a33ae61edab40444e22d014c844e19c55" title="Clone node recursively." coords="200,69,403,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializable.html#a3783f928c689a3d4ee2d9766661eca0c" title=" " coords="488,221,628,261"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene_resolver.html#a4322ce210921b372aa621462408597cc" title="Resolve component and node ID attributes and reset." coords="221,131,381,171"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_serializable.html#a48b7ab5369b91ff7b7e47c83347963d8" title=" " coords="488,335,628,375"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_serializable.html#a7319eee017bad624295be2f2a6c351f1" title="Save as JSON data. Return true if successful." coords="231,310,371,350"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_serializable.html#a3fbac3aa471adea86dea09bfa4b3960f" title="Save as XML data. Return true if successful." coords="231,399,371,439"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_serializable.html#a4ef3c99945e4467d6f953986ac0ac118" title=" " coords="488,399,628,439"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_serializable.html#a04fe50c87274dbb2b8b970ea0c199767" title="Load from binary data. Return true if successful." coords="488,514,628,554"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_serializable.html#a7363a7dda75d1dc158a0841d459b32e4" title="Load from JSON data. Return true if successful." coords="488,578,628,618"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_serializable.html#a725a0fc06d1b050525e2d02c5e7187ad" title="Load from XML data. Return true if successful." coords="488,962,628,1002"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_serializable.html#aca892470b457612c0e96c57c134a616b" title="Read and apply a network delta update. Return true if attributes were changed." coords="488,642,628,682"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_serializable.html#ae6c88e100f5da55f2567098a96f8a759" title="Read and apply a network latest data update. Return true if attributes were changed." coords="477,706,639,746"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_serializable.html#a9652196ab03ef1f9d98f9dbfa9e1adbb" title="Reset all editable attributes to their default values." coords="488,770,628,810"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_serializable.html#aab17751e4bb4888195b6cf1b7d74ff7b" title="Save as binary data. Return true if successful." coords="488,834,628,874"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_serializable.html#a52c377ff65bd3198a3c460c6a43dc008" title=" " coords="488,106,628,146"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_animatable.html#a1aa4f5c600142e625eec608261cca98b" title="Set attribute animation." coords="479,898,637,938"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a2005276776f4ecca887f34438e161c68" title="Clone scene node, components and child nodes. Return the clone." coords="5,104,152,129"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_script_instance.html#a4e94dd2056ecdaf686306449f47246f2" title="Store values of script attributes for hot reload." coords="223,221,380,261"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_animated_model.html#ae21dcbd9bb8cb47c48caeb9c5aa0d16d" title="Load from binary data. Return true if successful." coords="217,489,385,529"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a81a34b9111afba558145d81e42ad640e" title="Load components and optionally load child nodes." coords="230,553,373,579"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_animatable.html#ad1b16987196e91435eb8af471b7a2714" title="Load from JSON data. Return true if successful." coords="232,707,371,747"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_animatable.html#afa12710c0500b10d8e68eb6f62847204" title="Load from XML data. Return true if successful." coords="232,901,371,941"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_menu.html#a00efa90d9d6a5023541fffd71a38a984" title="Load from XML data with style. Return true if successful." coords="217,969,386,995"/>
+</map>

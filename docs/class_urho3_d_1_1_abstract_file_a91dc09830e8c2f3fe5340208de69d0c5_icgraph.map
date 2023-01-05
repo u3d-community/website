@@ -1,0 +1,27 @@
+<map id="Urho3D::AbstractFile::SetName" name="Urho3D::AbstractFile::SetName">
+<area shape="rect" id="node1" title=" " coords="1373,389,1516,429"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource_cache.html#a53bbeaa9c1b8a0a7fdcea4dd6f03d413" title="Search FileSystem for file." coords="1160,389,1325,429"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_resource_cache.html#a7a8fddc0e1561115c557850f6751f76b" title="Open and return a file from the resource load paths or from inside a package file...." coords="947,389,1112,429"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_resource_cache.html#aa1657db0fcf2a1578bcb4bd5a00146ca" title="Return a resource by type and name. Load if not loaded yet. Return null if not found or if fails,..." coords="733,229,899,269"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_resource_cache.html#a722ee073d9964dc6fae99041013d930b" title="Load a resource without storing it in the resource cache. Return null if not found or if fails...." coords="733,389,899,429"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_resource_cache.html#a95d38fca7d46be128efaa865acad0ec3" title="Reload a resource. Return true on success. The resource will not be removed from the cache in case of..." coords="733,453,899,493"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_resource_cache.html#ac1ffaede8b37d132d053b092a7ddcf9c" title="Background load a resource. An event will be sent when complete. Return true if successfully stored t..." coords="477,69,660,109"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_animation_set2_d.html#a3b678397fa1bdef4df12c0009df462f1" title="Finish load scml." coords="485,133,653,173"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_resource_cache.html#a66ddaeb13f6dcfd170233b324167afa3" title="Template version of returning a resource by name." coords="486,197,651,237"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_lua_script.html#a68e80bf9a940c85fa409d8f9b9e9507b" title="Loader." coords="501,261,636,301"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_sprite2_d.html#a9f6ab57bca5f5c7e9ee18dc546fe3c72" title="Load sprite from ResourceRef." coords="473,325,664,365"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_resource_cache.html#adbf55a7210b92803afa4c57503ae58be" title="Template version of queueing a resource background load." coords="221,5,404,45"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_animation_set2_d.html#a6d3cb589e835709e78d81ca06b59c921" title="Begin load scml." coords="229,69,397,109"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_animation_set2_d.html#a82602419beaca9fc9b988fe028a94ab0" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,69,173,109"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animation_set2_d.html#a400a05b2809c877bb5902b0ac46ccb82" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="229,133,397,173"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_lua_script.html#a80085ecb763326edd17643e40bbc2def" title="Register loader." coords="245,261,380,301"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_lua_script.html#a20160f675034053b2cc48272f81387d7" title="Construct." coords="22,261,157,301"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_particle_emitter2_d.html#a816e722733624c20cdd757bad70b4da6" title="Set sprite attribute." coords="229,325,396,365"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_static_sprite2_d.html#af9e69c55cc82b14d16410b3eee1dd60c" title="Set sprite attribute." coords="235,389,391,429"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_particle_emitter2_d.html#a19580e35a9410d2ae90ab7acc0c72d29" title=" " coords="6,325,173,365"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_static_sprite2_d.html#ae712ba8508c5ae231b35f16158b5f034" title=" " coords="11,389,167,429"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_resource_cache.html#ae968ed9a0868e45fd3ca83acc5d1fdff" title="Template version of loading a resource without storing it to the cache." coords="486,389,651,429"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_resource_cache.html#a4d3296328ea7bc08bcbeec2c973ffe37" title="Reload a resource based on filename. Causes also reload of dependent resources if necessary." coords="452,453,685,493"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_resource_cache.html#a8cc5a76256fc43875016a8ae85c15ab3" title="Handle begin frame event. Automatic resource reloads and the finalization of background loaded resour..." coords="230,453,395,493"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_resource_cache.html#a43e64e32120b4e9acf83fb5e2ea77aab" title="Construct." coords="7,453,172,493"/>
+</map>

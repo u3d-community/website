@@ -1,0 +1,7 @@
+<map id="Urho3D::Log::Write" name="Urho3D::Log::Write">
+<area shape="rect" id="node1" title=" " coords="427,55,559,80"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_log.html#aad49152cf23e131c9f53515616730834" title="Handle end of frame. Process the threaded log messages." coords="176,5,379,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_log.html#afc1ac0e1c46d8281634db28b6d6b2812" title="Open the log file." coords="212,55,343,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_log.html#acc6f510d061e2b36542a5e970cc6c152" title="Write formatted message to the log. If logging level is higher than the level of the message,..." coords="190,104,365,129"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_log.html#ae12ecd0ca1a990265b785318e5010806" title="Construct." coords="5,5,128,31"/>
+</map>

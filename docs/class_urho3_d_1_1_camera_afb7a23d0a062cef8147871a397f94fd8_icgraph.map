@@ -1,0 +1,13 @@
+<map id="Urho3D::Camera::GetViewMask" name="Urho3D::Camera::GetViewMask">
+<area shape="rect" id="node1" title=" " coords="1791,79,1997,104"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#ae6b753dabd0921ef05ce5d73b75c6209" title="Find and set a new zone for a drawable when it has moved." coords="1567,5,1730,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a0cddca92d8a715b17404427840d201fb" title="Query the octree for drawable objects." coords="1555,79,1743,104"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="1557,128,1740,153"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#a50c3fe5d5c2b3040e13925aa277a8d93" title="Update and cull objects and construct rendering batches." coords="1357,79,1507,104"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_renderer.html#a0fa71f5839321a9d68def7a2978f452a" title="Update a queued viewport for rendering." coords="1135,71,1309,111"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_renderer.html#a993f63f35d27a9ea6df861962018f354" title="Update for rendering. Called by HandleRenderUpdate()." coords="912,79,1087,104"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_renderer.html#adf594e7a524f6e003e8370cf23dbee13" title="Handle render update event." coords="689,71,864,111"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_renderer.html#ae0d765a240f7cf5f829ddc95cb2729c9" title="Initialize when screen mode initially set." coords="461,79,641,104"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_renderer.html#ade42fa3aa8f7f48620bffc61ab32c635" title="Handle screen mode event." coords="239,42,413,82"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_renderer.html#a8e41f9dda2e33e9e208c5ccfd0d1c6ac" title="Construct." coords="5,79,191,104"/>
+</map>

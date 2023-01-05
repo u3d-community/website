@@ -1,0 +1,27 @@
+<map id="Urho3D::Thread::GetCurrentThreadID" name="Urho3D::Thread::GetCurrentThreadID">
+<area shape="rect" id="node1" title=" " coords="1160,509,1343,549"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_thread.html#a591d469de804a63cbcca350b84f96670" title="Return whether is executing in the main thread." coords="907,359,1108,384"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_thread.html#ab3c78fd27758b97f8897ba4b7c1f00ff" title="Set the current thread as the main thread." coords="903,540,1112,565"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_engine.html#a3128d120bbfc75b8441fb3aaa378d9b8" title="Dump profiling information to the log." coords="650,5,845,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_engine.html#a72180bed4d023745cc4e9730837ac648" title="Dump information of all resources to the log." coords="640,55,855,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_resource_cache.html#ab4377ead37f45a842d478e8f7b2edb8b" title="Return an already loaded resource of specific type &amp; name, or null if not found. Will not load if doe..." coords="665,105,830,145"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_resource_cache.html#a7a8fddc0e1561115c557850f6751f76b" title="Open and return a file from the resource load paths or from inside a package file...." coords="665,219,830,259"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_resource_cache.html#aa1657db0fcf2a1578bcb4bd5a00146ca" title="Return a resource by type and name. Load if not loaded yet. Return null if not found or if fails,..." coords="427,163,592,203"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_log.html#aad49152cf23e131c9f53515616730834" title="Handle end of frame. Process the threaded log messages." coords="176,573,379,599"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_resource.html#ab0f4146b46be0c02323e3211e8a6aadf" title="Load resource synchronously. Call both BeginLoad() &amp; EndLoad() and return true if both succeeded." coords="665,308,829,333"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_material.html#a2a6e0e7eae446f7c7513090852aeac21" title="Reset to defaults." coords="660,409,835,449"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_object.html#af8f8bd3f7e2f51ecca7199e737f53364" title="Send event with parameters to all subscribers." coords="659,473,836,499"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_octree.html#a56ad2ab6941f97453c66625bd8dad9da" title="Update and reinsert drawable objects." coords="668,523,827,548"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_log.html#a4196fdc0f1fb426ba73359f46a64f7b6" title=" " coords="443,573,575,599"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_log.html#a2e20983b4b0bdb2edf570bc9080e27ee" title="Write raw output to the log." coords="669,624,826,649"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_resource_cache.html#a2678be870a85f95eba12a03ce21b5556" title="Template version of returning an existing resource by name." coords="427,99,592,139"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_resource_cache.html#a722ee073d9964dc6fae99041013d930b" title="Load a resource without storing it in the resource cache. Return null if not found or if fails...." coords="427,227,592,267"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_resource_cache.html#a95d38fca7d46be128efaa865acad0ec3" title="Reload a resource. Return true on success. The resource will not be removed from the cache in case of..." coords="427,293,592,333"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_resource_cache.html#ac1ffaede8b37d132d053b092a7ddcf9c" title="Background load a resource. An event will be sent when complete. Return true if successfully stored t..." coords="186,35,369,75"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animation_set2_d.html#a3b678397fa1bdef4df12c0009df462f1" title="Finish load scml." coords="193,99,361,139"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_resource_cache.html#a66ddaeb13f6dcfd170233b324167afa3" title="Template version of returning a resource by name." coords="195,163,360,203"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_lua_script.html#a68e80bf9a940c85fa409d8f9b9e9507b" title="Loader." coords="210,227,345,267"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_sprite2_d.html#a9f6ab57bca5f5c7e9ee18dc546fe3c72" title="Load sprite from ResourceRef." coords="182,291,373,331"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_log.html#ae12ecd0ca1a990265b785318e5010806" title="Construct." coords="5,573,128,599"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_context.html#a275e28ce908798a46feca520ea4693f6" title="Construct." coords="662,673,833,699"/>
+</map>

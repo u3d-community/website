@@ -1,0 +1,27 @@
+<map id="Urho3D::OffMeshConnection::RegisterObject" name="Urho3D::OffMeshConnection::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,101,197,141"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="267,5,415,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_off_mesh_connection.html#af86a9611c1bfb1083cae41f37ae58825" title="Mark end point dirty." coords="245,69,437,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="255,133,428,173"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="267,240,415,280"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="497,89,651,129"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="491,153,657,193"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="735,211,883,251"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="500,268,648,308"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_component.html#a97c506dfb55216668b1fdf4d4425f7d7" title="Handle enabled/disabled state change." coords="500,332,648,372"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="485,421,663,446"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="721,147,897,187"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="973,154,1139,179"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="1219,30,1387,55"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="1223,79,1382,105"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html#a3313b8ec65ab0b23c74570898b09175c" title="Free a node." coords="1205,129,1400,154"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_base.html#a2774d115a617b0d6c315132352d43c01" title="Reset bucket head pointers." coords="1204,178,1401,203"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_base.html#a7790b0fb5131f0e0a098e322c9198f39" title="Set new size." coords="1211,227,1394,253"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_base.html#a42b5c2ba692fe96bff763b501b8922a9" title="Return number of elements." coords="1221,277,1385,302"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html#a992327678684d4e38150f32fc676faaf" title="Return the head node." coords="1449,30,1617,55"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1455,79,1611,105"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="972,218,1140,243"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="735,275,883,315"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="711,363,908,403"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="956,282,1156,307"/>
+</map>

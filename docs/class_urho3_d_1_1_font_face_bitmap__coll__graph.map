@@ -1,0 +1,27 @@
+<map id="Urho3D::FontFaceBitmap" name="Urho3D::FontFaceBitmap">
+<area shape="rect" id="node1" title="Bitmap font face description." coords="2844,443,3012,469"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_font_face.html" title="Font face description." coords="2668,443,2795,469"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="815,473,958,498"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object.html" title=" " coords="1675,318,1786,343"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="1273,314,1391,339"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="525,527,653,553"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="1046,632,1209,672"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_font.html" title="Font resource." coords="2400,443,2499,469"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_resource.html" title=" " coords="2051,494,2179,519"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="765,242,1008,297"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="523,153,656,178"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1032,182,1223,237"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1441,17,1637,57"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1824,64,2020,104"/>
+<area shape="rect" id="node11" href="$struct_urho3_d_1_1_hash_node_base.html" title="Hash set/map node base class." coords="247,114,413,139"/>
+<area shape="rect" id="node12" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="250,202,410,227"/>
+<area shape="rect" id="node13" href="$struct_urho3_d_1_1_allocator_node.html" title="Allocator node." coords="5,202,165,227"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="1247,415,1417,455"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_string.html" title="String class." coords="1677,406,1784,431"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="1661,494,1800,519"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="1677,543,1785,569"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="2047,231,2182,257"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="2055,393,2174,418"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html" title=" " coords="2336,667,2563,707"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="2044,697,2185,722"/>
+</map>

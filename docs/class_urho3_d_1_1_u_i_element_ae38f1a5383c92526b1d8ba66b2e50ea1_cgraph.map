@@ -1,0 +1,27 @@
+<map id="Urho3D::UIElement::LoadXML" name="Urho3D::UIElement::LoadXML">
+<area shape="rect" id="node1" title="Load from XML data with style. Return true if successful." coords="5,563,145,603"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#a7e286d16e39b54282ca0d64666d26b67" title="Disable automatic layout update. Should only be used if there are performance problems." coords="193,47,340,87"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="635,914,785,939"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="636,5,784,45"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i_element.html#a3d28ede8516793a770ac92887bc25428" title="Return default style." coords="405,620,545,660"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="611,613,809,638"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_animatable.html#afa12710c0500b10d8e68eb6f62847204" title="Load from XML data. Return true if successful." coords="197,363,336,403"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i_element.html#a5d10d20f7ac82fb058247e2aa8b5f2c1" title="Set style from an XML file. Find the style element by name. If the style file is not explicitly provi..." coords="197,735,337,775"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="857,403,1013,429"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_x_m_l_element.html#afd561acf36305fd70cf86f60f666798f" title="Return attribute as C string, or null if missing." coords="861,37,1009,77"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="636,396,784,436"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_x_m_l_element.html#af7c1e4d20b23c78b43b10a7d11d5aafd" title="Return a float attribute, or zero if missing." coords="401,212,549,252"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_x_m_l_element.html#a9aafd5a9e7302bcda8cf64b0664b588b" title="Return next sibling element." coords="636,484,784,524"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_serializable.html#a725a0fc06d1b050525e2d02c5e7187ad" title="Load from XML data. Return true if successful." coords="405,276,545,316"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_animatable.html#a1aa4f5c600142e625eec608261cca98b" title="Set attribute animation." coords="397,505,554,545"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_animatable.html#ad47a7d6d1ea14b6145dc812e2d9b8486" title=" " coords="403,391,547,431"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector.html#a253629ba660641c388bb0bf050b0cd3e" title="Return element at index." coords="645,249,775,274"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_string.html#a0d2da282b3aede6a8e5ba3ec45ff3945" title="Return comparison result with a string." coords="627,322,793,347"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_serializable.html#a7e18871871feb97ee7cfb637e9b3e090" title="Return attribute descriptions, or null if none defined." coords="640,548,780,588"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_x_m_l_element.html#af5aeb48b8ff507f49752705f0a127114" title="Return a variant attribute with static type." coords="636,69,784,109"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_variant.html#a5cdfda6b6a036a4d462f45669734dcd4" title=" " coords="626,134,794,159"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_x_m_l_element.html#ad7c2e67e5dfefddc309e1c809aa1ba74" title=" " coords="636,184,784,224"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_x_m_l_file.html#a657534de06bc465c977cc3c28139cec4" title="Return the root element, with optionally specified name. Return null element if not found." coords="388,914,563,939"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_x_m_l_element.html#a49f0b7c1cec40b16581bc24d86ee5e25" title="Select an element/attribute using XPath query." coords="400,735,551,775"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_x_path_query.html#ae49880eeaa6a9bd48f2f6aaa2058d0e2" title="Add/Set a bool variable. Return true if successful." coords="405,799,546,839"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Urho3D::Node::Load" name="Urho3D::Node::Load">
+<area shape="rect" id="node1" title="Load from binary data. Return true if successful." coords="897,128,1040,153"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a1cca9113f43ff1b7517cf036f569ee52" title="Instantiate scene content from binary data. Return root node if successful." coords="665,29,841,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scene.html#a3b1c5f7476658c0e7e236d20765bf670" title="Load from binary data. Removes all existing child nodes and components first. Return true if successf..." coords="680,79,825,104"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a81a34b9111afba558145d81e42ad640e" title="Load components and optionally load child nodes." coords="681,128,824,153"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#a37aeb39ae74b420d003a597adccac577" title="Load from a binary file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY ..." coords="662,177,843,203"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a625934c3af5fb17f25a09767d4c0cc6b" title="Update asynchronous loading." coords="656,251,849,291"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#afb949e0fedbb2becb9aa7a3dfb0ed7b2" title="Update scene. Called by HandleUpdate." coords="451,259,608,284"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#ad3307d7a01b61f9b6ded6cff9a44f857" title="Handle the logic update event to update the scene, if active." coords="204,259,403,284"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene.html#aecd178e1857bd96c3e4537651fd7f60c" title="Construct." coords="5,259,156,284"/>
+</map>

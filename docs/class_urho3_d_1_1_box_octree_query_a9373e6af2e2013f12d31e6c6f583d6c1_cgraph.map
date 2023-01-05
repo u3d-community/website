@@ -1,0 +1,8 @@
+<map id="Urho3D::BoxOctreeQuery::TestDrawables" name="Urho3D::BoxOctreeQuery::TestDrawables">
+<area shape="rect" id="node1" title="Intersection test for drawables." coords="5,92,172,132"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html#a74be6fab1f5cfdd44da3572015edf6ba" title="Return drawable flags." coords="224,5,431,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html#ae45bf9bcfe8d1c09c72258e77a76f992" title=" " coords="220,70,435,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_drawable.html#a3930dc9342c0aefcfd4c94eb8079e365" title=" " coords="233,120,422,160"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_bounding_box.html#aaf2af3166bfa73be242635232e36ab7c" title="Test if another bounding box is (partially) inside or outside." coords="252,184,403,224"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_drawable.html#af146747caaf6fd85ab71fda4e364bde4" title="Recalculate the world&#45;space bounding box." coords="483,120,668,160"/>
+</map>

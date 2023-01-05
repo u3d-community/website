@@ -1,0 +1,6 @@
+<map id="Urho3D::Renderer::SetShadowQuality" name="Urho3D::Renderer::SetShadowQuality">
+<area shape="rect" id="node1" title=" " coords="689,35,888,75"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_renderer.html#ae0d765a240f7cf5f829ddc95cb2729c9" title="Initialize when screen mode initially set." coords="461,42,641,67"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_renderer.html#ade42fa3aa8f7f48620bffc61ab32c635" title="Handle screen mode event." coords="239,5,413,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_renderer.html#a8e41f9dda2e33e9e208c5ccfd0d1c6ac" title="Construct." coords="5,42,191,67"/>
+</map>

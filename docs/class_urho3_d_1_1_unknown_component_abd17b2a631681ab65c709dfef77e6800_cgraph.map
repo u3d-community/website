@@ -1,0 +1,9 @@
+<map id="Urho3D::UnknownComponent::Save" name="Urho3D::UnknownComponent::Save">
+<area shape="rect" id="node1" title="Save as binary data. Return true if successful." coords="5,113,203,153"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_unknown_component.html#a711dce0e8f433cdf7e08a5ab5cec69b7" title="Return type of the stored component." coords="251,5,448,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="265,70,434,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializer.html#af1212487507dad99d9f389f9c8b48a60" title="Write bytes to the stream. Return number of bytes actually written." coords="683,175,811,215"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializer.html#acfae08593bb40a16a3a78a2bc6426a88" title="Write a 32&#45;bit StringHash." coords="285,171,413,211"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_serializer.html#aca5302ccd24e73a82da4aecee5343e4b" title="Write a 32&#45;bit unsigned integer." coords="501,235,629,275"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string_hash.html#a45cb23f483d73b40b2dc825e395ac4e9" title=" " coords="496,171,635,211"/>
+</map>

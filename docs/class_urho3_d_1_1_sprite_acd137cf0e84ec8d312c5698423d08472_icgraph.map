@@ -1,0 +1,5 @@
+<map id="Urho3D::Sprite::SetHotSpot" name="Urho3D::Sprite::SetHotSpot">
+<area shape="rect" id="node1" title=" " coords="235,42,416,67"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_sprite.html#aedada728de8e83b44472e1dd798a1b0d" title=" " coords="15,5,177,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_sprite.html#a728556b963a273006cd35d481629f0d4" title="Set hotspot for positioning and rotation." coords="5,70,187,95"/>
+</map>

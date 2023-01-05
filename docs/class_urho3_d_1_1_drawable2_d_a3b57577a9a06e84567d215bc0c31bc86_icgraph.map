@@ -1,0 +1,4 @@
+<map id="Urho3D::Drawable2D::OnSetEnabled" name="Urho3D::Drawable2D::OnSetEnabled">
+<area shape="rect" id="node1" title="Handle enabled/disabled state change." coords="220,5,363,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_particle_emitter2_d.html#aaa7a512b4fb84e3343be39bf899fb58d" title="Handle enabled/disabled state change." coords="5,5,172,45"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Urho3D::Renderer::GetNumShadowMaps" name="Urho3D::Renderer::GetNumShadowMaps">
+<area shape="rect" id="node1" title=" " coords="5,73,187,113"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="268,5,419,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="273,55,414,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_renderer.html#ac5cf9622733d9268d4ce4584cd63fd22" title="Return a view or its source view if it uses one. Used internally for render statistics." coords="235,104,452,129"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#ad666e05a65deb6616e16c50e8e00a18c" title="Return light batch queues." coords="244,153,443,179"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="521,31,675,56"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#a955d10793eea1987532076996f6e2f95" title="Return the source view that was already prepared. Used when viewports specify the same culling camera..." coords="500,104,696,129"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Urho3D::ScriptInstance::AddEventHandler" name="Urho3D::ScriptInstance::AddEventHandler">
+<area shape="rect" id="node1" title="Add a scripted event handler for a specific sender." coords="5,181,163,221"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_script_instance.html#ac0fba962b1f4f55d422f98c9518f3f9a" title="Handle an event in script." coords="219,117,377,157"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="211,213,385,253"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html#a94327944766d5984af37cf128bd870ca" title="Return active event handler. Null outside event handling." coords="443,5,610,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_event_handler.html#a123d775998ca76a3e683498a65d153f1" title="Return userdata." coords="451,69,602,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="453,133,601,173"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_context.html#ab453809b2c77fe1c412137525a1f6b0b" title="Return active event handler. Set by Object. Null outside event handling." coords="668,5,844,45"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="671,141,841,166"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="436,197,617,237"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="433,261,620,301"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="441,325,612,365"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="681,261,831,301"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::PhysicsWorld::DrawDebugGeometry" name="Urho3D::PhysicsWorld::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="208,5,363,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_physics_world.html#a8ffb0447f9c9e6e3e79ead269a280fd4" title="Add debug geometry to the debug renderer." coords="5,5,160,45"/>
+</map>

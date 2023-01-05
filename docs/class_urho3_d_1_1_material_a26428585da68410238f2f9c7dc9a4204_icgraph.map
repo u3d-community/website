@@ -1,0 +1,14 @@
+<map id="Urho3D::Material::GetCullMode" name="Urho3D::Material::GetCullMode">
+<area shape="rect" id="node1" title=" " coords="1324,141,1528,166"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_custom_geometry.html#a31a154baaef524bd807cfeaae3e8f262" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="1097,5,1276,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_static_model.html#a934ce91d3123ebed38229a8994d8d8b6" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="1115,69,1259,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_static_model_group.html#a13fe7ab600249a608a696249ec27b1f2" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="1097,133,1276,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_terrain_patch.html#a88a34eac04ed50670992e3371f5821d8" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="1113,197,1260,237"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="1109,262,1265,287"/>
+<area shape="rect" id="node7" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="907,233,1049,258"/>
+<area shape="rect" id="node12" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="907,283,1049,323"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="716,255,859,295"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,255,397,295"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="445,299,668,325"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,262,155,287"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Urho3D::Sprite2D::BeginLoad" name="Urho3D::Sprite2D::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,70,196,95"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_deserializer.html#a59b68616d6572fed705f41237cb57be9" title=" " coords="268,5,411,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="244,70,435,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_resource.html#a82b7b9d5ff3beebd961ad2ae5fe0f382" title=" " coords="245,119,434,145"/>
+</map>

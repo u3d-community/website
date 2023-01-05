@@ -1,0 +1,4 @@
+<map id="Urho3D::LuaFile::Save" name="Urho3D::LuaFile::Save">
+<area shape="rect" id="node1" title="Save resource. Return true if successful." coords="5,13,153,38"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_serializer.html#af1212487507dad99d9f389f9c8b48a60" title="Write bytes to the stream. Return number of bytes actually written." coords="201,5,329,45"/>
+</map>

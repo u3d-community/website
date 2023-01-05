@@ -1,0 +1,7 @@
+<map id="Urho3D::UIElement::LoadXML" name="Urho3D::UIElement::LoadXML">
+<area shape="rect" id="node1" title="Load from XML data. Return true if successful." coords="223,88,363,128"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#ab9428239491cc05e1782eafa60eb9e5b" title="Create a child by loading from XML data with style. Returns the child element if successful,..." coords="20,5,160,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_menu.html#a00efa90d9d6a5023541fffd71a38a984" title="Load from XML data with style. Return true if successful." coords="5,70,175,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_menu.html#af741ada5f8f8cd33ed21b443b6361190" title="Save to an XML file. Return true if successful." coords="7,119,173,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#a500a4ecfa2caff7ae8004334474eab01" title="Set style from an XML element. Return true if the style is applied successfully." coords="20,169,160,209"/>
+</map>

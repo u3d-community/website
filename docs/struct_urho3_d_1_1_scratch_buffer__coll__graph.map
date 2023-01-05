@@ -1,0 +1,5 @@
+<map id="Urho3D::ScratchBuffer" name="Urho3D::ScratchBuffer">
+<area shape="rect" id="node1" title="CPU&#45;side scratch buffer for vertex data updates." coords="10,196,163,221"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="5,93,168,133"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="23,5,151,31"/>
+</map>

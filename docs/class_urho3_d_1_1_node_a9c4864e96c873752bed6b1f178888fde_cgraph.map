@@ -1,0 +1,6 @@
+<map id="Urho3D::Node::MarkNetworkUpdate" name="Urho3D::Node::MarkNetworkUpdate">
+<area shape="rect" id="node1" title="Mark for attribute check on the next network update." coords="5,39,200,79"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a9db232116d4278bd3e10c365d2ef57d5" title=" " coords="255,5,439,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="248,79,445,119"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="493,5,693,31"/>
+</map>

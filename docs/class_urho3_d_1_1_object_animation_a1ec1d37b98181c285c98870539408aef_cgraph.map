@@ -1,0 +1,5 @@
+<map id="Urho3D::ObjectAnimation::GetAttributeAnimationWrapMode" name="Urho3D::ObjectAnimation::GetAttributeAnimationWrapMode">
+<area shape="rect" id="node1" title=" " coords="5,37,228,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object_animation.html#a31de8dbfa793d2ab954172b612ac35af" title="Return attribute animation info by name." coords="279,5,462,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_value_animation_info.html#a4c78c1b9808f5d542cc618d4f0387f46" title="Return wrap mode." coords="276,69,465,109"/>
+</map>

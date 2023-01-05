@@ -1,0 +1,13 @@
+<map id="Urho3D::AnimatedModel::UpdateBoneBoundingBox" name="Urho3D::AnimatedModel::UpdateBoneBoundingBox">
+<area shape="rect" id="node1" title="Recalculate the bone bounding box. Normally called internally, but can also be manually called if up&#45;..." coords="5,219,183,259"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="271,5,421,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_bounding_box.html#afef3c1bfa3910387adb4f5992371a8dd" title="Clear to undefined state." coords="271,55,421,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="275,120,417,145"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_skeleton.html#aa84d5f47d9c2412c5dc9c946269b9c5e" title="Return all bones." coords="253,169,439,195"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_skeleton.html#ad2159e16479f1f972b5450722c8f3560" title=" " coords="257,219,435,259"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="238,284,454,309"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="231,333,461,359"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="277,383,415,423"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_bounding_box.html#a4befcf3c67e94eb2f1924e1179b09bd2" title="Merge a point." coords="271,447,421,487"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="509,63,664,88"/>
+</map>

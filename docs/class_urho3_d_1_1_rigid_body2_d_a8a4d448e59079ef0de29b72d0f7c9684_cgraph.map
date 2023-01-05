@@ -1,0 +1,11 @@
+<map id="Urho3D::RigidBody2D::OnMarkedDirty" name="Urho3D::RigidBody2D::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="5,152,153,192"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a3cd5eac8dc19288118ed5578257a17cb" title="Add a component to the delayed dirty notify queue. Is thread&#45;safe." coords="206,5,414,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="236,69,384,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="202,134,418,159"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="201,183,419,209"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="219,233,401,273"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_quaternion.html#a84d99238ace3cbe144d4caae42fa1bc4" title=" " coords="241,297,379,337"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="467,77,635,102"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_quaternion.html#a4b0b0a8b518f80caaa81c41f42b93432" title=" " coords="482,297,619,337"/>
+</map>

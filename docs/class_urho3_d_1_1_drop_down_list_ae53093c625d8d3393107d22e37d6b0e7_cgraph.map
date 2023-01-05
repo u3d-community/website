@@ -1,0 +1,10 @@
+<map id="Urho3D::DropDownList::RegisterObject" name="Urho3D::DropDownList::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,133,161,173"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drop_down_list.html#a67278d67f20633d125452b48932fa822" title=" " coords="218,5,374,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drop_down_list.html#a1474f711af56854afa5e7249380bf66f" title=" " coords="218,69,374,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="209,133,383,173"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_drop_down_list.html#a34c237dde196cf2ad281d59960f40886" title=" " coords="218,197,374,237"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_drop_down_list.html#a8bef015e33384d627607e50c66ce57e0" title="Set selection attribute." coords="218,261,374,301"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="431,133,586,173"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_drop_down_list.html#a3f3ab3f8d465e9f3feac6c4c75f74445" title=" " coords="431,261,587,301"/>
+</map>

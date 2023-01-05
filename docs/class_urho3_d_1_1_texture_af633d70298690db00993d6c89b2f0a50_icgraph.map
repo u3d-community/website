@@ -1,0 +1,27 @@
+<map id="Urho3D::Texture::GetSRGBFormat" name="Urho3D::Texture::GetSRGBFormat">
+<area shape="rect" id="node1" title=" " coords="613,477,832,502"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture2_d.html#af44c92053b2781a67a0330a4f72927c8" title="Create the GPU texture." coords="415,69,553,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_texture2_d_array.html#ae360c80c79d2ffd136e4440774a07e43" title="Create the GPU texture." coords="403,312,565,352"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_texture3_d.html#a083e117048ce7fc26e8a2b0c2c24b94b" title="Create the GPU texture." coords="415,437,553,477"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_texture_cube.html#a4c60b67e36c4dabddf662b303be19f50" title="Create the GPU texture." coords="411,619,557,659"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_texture_cube.html#a3cc2718c0f7797374c42a54b49c484a6" title="Set data either partially or fully on a face&#39;s mip level. Return true if successful." coords="411,747,557,787"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_texture2_d_array.html#a88cea1582887c4fa073ba60f07ae4ee8" title="Set data either partially or fully on a layer&#39;s mip level. Return true if successful." coords="403,875,565,915"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_texture2_d.html#a6310034708a73ee4f506793272785097" title="Set data either partially or fully on a mip level. Return true if successful." coords="415,184,553,224"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_texture3_d.html#a0b5c66551839c003ab2949fc67ca19ed" title="Set data either partially or fully on a mip level. Return true if successful." coords="415,501,553,541"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture2_d.html#a33171ff6dd10f3f10131116e986295fe" title="Recreate the GPU resource and restore data if applicable." coords="204,5,343,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture2_d.html#ac23d2cf909c7fd12140d57dff1decb57" title="Set size, format, usage and multisampling parameters for rendertargets. Zero size will follow applica..." coords="204,69,343,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture2_d.html#ab49167ad05742f9610fd938c2f9f29ce" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="5,99,144,139"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_texture2_d_array.html#ada31ee9d6430947d7599da69b2b6b320" title="Recreate the GPU resource and restore data if applicable." coords="192,248,355,288"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture2_d_array.html#acb0ff1c06a61392e0b2e30ae696c5d60" title="Set layers, size, format and usage. Set layers to zero to leave them unchanged. Return true if succes..." coords="192,312,355,352"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_texture3_d.html#ae22c5e6560235f1ffdfbd8ff178396ea" title="Recreate the GPU resource and restore data if applicable." coords="204,376,343,416"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_texture3_d.html#aca029903e75e685f2c73975c51ed0627" title="Set size, format and usage. Zero size will follow application window size. Return true if successful." coords="204,440,343,480"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_texture3_d.html#adc338a79d4dbbb51605bf14a252135a3" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="5,468,144,508"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_texture_cube.html#a06a1fa6272e90ab5faef533200b63f70" title="Recreate the GPU resource and restore data if applicable." coords="200,619,347,659"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_texture_cube.html#a6b635689647bfaf37a0be4e0e4e823fe" title="Set size, format, usage and multisampling parameter for rendertargets. Note that cube textures always..." coords="200,683,347,723"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_texture_cube.html#a6eade00e3f3d3c9491687870cfbe0c9d" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="200,747,347,787"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_texture_cube.html#a2e0810009c8eb10687769fccc8928208" title="Set data of one face from a stream. Return true if successful." coords="200,811,347,851"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_texture2_d_array.html#a98431d6d014c1f1454bcaffd35c7a118" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="192,875,355,915"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_texture2_d_array.html#ac8c547c408fed3150295470ee1fc8841" title="Set data of one layer from a stream. Return true if successful." coords="192,939,355,979"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_texture2_d.html#afaf23893bdb71e2b348ee9c2b819e8d6" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="204,184,343,224"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_texture3_d.html#af5bbb59cf94decabc360b5e1b6b4d9b7" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="204,555,343,595"/>
+</map>

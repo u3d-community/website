@@ -1,0 +1,27 @@
+<map id="Urho3D::SplinePath::DrawDebugGeometry" name="Urho3D::SplinePath::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Draw the Debug Geometry." coords="5,388,159,428"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="473,29,635,69"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_debug_renderer.html#af57e333803dfb5028c9b4eabd3709dd2" title="Add a scene node represented as its coordinate axes." coords="219,124,381,164"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_spline.html#a68cab3618c4adc0e1fff58573522d2d1" title="Return the knots of the spline." coords="216,346,384,371"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_spline.html#a7ece7665efcb2fb858921e5798cdb3ea" title="Return the T of the point of the spline at f from 0.f &#45; 1.f." coords="218,395,382,421"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="1000,419,1143,445"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_variant.html#a68809bf51496951f26b810448e41a207" title="Return Vector3 or zero on type mismatch." coords="207,635,393,661"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="226,685,374,725"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="751,90,902,115"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="1016,170,1127,195"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="446,94,662,119"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="445,143,663,169"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="998,257,1145,282"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_spline.html#a47f2d74ba915a3b235723dda9b610838" title="Perform Bezier interpolation on the spline." coords="441,319,667,345"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_spline.html#a0aeec951f053c2c0f6add719b690e0f2" title="Perform linear interpolation on the spline." coords="715,269,939,294"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="753,318,900,343"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_spline.html#ae32fc4d1d42297c895e1fd4f04813414" title="Perform Spline interpolation on the spline." coords="733,469,920,509"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_vector.html#a791049c4b9218aecea62d8a8eb452c74" title="Return first element." coords="1216,534,1364,559"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="1648,343,1803,369"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html#a17e4a13942a9512bc0eceb3e46d950dd" title="Insert elements into the vector using copy or move constructor." coords="987,324,1156,364"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="1437,343,1587,369"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_vector.html#a05f68c0546419caf7d6050a3e7d8d1d5" title="Calculate new vector capacity." coords="1204,368,1376,408"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector.html#a5c0b7ecbd0ae0c75a9a69bf9dedc517a" title="Construct elements using default ctor." coords="1424,419,1600,459"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="1207,483,1373,509"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="469,693,639,718"/>
+</map>

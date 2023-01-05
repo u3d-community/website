@@ -1,0 +1,10 @@
+<map id="Urho3D::Viewport::GetCamera" name="Urho3D::Viewport::GetCamera">
+<area shape="rect" id="node1" title=" " coords="1549,42,1747,67"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#a38bd2f1292778c57fae949c4e271c20d" title="Define with rendertarget and viewport. Return true if successful." coords="1357,42,1501,67"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_renderer.html#a0fa71f5839321a9d68def7a2978f452a" title="Update a queued viewport for rendering." coords="1135,35,1309,75"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_renderer.html#a993f63f35d27a9ea6df861962018f354" title="Update for rendering. Called by HandleRenderUpdate()." coords="912,42,1087,67"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_renderer.html#adf594e7a524f6e003e8370cf23dbee13" title="Handle render update event." coords="689,35,864,75"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_renderer.html#ae0d765a240f7cf5f829ddc95cb2729c9" title="Initialize when screen mode initially set." coords="461,42,641,67"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_renderer.html#ade42fa3aa8f7f48620bffc61ab32c635" title="Handle screen mode event." coords="239,5,413,45"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_renderer.html#a8e41f9dda2e33e9e208c5ccfd0d1c6ac" title="Construct." coords="5,42,191,67"/>
+</map>

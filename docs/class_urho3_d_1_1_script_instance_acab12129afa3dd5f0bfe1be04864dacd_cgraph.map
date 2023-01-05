@@ -1,0 +1,6 @@
+<map id="Urho3D::ScriptInstance::HasEventHandler" name="Urho3D::ScriptInstance::HasEventHandler">
+<area shape="rect" id="node1" title="Return whether has subscribed to an event." coords="5,5,163,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html#ae95c934d09a38268465f0ddbc3cc4a8d" title="Return whether has subscribed to an event without specific sender." coords="211,5,417,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html#a00bec56f305dd6636d186e5b351d0264" title="Find the first event handler with no specific sender." coords="465,5,637,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_event_handler.html#ae09d06f06d3590e6f4e06006efa90176" title="Return event type." coords="685,5,836,45"/>
+</map>

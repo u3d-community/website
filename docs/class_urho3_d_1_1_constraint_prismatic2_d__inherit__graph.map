@@ -1,0 +1,9 @@
+<map id="Urho3D::ConstraintPrismatic2D" name="Urho3D::ConstraintPrismatic2D">
+<area shape="rect" id="node1" title="2D prismatic constraint component." coords="5,445,211,471"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_constraint2_d.html" title="2D physics constraint component." coords="33,372,183,397"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="37,299,179,324"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="39,225,177,251"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="38,152,178,177"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_object.html" title=" " coords="53,79,163,104"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="37,5,179,31"/>
+</map>

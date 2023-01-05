@@ -1,0 +1,27 @@
+<map id="Urho3D::DynamicNavigationMesh::Allocate" name="Urho3D::DynamicNavigationMesh::Allocate">
+<area shape="rect" id="node1" title="Allocate the navigation mesh without building any tiles. Bounding box is not padded...." coords="5,587,192,627"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ab1e71b3f3f22ad18dd5278522c022f45" title="Used by Obstacle class to add itself to the tile cache, if &#39;silent&#39; an event will not be raised." coords="262,205,449,245"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html#a8bd9b32c8a56c2f6d618d8afe8091eb7" title="Return execution context." coords="535,5,718,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="539,55,715,95"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="538,357,715,383"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector3.html#a33cac219f3eab4ffe4d3d5effdde33e0" title="Test for equality with another vector with epsilon." coords="273,395,437,420"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="276,444,435,469"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a8018ae5a2c8035dd296966c0508916c2" title="Return child scene nodes with a specific component." coords="265,494,445,534"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="281,558,429,598"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="255,623,455,648"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="240,672,471,697"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="286,722,425,762"/>
+<area shape="rect" id="node21" href="$_math_defs_8h.html#aa40930b7b71e52ee4d2562ba58a63317" title="Return log base two or the MSB position of the given value." coords="280,811,431,836"/>
+<area shape="rect" id="node22" href="$_math_defs_8h.html#a40d33200d2bcbe345b556045ca344b29" title="Round up to next power of two." coords="266,884,445,909"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#acf03d9f21bfd9df95356791d2a24e022" title="Release the navigation mesh, query, and tile cache." coords="254,934,457,974"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="271,999,440,1024"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_bounding_box.html#a00fe243d05516209a4ef6f83ff7179df" title="Return transformed by a 3x3 matrix." coords="280,1073,431,1113"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_obstacle.html#af408619259d941fb592ba22f88561c6e" title=" " coords="533,169,721,195"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="553,219,701,259"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_obstacle.html#abf62a95c2eb2dc6973d668befbaa7dfe" title=" " coords="531,284,722,309"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="519,120,735,145"/>
+<area shape="rect" id="node11" href="$_math_defs_8h.html#ad6a5d6144733a3594df64e9f8cbb3610" title=" " coords="571,431,683,456"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html#a56e61cb5b8216360fd62b20eb78b5faf" title="Clear the vector." coords="555,481,699,521"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_node.html#a6c1d54009931a69fc95c983e8e9a3f6f" title="Return child nodes with a specific component recursively." coords="537,569,717,609"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_p_o_d_vector.html#a3eb78093c096ab9e9d68595facc56470" title="Add an element at the end." coords="783,605,956,631"/>
+</map>

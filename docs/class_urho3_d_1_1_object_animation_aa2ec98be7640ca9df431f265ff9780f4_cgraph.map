@@ -1,0 +1,5 @@
+<map id="Urho3D::ObjectAnimation::GetAttributeAnimation" name="Urho3D::ObjectAnimation::GetAttributeAnimation">
+<area shape="rect" id="node1" title=" " coords="5,37,176,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_value_animation_info.html#acaa9cd9fd5c3c0136b0e8f56559fb899" title="Return animation." coords="224,5,413,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object_animation.html#a31de8dbfa793d2ab954172b612ac35af" title="Return attribute animation info by name." coords="227,69,410,109"/>
+</map>

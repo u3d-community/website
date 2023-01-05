@@ -1,0 +1,27 @@
+<map id="Urho3D::TerrainPatch" name="Urho3D::TerrainPatch">
+<area shape="rect" id="node1" title="Individually rendered part of a heightmap terrain." coords="1305,445,1452,470"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1540,348,1719,388"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="983,766,1110,791"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_zone.html" title="Component that describes global rendering properties." coords="1327,689,1430,714"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_light.html" title="Light component." coords="1328,783,1429,809"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="619,114,762,139"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_terrain.html" title="Heightmap terrain component." coords="1322,99,1435,125"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="7,74,145,99"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="274,197,381,222"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="17,402,135,427"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="252,647,403,673"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_octant.html" title=" " coords="635,794,746,819"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html" title=" " coords="427,961,593,1001"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,861,147,886"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="253,793,402,833"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="437,911,583,951"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="437,853,583,893"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="788,565,933,605"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="975,501,1119,541"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_geometry.html" title="Defines one or more vertex buffers, an index buffer and a draw range." coords="625,489,756,514"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="967,437,1127,477"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vertex_buffer.html" title="Hardware vertex buffer." coords="617,439,764,465"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="957,160,1136,200"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="979,387,1114,413"/>
+<area shape="rect" id="node23" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="627,198,755,223"/>
+</map>

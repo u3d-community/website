@@ -1,0 +1,10 @@
+<map id="Urho3D::Texture2DArray::Release" name="Urho3D::Texture2DArray::Release">
+<area shape="rect" id="node1" title="Release the texture." coords="637,133,800,173"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture2_d_array.html#ae360c80c79d2ffd136e4440774a07e43" title="Create the GPU texture." coords="427,69,589,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_texture2_d_array.html#a1bd5785f318407847d93aaba973e6a38" title=" " coords="427,133,589,173"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture2_d_array.html#a83a9d70f6324e1ae2d82e614a8888ceb" title="Destruct." coords="427,197,589,237"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture2_d_array.html#ada31ee9d6430947d7599da69b2b6b320" title="Recreate the GPU resource and restore data if applicable." coords="216,5,379,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture2_d_array.html#acb0ff1c06a61392e0b2e30ae696c5d60" title="Set layers, size, format and usage. Set layers to zero to leave them unchanged. Return true if succes..." coords="216,69,379,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture2_d_array.html#a6bf5a1b684ec0d37ea5e81e0f2d7dd84" title="Set data of one layer from an image. Return true if successful. Optionally make a single channel imag..." coords="5,69,168,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_texture2_d_array.html#a98431d6d014c1f1454bcaffd35c7a118" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="216,133,379,173"/>
+</map>

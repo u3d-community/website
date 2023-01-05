@@ -1,0 +1,27 @@
+<map id="Urho3D::Text3D::SetMaterial" name="Urho3D::Text3D::SetMaterial">
+<area shape="rect" id="node1" title=" " coords="5,446,192,471"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_text3_d.html#a63bf86fc02caa281fb5fc8a54356abfb" title="Create materials for text rendering. May only be called from the main thread. Text UI batches must be..." coords="240,439,427,479"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_graphics.html#a161673ebd757f36216d04199959e917f" title="Return the API&#45;specific alpha texture format." coords="487,5,669,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_text3_d.html#ab66b231955992f3d761c1770483315c5" title=" " coords="491,69,665,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_text3_d.html#a732c2690b813bd90ff4ae9ed0f89c57f" title=" " coords="495,134,661,159"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture.html#ab47f6f48fa537e42dea9e21bc3a350cc" title=" " coords="485,183,671,209"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_texture.html#af496abc83a030e5dc9c8d46c7111fa1c" title=" " coords="488,233,668,258"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_technique.html#a0ee1e0fb5f0779a42fcc565ca5e9c2dd" title="Return a pass, or null if not found." coords="509,283,647,323"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_material.html#acece2d91cdf22172a002a61502d110ae" title=" " coords="475,347,681,373"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_text3_d.html#a0bf4293bb9d26b596f1e71ccf79bf0e2" title=" " coords="479,397,677,422"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_texture.html#a8e0474cd05b4b1de9caabdc670243141" title=" " coords="490,446,666,471"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_font.html#a893f986b9b7e2c29397707de1ae4bdff" title="Is signed distance field font." coords="495,495,661,521"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_pass.html#a653f75abd5e2aa50e90db33dbe24f3ed" title=" " coords="481,545,675,570"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_pass.html#a741fe35541b1496c43dfab33d45e70bb" title=" " coords="482,594,674,619"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_pass.html#a4e3ae893279a7b7a613a3022258b80c5" title=" " coords="480,758,676,783"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_pass.html#abbfd320cfa476337a116391859a0c053" title=" " coords="480,644,676,684"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_material.html#a27f2b7dd5a1ab57e0be7f9a30be657ed" title=" " coords="484,857,672,897"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_material.html#a740b3f6f56769cb6e2414aedead579b4" title=" " coords="483,807,673,833"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_pass.html#a30446a09f9bba7a2d798611253d97d74" title=" " coords="475,709,681,734"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_text.html#ad23f328c016e2b0774b3e42817e701a6" title=" " coords="735,77,926,102"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_text.html#a849906c8596f71af059936f0ed9e69be" title=" " coords="755,134,906,159"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_text.html#a95203f28afd9e8a7ef5f732f6f9005f6" title=" " coords="739,397,922,422"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_pass.html#a88670623f66ba1b156900449f6da9a3a" title="Reset shader pointers." coords="729,709,932,734"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_variant.html#a7bb661356c0ba549b5a3d1f4133dc627" title=" " coords="747,839,914,865"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_variant.html#a68809bf51496951f26b810448e41a207" title="Return Vector3 or zero on type mismatch." coords="737,889,924,914"/>
+</map>

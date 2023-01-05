@@ -1,0 +1,6 @@
+<map id="Urho3D::PackageFile::GetNumFiles" name="Urho3D::PackageFile::GetNumFiles">
+<area shape="rect" id="node1" title=" " coords="459,37,601,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource_cache.html#a286aba429fd463fbc3eba29e44d69cf3" title="Add a package file for loading resources from. Optional priority parameter which will control search ..." coords="232,5,397,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#adb229515c3873cb6dbafe3ac58ab2053" title="Add a required package file for networking. To be called on the server." coords="219,69,411,109"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_resource_cache.html#a9d0bc41b3b1e568d54c3634ecaf3a333" title="Add a package file for loading resources from by name. Optional priority parameter which will control..." coords="5,5,171,45"/>
+</map>

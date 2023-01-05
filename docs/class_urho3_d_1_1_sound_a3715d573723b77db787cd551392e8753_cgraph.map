@@ -1,0 +1,27 @@
+<map id="Urho3D::Sound::BeginLoad" name="Urho3D::Sound::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,577,184,602"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_deserializer.html#a59b68616d6572fed705f41237cb57be9" title=" " coords="524,677,667,717"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_sound.html#a8f517cbe020cd449a4bd5014459e284e" title="Load Ogg Vorbis format sound data. Does not decode at load, but will rather be decoded while playing." coords="232,577,440,602"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_sound.html#a0cffb726ad05a4aceb253bea58dfd732" title="Load optional parameters from an XML file." coords="488,209,703,234"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_sound.html#aed0e10067c32272b175af96cc6dbd3fe" title="Load raw sound data." coords="250,411,422,437"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_sound.html#ab0ab973af6cca214b8ee7f62a38db277" title="Load WAV format sound data." coords="250,813,422,838"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="1293,405,1483,430"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_deserializer.html#a29f095da2db6cf9e4c7e76365341466e" title=" " coords="524,512,667,552"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_deserializer.html#ae82036f72896194adc1cd02f3b03509b" title="Read bytes from the stream. Return number of bytes actually read." coords="793,741,935,781"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="751,437,977,462"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="1057,181,1205,221"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="769,209,959,234"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_x_m_l_element.html#a9aafd5a9e7302bcda8cf64b0664b588b" title="Return next sibling element." coords="1057,29,1205,69"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_resource_with_metadata.html#a16dc2ff1d1182913cefeaba7273a571c" title="Load metadata from &lt;metadata&gt; children of XML element." coords="759,93,969,133"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_sound.html#a65b0ab0540cda0532b0a58643462dd71" title="Define loop." coords="1047,253,1214,278"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_sound.html#a954f374ff36a691a473629983c817efa" title=" " coords="773,310,955,335"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="1310,113,1466,138"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_resource_with_metadata.html#ae42b734952a34d298976e8c5375d9bcf" title=" " coords="1025,93,1236,133"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_sound.html#acdae94d69fe559d7c7492080111bd276" title="Fix interpolation by copying data from loop start to loop end (looped), or adding silence (oneshot)...." coords="1284,278,1492,303"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_sound.html#a2157297e7c7aa292e0ae92c2e5220708" title="Set sound size in bytes. Also resets the sound to be uncompressed and one&#45;shot." coords="515,361,676,386"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_deserializer.html#ad0eb039dde5cc9ec8fedaa044d850db1" title=" " coords="524,1035,667,1075"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_deserializer.html#a1fcc8ffc3d0744f90616d0d4feacba10" title="Read a 32&#45;bit unsigned integer." coords="524,741,667,781"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_deserializer.html#a779317ca224e8350cf9b10ec4cb65145" title="Read a 16&#45;bit unsigned integer." coords="524,920,667,960"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_deserializer.html#a04335b8bfc3e845d1e95599d362b2115" title="Set position from the beginning of the stream. Return actual new position." coords="524,805,667,845"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_sound.html#a93e77c6d7614a61859bb177eb4597457" title="Set uncompressed sound data format." coords="506,870,685,895"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Urho3D::Acos" name="Urho3D::Acos">
+<area shape="rect" id="node1" title=" " coords="969,70,1073,95"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_quaternion.html#a79162695445da7cf6da908d1982690da" title=" " coords="773,5,911,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector2.html#a65083366da1e8c8b1fa39f2bdd93177d" title="Returns the angle between this vector and another vector in degrees." coords="763,70,921,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector3.html#abab3fbca669183ad1e840902fbb8a8ab" title="Returns the angle between this vector and another vector in degrees." coords="763,119,921,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_camera.html#a550d2bdf61207a877e5ecf7bbb6e247e" title="Return a world rotation for facing a camera on certain axes based on the existing world rotation." coords="496,112,715,152"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_text3_d.html#aa77a802e886bfb646350e8d0a0a70958" title="Recalculate camera facing and fixed screen size." coords="273,48,448,88"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_billboard_set.html#ae8d8caed716187e339f5e6488d25f156" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="289,112,432,152"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_billboard_set.html#adc0ee0f5b93f2ecea3db3569355ba0fc" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="289,176,432,216"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_text3_d.html#aff78b88d77fa5beca14427ab5572c99b" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="11,31,220,57"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_text3_d.html#ae76455bed7ea206ebb893e49c5a14ae7" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="5,81,225,106"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::SplinePath::SetInterpolationMode" name="Urho3D::SplinePath::SetInterpolationMode">
+<area shape="rect" id="node1" title=" " coords="5,175,161,215"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_spline_path.html#a36d325ce97cc0e763e2feb1f62c3f606" title="Calculate the length of the SplinePath. Used for movement calculations." coords="263,146,398,186"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_spline.html#a54065e0455f38df16ca0e4d965bc978a" title=" " coords="209,211,452,236"/>
+<area shape="rect" id="node3" href="$_math_defs_8h.html#ac3865cf9a0484b8452ccc4e62c5661ca" title=" " coords="545,29,641,55"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_spline.html#aec9352d328c39b7fc0a6e3b007cbb5e8" title=" " coords="513,79,674,104"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_spline.html#a68cab3618c4adc0e1fff58573522d2d1" title="Return the knots of the spline." coords="509,128,677,153"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_spline.html#a7ece7665efcb2fb858921e5798cdb3ea" title="Return the T of the point of the spline at f from 0.f &#45; 1.f." coords="511,337,675,363"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="1293,337,1436,363"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_variant.html#a68809bf51496951f26b810448e41a207" title="Return Vector3 or zero on type mismatch." coords="500,387,687,412"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="1291,516,1438,541"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_spline.html#a47f2d74ba915a3b235723dda9b610838" title="Perform Bezier interpolation on the spline." coords="735,413,960,439"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_spline.html#a0aeec951f053c2c0f6add719b690e0f2" title="Perform linear interpolation on the spline." coords="1008,469,1232,495"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="1047,571,1193,596"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_spline.html#ae32fc4d1d42297c895e1fd4f04813414" title="Perform Spline interpolation on the spline." coords="1027,330,1213,370"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html#a791049c4b9218aecea62d8a8eb452c74" title="Return first element." coords="773,229,921,255"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="1941,515,2096,540"/>
+<area shape="rect" id="node11" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="1309,467,1420,492"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector.html#a17e4a13942a9512bc0eceb3e46d950dd" title="Insert elements into the vector using copy or move constructor." coords="1280,566,1449,606"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="1730,655,1881,680"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html#a05f68c0546419caf7d6050a3e7d8d1d5" title="Calculate new vector capacity." coords="1497,422,1669,462"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector.html#a5c0b7ecbd0ae0c75a9a69bf9dedc517a" title="Construct elements using default ctor." coords="1717,425,1893,465"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="1501,601,1666,627"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector_base.html#aec648d72344954c3be22218eb180f6a4" title="Swap with another vector." coords="1513,537,1654,577"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector.html#afb87585db12d120ab5148ec782d14632" title="Call the elements&#39; destructors." coords="1721,590,1889,630"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="1735,489,1876,515"/>
+</map>

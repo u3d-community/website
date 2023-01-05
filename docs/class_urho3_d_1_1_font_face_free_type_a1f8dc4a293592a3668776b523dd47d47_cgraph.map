@@ -1,0 +1,19 @@
+<map id="Urho3D::FontFaceFreeType::GetGlyph" name="Urho3D::FontFaceFreeType::GetGlyph">
+<area shape="rect" id="node1" title="Return pointer to the glyph structure corresponding to a character. Return null if glyph not found." coords="5,216,184,256"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_font_face_free_type.html#aef996d110f756368c9f9d526ff78ac00" title="Load char glyph." coords="232,216,411,256"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_area_allocator.html#a6b6949e6fedd21c43be6182af876bce0" title="Try to allocate an area. Return true if successful, with x &amp; y coordinates filled." coords="471,37,625,77"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_font_face_free_type.html#a24284bf9482802d8dc9dbadfdfefff80" title="Smooth one row of a horizontally oversampled glyph image." coords="459,101,637,141"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_image.html#a2768a9bcc38b2cc746c0a94c3acffc90" title="Return pixel data." coords="467,166,629,191"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_area_allocator.html#a79556c68c2026a50670b286e8dc81875" title="Return the current height." coords="471,216,625,256"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_area_allocator.html#a85205a9473c56a8bc7c66657b21b3ed0" title="Return the current width." coords="471,280,625,320"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_image.html#aa80b50b567b909c477d70685b4b3bb24" title=" " coords="463,345,633,370"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_font_face_free_type.html#a4729d53682665ade1a3816f33de03c1e" title="Setup next texture." coords="459,395,637,435"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_area_allocator.html#acd0045fee4148a332b3d28b2cbcefe6d" title="Clean up redundant free space. Not called in fast mode." coords="721,5,876,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_area_allocator.html#a3b06245372a84faa7e77142652687433" title="Remove space from a free rectangle. Return true if the original rectangle should be erased from the f..." coords="721,69,876,109"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object.html#a8bd9b32c8a56c2f6d618d8afe8091eb7" title="Return execution context." coords="1179,349,1361,374"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_resource.html#a5e14c5f01c2fc33fa20bef5094a7ea42" title=" " coords="685,345,912,370"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_font_face.html#a270c6597baebbf93245d7dca6e5f6116" title="Load font face texture from image resource." coords="703,395,894,435"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_area_allocator.html#a953aa6cd0bb52a869726d9ebb484fe7d" title="Reset to given width and height and remove all previous allocations." coords="721,459,876,499"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="685,523,912,549"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_font_face.html#ab14c6bd4c65d7a2adff056a23d378167" title="Create a texture for font rendering." coords="960,369,1131,409"/>
+</map>

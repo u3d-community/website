@@ -1,0 +1,12 @@
+<map id="Urho3D::NavBuildData" name="Urho3D::NavBuildData">
+<area shape="rect" id="node1" title="Navigation build data." coords="563,332,715,357"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="237,147,387,172"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="17,147,135,172"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="239,197,385,237"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,379,147,404"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="239,261,385,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="239,325,385,365"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="239,389,385,429"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="239,453,385,493"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="231,517,393,557"/>
+</map>

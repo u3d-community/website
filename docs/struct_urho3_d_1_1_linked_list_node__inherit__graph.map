@@ -1,0 +1,6 @@
+<map id="Urho3D::LinkedListNode" name="Urho3D::LinkedListNode">
+<area shape="rect" id="node1" title="Singly&#45;linked list node base class." coords="128,5,295,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_event_handler.html" title="Internal helper class for invoking event handler functions." coords="136,79,287,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_event_handler11_impl.html" title=" " coords="5,152,196,177"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_event_handler_impl.html" title="Template implementation of the event handler invoke helper (stores a function pointer of specific cla..." coords="221,152,426,177"/>
+</map>

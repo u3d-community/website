@@ -1,0 +1,27 @@
+<map id="Urho3D::SoundSource::RegisterObject" name="Urho3D::SoundSource::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,305,157,345"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_sound_source.html#a8dad8f116d533da05df92f46f59e4883" title="Return sound position attribute." coords="216,5,368,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_sound_source.html#a96f8b68e306ac79a982daab9bdecef99" title="Return sound attribute." coords="216,69,368,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_sound_source.html#a8a0c6b066929ffa4836a0140f27dca8e" title=" " coords="216,133,368,173"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="218,197,366,237"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_sound_source.html#a8dac4f4733a076eace3a300cef3be92e" title=" " coords="428,305,580,345"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="205,584,379,624"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="430,241,578,281"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_sound_source.html#ae5226226b14c06cc1e186a48d0eed0eb" title="Set sound playing attribute." coords="216,427,368,467"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_sound_source.html#a0351c423718575939e25b8040112fd57" title="Set sound position attribute." coords="216,648,368,688"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_sound_source.html#a1118ae914cf066d769551dac6df4c0d6" title="Set sound attribute." coords="216,363,368,403"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_sound_source.html#ad500fea1f3498e01d3d7ded0182ab124" title=" " coords="216,491,368,531"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_sound_source.html#ab61fafc22cb64b3c581c6744c3791eca" title="Return playback position." coords="428,5,580,45"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="427,612,581,652"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="635,149,801,189"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="869,336,1017,376"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="644,403,792,443"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_component.html#a97c506dfb55216668b1fdf4d4425f7d7" title="Handle enabled/disabled state change." coords="644,213,792,253"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="629,353,807,378"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="855,149,1031,189"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="1079,343,1247,369"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_sound_source.html#a9c43c6bb72c0cc5f5f75e6d3c443fc5b" title="Play a sound." coords="428,369,580,409"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_sound_source.html#a077c48e48db0cff251d41d3f63fc5a7e" title="Stop playback." coords="428,433,580,473"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_sound_source.html#a5064d62f3e709c569a2f363e74c4a630" title="Set new playback position." coords="428,676,580,716"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_sound_source.html#a3be3a525706cb071ff79d09f9df5cf53" title="Update the effective master gain. Called internally and by Audio when the master gain changes." coords="428,548,580,588"/>
+</map>

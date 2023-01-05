@@ -1,0 +1,6 @@
+<map id="Urho3D::ValueAnimation" name="Urho3D::ValueAnimation">
+<area shape="rect" id="node1" title="Value animation class." coords="5,225,171,251"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html" title=" " coords="24,152,152,177"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html" title=" " coords="33,79,143,104"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="17,5,159,31"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::AnimatedModel::ApplyAttributes" name="Urho3D::AnimatedModel::ApplyAttributes">
+<area shape="rect" id="node1" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="5,781,173,821"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animated_model.html#a1a9c66f9b072816093f73d60e5b58f62" title="Assign skeleton and animation bone node references as a postprocess. Called by ApplyAttributes." coords="221,781,389,821"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a1df1e1bfa613bbd82fe6624c211db754" title="Add listener component that is notified of node being dirtied. Can either be in the same node or anot..." coords="662,14,846,39"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="933,410,1084,435"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="938,794,1079,819"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#aa413f1ee8b3fd0928b371a6d9875563c" title="Return child scene node by index." coords="673,115,835,141"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_skeleton.html#a618844fe4dee292f0d49ecfd21faaf5f" title="Return modifiable bones." coords="903,1019,1115,1059"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animation_state.html#acbbd9a98c34c1fdbd8d1acbdb9931eea" title=" " coords="440,1063,603,1103"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_animated_model.html#aeae317724517abf074f05f2c2c411697" title="Set skeleton." coords="437,557,605,597"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_animation_state.html#a73efb90d9d6a41debe30e4d151a50e85" title=" " coords="440,1177,603,1217"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#ab49b4b66b2eb1601cf166972fe42e5ce" title="Handle scene node transform dirtied." coords="935,7,1083,47"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="1163,577,1317,602"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#af38b633b6f35ad2a430adb650e3b354f" title="Create a child scene node (with specified ID if provided)." coords="664,926,844,951"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_skeleton.html#a11b65ed7788a08627f4ac932d61db2d1" title="Define from another skeleton." coords="671,975,837,1001"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_animated_model.html#a5f01b5895e5a19b37fe2f218e21a9e83" title="Finalize master model bone bounding boxes by merging from matching non&#45;master bones...." coords="658,837,850,877"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_skeleton.html#aa84d5f47d9c2412c5dc9c946269b9c5e" title="Return all bones." coords="661,165,847,190"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="653,214,855,239"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="925,615,1092,655"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_skeleton.html#ad2159e16479f1f972b5450722c8f3560" title=" " coords="665,264,843,304"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_serializable.html#aa20baf7a00b3c81f16e0c85c69f0b5ce" title=" " coords="684,328,824,368"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_animated_model.html#a7422047cb3c53cd9e20553e0a35ce621" title="Remove all animations." coords="660,557,848,597"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_animated_model.html#a942660d75530f688f2eff8f02dd369e2" title="Remove (old) skeleton root bone." coords="670,621,838,661"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="920,493,1097,518"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_serializable.html#aaa044160c22b374e032ae85c30520f89" title=" " coords="684,493,824,533"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_node.html#af7fc2b6d072cd23a0b7b87e509d010fd" title="Set both position and rotation in parent space as an atomic operation. This is faster than setting po..." coords="657,787,851,813"/>
+</map>

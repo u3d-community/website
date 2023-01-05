@@ -1,0 +1,27 @@
+<map id="Urho3D::NavigationMesh::Build" name="Urho3D::NavigationMesh::Build">
+<area shape="rect" id="node1" title="Rebuild part of the navigation mesh contained by the world&#45;space bounding box. Return true if success..." coords="5,918,173,958"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#ab649eee713babaa030e62c423da0e5f8" title="Build tiles in the rectangular area. Return number of built tiles." coords="237,355,405,395"/>
+<area shape="rect" id="node11" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="266,616,377,641"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_navigation_mesh.html#a841b7dc758f63dcec5908322d5fa0895" title="Collect geometry from under Navigable components." coords="237,690,405,730"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_bounding_box.html#a00fe243d05516209a4ef6f83ff7179df" title="Return transformed by a 3x3 matrix." coords="767,661,918,701"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="469,897,700,923"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="515,947,654,987"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector3.html#a33cac219f3eab4ffe4d3d5effdde33e0" title="Test for equality with another vector with epsilon." coords="239,1063,403,1088"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="221,1112,421,1137"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_navigation_mesh.html#a602be9b482a0a9b7917bb13fd3b02cbf" title="Build one tile of the navigation mesh. Return true if successful." coords="501,234,669,274"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#a1a55d5f5c4764f0184f60d1577c43478" title=" " coords="780,29,905,55"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_p_o_d_vector.html#a5be72d35fc52d2623985f20b95855d10" title="Return whether vector is empty." coords="771,79,915,119"/>
+<area shape="rect" id="node6" href="$_math_defs_8h.html#a52553bebbd1fa9f15fef8cf0254f2481" title=" " coords="775,168,910,193"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="748,217,937,243"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_object.html#a8bd9b32c8a56c2f6d618d8afe8091eb7" title="Return execution context." coords="751,267,934,292"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="769,317,917,357"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="758,381,927,407"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a33c8b46fb4ba500ad71dbf7f2652066f" title="Return all components." coords="481,425,689,451"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_off_mesh_connection.html#a2e74719297b1b8ee935030e03d89eff7" title=" " coords="489,475,681,515"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_off_mesh_connection.html#a21ff30a5418629eebed6d4cacf1cc271" title=" " coords="489,539,681,579"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_nav_area.html#ad620b0ac7226713e990694cb1e75b6a3" title=" " coords="492,603,677,643"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="511,718,659,758"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="511,783,658,808"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_matrix3x4.html#a30a35295a4d931ac923e4fc0bdb10502" title="Return the translation part." coords="515,833,654,873"/>
+<area shape="rect" id="node24" href="$_math_defs_8h.html#ad6a5d6144733a3594df64e9f8cbb3610" title=" " coords="529,1087,641,1112"/>
+</map>

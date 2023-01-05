@@ -1,0 +1,5 @@
+<map id="Urho3D::Material::SetOcclusion" name="Urho3D::Material::SetOcclusion">
+<area shape="rect" id="node1" title=" " coords="439,5,643,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_material.html#a843c233ee44a1b2d1aaea55d989782fe" title="Load from an XML element. Return true if successful." coords="233,5,391,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_material.html#a2ed97bf462e83b2587c88fbabd794229" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="5,5,185,31"/>
+</map>

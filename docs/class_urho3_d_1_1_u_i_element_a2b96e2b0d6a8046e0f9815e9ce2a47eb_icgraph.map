@@ -1,0 +1,5 @@
+<map id="Urho3D::UIElement::OnKey" name="Urho3D::UIElement::OnKey">
+<area shape="rect" id="node1" title="React to a key press." coords="396,5,536,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i.html#aa7966075651b12fe5bc1dae57a5bb636" title="Handle keypress event." coords="159,13,348,38"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i.html#a2c011c43ca66ff4270e98601e4f9c4cf" title="Construct." coords="5,13,111,38"/>
+</map>

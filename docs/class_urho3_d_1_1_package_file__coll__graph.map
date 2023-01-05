@@ -1,0 +1,27 @@
+<map id="Urho3D::PackageFile" name="Urho3D::PackageFile">
+<area shape="rect" id="node1" title="Stores files of a directory tree sequentially for convenient access." coords="1333,183,1475,209"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="579,178,689,203"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_event_handler.html" title="Internal helper class for invoking event handler functions." coords="905,302,1056,327"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="287,647,429,673"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="1345,715,1463,741"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="21,647,149,673"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="859,747,1102,802"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="567,653,701,678"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="881,905,1080,959"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="873,826,1089,881"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="869,416,1092,485"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="833,509,1128,579"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="888,603,1073,658"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="877,683,1085,723"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="876,352,1085,392"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_hash_node_base.html" title="Hash set/map node base class." coords="275,598,441,623"/>
+<area shape="rect" id="node9" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="278,735,438,761"/>
+<area shape="rect" id="node10" href="$struct_urho3_d_1_1_allocator_node.html" title="Allocator node." coords="5,735,165,761"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="908,984,1053,1024"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="563,1015,705,1041"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="905,1048,1057,1088"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="1319,15,1489,55"/>
+<area shape="rect" id="node19" href="$struct_urho3_d_1_1_linked_list_node.html" title="Singly&#45;linked list node base class." coords="551,379,717,405"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="565,278,703,303"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_string.html" title="String class." coords="927,126,1034,151"/>
+</map>

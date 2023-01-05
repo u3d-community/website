@@ -1,0 +1,4 @@
+<map id="Urho3D::VertexBuffer::OnDeviceLost" name="Urho3D::VertexBuffer::OnDeviceLost">
+<area shape="rect" id="node1" title="Mark the buffer destroyed on graphics context destruction. May be a no&#45;op depending on the API." coords="5,5,152,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_g_p_u_object.html#a054b2b9d1ac58c3dc81866bb7db6761a" title="Mark the GPU resource destroyed on graphics context destruction." coords="200,5,343,45"/>
+</map>

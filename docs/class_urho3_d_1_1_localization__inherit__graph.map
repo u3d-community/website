@@ -1,0 +1,5 @@
+<map id="Urho3D::Localization" name="Urho3D::Localization">
+<area shape="rect" id="node1" title="Localization subsystem. Stores all the strings in all languages." coords="5,152,149,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="22,79,133,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="6,5,149,31"/>
+</map>

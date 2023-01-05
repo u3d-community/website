@@ -1,0 +1,27 @@
+<map id="Urho3D::LightBatchQueue" name="Urho3D::LightBatchQueue">
+<area shape="rect" id="node1" title="Queue for light related draw calls." coords="1007,393,1178,418"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_light.html" title="Light component." coords="1352,443,1453,469"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="1563,409,1689,434"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="696,5,841,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="40,491,147,517"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_texture.html" title="Base class for texture resources." coords="351,901,467,926"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_bias_parameters.html" title="Depth bias parameters. Used both by lights (for shadow mapping) and materials." coords="1009,442,1176,467"/>
+<area shape="rect" id="node7" href="$struct_urho3_d_1_1_cascade_parameters.html" title=" " coords="996,491,1189,517"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_focus_parameters.html" title=" " coords="1004,541,1181,566"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="1027,643,1159,669"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="699,895,838,935"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_texture2_d.html" title="2D texture resource." coords="703,778,835,803"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="321,836,496,876"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="339,708,478,748"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="339,772,478,812"/>
+<area shape="rect" id="node16" href="$struct_urho3_d_1_1_batch_queue.html" title="Queue that contains both instanced and non&#45;instanced draw calls." coords="697,362,840,387"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="316,565,501,619"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="311,132,507,172"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="312,196,505,236"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="336,644,481,684"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="336,260,481,300"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="327,324,490,364"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_string.html" title="String class." coords="355,427,462,453"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="339,515,478,541"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector.html" title=" " coords="685,412,852,452"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Urho3D::Texture2D::Create" name="Urho3D::Texture2D::Create">
+<area shape="rect" id="node1" title="Create the GPU texture." coords="5,292,144,332"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture.html#a0dc9b5632a502d45cf001c0cdaebd8e5" title="Check maximum allowed mip levels for a specific texture size." coords="215,5,401,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture.html#a60c268d6f819bd4fdc219ba8f5f3820c" title=" " coords="210,70,406,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_graphics.html#a609ba19c78432946e8334cc3a7bcb92e" title="Return the API&#45;specific hardware depth&#45;stencil texture format." coords="216,120,400,160"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture.html#a09c2fc9bd5347131e3a0126b109d07ab" title=" " coords="213,184,403,224"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_graphics.html#af39a9a2972752ace04fa2aac273ecc9e" title="Return whether is using an OpenGL 3 context. Return always false on Direct3D9 &amp; Direct3D11." coords="472,345,645,385"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_texture.html#af49ebd8d0572e8616402f9c663b6a818" title=" " coords="221,299,395,325"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture.html#af633d70298690db00993d6c89b2f0a50" title=" " coords="199,349,417,374"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_texture.html#a49289626d40733f33cb84e044cca1eab" title=" " coords="203,398,413,423"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_texture.html#a8672316692e6b78cb6482cbcecfe409c" title="Regenerate mipmap levels for a rendertarget after rendering and before sampling. Called internally by..." coords="215,448,401,488"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_texture2_d.html#a195cc225951abc4d87099dd2bd2f76f3" title="Release the texture." coords="239,512,377,552"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_texture.html#a7eaf51cf81ac775bdc87e00ec1a47979" title="Update dirty parameters to the texture object. Called by Graphics when assigning the texture." coords="192,577,424,602"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_color.html#ac870749558797286cd923e11c182ce87" title="Return float data." coords="489,577,628,602"/>
+</map>

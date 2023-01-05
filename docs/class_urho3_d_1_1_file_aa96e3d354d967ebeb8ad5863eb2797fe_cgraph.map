@@ -1,0 +1,11 @@
+<map id="Urho3D::File::Read" name="Urho3D::File::Read">
+<area shape="rect" id="node1" title="Read bytes from the file. Return number of bytes actually read." coords="5,193,135,219"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="183,5,372,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_abstract_file.html#ada04895491d2abbb4d7d376869be7b4f" title="Return the file name." coords="206,55,349,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_file.html#adef704ac4cdbb2858593659cf462ccbb" title=" " coords="207,120,347,145"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="230,193,325,219"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_file.html#a914775a77252b5e6c25a1bad4901cb83" title="Perform the file read internally using either C standard IO functions or SDL RWops for Android asset ..." coords="191,243,364,268"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_deserializer.html#a779317ca224e8350cf9b10ec4cb65145" title="Read a 16&#45;bit unsigned integer." coords="206,293,349,333"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_file.html#a22ff8bb1f694f05fc6c0fb3050270b49" title="Seek in file internally using either C standard IO functions or SDL RWops for Android asset files." coords="191,357,363,383"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_deserializer.html#ae82036f72896194adc1cd02f3b03509b" title="Read bytes from the stream. Return number of bytes actually read." coords="420,293,563,333"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Urho3D::ParticleEmitter2D::SetSprite" name="Urho3D::ParticleEmitter2D::SetSprite">
+<area shape="rect" id="node1" title=" " coords="649,39,816,79"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_particle_emitter2_d.html#adb142de406c85feaa9072b3c871cb059" title=" " coords="435,8,601,48"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_particle_emitter2_d.html#a816e722733624c20cdd757bad70b4da6" title="Set sprite attribute." coords="220,69,387,109"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_particle_emitter2_d.html#a98bfbbf39e5ce791ab085c81d93bdb75" title="Set particle model attr." coords="220,5,387,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_particle_emitter2_d.html#a19580e35a9410d2ae90ab7acc0c72d29" title=" " coords="5,37,172,77"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::CollisionChain2D::RegisterObject" name="Urho3D::CollisionChain2D::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,197,179,237"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_collision_chain2_d.html#a3a36e17add74db97f7ac13c9a4a2ade0" title=" " coords="227,5,400,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_collision_chain2_d.html#abe079a6b655f0bdb31bb6e3cdb7846c5" title="Return vertices attribute." coords="227,69,400,109"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="239,133,387,173"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="227,197,400,237"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="461,255,609,295"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_collision_chain2_d.html#a03fb399c349d607de92cbb07cfaa8f77" title=" " coords="448,355,621,395"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_collision_chain2_d.html#a6e15b6b0a0c576d614aae7d5edb7ad2a" title="Set vertices attribute." coords="227,515,400,555"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector_buffer.html#a2f9263d81223cc1315806fd5325069dc" title="Return the buffer." coords="461,5,609,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializer.html#adc661f61e8350e917e25f95b987e3bc2" title="Write a Vector2." coords="471,69,599,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector2.html#aa87f478adfa804e0d7971d2eda9945fb" title="Return float data." coords="682,19,834,45"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_serializer.html#af1212487507dad99d9f389f9c8b48a60" title="Write bytes to the stream. Return number of bytes actually written." coords="694,69,822,109"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="457,191,612,231"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="675,133,841,173"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="909,292,1057,332"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="684,387,832,427"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_component.html#a97c506dfb55216668b1fdf4d4425f7d7" title="Handle enabled/disabled state change." coords="684,248,832,288"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="669,337,847,362"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="895,133,1071,173"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_collision_chain2_d.html#a06777a479e06a14e47b84fe7700b671e" title="Recreate fixture." coords="671,451,845,491"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_p_o_d_vector.html#a5be72d35fc52d2623985f20b95855d10" title="Return whether vector is empty." coords="463,483,607,523"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_deserializer.html#a62d8b0e28fa886adfdde1c42c6913477" title=" " coords="463,547,606,587"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_p_o_d_vector.html#a3eb78093c096ab9e9d68595facc56470" title="Add an element at the end." coords="448,611,621,637"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_deserializer.html#a24fca5b0832f3129a82fcf2215380336" title="Read a Vector2." coords="463,661,606,701"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_collision_chain2_d.html#aa179430b03bf741bf36ac878326ebe2e" title="Set vertices." coords="448,419,621,459"/>
+</map>

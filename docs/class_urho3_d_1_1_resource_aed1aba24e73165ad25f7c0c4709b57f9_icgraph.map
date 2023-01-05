@@ -1,0 +1,5 @@
+<map id="Urho3D::Resource::GetUseTimer" name="Urho3D::Resource::GetUseTimer">
+<area shape="rect" id="node1" title=" " coords="456,5,633,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_renderer.html#a3f1b359a3daee56e5186fff085178d50" title="Remove unused occlusion and screen buffers." coords="228,5,408,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_renderer.html#ab246b6b23f39f3cdff9c279782b48993" title="Render. Called by Engine." coords="5,13,180,38"/>
+</map>

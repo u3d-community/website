@@ -1,0 +1,9 @@
+<map id="Urho3D::UIElement::GetTraversalMode" name="Urho3D::UIElement::GetTraversalMode">
+<area shape="rect" id="node1" title=" " coords="1259,23,1399,63"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i.html#aef695d9bbefb2724ac9f68b085769051" title="Generate batches from an UI element recursively. Skip the cursor element." coords="1052,31,1211,56"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i.html#aa007010436204316b3fe4859db32458e" title="Update the UI for rendering. Called by HandleRenderUpdate()." coords="828,31,1004,56"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i.html#a05bd51bad1a135929174fcd7fe5fcf96" title="Handle render update event." coords="604,23,780,63"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i.html#a5bb71ed105d2bb465a10f66c9bfcb275" title="Initialize when screen mode initially set." coords="416,31,556,56"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i.html#aefd3544d155762334a00429ef8196bae" title="Handle screen mode event." coords="159,5,368,31"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i.html#a2c011c43ca66ff4270e98601e4f9c4cf" title="Construct." coords="5,31,111,56"/>
+</map>

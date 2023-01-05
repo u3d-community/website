@@ -1,0 +1,7 @@
+<map id="Urho3D::DynamicNavigationMesh::ReleaseNavigationMesh" name="Urho3D::DynamicNavigationMesh::ReleaseNavigationMesh">
+<area shape="rect" id="node1" title="Release the navigation mesh, query, and tile cache." coords="269,101,472,141"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a2b7ade339dad6d4a0360e5c5aff707dc" title="Allocate the navigation mesh without building any tiles. Bounding box is not padded...." coords="20,5,207,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac50303ab43f4c6b1b19867e6a3389af3" title="Build/rebuild the entire navigation mesh." coords="20,69,207,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ae6a0a07298c078e6472c3303a730f4fb" title="Set navigation data attribute." coords="18,133,209,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#addf10f79a7fc2dc8dd90cb7efce4eacb" title="Destructor." coords="5,197,221,237"/>
+</map>

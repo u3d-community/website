@@ -1,0 +1,5 @@
+<map id="Urho3D::ObjectAnimation::GetAttributeAnimationSpeed" name="Urho3D::ObjectAnimation::GetAttributeAnimationSpeed">
+<area shape="rect" id="node1" title=" " coords="5,37,200,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object_animation.html#a31de8dbfa793d2ab954172b612ac35af" title="Return attribute animation info by name." coords="251,5,434,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_value_animation_info.html#a4093aee624e70aeb757b4c318ac53593" title="Return speed." coords="248,69,437,109"/>
+</map>

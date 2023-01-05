@@ -1,0 +1,6 @@
+<map id="Urho3D::Spriter::SpatialTimelineKey" name="Urho3D::Spriter::SpatialTimelineKey">
+<area shape="rect" id="node1" title="Spatial timeline key." coords="159,79,316,119"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_spriter_1_1_bone_timeline_key.html" title="Bone timeline key." coords="5,167,224,192"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_spriter_1_1_sprite_timeline_key.html" title="Sprite timeline key." coords="249,167,471,192"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_spriter_1_1_timeline_key.html" title="Timeline key." coords="143,5,332,31"/>
+</map>

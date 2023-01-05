@@ -1,0 +1,4 @@
+<map id="Urho3D::NavArea::SetAreaID" name="Urho3D::NavArea::SetAreaID">
+<area shape="rect" id="node1" title=" " coords="231,13,419,38"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_nav_area.html#ab1899c86543b81c76f5bbda90b0ff816" title=" " coords="5,5,183,45"/>
+</map>

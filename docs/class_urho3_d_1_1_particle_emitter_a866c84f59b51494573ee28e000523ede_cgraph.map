@@ -1,0 +1,27 @@
+<map id="Urho3D::ParticleEmitter::RegisterObject" name="Urho3D::ParticleEmitter::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,504,165,544"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_billboard_set.html#aaee45fdd0413f78f2c97f49a91c0ad6b" title=" " coords="236,5,392,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html#aaace7f6327baffa0a0c4adb1d840de24" title=" " coords="223,69,405,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_particle_emitter.html#ae24967f01fa9e566d8c961eec091c473" title="Set particles effect attribute." coords="234,133,394,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_particle_emitter.html#a8667dbed6de2b4cb4a1e25cd6d50142e" title="Return billboards attribute. Returns billboard amount only if particles are not to be serialized." coords="228,261,400,301"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_particle_emitter.html#a174a864b31fa63a8739c48c0bd7014ed" title="Return particles attribute. Returns particle amount only if particles are not to be serialized." coords="234,197,394,237"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_drawable.html#a6072f938c617059fef0fc77ff21dac1f" title=" " coords="213,325,415,365"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="240,389,388,429"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_drawable.html#aabd4960e08a707a45f9720fcb30dfa39" title=" " coords="215,454,413,479"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="227,504,401,544"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_billboard_set.html#a1f1557cbe2c62b021f002a716d46de14" title=" " coords="237,568,391,608"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_billboard_set.html#a0418797e7eb4ddcb34b73ae8d5dcedb2" title="Set billboards attribute." coords="243,632,385,672"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_drawable.html#a6fa21af838026c1566496968bc7a696c" title=" " coords="688,669,871,709"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_particle_emitter.html#a3449faf25039d775bd73a25e1ef1614f" title="Set particles effect attribute." coords="234,899,394,939"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="705,733,853,773"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_drawable.html#aa1e97bbb2427a3626a5b6816dfc888d6" title=" " coords="676,798,883,823"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_particle_emitter.html#a39dbcab78221c756786bf4f86b08f152" title="Set particles attribute." coords="234,963,394,1003"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_drawable.html#ae1f5e010e8a556927758e8eaa7b65e9a" title=" " coords="679,848,879,888"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="472,265,619,290"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="463,209,628,234"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="468,392,623,432"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="931,701,1079,741"/>
+<area shape="rect" id="node16" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="496,481,595,506"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_billboard_set.html#a197bedeabeabd165c9b94b866db3698a" title="Mark for bounding box and vertex buffer update. Call after modifying the billboards." coords="708,605,851,645"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_billboard_set.html#a284dc0a73ef00e1713b61fd3a2305968" title=" " coords="474,632,617,672"/>
+</map>

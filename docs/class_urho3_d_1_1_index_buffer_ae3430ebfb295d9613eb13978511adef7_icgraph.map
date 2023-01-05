@@ -1,0 +1,14 @@
+<map id="Urho3D::IndexBuffer::GetIndexSize" name="Urho3D::IndexBuffer::GetIndexSize">
+<area shape="rect" id="node1" title=" " coords="1411,97,1553,137"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_model.html#a3623ddcafb95242955bf9335288855ae" title="Clone the model. The geometry data is deep&#45;copied and can be modified in the clone without affecting ..." coords="1178,5,1329,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_graphics.html#aa4471ed0ed015d4ea57f7ad5561fdfc4" title="Draw indexed geometry." coords="1173,55,1333,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_graphics.html#a3b3826f68144fb6a1f222811207986b1" title="Draw indexed, instanced geometry. An instancing vertex buffer must be set." coords="1144,104,1363,129"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_decal_set.html#a51865d14929f67473aa71cc3b9ba36d6" title="Get triangle faces from the target geometry." coords="1160,153,1347,179"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_model.html#abff8eafc5209a8bdbc64676952fc445d" title="Save resource. Return true if successful." coords="1181,203,1326,228"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="931,81,1072,121"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="716,81,859,121"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,81,397,121"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="445,125,668,151"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,88,155,113"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_decal_set.html#a70a16cdcd0674837b6b2338f94f476b8" title="Add a decal at world coordinates, using a target drawable&#39;s geometry for reference...." coords="907,169,1096,195"/>
+</map>

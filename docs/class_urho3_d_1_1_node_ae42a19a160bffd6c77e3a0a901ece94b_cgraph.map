@@ -1,0 +1,27 @@
+<map id="Urho3D::Node::OnAttributeAnimationAdded" name="Urho3D::Node::OnAttributeAnimationAdded">
+<area shape="rect" id="node1" title="Handle attribute animation added." coords="5,326,184,366"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="250,276,418,301"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a8ed2616a227d94a7dddf6163b0f88a27" title="Handle attribute animation update event." coords="232,326,436,366"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="247,406,421,446"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html#a5df03d0160dbec915cb43193684ea971" title="Update attribute animations." coords="484,310,671,350"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_weak_ptr.html#a80470479c6c1e102058e458fe5d20190" title="Return whether the object has expired. If null pointer, always return true." coords="719,100,893,125"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="733,149,879,175"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animatable.html#a1aa4f5c600142e625eec608261cca98b" title="Set attribute animation." coords="727,317,885,357"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="735,381,877,407"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="973,5,1120,31"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#a17e4a13942a9512bc0eceb3e46d950dd" title="Insert elements into the vector using copy or move constructor." coords="962,55,1131,95"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="1200,92,1351,117"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="976,171,1117,196"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_value_animation_info.html#acaa9cd9fd5c3c0136b0e8f56559fb899" title="Return animation." coords="952,221,1141,261"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_animatable.html#a7cf9c0ed922a06acdb7d82d85d1e41f5" title="Return attribute animation info." coords="955,285,1138,325"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_attribute_animation_info.html#a3a1aeb631905eb9d83edd49b54d0eafe" title="Return attribute information." coords="955,349,1138,389"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_serializable.html#a7e18871871feb97ee7cfb637e9b3e090" title="Return attribute descriptions, or null if none defined." coords="977,413,1117,453"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="947,477,1146,503"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_value_animation.html#a0aaaa06b382038df1373b46c13d3da05" title=" " coords="964,527,1129,567"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_animatable.html#a158d9c157ad38419ce46eb42bd431556" title="Handle attribute animation added." coords="949,591,1144,631"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_animatable.html#a7999db3563b0eb8468bbf9f34704a54b" title="Handle attribute animation removed." coords="941,655,1152,695"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="487,374,668,414"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="484,438,671,478"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="492,502,663,542"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="731,438,881,478"/>
+</map>

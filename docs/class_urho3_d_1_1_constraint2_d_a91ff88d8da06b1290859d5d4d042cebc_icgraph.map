@@ -1,0 +1,4 @@
+<map id="Urho3D::Constraint2D::SetOtherBody" name="Urho3D::Constraint2D::SetOtherBody">
+<area shape="rect" id="node1" title=" " coords="203,5,352,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_constraint2_d.html#ac2f07e22d13a7e7dd54d97a150d23fef" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="5,5,155,45"/>
+</map>

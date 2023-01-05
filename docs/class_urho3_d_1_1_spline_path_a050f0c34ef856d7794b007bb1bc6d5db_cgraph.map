@@ -1,0 +1,27 @@
+<map id="Urho3D::SplinePath::ApplyAttributes" name="Urho3D::SplinePath::ApplyAttributes">
+<area shape="rect" id="node1" title="Apply Attributes to the SplinePath." coords="5,559,140,599"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_spline.html#aa77a744c301a9c7475d635d00b4df2e7" title="Add a knot to the end of the spline." coords="469,79,635,104"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="730,404,873,429"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a1df1e1bfa613bbd82fe6624c211db754" title="Add listener component that is notified of node being dirtied. Can either be in the same node or anot..." coords="204,211,388,236"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_spline_path.html#a36d325ce97cc0e763e2feb1f62c3f606" title="Calculate the length of the SplinePath. Used for movement calculations." coords="229,334,363,374"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_spline.html#a0b405174354c875bd7d0623385626f67" title="Clear the spline." coords="223,567,369,592"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_scene.html#af130e2e88e5d29e1da2b9d4e52d73db2" title="Return node from the whole scene by ID, or null if not found." coords="212,616,380,641"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="222,666,370,706"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="188,731,404,756"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_node.html#a98f711e232ccff9b596e7846bdffab96" title="Remove listener component." coords="193,780,399,805"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="723,55,879,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html#a83b3a48f0d5d0aae79aa6b6304cde595" title="Return whether vector is empty." coords="724,104,879,129"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_variant.html#a7bb661356c0ba549b5a3d1f4133dc627" title=" " coords="718,153,885,179"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_variant.html#a2e5a8eb023e49ff8732c2ec9c070ea1a" title=" " coords="700,5,903,31"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="728,237,875,263"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="962,292,1109,317"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html#a17e4a13942a9512bc0eceb3e46d950dd" title="Insert elements into the vector using copy or move constructor." coords="951,227,1120,267"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_component.html#ab49b4b66b2eb1601cf166972fe42e5ce" title="Handle scene node transform dirtied." coords="478,129,626,169"/>
+<area shape="rect" id="node14" href="$_math_defs_8h.html#ac3865cf9a0484b8452ccc4e62c5661ca" title=" " coords="504,415,600,440"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_spline.html#aec9352d328c39b7fc0a6e3b007cbb5e8" title=" " coords="471,193,633,219"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_spline.html#a68cab3618c4adc0e1fff58573522d2d1" title="Return the knots of the spline." coords="468,243,636,268"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_spline.html#a7ece7665efcb2fb858921e5798cdb3ea" title="Return the T of the point of the spline at f from 0.f &#45; 1.f." coords="470,292,634,317"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_variant.html#a68809bf51496951f26b810448e41a207" title="Return Vector3 or zero on type mismatch." coords="459,341,645,367"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="452,616,652,641"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="468,673,636,699"/>
+</map>

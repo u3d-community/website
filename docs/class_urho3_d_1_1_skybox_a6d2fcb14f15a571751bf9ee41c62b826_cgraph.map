@@ -1,0 +1,9 @@
+<map id="Urho3D::Skybox::UpdateBatches" name="Urho3D::Skybox::UpdateBatches">
+<area shape="rect" id="node1" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="5,116,216,141"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_camera.html#a08d24e076d62c0b397817f2c9f92cc41" title=" " coords="282,51,477,91"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="543,5,759,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="264,116,495,141"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_matrix3x4.html#a8a997c13dea4269829fee68ecb039fbe" title="Set translation elements." coords="310,166,449,206"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_matrix3x4.html#a30a35295a4d931ac923e4fc0bdb10502" title="Return the translation part." coords="310,230,449,270"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="543,59,760,84"/>
+</map>

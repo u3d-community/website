@@ -1,0 +1,6 @@
+<map id="Urho3D::Animatable::LoadXML" name="Urho3D::Animatable::LoadXML">
+<area shape="rect" id="node1" title="Load from XML data. Return true if successful." coords="223,63,361,103"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animated_model.html#a8132d5f7592e0beee39b8c68fc6d8603" title="Load from XML data. Return true if successful." coords="6,5,174,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#ab44e461de1af5859a176dfaa75ec95bd" title="Load components from XML data and optionally load child nodes." coords="5,70,175,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#ae38f1a5383c92526b1d8ba66b2e50ea1" title="Load from XML data with style. Return true if successful." coords="20,120,160,160"/>
+</map>

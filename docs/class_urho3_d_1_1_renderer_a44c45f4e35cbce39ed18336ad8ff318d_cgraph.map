@@ -1,0 +1,9 @@
+<map id="Urho3D::Renderer::GetScreenBuffer" name="Urho3D::Renderer::GetScreenBuffer">
+<area shape="rect" id="node1" title="Allocate a rendertarget or depth&#45;stencil texture for deferred rendering or postprocessing...." coords="5,129,197,169"/>
+<area shape="rect" id="node2" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="292,29,403,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture.html#a60c268d6f819bd4fdc219ba8f5f3820c" title=" " coords="249,79,445,104"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_graphics.html#a609ba19c78432946e8334cc3a7bcb92e" title="Return the API&#45;specific hardware depth&#45;stencil texture format." coords="255,129,439,169"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_graphics.html#a1c014d24c89e047d834767e3c926630e" title="Return the API&#45;specific readable hardware depth format, or 0 if not supported." coords="245,193,449,233"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_resource.html#ad851573ccc5bb7ea1508da7cc0d58ce9" title="Reset last used timer." coords="252,257,443,297"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_timer.html#a4cb8d7b146c6a0b136a02c9a01d8d8c1" title="Reset the timer." coords="497,264,644,289"/>
+</map>

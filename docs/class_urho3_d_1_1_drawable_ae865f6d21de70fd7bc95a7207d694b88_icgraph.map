@@ -1,0 +1,7 @@
+<map id="Urho3D::Drawable::Update" name="Urho3D::Drawable::Update">
+<area shape="rect" id="node1" title="Update before octree reinsertion. Is called from a worker thread." coords="664,42,839,67"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_octree.html#a56ad2ab6941f97453c66625bd8dad9da" title="Update and reinsert drawable objects." coords="457,13,616,38"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_ribbon_trail.html#a14699a47b1051cde25a5db1a20de4e48" title="Update before octree reinsertion. Is called from a main thread." coords="468,63,605,103"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_octree.html#aa8eb76b6cb6ec002fd1687a001668222" title="Handle render update in case of headless execution." coords="208,5,409,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_octree.html#aef63e04e9942efa2edb1e451040cd8ce" title="Construct." coords="5,13,160,38"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::TileMapLayer2D::GetNumObjects" name="Urho3D::TileMapLayer2D::GetNumObjects">
+<area shape="rect" id="node1" title=" " coords="5,5,173,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_tmx_object_group2_d.html#aad721b3e7e9dfa5134cc654685a6f7d3" title="Return number of objects." coords="221,5,408,45"/>
+</map>

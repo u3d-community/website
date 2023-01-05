@@ -1,0 +1,27 @@
+<map id="Urho3D::Scene::UpdateAsyncLoading" name="Urho3D::Scene::UpdateAsyncLoading">
+<area shape="rect" id="node1" title="Update asynchronous loading." coords="5,465,199,505"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene_resolver.html#ab1d8eba7016a02851c191e203be845c9" title="Remember a created node." coords="538,644,698,684"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#af38b633b6f35ad2a430adb650e3b354f" title="Create a child scene node (with specified ID if provided)." coords="268,111,448,137"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="772,67,939,107"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="767,175,944,201"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#a019a062421bf4e2d4f5f213245008f28" title="Finish asynchronous loading." coords="265,225,451,265"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_j_s_o_n_value.html#a8ef53c37d618d5fb4d4288135c289ae7" title="Return JSON value with key." coords="535,391,701,417"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_scene.html#ad71997f0cd10c31ff725a5efc71b401d" title=" " coords="247,391,469,417"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_x_m_l_element.html#a9aafd5a9e7302bcda8cf64b0664b588b" title="Return next sibling element." coords="284,465,432,505"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_x_m_l_element.html#a355dd709c5aa4cef307fd928cf5c37a4" title="Return an unsigned integer attribute, or zero if missing." coords="544,796,692,836"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_j_s_o_n_value.html#acd16305cd3d419953791eb510411ccae" title="Return unsigned integer value." coords="545,441,691,481"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_hires_timer.html#a1318b8d783b6c773813903a18e41da23" title="Return elapsed microseconds and optionally reset." coords="289,677,427,717"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="258,742,458,767"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#abff724992139c3007e51c4f61541cd5c" title="Load from binary data. Return true if successful." coords="287,791,429,817"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_node.html#a4d35bd54bbd8692b4d6f87e87cd40df9" title="Load from JSON data. Return true if successful." coords="270,554,446,579"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_node.html#a0e5f40f54d5828147d1382d4e0813c6c" title="Load from XML data. Return true if successful." coords="273,627,443,653"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a4fe38a2be941c8ca1fa59b9639775c09" title=" " coords="535,74,701,99"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="992,67,1168,107"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a1885ad7b7ac3bacdb3573bc8c3cfdc67" title="Apply attribute changes that can not be applied immediately recursively to child nodes and components..." coords="517,530,719,555"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scene.html#aad4b930c9f2dc906c9cf960b2dfeebb3" title="Finish loading. Sets the scene filename and checksum." coords="520,277,716,302"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_scene_resolver.html#a4322ce210921b372aa621462408597cc" title="Resolve component and node ID attributes and reset." coords="538,580,698,620"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_scene.html#a08f99dc8b2497499e581f2eb7ce1a082" title="Stop asynchronous loading." coords="529,327,707,367"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="1001,366,1159,391"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_map.html#a9dc4e5c0ad1feb3eec2d2f1f1714698d" title="Return iterator to the pair with key, or end iterator if not found." coords="775,341,936,366"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_j_s_o_n_value.html#a7f87ac739ce187f929cd61ccd642802b" title=" " coords="783,441,928,481"/>
+</map>

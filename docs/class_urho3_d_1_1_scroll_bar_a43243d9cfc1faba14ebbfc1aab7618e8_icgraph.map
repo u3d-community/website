@@ -1,0 +1,6 @@
+<map id="Urho3D::ScrollBar::OnResize" name="Urho3D::ScrollBar::OnResize">
+<area shape="rect" id="node1" title="React to resize." coords="365,37,497,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scroll_bar.html#a08a7da485adf24fc57154fb931477610" title=" " coords="185,37,317,77"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scroll_bar.html#a35a63661b56542699c9c8136681b8a8f" title=" " coords="5,5,137,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scroll_bar.html#a99bb20f41060e8a1641430ccf8c71606" title="Construct." coords="5,69,137,109"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::MaterialShaderParameter" name="Urho3D::MaterialShaderParameter">
+<area shape="rect" id="node1" title="Material&#39;s shader parameter definition." coords="1424,147,1648,173"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html" title="String class." coords="226,631,333,657"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_resource_ref.html" title="Typed resource reference." coords="566,1759,714,1785"/>
+<area shape="rect" id="node13" href="$union_urho3_d_1_1_variant_value.html" title="Union for the possible variant values. Objects exceeding the VARIANT_VALUE_SIZE are allocated on the ..." coords="907,949,1054,974"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_variant.html" title="Variable that supports a fixed set of types." coords="1221,205,1336,230"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="567,192,713,232"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,70,147,95"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html" title=" " coords="196,694,363,719"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector.html" title="Vector template class." coords="387,27,527,53"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="210,1783,349,1809"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_resource_ref_list.html" title="List of typed resource references." coords="555,1809,725,1834"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html" title="Hash map template class." coords="895,153,1067,178"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="573,142,707,167"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="551,1401,729,1441"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="220,430,339,455"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_rect.html" title=" " coords="591,325,689,350"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="581,897,699,922"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector4.html" title="Four&#45;dimensional vector." coords="581,999,699,1025"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="573,1161,707,1186"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_int_vector3.html" title="Three&#45;dimensional vector with integer values." coords="573,1351,707,1377"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_int_rect.html" title="Two&#45;dimensional bounding rectangle with integer values." coords="583,1505,697,1530"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_matrix3.html" title="3x3 matrix for rotation and scaling." coords="581,1607,699,1633"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="574,1710,706,1735"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_matrix4.html" title="4x4 matrix for arbitrary linear transforms including projection." coords="581,427,699,453"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_quaternion.html" title="Rotation represented as a four&#45;dimensional normalized vector." coords="571,579,709,605"/>
+</map>

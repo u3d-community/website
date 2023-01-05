@@ -1,0 +1,5 @@
+<map id="Urho3D::ObjectFactoryImpl&lt; T &gt;" name="Urho3D::ObjectFactoryImpl&lt; T &gt;">
+<area shape="rect" id="node1" title="Template implementation of the object factory." coords="5,152,213,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object_factory.html" title="Base class for object factories." coords="32,79,187,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="38,5,181,31"/>
+</map>

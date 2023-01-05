@@ -1,0 +1,7 @@
+<map id="Urho3D::Model::GetSkeleton" name="Urho3D::Model::GetSkeleton">
+<area shape="rect" id="node1" title=" " coords="684,13,872,38"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animated_model.html#a67a9794df35c334b050f689bb706847a" title="Set model." coords="468,5,636,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animated_model.html#af6af95070304f3ecca53d9dee1ce63ad" title="Handle model reload finished." coords="221,5,420,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animated_model.html#a4bcb1159367b1b112ba751b0b5747f59" title="Set model attribute." coords="237,69,405,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animated_model.html#a76a01a86a9b1bcca181bfe91ae0e4a95" title=" " coords="5,69,173,109"/>
+</map>

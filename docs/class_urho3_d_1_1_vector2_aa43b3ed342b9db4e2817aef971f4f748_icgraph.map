@@ -1,0 +1,11 @@
+<map id="Urho3D::Vector2::Length" name="Urho3D::Vector2::Length">
+<area shape="rect" id="node1" title=" " coords="901,63,1065,88"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector2.html#a65083366da1e8c8b1fa39f2bdd93177d" title="Returns the angle between this vector and another vector in degrees." coords="691,5,849,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_bounding_box.html#a1eaac173d1df592326f91ea174a74a43" title="Return distance to point." coords="695,55,845,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_particle_emitter2_d.html#a10bb8346cda27c85c9da98084e8dcd77" title="Update particle." coords="687,119,853,159"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a2a4d9936b66f8f056928dd48b07ef9a2" title="Return whether the Obstacle is touching the given tile." coords="452,55,639,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_particle_emitter2_d.html#a59d6b326bcbe8273a103208935845cef" title="Update." coords="462,119,629,159"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_particle_emitter2_d.html#abaa5fbe514eb5d5904039f69cd75257d" title="Handle scene post update." coords="220,119,404,159"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_particle_emitter2_d.html#a09b2df5a425839d0feff440a78ce1f5f" title="Handle scene being assigned." coords="5,87,172,127"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_particle_emitter2_d.html#aaa7a512b4fb84e3343be39bf899fb58d" title="Handle enabled/disabled state change." coords="5,151,172,191"/>
+</map>

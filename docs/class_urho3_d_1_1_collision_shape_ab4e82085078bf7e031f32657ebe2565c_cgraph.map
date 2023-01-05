@@ -1,0 +1,27 @@
+<map id="Urho3D::CollisionShape::OnSceneSet" name="Urho3D::CollisionShape::OnSceneSet">
+<area shape="rect" id="node1" title="Handle scene being assigned." coords="5,415,165,455"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#ad4e4b1798b1b55d0c60730bd061362af" title="Create a component to this node if it does not exist already." coords="213,218,397,258"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="967,144,1165,169"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_collision_shape.html#a8cfe09cb27ec041dedcd92a69293bcbc" title="Update the new collision shape to the RigidBody." coords="225,415,385,455"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_collision_shape.html#ae8711104bc670ce7d5ec44ee687c5986" title="Release the collision shape." coords="475,549,635,589"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_collision_shape.html#a5ecb900b219e57ddf9696a1fb194f33a" title="Update the collision shape after attribute changes." coords="225,606,385,646"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#ab23d77af7fe3350c1dcfec8281849ed3" title="Create a component to this node (with specified ID if provided)." coords="445,104,664,129"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="454,225,655,251"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a3792a0c2e23b120ac879c2931d6f9dc4" title="Add a pre&#45;created component. Using this function from application code is discouraged,..." coords="712,5,919,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_context.html#a26cfc48202f21e82e9ec8f1029d15ef3" title="Create an object by type. Return pointer to it or null if no factory found." coords="715,55,915,80"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a9db232116d4278bd3e10c365d2ef57d5" title=" " coords="723,104,907,129"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_string_hash.html#a444cf37ce746edd1e266a4ecca31c0c5" title="Return as string." coords="746,154,885,194"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_component.html#a6070c8208ad98595d8c3fe43778d6069" title="Return component in the same scene node by type. If there are several, returns the first." coords="741,218,889,258"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="736,416,895,441"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_collision_shape.html#ab1f08f05ff8c76e97b03d6d9a94baf7e" title="Find the parent rigid body component and return its compound collision shape." coords="722,475,909,515"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="455,499,655,524"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="481,333,629,373"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="730,340,901,365"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_unique_ptr.html#a908fda172f7c703c8e22f8b6e49509b3" title="Reset." coords="746,549,885,589"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector3.html#a6b5f7e4dcec16c52e21e7dbf0a3cff15" title="Return absolute vector." coords="741,655,889,680"/>
+<area shape="rect" id="node22" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="505,688,604,713"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_collision_shape.html#a02029eaf22f387547af8d3cdbe430323" title="Update cached geometry collision shape." coords="450,738,659,778"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_collision_shape.html#a41c97935a817938bf566419da49581e7" title=" " coords="475,802,635,842"/>
+<area shape="rect" id="node21" href="$_math_defs_8h.html#ac3865cf9a0484b8452ccc4e62c5661ca" title=" " coords="1018,655,1114,680"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="736,745,895,771"/>
+</map>

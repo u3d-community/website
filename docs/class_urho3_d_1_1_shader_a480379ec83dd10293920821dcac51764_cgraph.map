@@ -1,0 +1,23 @@
+<map id="Urho3D::Shader::BeginLoad" name="Urho3D::Shader::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,447,188,472"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_shader.html#a6f4d70b2050c65c821dd721418cc2789" title="Process source code and include files. Return true if successful." coords="250,221,461,247"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_string.html#ab08b5f1f7cee23f3e14eebcb2f7f8d4e" title="Replace all occurrences of a character." coords="802,448,961,473"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_shader.html#a331a1e69bf511d57c6c788ddddba2169" title="Recalculate the memory used by the shader." coords="236,497,475,523"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_deserializer.html#a59b68616d6572fed705f41237cb57be9" title=" " coords="565,157,707,197"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="541,221,731,247"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_deserializer.html#a62d8b0e28fa886adfdde1c42c6913477" title=" " coords="810,255,953,295"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_deserializer.html#a39678eb4265b015cd7140cd7f9d96df6" title="Read a text line." coords="565,322,707,362"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_string.html#af3f67422b866ceb72b79d9ba7df375e2" title="Return a string with all occurrences of a character replaced." coords="553,389,719,415"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_string.html#afa8a3643a9866f6846520794d3b45b47" title="Return whether starts with a string." coords="549,5,723,31"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_string.html#a812ed0a9a7397006169814ac64295b78" title="Return a substring from position to end." coords="797,81,965,107"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_string.html#ad100f77dbca5f666613aa300447092a0" title="Return string with whitespace trimmed from the beginning and the end." coords="553,107,719,132"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_deserializer.html#acb3a5d6bec79624077c060ec0640bdfe" title="Read an 8&#45;bit integer." coords="810,319,953,359"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_deserializer.html#a04335b8bfc3e845d1e95599d362b2115" title="Set position from the beginning of the stream. Return actual new position." coords="810,383,953,423"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_deserializer.html#ae82036f72896194adc1cd02f3b03509b" title="Read bytes from the stream. Return number of bytes actually read." coords="1018,319,1161,359"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_string.html#aa9fe9030164a42e2d73dd57f2db7c991" title="Return index to the first occurrence of a string, or NPOS if not found." coords="812,5,951,31"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_string.html#a953822d6a39e507861ee02a24bb7996e" title="Copy chars from one buffer to another." coords="1213,107,1392,132"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="1013,132,1165,157"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_string.html#aaad16c980aa7b6bbe445af70ac699bb1" title="Construct empty." coords="1016,31,1163,56"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_string.html#a0a988cc147946dd80bf73cea2c1ac04c" title=" " coords="560,547,712,572"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="523,497,749,523"/>
+</map>

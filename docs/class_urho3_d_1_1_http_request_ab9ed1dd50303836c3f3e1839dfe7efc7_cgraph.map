@@ -1,0 +1,8 @@
+<map id="Urho3D::HttpRequest::Read" name="Urho3D::HttpRequest::Read">
+<area shape="rect" id="node1" title="Read response data from the HTTP connection and return number of bytes actually read...." coords="5,113,152,153"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_mutex.html#af074ebf663200871fcff04759948f69d" title="Acquire the mutex. Block if already acquired." coords="214,5,375,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_http_request.html#a0675bbd9729a91706692b17673694cde" title="Check for available read data in buffer and whether end has been reached. Must only be called when th..." coords="202,55,387,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="200,120,389,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_mutex.html#a152ccfbd074546b9aab23c0ad6ba254e" title="Release the mutex." coords="213,169,376,195"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_time.html#af23f046cbb890e86fcfc9ee1e63f6935" title="Sleep for a number of milliseconds." coords="224,243,365,268"/>
+</map>

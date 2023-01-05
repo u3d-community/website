@@ -1,0 +1,6 @@
+<map id="Urho3D::ParticleEffect" name="Urho3D::ParticleEffect">
+<area shape="rect" id="node1" title="Particle effect definition." coords="5,225,156,251"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html" title=" " coords="17,152,145,177"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html" title=" " coords="25,79,136,104"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="9,5,152,31"/>
+</map>

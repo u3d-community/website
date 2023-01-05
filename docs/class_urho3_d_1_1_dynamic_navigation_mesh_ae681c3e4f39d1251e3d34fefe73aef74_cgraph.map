@@ -1,0 +1,13 @@
+<map id="Urho3D::DynamicNavigationMesh::RegisterObject" name="Urho3D::DynamicNavigationMesh::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,197,192,237"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a458f06541dfe039016beaeda5d2d8aa8" title=" " coords="240,5,427,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a932fdd15579a26d9a6e71721247e18c2" title=" " coords="240,69,427,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac43f22dff92db99d42695d7c1b7ffb4f" title=" " coords="240,133,427,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="247,197,420,237"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#af709b394abeb21b6320dbaeb2d9361e0" title=" " coords="240,261,427,301"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a04bbeb9c5dd5ee0c4a92440d64f5950c" title=" " coords="240,325,427,365"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a01da5dcdcbc63145ddc80dc82f37158f" title=" " coords="240,389,427,429"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="475,197,629,237"/>
+<area shape="rect" id="node9" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="503,309,601,334"/>
+<area shape="rect" id="node10" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="505,382,599,407"/>
+</map>

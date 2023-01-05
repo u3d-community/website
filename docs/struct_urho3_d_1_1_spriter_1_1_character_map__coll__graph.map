@@ -1,0 +1,6 @@
+<map id="Urho3D::Spriter::CharacterMap" name="Urho3D::Spriter::CharacterMap">
+<area shape="rect" id="node1" title="Character map." coords="90,183,291,208"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html" title="String class." coords="5,87,112,113"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="208,80,437,120"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="252,5,393,31"/>
+</map>

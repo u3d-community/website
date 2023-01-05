@@ -1,0 +1,27 @@
+<map id="Urho3D::LineEdit::OnTextInput" name="Urho3D::LineEdit::OnTextInput">
+<area shape="rect" id="node1" title="React to text input event." coords="5,181,172,221"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="241,11,391,36"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="476,47,643,87"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_string.html#ad062c733a6396f806c3e7418a71378b3" title=" " coords="719,113,901,139"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="471,339,648,364"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_string.html#a194e2ff9a391edfc4d67c432595c5ea6" title="Return a UTF8 substring from position to end." coords="460,213,659,239"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_line_edit.html#af9825009b8da28fc2704bf1dfcce7a5f" title="Update cursor position and restart cursor blinking." coords="476,389,643,429"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_line_edit.html#a6419ff9761457b8c509b293a15bf81e3" title="Update displayed text." coords="220,239,412,264"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="722,47,898,87"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="978,55,1145,80"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="1223,5,1391,31"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="1227,55,1386,80"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html#a3313b8ec65ab0b23c74570898b09175c" title="Free a node." coords="1209,104,1404,129"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_string.html#ac98156ce9bb85bd015c3ec255d307025" title="Decode Unicode character from UTF8. Pointer will be incremented." coords="1211,159,1402,184"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_string.html#a20e68dd4e5bf8f9fc9a12eb74260d5bc" title="Append Unicode character at the end as UTF8." coords="715,264,905,289"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_string.html#a293e23eda3ebaa3fa44db7e858d46d94" title="Return byte offset to char in UTF8 content." coords="707,163,913,188"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_string.html#a16643a545e2cfcf7a59979bd3c290614" title="Return next Unicode character from UTF8 content and increase byte offset." coords="961,164,1161,189"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_string.html#af929252b4bd8cbd8dca97a116365c359" title="Append a string." coords="982,215,1141,240"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_string.html#a3b04a91d06f0b5b3651bbfa867d9539d" title="Encode Unicode character to UTF8. Pointer will be incremented." coords="967,264,1156,289"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_u_i_element.html#a0ce25dda5f6557938bd76b776efa8bf0" title="Convert element coordinates to screen coordinates." coords="740,319,880,359"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_u_i_element.html#a75032690b0214d2551eac5744a306644" title=" " coords="740,383,880,423"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i_element.html#af0d0d929939b0fb4b8d38c7699ecdfa0" title=" " coords="740,447,880,487"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_u_i_element.html#a8c3df9a7b24aa874345db797a95e130e" title=" " coords="740,511,880,551"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_u_i_element.html#a1514f8d82ab6e8a2cf10f20b807f738d" title="Set child offset." coords="740,575,880,615"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_u_i_element.html#a031e2acb1765a940b9427003cb8653d7" title=" " coords="991,338,1131,378"/>
+</map>

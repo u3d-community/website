@@ -1,0 +1,13 @@
+<map id="Urho3D::FileSelector::SetFileName" name="Urho3D::FileSelector::SetFileName">
+<area shape="rect" id="node1" title=" " coords="999,55,1141,95"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_file_selector.html#aa7eb754e844c3fb60ace894090219953" title="Handle file selected from the list." coords="808,11,951,51"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_file_selector.html#a8ec8d229ef0e2a4836634e01e96803a7" title="Refresh the directory listing." coords="808,87,951,127"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_file_selector.html#ae0e66de218b839be46c7f802abf04c80" title="Construct." coords="5,163,148,203"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_file_selector.html#a372b507fb35782c00d99ded29d4610f0" title="Handle filter changed." coords="419,55,569,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_file_selector.html#a8f0352bf675048a625d1b8e5ae2ce8ea" title="Set filters." coords="617,112,760,152"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_file_selector.html#a70224d0b3a485fd4aab57cc6b9af1c6f" title=" " coords="617,198,760,238"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_file_selector.html#ac7c4c01759f09d23dd856c71a2cc1655" title="Enter a directory or confirm a file. Return true if a directory entered." coords="423,220,565,260"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_file_selector.html#ac07a78273e7db4a6d4ab33d807c072f7" title="Handle path edited." coords="209,348,357,388"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_file_selector.html#a004ed41fadc3029706a35857268bfdaf" title="Handle file doubleclicked from the list (enter directory / OK the file selection)." coords="196,220,371,260"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_file_selector.html#a5315d211e3108ad4012c648d1cbd3b6a" title="Handle file list key pressed." coords="212,284,355,324"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Urho3D::ConstantBuffer::OnDeviceReset" name="Urho3D::ConstantBuffer::OnDeviceReset">
+<area shape="rect" id="node1" title="Recreate the GPU resource and restore data if applicable." coords="5,5,168,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_constant_buffer.html#a0f6a0c6d99be9b1f43ada05e3758bb40" title="Set size and create GPU&#45;side buffer. Return true on success." coords="216,5,379,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="427,13,616,38"/>
+</map>

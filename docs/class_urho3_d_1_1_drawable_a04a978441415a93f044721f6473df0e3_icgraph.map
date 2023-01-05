@@ -1,0 +1,27 @@
+<map id="Urho3D::Drawable::OnMarkedDirty" name="Urho3D::Drawable::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="301,728,496,768"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_static_model_group.html#a873741eda737adb67c2ee85819105259" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="40,5,219,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_custom_geometry.html#ae453635272313cff9ce8f5cd50e01ad7" title="Update vertex buffer and calculate the bounding box. Call after finishing defining geometry." coords="40,69,219,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_billboard_set.html#ab8531127f88c6a4ae7928e4f4d1cc229" title="Mark billboard vertex buffer to need an update." coords="58,133,201,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_ribbon_trail.html#acec816736eed7f59ab63aafaa0da4fc2" title="Mark vertex buffer to need an update." coords="59,197,200,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_text3_d.html#ad44e2ab1dccca583ae229245729a5d19" title="Mark text &amp; geometry dirty." coords="41,261,217,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_animated_model.html#a8a8f8a073acd87e16d3d87558ae74d7d" title="Handle node transform being dirtied." coords="45,325,213,365"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_decal_set.html#a06bdbc9b9b8c5ec4e59625e5fb745284" title="Handle node transform being dirtied." coords="33,389,226,429"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_zone.html#a65c40c118a023a143f0ed53ac3bab5ab" title="Handle node transform being dirtied." coords="30,454,229,479"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_drawable2_d.html#a6cfc4f8cf7b85322f10171e5c4a6eeff" title="Handle node transform being dirtied." coords="58,504,201,544"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_static_model_group.html#a79a40c9303c9fd198db448f7f1611c72" title="Handle scene node enabled status changing." coords="40,568,219,608"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_light.html#a290d9956a68674ee670eaa5e03bd9e47" title=" " coords="46,632,213,672"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_static_model.html#a3494b599cde3fc49e4e9a8f0b9239aca" title="Set local&#45;space bounding box." coords="57,696,201,736"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_terrain_patch.html#a88a00b7170c5b32b5920f09d64553954" title="Set local&#45;space bounding box." coords="56,760,203,800"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_ribbon_trail.html#aa37badc78a38078c66c6316afaeb86c6" title=" " coords="61,824,198,864"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_text3_d.html#a288d32895fa647af1dba51f468e5ca78" title=" " coords="5,889,253,914"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_text3_d.html#a82c0c31ebe0c6dc46f1e4568dd2bc2c0" title=" " coords="44,939,215,979"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_light.html#ae9285d5ddd395b13f5ae2e9efa4109cd" title=" " coords="56,1003,203,1029"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_light.html#a614072681484fc8e173685d44e867fa3" title=" " coords="39,1053,220,1078"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_light.html#a07dc73ab91dbcbacefbf755f156e4e30" title=" " coords="48,1102,211,1127"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_ribbon_trail.html#aeebad28013b214bd028ef0f591faec7c" title=" " coords="61,1152,198,1192"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_ribbon_trail.html#a9cedd249eabc33b3017a1ddbd7fb6b63" title=" " coords="61,1216,198,1256"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_drawable.html#a431071bb2e7c05ad55c8aade5c18e659" title=" " coords="22,1281,237,1306"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_ribbon_trail.html#a14699a47b1051cde25a5db1a20de4e48" title="Update before octree reinsertion. Is called from a main thread." coords="61,1331,198,1371"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_static_model_group.html#a3973085541a4b2361df05666e0a515a2" title="Ensure proper size of world transforms when nodes are added/removed. Also mark node IDs dirty." coords="40,1395,219,1435"/>
+</map>

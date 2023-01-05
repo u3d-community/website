@@ -1,0 +1,10 @@
+<map id="Urho3D::Zone::GetFogColor" name="Urho3D::Zone::GetFogColor">
+<area shape="rect" id="node1" title=" " coords="1301,18,1485,43"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,36,397,76"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="1097,43,1253,69"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,43,155,69"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="907,43,1049,69"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="907,93,1049,133"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="716,68,859,108"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="445,118,668,143"/>
+</map>

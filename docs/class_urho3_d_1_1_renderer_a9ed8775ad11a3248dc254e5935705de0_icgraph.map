@@ -1,0 +1,4 @@
+<map id="Urho3D::Renderer::GetDynamicInstancing" name="Urho3D::Renderer::GetDynamicInstancing">
+<area shape="rect" id="node1" title=" " coords="237,5,440,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_renderer.html#a4f48ac64f450dc7cb8ef339d84de223f" title="Choose shaders for a forward rendering batch. The related batch queue is provided in case it has extr..." coords="5,5,189,45"/>
+</map>

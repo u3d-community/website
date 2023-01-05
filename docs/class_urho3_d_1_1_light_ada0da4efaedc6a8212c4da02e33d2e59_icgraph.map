@@ -1,0 +1,5 @@
+<map id="Urho3D::Light::GetShadowNearFarRatio" name="Urho3D::Light::GetShadowNearFarRatio">
+<area shape="rect" id="node1" title=" " coords="472,5,647,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#a4d3766cb580e7a61b7ce50bc4e9aa926" title="Set up initial shadow camera view(s)." coords="236,5,424,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="5,13,188,38"/>
+</map>

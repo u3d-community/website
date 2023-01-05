@@ -1,0 +1,14 @@
+<map id="Urho3D::IKEffector::DrawDebugGeometry" name="Urho3D::IKEffector::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="5,193,159,233"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="474,29,637,69"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_debug_renderer.html#a3d37048a98900ea96aa762d7ff173e7c" title="Add a sphere." coords="233,87,396,127"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a1bc658c7b719ce21531882df362ea958" title=" " coords="230,151,399,177"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a9c4d222bfa87cfe55268ed1ccbcdc65c" title=" " coords="225,201,405,226"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="241,251,389,291"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="207,315,423,341"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector3.html#a8cec272610e59b1abfa3f42909c90351" title=" " coords="233,365,397,390"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="688,66,839,91"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="887,66,997,91"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_sphere.html#a87d3287a4cae266144da2ae624933ef1" title="Return point on the sphere." coords="471,145,640,170"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="471,258,639,283"/>
+</map>

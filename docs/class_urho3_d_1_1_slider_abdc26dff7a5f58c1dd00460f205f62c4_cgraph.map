@@ -1,0 +1,5 @@
+<map id="Urho3D::Slider::OnDragBegin" name="Urho3D::Slider::OnDragBegin">
+<area shape="rect" id="node1" title="React to mouse drag begin." coords="5,29,193,55"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#a0c63c42b67cf6cee49ac02130c664d3f" title="React to mouse drag begin." coords="241,22,381,62"/>
+<area shape="rect" id="node3" href="$_math_defs_8h.html#a66f1c3f10121770fd4beebe9b463a96f" title="Count the number of set bits in a mask." coords="429,29,579,55"/>
+</map>

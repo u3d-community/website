@@ -1,0 +1,7 @@
+<map id="Urho3D::Plane::ReflectionMatrix" name="Urho3D::Plane::ReflectionMatrix">
+<area shape="rect" id="node1" title=" " coords="728,27,899,67"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_camera.html#aa890e45022efe5fbd8013039b8cea689" title="Construct." coords="493,5,664,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_camera.html#af52f7b50981f8f3128621dd3724cdc60" title=" " coords="477,55,680,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_camera.html#a5f2c512f46dccaf57cdc5b35a7341eea" title="Set reflection plane attribute." coords="227,55,429,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_camera.html#a7135721d90b089309a667a16bd27a603" title=" " coords="5,55,179,95"/>
+</map>

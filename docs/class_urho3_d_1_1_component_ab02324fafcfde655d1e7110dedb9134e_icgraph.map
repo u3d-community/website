@@ -1,0 +1,4 @@
+<map id="Urho3D::Component::SaveXML" name="Urho3D::Component::SaveXML">
+<area shape="rect" id="node1" title="Save as XML data. Return true if successful." coords="220,22,368,62"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#aee9138da9786316c8355e6bcec11a8cf" title="Save as XML data. Return true if successful." coords="5,29,172,55"/>
+</map>

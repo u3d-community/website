@@ -1,0 +1,27 @@
+<map id="Urho3D::Cursor::SetShape" name="Urho3D::Cursor::SetShape">
+<area shape="rect" id="node1" title=" " coords="5,242,180,267"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_cursor.html#ae68eb5551f79e8859e661620130e4d58" title="Apply pending OS cursor shape. Called by UI. No&#45;op when the OS mouse pointer is not used." coords="228,148,439,188"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="258,213,409,238"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#a388303ecaef3a6d4764cf84f3dfcceb8" title=" " coords="263,263,403,303"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_int_rect.html#a55a4bf2a2282cc3de62288ff424efd73" title=" " coords="261,327,406,353"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="933,806,1043,831"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i_element.html#a6eca4b74842f82376a1d9a7f889aa174" title="Return effective minimum size, also considering layout. Used internally." coords="693,69,833,109"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="680,5,847,45"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_u_i_element.html#ad18ecc5e79b04d47079bdc979eed8240" title="Mark screen position as needing an update." coords="487,231,627,271"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i_element.html#aa99ec115621b2ef219b0f17edd1ff91c" title="React to resize." coords="487,295,627,335"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="675,158,852,183"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_u_i_element.html#a7cba78373c23a734a1ccd2d4a27d8cb0" title="Manually update layout. Should not be necessary in most cases, but is provided for completeness." coords="487,387,627,427"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i_element.html#a41f04deaaa70ebe9101a25fcf8bc1666" title=" " coords="918,69,1058,109"/>
+<area shape="rect" id="node8" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="939,279,1037,305"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="900,5,1076,45"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_u_i_element.html#a2c26825089539496dc3c05f2701e9bff" title="Calculate child widths/positions in the layout." coords="693,707,833,747"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_u_i_element.html#aa8ec3dcc9f57f4c5b7d13f60dcb76f38" title="Calculate layout width for resizing the parent element." coords="675,336,852,376"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_u_i_element.html#a7e286d16e39b54282ca0d64666d26b67" title="Disable automatic layout update. Should only be used if there are performance problems." coords="690,451,837,491"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_u_i_element.html#a952c4e37f3ee8fe5615791389d03f813" title="Enable automatic layout update." coords="692,515,835,555"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_u_i_element.html#aa54260b906ecc9755c56d59530bedd85" title=" " coords="693,579,833,619"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_u_i_element.html#a74426efba577c8b92f7b49c307d7a446" title=" " coords="693,643,833,683"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_u_i_element.html#af0d0d929939b0fb4b8d38c7699ecdfa0" title=" " coords="693,771,833,811"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i_element.html#a94a1fe4987f7861a8010ae1746aabed5" title="Get child element constant position in a layout." coords="684,835,843,875"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_u_i_element.html#a5a2a6a83eaf5713c846685142f90f24f" title=" " coords="693,208,833,248"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_u_i_element.html#a7fea1c06051cf2ed6e639f4cc2915b18" title=" " coords="693,272,833,312"/>
+</map>

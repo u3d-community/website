@@ -1,0 +1,4 @@
+<map id="Urho3D::IndexBuffer::SetShadowed" name="Urho3D::IndexBuffer::SetShadowed">
+<area shape="rect" id="node1" title=" " coords="224,5,367,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_model.html#a2c8c05952523fd35a74757ea179a47a7" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="5,13,176,38"/>
+</map>

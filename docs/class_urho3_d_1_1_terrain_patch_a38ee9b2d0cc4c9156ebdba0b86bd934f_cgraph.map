@@ -1,0 +1,4 @@
+<map id="Urho3D::TerrainPatch::GetNumOccluderTriangles" name="Urho3D::TerrainPatch::GetNumOccluderTriangles">
+<area shape="rect" id="node1" title="Return number of occlusion geometry triangles." coords="5,5,188,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_material.html#a237123b0f0a5462ddfeff07647e94e9b" title=" " coords="236,13,441,38"/>
+</map>

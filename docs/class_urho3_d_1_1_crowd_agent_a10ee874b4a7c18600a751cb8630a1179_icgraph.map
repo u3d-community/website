@@ -1,0 +1,27 @@
+<map id="Urho3D::CrowdAgent::IsInCrowd" name="Urho3D::CrowdAgent::IsInCrowd">
+<area shape="rect" id="node1" title=" " coords="1091,559,1237,599"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_crowd_agent.html#a5f8ee77ec07f0b2337f5396b09f1230b" title="Add agent into crowd." coords="475,625,622,665"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_crowd_agent.html#a82ba0aab8a4077dc76f61a59f9944609" title="Handle navigation mesh tile added." coords="217,713,411,753"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_crowd_agent.html#a64f312f91d82a57355673d0c8cc4bd94" title="Handle enabled/disabled state change." coords="241,841,387,881"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_crowd_agent.html#a54ada3350dd622792e0447102c993819" title=" " coords="241,231,387,271"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_crowd_agent.html#a9570c793c0cc976e1c25ac1696ea3e86" title="Get internal Detour crowd agent." coords="881,433,1043,473"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_crowd_agent.html#aaece7e290f7941476f7ceeb2676e2fa1" title="Remove agent from crowd." coords="459,784,639,824"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_crowd_agent.html#a72f4e3378a2a6ef1679f1e94b409d286" title="Reset any target request for the specified agent. Note that the agent will continue to move into the ..." coords="889,5,1035,45"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_crowd_agent.html#afe2055fa49b9a4d10d6668ecafedf24d" title=" " coords="889,69,1035,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_crowd_agent.html#a579c4cf2fad3ab4d79ed1bc2b3baf055" title="Handle node being assigned." coords="241,637,387,677"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_crowd_agent.html#a08530bc9650e8b2b49f8054b207f76cb" title="Construct." coords="14,713,161,753"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_crowd_agent.html#a74d8463b0d5555025468631be1655fbd" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="14,169,161,209"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_crowd_manager.html#a581d3a835383a7a3ff3e75cc5cd3a8d4" title="Set the crowd target position. The target position is set to all crowd agents found in the specified ..." coords="5,233,169,273"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_crowd_agent.html#a10bc365863ee6cf7868dc3d0c104713d" title=" " coords="687,497,833,537"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_crowd_agent.html#ae23e8523d663fa975f4354da53f22332" title=" " coords="687,625,833,665"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_crowd_agent.html#ab0c51a78ac8c7b78afc1322a26a66117" title=" " coords="687,241,833,281"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_crowd_agent.html#a817b1390bcfaa25c2b7ef4d6d5fd4758" title=" " coords="687,433,833,473"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_crowd_agent.html#a077caac909aa421b1e39c375c3021e07" title=" " coords="687,561,833,601"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_crowd_agent.html#afd2b18da05e1a2e3b258de9ca0f80c7c" title=" " coords="687,305,833,345"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_crowd_agent.html#af46aaf3983f59aee19ad367d03fcbcd3" title=" " coords="687,369,833,409"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_crowd_agent.html#af7bd90820dbf00df2aa763f606663f38" title="Update Detour crowd agent parameter." coords="687,177,833,217"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_crowd_agent.html#a2f73a57dd1f4a5adccdf80a87ed0dab0" title="Draw debug feelers." coords="472,369,625,409"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_crowd_agent.html#a39becd24ec87e0fa35ab313c31feda4a" title="Handle crowd agent being updated. It is called by CrowdManager::Update() via callback." coords="475,537,622,577"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_crowd_agent.html#a46b4de25074c8dd6c0e97bdcd6e03a23" title=" " coords="475,228,622,268"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_crowd_agent.html#ac7577c32a41271f58b90862a46dbb91c" title="Destruct." coords="241,777,387,817"/>
+</map>

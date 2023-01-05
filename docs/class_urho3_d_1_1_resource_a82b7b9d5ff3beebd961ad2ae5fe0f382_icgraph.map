@@ -1,0 +1,9 @@
+<map id="Urho3D::Resource::SetName" name="Urho3D::Resource::SetName">
+<area shape="rect" id="node1" title=" " coords="244,170,433,195"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_p_list_file.html#a48721813989c5193e48116ae69e83ab6" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="37,5,165,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animation_set2_d.html#a82602419beaca9fc9b988fe028a94ab0" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="17,69,185,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_particle_effect2_d.html#ae68d6b19e4e6744f5edcfa5e5e341466" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="17,133,184,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_sprite2_d.html#afb04e93d096441f12c90d2362ee0b5bb" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,198,196,223"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_sprite_sheet2_d.html#ac0aeb060f71ae7e7770042d2ebf51140" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="23,248,179,288"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_tmx_file2_d.html#a86f1ba7084160bad31c79c59e424947e" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="30,312,171,352"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::Camera::GetNearClip" name="Urho3D::Camera::GetNearClip">
+<area shape="rect" id="node1" title=" " coords="1295,560,1491,586"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_camera.html#a1edcc9f8a61ae07bd15bba96ee079d32" title=" " coords="1045,179,1239,204"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_light.html#a2ac64042dfe3354b9be2663ea63ec4da" title="Return a transform for deferred fullscreen quad (directional light) rendering." coords="522,434,709,474"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_camera.html#ab7e166e8cd5a482b25d4caf9792821eb" title=" " coords="1037,470,1247,510"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_view.html#afe8c414e896c0d06ee17ed18e5ce85dd" title="Set camera&#45;specific shader parameters. Called by Batch and internally by View." coords="508,521,723,561"/>
+<area shape="rect" id="node16" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="269,582,425,607"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_camera.html#ab80937e50cbb6c26ee2b653d9bbd1a1e" title="Return if projection parameters are valid for rendering and raycasting." coords="1045,636,1239,676"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_camera.html#a8d093c3479b71a707f3ec8887380396a" title="Convert normalized screen coordinates (0 &#45; 1) and distance along view Z axis (in Z coordinate) to a w..." coords="525,732,705,772"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_camera.html#a7135721d90b089309a667a16bd27a603" title=" " coords="1055,700,1229,740"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_view.html#a4d3766cb580e7a61b7ce50bc4e9aa926" title="Set up initial shadow camera view(s)." coords="1048,356,1236,396"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_occlusion_buffer.html#a2540b689f2451b6358fd99717151fff6" title="Set camera view to render from." coords="1059,814,1225,854"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_camera.html#a35b2f97c4a3370a26b10ff133f86d2fa" title="Visualize the component as debug geometry." coords="784,114,976,154"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#ae6b753dabd0921ef05ce5d73b75c6209" title="Find and set a new zone for a drawable when it has moved." coords="799,179,961,204"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a0cddca92d8a715b17404427840d201fb" title="Query the octree for drawable objects." coords="786,252,974,278"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="524,310,707,335"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#a7d398cea4906919b033f5fc86f67d764" title="Process shadow casters&#39; visibilities and build their combined view&#45; or projection&#45;space bounding box." coords="779,302,981,342"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_debug_renderer.html#a65ddc45de33de57b41a9889fdce2363c" title="Set the camera viewpoint. Call before rendering, or before adding geometry if you want to use culling..." coords="799,50,961,90"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_view.html#a9f5a7068310ea03c58673eb5add7db21" title="Draw a fullscreen quad. Shaders and renderstates must have been set beforehand. Quad will be drawn to..." coords="233,414,460,439"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_light.html#a3b3648ecb50a410286b5be3b9fa4ddfc" title="Return light volume model transform." coords="261,464,433,504"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_view.html#a798fe80282652472bd0fb2c0694bbfb8" title="Perform a quad rendering command." coords="5,456,185,482"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_camera.html#a2f9539871c9224f9482a3ac26e059351" title="Return frustum near and far sizes." coords="771,478,989,503"/>
+<area shape="rect" id="node17" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="24,610,167,635"/>
+<area shape="rect" id="node18" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="25,545,166,585"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_view.html#a38bd2f1292778c57fae949c4e271c20d" title="Define with rendertarget and viewport. Return true if successful." coords="808,643,952,668"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_camera.html#a653cf41d95901dc68abdc463b4b3d5fc" title="Return ray corresponding to normalized screen coordinates (0 &#45; 1), with origin on the near clip plane..." coords="777,703,983,728"/>
+</map>

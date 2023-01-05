@@ -1,0 +1,17 @@
+<map id="Urho3D::XMLFile::BeginLoad" name="Urho3D::XMLFile::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,347,193,372"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="525,175,681,200"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_unique_ptr.html#a890c0ac1f0938fa05d463c2f233f5202" title="Detach pointer from UniquePtr without destroying." coords="285,53,424,93"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="739,244,889,270"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="260,168,449,194"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_resource.html#a35f0e2447dcc25e8f3b9e42e10b69737" title="Return the asynchronous loading state." coords="259,218,450,258"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="281,282,429,322"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_resource.html#a5e14c5f01c2fc33fa20bef5094a7ea42" title=" " coords="241,347,468,372"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_deserializer.html#a59b68616d6572fed705f41237cb57be9" title=" " coords="283,397,426,437"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_x_m_l_file.html#a657534de06bc465c977cc3c28139cec4" title="Return the root element, with optionally specified name. Return null element if not found." coords="516,486,691,511"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_deserializer.html#a29f095da2db6cf9e4c7e76365341466e" title=" " coords="283,536,426,576"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_x_m_l_file.html#adbf90f511e6229965fef7a10d3dc325e" title="Patch the XMLFile with another XMLFile. Based on RFC 5261." coords="275,486,434,511"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_deserializer.html#ae82036f72896194adc1cd02f3b03509b" title="Read bytes from the stream. Return number of bytes actually read." coords="283,650,426,690"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="241,715,468,740"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_x_m_l_element.html#afd561acf36305fd70cf86f60f666798f" title="Return attribute as C string, or null if missing." coords="529,282,677,322"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="Urho3D::AnimatedSprite2D::SetAnimationSet" name="Urho3D::AnimatedSprite2D::SetAnimationSet">
+<area shape="rect" id="node1" title=" " coords="5,105,185,145"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#ac6f0b2fb0bce5afbeb088c7cb15abbe1" title="Clear the string." coords="251,5,395,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="245,55,401,80"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animated_sprite2_d.html#a3851b4809df49315390b7a970e6448b0" title="Dispose." coords="233,105,413,145"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="248,169,399,195"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_static_sprite2_d.html#a507a134fb28492b5509fe2437b93a89e" title=" " coords="245,219,401,259"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="463,5,615,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a953822d6a39e507861ee02a24bb7996e" title="Copy chars from one buffer to another." coords="675,5,853,31"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="465,155,613,195"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_static_sprite2_d.html#ac20f1c5cfcf2d96cf39aaf1cf4afe719" title="Update drawRect." coords="461,219,617,259"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_static_sprite2_d.html#ac98579f086625a4d7b1eb5116ad52de3" title="Update material." coords="461,283,617,323"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="690,91,838,131"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="690,155,838,195"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="665,243,863,283"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="927,99,1095,124"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="911,163,1111,188"/>
+</map>

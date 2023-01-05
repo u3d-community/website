@@ -1,0 +1,7 @@
+<map id="Urho3D::Geometry::GetVertexBuffer" name="Urho3D::Geometry::GetVertexBuffer">
+<area shape="rect" id="node1" title=" " coords="477,47,672,87"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_model.html#a3623ddcafb95242955bf9335288855ae" title="Clone the model. The geometry data is deep&#45;copied and can be modified in the clone without affecting ..." coords="261,5,411,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_decal_set.html#a51865d14929f67473aa71cc3b9ba36d6" title="Get triangle faces from the target geometry." coords="243,55,429,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_model.html#abff8eafc5209a8bdbc64676952fc445d" title="Save resource. Return true if successful." coords="263,104,409,129"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_decal_set.html#a70a16cdcd0674837b6b2338f94f476b8" title="Add a decal at world coordinates, using a target drawable&#39;s geometry for reference...." coords="5,55,195,80"/>
+</map>

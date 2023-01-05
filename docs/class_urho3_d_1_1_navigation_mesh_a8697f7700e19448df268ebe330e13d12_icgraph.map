@@ -1,0 +1,13 @@
+<map id="Urho3D::NavigationMesh::ReleaseNavigationMesh" name="Urho3D::NavigationMesh::ReleaseNavigationMesh">
+<area shape="rect" id="node1" title="Release the navigation mesh and the query." coords="520,133,689,173"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#ae96147f96c4694884d56a1f527e15f55" title="Allocate the navigation mesh without building any tiles. Bounding box is not padded...." coords="287,5,455,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_navigation_mesh.html#a38f762e87f10300096e08666fbafb443" title="Rebuild the navigation mesh. Return true if successful." coords="287,69,455,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#acf03d9f21bfd9df95356791d2a24e022" title="Release the navigation mesh, query, and tile cache." coords="269,133,472,173"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_navigation_mesh.html#abd41c982ecbd269e4bff1ac5679c0c31" title="Set navigation data attribute." coords="287,197,455,237"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_navigation_mesh.html#a20cc4ef986306be330107fe59bfd9976" title="Destruct." coords="287,261,455,301"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a2b7ade339dad6d4a0360e5c5aff707dc" title="Allocate the navigation mesh without building any tiles. Bounding box is not padded...." coords="20,5,207,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac50303ab43f4c6b1b19867e6a3389af3" title="Build/rebuild the entire navigation mesh." coords="20,69,207,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ae6a0a07298c078e6472c3303a730f4fb" title="Set navigation data attribute." coords="18,133,209,173"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#addf10f79a7fc2dc8dd90cb7efce4eacb" title="Destructor." coords="5,197,221,237"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_navigation_mesh.html#a3094b699cb336d3ec0ce2abc4ab3ff6f" title=" " coords="29,261,197,301"/>
+</map>

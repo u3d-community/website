@@ -1,0 +1,10 @@
+<map id="Urho3D::Quaternion::RollAngle" name="Urho3D::Quaternion::RollAngle">
+<area shape="rect" id="node1" title=" " coords="667,69,804,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_rigid_body2_d.html#a6dc7a3910ee3dc93bbb7ade0f8fad5ef" title="Create body." coords="461,5,609,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_rigid_body2_d.html#a8a4d448e59079ef0de29b72d0f7c9684" title="Handle node transform being dirtied." coords="461,69,609,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_particle_emitter2_d.html#a59d6b326bcbe8273a103208935845cef" title="Update." coords="452,133,619,173"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_rigid_body2_d.html#a633bf73a98b1099f261f061ab3c65ce2" title="Handle scene being assigned." coords="238,5,386,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_particle_emitter2_d.html#abaa5fbe514eb5d5904039f69cd75257d" title="Handle scene post update." coords="220,133,404,173"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_particle_emitter2_d.html#a09b2df5a425839d0feff440a78ce1f5f" title="Handle scene being assigned." coords="5,101,172,141"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_particle_emitter2_d.html#aaa7a512b4fb84e3343be39bf899fb58d" title="Handle enabled/disabled state change." coords="5,165,172,205"/>
+</map>

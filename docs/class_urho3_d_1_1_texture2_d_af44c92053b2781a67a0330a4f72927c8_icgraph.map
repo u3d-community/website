@@ -1,0 +1,6 @@
+<map id="Urho3D::Texture2D::Create" name="Urho3D::Texture2D::Create">
+<area shape="rect" id="node1" title="Create the GPU texture." coords="379,37,517,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture2_d.html#a33171ff6dd10f3f10131116e986295fe" title="Recreate the GPU resource and restore data if applicable." coords="192,5,331,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture2_d.html#ac23d2cf909c7fd12140d57dff1decb57" title="Set size, format, usage and multisampling parameters for rendertargets. Zero size will follow applica..." coords="192,69,331,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture2_d.html#ab49167ad05742f9610fd938c2f9f29ce" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="5,69,144,109"/>
+</map>

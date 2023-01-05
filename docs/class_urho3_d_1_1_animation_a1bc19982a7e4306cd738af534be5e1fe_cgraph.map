@@ -1,0 +1,27 @@
+<map id="Urho3D::Animation::Save" name="Urho3D::Animation::Save">
+<area shape="rect" id="node1" title="Save resource. Return true if successful." coords="5,613,172,638"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_x_m_l_element.html#af8968bd1a431788069818955496490d7" title="Create a child element." coords="510,29,658,69"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_resource_with_metadata.html#a1629581f5187eef675e9a812b23c511d" title=" " coords="220,973,431,1013"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_resource_with_metadata.html#a5d03bdec155fe2a32f1931ba40b2dbd6" title="Save as &lt;metadata&gt; children of XML element." coords="220,200,431,240"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_x_m_l_element.html#ad1c6f524bcba2da8d00f55d169caac19" title="Set a variant attribute." coords="510,259,658,299"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_x_m_l_element.html#ad22d73e151580d42f4486feec1c58a06" title="Set a float attribute." coords="765,316,913,356"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_serializer.html#a467e97940ee0e2911b7d8bfa837a875b" title="Write a four&#45;letter file ID. If the string is not long enough, spaces will be appended." coords="261,573,389,613"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_serializer.html#af2b0a9945e01a6e05ff0392970d86df2" title="Write a float." coords="261,637,389,677"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_serializer.html#a6d5a8c0a55e6be4beb8ac5d79ecac47b" title="Write a quaternion." coords="261,701,389,741"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_serializer.html#a51c8222e9c2f0ce9deac7298ab0189c6" title="Write a null&#45;terminated string." coords="520,373,648,413"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_serializer.html#a4f90c5159c785e81d4ba74ebcfb961a5" title="Write an 8&#45;bit unsigned integer." coords="261,767,389,807"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_serializer.html#aca5302ccd24e73a82da4aecee5343e4b" title="Write a 32&#45;bit unsigned integer." coords="261,833,389,873"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_serializer.html#a007d70f03e5cdc1d6403c0a56cf264bb" title="Write a Vector3." coords="261,901,389,941"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="1184,238,1340,263"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_base.html#acca34b209bda6149251edbb5a548ccc6" title="Return whether has no elements." coords="496,982,672,1007"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_resource_with_metadata.html#a48a5d63e8c7cb8f7d4469ec4a78ad85c" title=" " coords="479,144,689,184"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_x_m_l_element.html#a4b76864ac2e5d9345eda301a19469dcd" title="Set a string attribute." coords="765,87,913,127"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="513,209,655,234"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_x_m_l_element.html#ae8956473bc7d5907f82a4b4b2533a051" title="Set an attribute." coords="988,173,1136,213"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_variant.html#a2e5a8eb023e49ff8732c2ec9c070ea1a" title=" " coords="737,266,940,291"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_x_m_l_element.html#abcddcb142e2672f6ef1131cacdd907b1" title="Set a variant attribute excluding the type." coords="765,201,913,241"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_string.html#a0a988cc147946dd80bf73cea2c1ac04c" title=" " coords="508,678,660,703"/>
+<area shape="rect" id="node17" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="537,462,631,487"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_serializer.html#af1212487507dad99d9f389f9c8b48a60" title="Write bytes to the stream. Return number of bytes actually written." coords="775,747,903,787"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_serializer.html#ae8dca217acc7e982a97262ce8f0d7357" title="Write an 8&#45;bit integer." coords="520,613,648,653"/>
+</map>

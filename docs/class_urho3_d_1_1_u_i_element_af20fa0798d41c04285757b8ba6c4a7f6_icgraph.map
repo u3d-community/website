@@ -1,0 +1,15 @@
+<map id="Urho3D::UIElement::IsFixedHeight" name="Urho3D::UIElement::IsFixedHeight">
+<area shape="rect" id="node1" title=" " coords="849,253,989,293"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#a19d489013e96a7ca8a4c9ce7c1d4ed40" title="Filter implicit attributes in serialization process." coords="651,253,801,293"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#aa687519f54b1c17919361066a20015b7" title="Filter attributes in serialization process." coords="440,29,580,69"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_drop_down_list.html#a1a967b822a9ae12b0dc9685a1f0fd6ec" title="Filter implicit attributes in serialization process." coords="431,93,589,133"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_line_edit.html#a80bf81c7e72c08e52f292b4eb23ac92f" title="Filter implicit attributes in serialization process." coords="433,157,587,197"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_progress_bar.html#a62fc5ec6cf37ebfaf730c2bdcf1a4fa9" title="Filter implicit attributes in serialization process." coords="431,221,589,261"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scroll_bar.html#a83057b3b7a45457d136078bc705a9ce9" title="Filter implicit attributes in serialization process." coords="435,285,585,325"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scroll_view.html#ab1c0beb5419d0fb91398a86014f154a3" title="Filter implicit attributes in serialization process." coords="431,349,589,389"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_slider.html#ad0fdefd7e0e9d166ae99aceb40c42933" title="Filter implicit attributes in serialization process." coords="417,413,603,453"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_text.html#aca2373ea6f734c088e4ec036129ed5da" title="Filter implicit attributes in serialization process." coords="422,477,598,517"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#aba2d5669c9b8aa49f4c7c4690adb3bfc" title="Save as XML data. Return true if successful." coords="221,29,361,69"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i.html#a5cd07643076e6439a75cb6de7e038df9" title="Save a UI layout to an XML file. Return true if successful." coords="5,37,164,62"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_list_view.html#a83fd6d8c86db3feb716dafcc38dc4098" title="Filter implicit attributes in serialization process." coords="212,349,369,389"/>
+</map>

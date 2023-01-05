@@ -1,0 +1,27 @@
+<map id="Urho3D::Connection::SetScene" name="Urho3D::Connection::SetScene">
+<area shape="rect" id="node1" title=" " coords="5,304,145,344"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector_buffer.html#a870baf1a9abdbde6ed2973ef5aad0c28" title="Reset to zero size." coords="459,5,607,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_connection.html#ab695e0ee59fe70881379ea33100d3b07" title="Handle scene loaded event." coords="195,133,381,173"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_connection.html#a8d0d9d3817c2eec4a0a1ca465c63b371" title="Send a message." coords="463,93,603,133"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="217,401,359,426"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="201,519,375,559"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#a153b96c4397e045b2ca2b2d5471d097c" title="Unsubscribe from an event." coords="193,700,383,740"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_serializer.html#a51c8222e9c2f0ce9deac7298ab0189c6" title="Write a null&#45;terminated string." coords="224,336,352,376"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_serializer.html#ae4429a6ec1f94508037c2d21430d2124" title="Write a variable&#45;length encoded unsigned integer, which can use 29 bits maximum." coords="224,272,352,312"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_p_o_d_vector.html#a56e61cb5b8216360fd62b20eb78b5faf" title="Clear the vector." coords="686,5,830,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html#a90931bab46c47be9f1989f4ec86bd487" title="Resize the vector." coords="881,5,1025,45"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_serializer.html#aca5302ccd24e73a82da4aecee5343e4b" title="Write a 32&#45;bit unsigned integer." coords="469,157,597,197"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector_buffer.html#a4cc191d35ae83c7735df915e562965e4" title="Return data." coords="684,81,832,121"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_deserializer.html#a29f095da2db6cf9e4c7e76365341466e" title=" " coords="687,145,829,185"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_serializer.html#af1212487507dad99d9f389f9c8b48a60" title="Write bytes to the stream. Return number of bytes actually written." coords="694,251,822,291"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="442,487,623,527"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="439,551,626,591"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="447,615,618,655"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="683,608,833,648"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_object.html#a00bec56f305dd6636d186e5b351d0264" title="Find the first event handler with no specific sender." coords="447,729,619,769"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_context.html#a7b5bd076e695054df7930255c3eee18b" title="Remove event receiver from specific events." coords="431,793,635,833"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_event_handler.html#ae09d06f06d3590e6f4e06006efa90176" title="Return event type." coords="683,729,833,769"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="455,387,611,413"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_string.html#a78967781d11a0100dcca55391fa09092" title="Return length of a C string." coords="435,437,630,462"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_serializer.html#a4f90c5159c785e81d4ba74ebcfb961a5" title="Write an 8&#45;bit unsigned integer." coords="469,221,597,261"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::UIElement::GetVerticalAlignment" name="Urho3D::UIElement::GetVerticalAlignment">
+<area shape="rect" id="node1" title=" " coords="796,277,941,317"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_window.html#a2eb4bed97246af5dfe0bea31fae81acf" title="Check whether alignment supports moving and resizing." coords="525,21,748,47"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#a94a1fe4987f7861a8010ae1746aabed5" title="Get child element constant position in a layout." coords="557,102,716,142"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_sprite.html#af2e7d710eaa1236116799c499a95d86c" title="Update and return rendering transform, also used to transform child sprites." coords="539,227,734,252"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_text3_d.html#a79ce40ef233df465fbf73d4dc07d8527" title=" " coords="545,277,729,317"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_sprite.html#aedada728de8e83b44472e1dd798a1b0d" title=" " coords="556,341,717,381"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_u_i_element.html#aa6fad1d07806bb3035f0759984b2afc1" title=" " coords="567,405,707,445"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_text3_d.html#a1f643feab9477ca50a084501df1a8e3b" title="Update text UI batches." coords="543,570,730,610"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_window.html#a932ccd738d5c204646be87a8e6d72dde" title="React to mouse drag begin." coords="263,5,465,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#a7cba78373c23a734a1ccd2d4a27d8cb0" title="Manually update layout. Should not be necessary in most cases, but is provided for completeness." coords="294,55,434,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_console.html#a21804113c047d876e9358aaa9daabf67" title="Handle the application post&#45;update." coords="5,23,203,63"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i_element.html#afca95d8f1971fbbdcf725f715cc8c7a9" title="Insert a child element into a specific position in the child list." coords="34,87,174,127"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_sprite.html#aef8fa1bf84395724768414d8d65a3a02" title="Convert element coordinates to screen coordinates." coords="276,119,452,159"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_sprite.html#a76d599f607f45d7abbf5389983dec9b5" title="Return UI rendering batches." coords="274,184,454,209"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_sprite.html#aaec7766825ed1f56c3fb217dc6ff2c34" title="Update and return screen position." coords="277,234,451,274"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_sprite.html#a320f9b73a9c436ba73571f9305c3ab3d" title="Convert screen coordinates to element coordinates." coords="280,298,448,338"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_text3_d.html#a8d7300ae719ca749d031f65acdc0a23b" title=" " coords="20,521,188,561"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_text3_d.html#afb163e8eb837396d7578c13ea9224072" title="Apply attribute changes that can not be applied immediately." coords="259,413,469,439"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_text3_d.html#a08bfb84e885535f73aeefb4181491e3d" title="Recalculate the world&#45;space bounding box." coords="251,463,477,503"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_text3_d.html#a0e5e82af6713193ee73b60191a2048e0" title=" " coords="278,528,450,553"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_text3_d.html#a6c34a3c420fa1e6c35f4f4662c8248df" title="Set font by looking from resource cache by name and font size. Return true if successful." coords="281,577,447,603"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_text3_d.html#ae57645a33f1cefafd9b57908fba27569" title=" " coords="269,627,459,652"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_text3_d.html#a38405cba1bb3686bea808f0d997116e5" title=" " coords="273,676,455,701"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_text3_d.html#a539320e56a328d3923e6a50ab86c52c5" title=" " coords="282,725,446,751"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_text3_d.html#ae76455bed7ea206ebb893e49c5a14ae7" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="254,775,474,800"/>
+</map>

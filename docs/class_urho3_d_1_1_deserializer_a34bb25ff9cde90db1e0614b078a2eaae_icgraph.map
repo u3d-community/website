@@ -1,0 +1,12 @@
+<map id="Urho3D::Deserializer::GetChecksum" name="Urho3D::Deserializer::GetChecksum">
+<area shape="rect" id="node1" title=" " coords="1375,112,1517,152"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#aad4b930c9f2dc906c9cf960b2dfeebb3" title="Finish loading. Sets the scene filename and checksum." coords="1131,119,1327,145"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scene.html#a019a062421bf4e2d4f5f213245008f28" title="Finish asynchronous loading." coords="897,29,1083,69"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#a3b1c5f7476658c0e7e236d20765bf670" title="Load from binary data. Removes all existing child nodes and components first. Return true if successf..." coords="917,94,1063,119"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene.html#afadea687110ecd2d6074d99cb7c44853" title="Load from JSON data. Removes all existing child nodes and components first. Return true if successful..." coords="901,143,1079,169"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scene.html#a238a6b49c396e644dcaa8844110b9d1b" title="Load from XML data. Removes all existing child nodes and components first. Return true if successful." coords="904,193,1076,218"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#a625934c3af5fb17f25a09767d4c0cc6b" title="Update asynchronous loading." coords="656,29,849,69"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#afb949e0fedbb2becb9aa7a3dfb0ed7b2" title="Update scene. Called by HandleUpdate." coords="451,37,608,62"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#ad3307d7a01b61f9b6ded6cff9a44f857" title="Handle the logic update event to update the scene, if active." coords="204,37,403,62"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#aecd178e1857bd96c3e4537651fd7f60c" title="Construct." coords="5,37,156,62"/>
+</map>

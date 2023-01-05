@@ -1,0 +1,6 @@
+<map id="Urho3D::Renderer::GetNumLights" name="Urho3D::Renderer::GetNumLights">
+<area shape="rect" id="node1" title=" " coords="5,23,187,63"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_renderer.html#ac5cf9622733d9268d4ce4584cd63fd22" title="Return a view or its source view if it uses one. Used internally for render statistics." coords="235,5,452,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#ace7849de74e6ca7eae19bc0ca4a4850c" title="Return lights." coords="262,55,425,80"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a955d10793eea1987532076996f6e2f95" title="Return the source view that was already prepared. Used when viewports specify the same culling camera..." coords="500,5,696,31"/>
+</map>

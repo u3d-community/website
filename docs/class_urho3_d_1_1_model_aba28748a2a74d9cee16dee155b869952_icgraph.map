@@ -1,0 +1,20 @@
+<map id="Urho3D::Model::GetNumGeometries" name="Urho3D::Model::GetNumGeometries">
+<area shape="rect" id="node1" title=" " coords="937,109,1172,134"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_convex_data.html#a94123547d0117887b01db8a1bcd1e903" title="Construct from a model." coords="733,5,877,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_navigation_mesh.html#aa1afd3c3723b93fb9f93f97cc1dc4770" title="Get geometry data within a bounding box." coords="721,69,889,109"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_static_model.html#a9cf254e2f4535519c8ee06d42d736402" title=" " coords="733,133,877,173"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_animated_model.html#a67a9794df35c334b050f689bb706847a" title="Set model." coords="721,261,889,301"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_navigation_mesh.html#a602be9b482a0a9b7917bb13fd3b02cbf" title="Build one tile of the navigation mesh. Return true if successful." coords="490,5,658,45"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac0f1a30258c353d442f6006cd0ddf2fa" title="Build one tile of the navigation mesh. Return true if successful." coords="481,69,667,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_navigation_mesh.html#ab649eee713babaa030e62c423da0e5f8" title="Build tiles in the rectangular area. Return number of built tiles." coords="249,5,417,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_navigation_mesh.html#a38f762e87f10300096e08666fbafb443" title="Rebuild the navigation mesh. Return true if successful." coords="15,5,183,45"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac50303ab43f4c6b1b19867e6a3389af3" title="Build/rebuild the entire navigation mesh." coords="240,69,427,109"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a9b955871256dc8a0509c85d4535cfd91" title="Build tiles in the rectangular area. Return number of built tiles." coords="240,133,427,173"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a770e064c2824a40fb0448cd88b64fedf" title="Build/rebuild a portion of the navigation mesh." coords="5,133,192,173"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_static_model.html#a4f3c5397ad06d8632620d12314867e8d" title="Handle model reload finished." coords="475,133,673,173"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_static_model.html#ad0b8df3ed239e295894411942ef4af2c" title="Set model attribute." coords="502,197,646,237"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_static_model.html#aac7bd4f30d276bad34d0afd36dec5f6f" title=" " coords="261,197,405,237"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_animated_model.html#af6af95070304f3ecca53d9dee1ce63ad" title="Handle model reload finished." coords="475,261,673,301"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_animated_model.html#a4bcb1159367b1b112ba751b0b5747f59" title="Set model attribute." coords="490,325,658,365"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_animated_model.html#a76a01a86a9b1bcca181bfe91ae0e4a95" title=" " coords="249,325,417,365"/>
+</map>

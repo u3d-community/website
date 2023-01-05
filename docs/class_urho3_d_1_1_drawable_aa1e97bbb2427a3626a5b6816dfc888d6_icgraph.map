@@ -1,0 +1,11 @@
+<map id="Urho3D::Drawable::SetOccludee" name="Urho3D::Drawable::SetOccludee">
+<area shape="rect" id="node1" title=" " coords="245,234,452,259"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animated_model.html#a76a01a86a9b1bcca181bfe91ae0e4a95" title=" " coords="17,5,185,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_billboard_set.html#abd9c58891183fd07f23f9fdfcec57527" title=" " coords="30,69,173,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_custom_geometry.html#adf40494db43b2ab2869faad887ddf8a4" title=" " coords="12,133,191,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_decal_set.html#a76978cd431ca41ad6d845193a98a243b" title=" " coords="12,197,191,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_light.html#addf06c14a914ff91a084194c409a7917" title=" " coords="5,262,197,287"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_particle_emitter.html#a866c84f59b51494573ee28e000523ede" title=" " coords="21,312,181,352"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_static_model.html#aac7bd4f30d276bad34d0afd36dec5f6f" title=" " coords="29,376,173,416"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_text3_d.html#a8d7300ae719ca749d031f65acdc0a23b" title=" " coords="17,440,185,480"/>
+</map>

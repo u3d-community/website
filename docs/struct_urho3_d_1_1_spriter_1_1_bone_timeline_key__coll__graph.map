@@ -1,0 +1,10 @@
+<map id="Urho3D::Spriter::BoneTimelineKey" name="Urho3D::Spriter::BoneTimelineKey">
+<area shape="rect" id="node1" title="Bone timeline key." coords="232,463,451,488"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_spriter_1_1_spatial_timeline_key.html" title="Spatial timeline key." coords="263,373,420,413"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_spriter_1_1_timeline_key.html" title="Timeline key." coords="91,285,280,311"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_spriter_1_1_timeline.html" title="Timeline." coords="101,197,269,223"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html" title="String class." coords="5,95,112,120"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="208,80,419,135"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="243,5,384,31"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_spriter_1_1_spatial_info.html" title="Spatial info." coords="304,285,485,311"/>
+</map>

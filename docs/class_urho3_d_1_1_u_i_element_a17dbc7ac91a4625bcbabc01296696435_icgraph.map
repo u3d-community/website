@@ -1,0 +1,4 @@
+<map id="Urho3D::UIElement::Update" name="Urho3D::UIElement::Update">
+<area shape="rect" id="node1" title="Perform UI element update." coords="188,5,328,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i.html#a1b01d7a10ff43c74906548d2af23ed0c" title="Update UI element logic recursively." coords="5,13,140,38"/>
+</map>

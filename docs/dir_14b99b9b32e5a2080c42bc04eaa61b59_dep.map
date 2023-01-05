@@ -1,0 +1,17 @@
+<map id="/var/dev/u3d/stable/Source/Urho3D/Graphics" name="/var/dev/u3d/stable/Source/Urho3D/Graphics">
+<area shape="rect" id="node1" href="dir_161200c2dbb1562d663a5635483f45fd.html" title="IO" coords="27,136,66,161"/>
+<area shape="rect" id="node2" href="dir_40dd5a074fa57c297e2bc4cef3a08da1.html" title="UI" coords="193,136,231,161"/>
+<area shape="rect" id="node3" href="dir_c56c3397f44a51d151132c71687ac69b.html" title="Scene" coords="256,136,315,161"/>
+<area shape="rect" id="node4" href="dir_e5f3fd18cd7d3dfbadd226b4743aa706.html" title="Math" coords="339,136,391,161"/>
+<area shape="rect" id="node5" href="dir_eafd862b540987c6fd4625dbd2029ad8.html" title="Resource" coords="91,136,168,161"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000012_000015.html" title="4" coords="82,133,90,148"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000012_000030.html" title="1" coords="216,110,224,125"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000012_000025.html" title="30" coords="259,110,273,124"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000012_000017.html" title="8" coords="323,113,331,128"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000012_000024.html" title="42" coords="155,123,170,138"/>
+<area shape="rect" id="node7" href="dir_0c12cd772d3927f587681ebc70b781b7.html" title="OpenGL" coords="83,63,151,88"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000021_000015.html" title="1" coords="73,121,81,136"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000021_000024.html" title="6" coords="129,109,137,123"/>
+<area shape="rect" id="clust2" href="dir_14b99b9b32e5a2080c42bc04eaa61b59.html" coords="72,52,260,99"/>
+<area shape="rect" id="clust1" href="dir_362bf5f31771e0c1f8e0073d174ce5c9.html" title="Urho3D" coords="16,16,403,172"/>
+</map>

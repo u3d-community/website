@@ -1,0 +1,12 @@
+<map id="Urho3D::Resource::SaveFile" name="Urho3D::Resource::SaveFile">
+<area shape="rect" id="node1" title=" " coords="5,87,188,113"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_file.html#ac541c06977cdebc925147603f7793689" title="Open a filesystem file. Return true if successful." coords="253,62,382,87"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_resource.html#ad7aa95d3679876703b1147e49f8d07b0" title="Save resource. Return true if successful." coords="236,111,399,137"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_file.html#aeb5170a54cb5a37ff895e9aaeffa78b0" title="Open file internally using either C standard IO functions or SDL RWops for Android asset files...." coords="459,62,633,87"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_file.html#adcf2a6360ca11626bc39f35b2da97a7c" title="Close the file." coords="705,13,838,38"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="693,62,849,87"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="696,111,847,137"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_shared_array_ptr.html#a5f621b62e29d89c1d29f1c2089932bd5" title="Reset to null and release the array reference." coords="897,5,1060,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_shared_array_ptr.html#a4fe651dd5116bb958bd304858c5f3a35" title="Release the array reference and delete it and the RefCount structure if necessary." coords="1108,5,1271,45"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="447,111,645,137"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Urho3D::Texture3D::Create" name="Urho3D::Texture3D::Create">
+<area shape="rect" id="node1" title="Create the GPU texture." coords="5,203,144,243"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture.html#a0dc9b5632a502d45cf001c0cdaebd8e5" title="Check maximum allowed mip levels for a specific texture size." coords="215,5,401,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture.html#a60c268d6f819bd4fdc219ba8f5f3820c" title=" " coords="210,70,406,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture.html#a09c2fc9bd5347131e3a0126b109d07ab" title=" " coords="213,120,403,160"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture.html#af49ebd8d0572e8616402f9c663b6a818" title=" " coords="221,185,395,210"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_texture.html#af633d70298690db00993d6c89b2f0a50" title=" " coords="199,234,417,259"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_texture.html#a49289626d40733f33cb84e044cca1eab" title=" " coords="203,283,413,309"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture3_d.html#a0563f1ac71f57b98786f5ffc13621a7a" title="Release the texture." coords="239,333,377,373"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_texture.html#a7eaf51cf81ac775bdc87e00ec1a47979" title="Update dirty parameters to the texture object. Called by Graphics when assigning the texture." coords="192,398,424,423"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_color.html#ac870749558797286cd923e11c182ce87" title="Return float data." coords="472,398,611,423"/>
+</map>

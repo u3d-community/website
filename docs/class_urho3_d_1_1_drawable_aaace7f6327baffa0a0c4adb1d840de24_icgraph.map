@@ -1,0 +1,27 @@
+<map id="Urho3D::Drawable::GetDrawDistance" name="Urho3D::Drawable::GetDrawDistance">
+<area shape="rect" id="node1" title=" " coords="1660,369,1843,409"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="1429,63,1585,88"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#a7d398cea4906919b033f5fc86f67d764" title="Process shadow casters&#39; visibilities and build their combined view&#45; or projection&#45;space bounding box." coords="1406,113,1609,153"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_animated_model.html#a76a01a86a9b1bcca181bfe91ae0e4a95" title=" " coords="1423,177,1591,217"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_billboard_set.html#abd9c58891183fd07f23f9fdfcec57527" title=" " coords="1436,241,1579,281"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_custom_geometry.html#adf40494db43b2ab2869faad887ddf8a4" title=" " coords="1418,305,1597,345"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_decal_set.html#a76978cd431ca41ad6d845193a98a243b" title=" " coords="1418,369,1597,409"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_light.html#addf06c14a914ff91a084194c409a7917" title=" " coords="1411,433,1603,459"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_particle_emitter.html#a866c84f59b51494573ee28e000523ede" title=" " coords="1427,483,1587,523"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_static_model.html#aac7bd4f30d276bad34d0afd36dec5f6f" title=" " coords="1435,547,1579,587"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_text3_d.html#a8d7300ae719ca749d031f65acdc0a23b" title=" " coords="1423,611,1591,651"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_view.html#a97f9dbaf8b51572832e0890af3e53e4b" title="Query for occluders as seen from a camera." coords="1403,676,1612,701"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="1189,5,1332,31"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="1190,55,1331,95"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="973,27,1115,67"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="456,27,651,67"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="699,72,921,97"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="246,35,395,60"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="1169,120,1352,145"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_view.html#a0cddca92d8a715b17404427840d201fb" title="Query the octree for drawable objects." coords="1167,676,1355,701"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_view.html#a50c3fe5d5c2b3040e13925aa277a8d93" title="Update and cull objects and construct rendering batches." coords="969,676,1119,701"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_renderer.html#a0fa71f5839321a9d68def7a2978f452a" title="Update a queued viewport for rendering." coords="723,669,897,709"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_renderer.html#a993f63f35d27a9ea6df861962018f354" title="Update for rendering. Called by HandleRenderUpdate()." coords="466,676,641,701"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_renderer.html#adf594e7a524f6e003e8370cf23dbee13" title="Handle render update event." coords="233,669,408,709"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_renderer.html#ae0d765a240f7cf5f829ddc95cb2729c9" title="Initialize when screen mode initially set." coords="5,676,185,701"/>
+</map>

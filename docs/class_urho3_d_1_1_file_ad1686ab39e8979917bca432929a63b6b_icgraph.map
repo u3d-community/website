@@ -1,0 +1,6 @@
+<map id="Urho3D::File::Write" name="Urho3D::File::Write">
+<area shape="rect" id="node1" title="Write bytes to the file. Return number of bytes actually written." coords="445,31,576,56"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_image.html#a14d0e7c60a23e7c6aca1dc9f97d40b0e" title="Save in DDS format. Only uncompressed RGBA images are supported. Return true if successful." coords="222,5,393,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_image.html#a03b0cd2a466d2b6d9dadf1c77fe23622" title="Save in WebP format with minimum (fastest) or specified compression. Return true if successful...." coords="217,55,397,80"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_image.html#adcea1e1f246e18b77acfdc12937f95b3" title="Save the image to a file. Format of the image is determined by file extension. JPG is saved with maxi..." coords="5,31,169,56"/>
+</map>

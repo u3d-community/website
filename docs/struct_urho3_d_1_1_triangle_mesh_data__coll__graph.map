@@ -1,0 +1,13 @@
+<map id="Urho3D::TriangleMeshData" name="Urho3D::TriangleMeshData">
+<area shape="rect" id="node1" title="Triangle mesh geometry data." coords="1131,106,1309,131"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_collision_geometry_data.html" title="Base class for collision shape geometry data." coords="777,7,987,33"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="530,7,673,33"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="223,7,351,33"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="799,57,965,97"/>
+<area shape="rect" id="node6" title=" " coords="499,65,704,90"/>
+<area shape="rect" id="node7" title=" " coords="196,61,377,86"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html" title=" " coords="196,110,377,165"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,125,147,150"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="791,121,973,161"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="811,185,953,225"/>
+</map>

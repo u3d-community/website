@@ -1,0 +1,27 @@
+<map id="Urho3D::NavigationMesh::Allocate" name="Urho3D::NavigationMesh::Allocate">
+<area shape="rect" id="node1" title="Allocate the navigation mesh without building any tiles. Bounding box is not padded...." coords="5,293,173,333"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector3.html#a33cac219f3eab4ffe4d3d5effdde33e0" title="Test for equality with another vector with epsilon." coords="255,29,419,55"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_object.html#a8bd9b32c8a56c2f6d618d8afe8091eb7" title="Return execution context." coords="245,79,428,104"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="249,129,425,169"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="237,193,437,219"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="221,243,452,268"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="267,293,406,333"/>
+<area shape="rect" id="node20" href="$_math_defs_8h.html#aa40930b7b71e52ee4d2562ba58a63317" title="Return log base two or the MSB position of the given value." coords="261,381,412,407"/>
+<area shape="rect" id="node21" href="$_math_defs_8h.html#a40d33200d2bcbe345b556045ca344b29" title="Round up to next power of two." coords="247,455,426,480"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_navigation_mesh.html#a8697f7700e19448df268ebe330e13d12" title="Release the navigation mesh and the query." coords="252,505,421,545"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="248,593,425,619"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_bounding_box.html#a00fe243d05516209a4ef6f83ff7179df" title="Return transformed by a 3x3 matrix." coords="261,667,412,707"/>
+<area shape="rect" id="node3" href="$_math_defs_8h.html#ad6a5d6144733a3594df64e9f8cbb3610" title=" " coords="527,29,639,55"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="500,136,667,161"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="729,12,897,37"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="734,61,893,87"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html#a3313b8ec65ab0b23c74570898b09175c" title="Free a node." coords="716,111,911,136"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_base.html#a2774d115a617b0d6c315132352d43c01" title="Reset bucket head pointers." coords="715,160,912,185"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_base.html#a7790b0fb5131f0e0a098e322c9198f39" title="Set new size." coords="722,209,905,235"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_base.html#a42b5c2ba692fe96bff763b501b8922a9" title="Return number of elements." coords="731,259,895,284"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html#a992327678684d4e38150f32fc676faaf" title="Return the head node." coords="983,12,1151,37"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="989,61,1145,87"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_base.html#af0f242c3642f60dc7cf69f3b7d24fa11" title="Return number of buckets." coords="960,136,1175,161"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_base.html#ab2e9d0c50ac79b0a7eccd15b096745e9" title="Return bucket head pointers." coords="985,185,1149,211"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_bounding_box.html#afef3c1bfa3910387adb4f5992371a8dd" title="Clear to undefined state." coords="508,505,659,545"/>
+</map>

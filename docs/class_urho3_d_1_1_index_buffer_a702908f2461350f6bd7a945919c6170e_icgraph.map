@@ -1,0 +1,8 @@
+<map id="Urho3D::IndexBuffer::Release" name="Urho3D::IndexBuffer::Release">
+<area shape="rect" id="node1" title="Release buffer." coords="605,69,748,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_index_buffer.html#ae31e230aad30bec9beb7483f80f5d9a8" title="Create buffer." coords="415,37,557,77"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_index_buffer.html#a6439d7e20488fba13f89d7631bdcbcb5" title="Destruct." coords="415,101,557,141"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_index_buffer.html#a3a45b94a13b311c2db4694bef9524c48" title="Recreate the buffer and restore data if applicable. May be a no&#45;op depending on the API." coords="224,5,367,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_index_buffer.html#acad3ececff56c39f52703e514b730364" title="Set size and vertex elements and dynamic mode. Previous data will be lost." coords="224,69,367,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_model.html#a2c8c05952523fd35a74757ea179a47a7" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="5,77,176,102"/>
+</map>

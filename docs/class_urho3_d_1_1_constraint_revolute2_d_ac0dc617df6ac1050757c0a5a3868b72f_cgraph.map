@@ -1,0 +1,27 @@
+<map id="Urho3D::ConstraintRevolute2D::RegisterObject" name="Urho3D::ConstraintRevolute2D::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,517,196,557"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_constraint_revolute2_d.html#a4193e322dc244f64346f891b513537df" title=" " coords="244,5,435,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_constraint_revolute2_d.html#a89d38d55afc32357cc729c24dadecde0" title=" " coords="244,69,435,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_constraint_revolute2_d.html#a2e706c5cd6b930ad06f16b9322583f41" title=" " coords="244,133,435,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_constraint_revolute2_d.html#a1009d50b8d782677b70217019d90f8af" title=" " coords="244,197,435,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_constraint_revolute2_d.html#ab8c693cfa8c8b6401da55edefbd29b5c" title=" " coords="244,261,435,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_constraint_revolute2_d.html#ad8658b73b3b7eb590464a5c7a309a8be" title=" " coords="244,325,435,365"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_constraint_revolute2_d.html#a484ecf8681e73f758a0c7b4b5a155753" title=" " coords="244,389,435,429"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="265,453,413,493"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="253,517,426,557"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_constraint_revolute2_d.html#a73fdb79734e6e0b6939112ba7bca8e46" title=" " coords="244,709,435,749"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="265,581,413,621"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_constraint_revolute2_d.html#aedba7ecc964731f4f6c12c9acdb43c68" title=" " coords="244,773,435,813"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_constraint_revolute2_d.html#ac654ab9c68745713a7fae0f6be4b54ba" title=" " coords="244,837,435,877"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_constraint_revolute2_d.html#ac4a4d359ba8197571e9bcd333534db8f" title=" " coords="244,901,435,941"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_constraint_revolute2_d.html#a364ca82a6b67952fcf617a62bc1ae78c" title=" " coords="244,989,435,1029"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_constraint_revolute2_d.html#a8bc948c4e2b6b987495f45e8319813ee" title=" " coords="244,1077,435,1117"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_constraint_revolute2_d.html#a6bb389dfffa4c403770721f3fb508f6d" title=" " coords="244,645,435,685"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="494,447,649,487"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="497,773,645,813"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_constraint2_d.html#a6b020a0b52d60cf6f05f584f85801c58" title="Recreate joint." coords="497,837,646,877"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="708,741,856,781"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="488,585,655,625"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_component.html#a97c506dfb55216668b1fdf4d4425f7d7" title="Handle enabled/disabled state change." coords="497,649,645,689"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="483,535,660,561"/>
+</map>

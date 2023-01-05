@@ -1,0 +1,6 @@
+<map id="Urho3D::Octree::RegisterObject" name="Urho3D::Octree::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,35,171,75"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="243,5,417,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_octree.html#ab5d1b8dd5d68768a3e401b2d605746be" title="Update octree size." coords="219,70,441,95"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="489,5,644,45"/>
+</map>

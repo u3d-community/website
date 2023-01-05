@@ -1,0 +1,27 @@
+<map id="Urho3D::DecalSet::AddDecal" name="Urho3D::DecalSet::AddDecal">
+<area shape="rect" id="node1" title="Add a decal at world coordinates, using a target drawable&#39;s geometry for reference...." coords="5,619,195,644"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_decal.html#a016dea5d4b0d65db727ea158529500a9" title="Add a vertex." coords="271,5,445,31"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_decal.html#a75bf0396068482fd69ec5eb4c5d0a7e0" title="Calculate local&#45;space bounding box." coords="275,55,441,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_decal_set.html#a7e801673ba80a4f58e5a024ceada5485" title="Calculate UV coordinates for the decal." coords="253,120,463,145"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_frustum.html#aca09b9b4205607926beb618374834762" title="Define with orthographic projection parameters and a transform matrix." coords="259,169,457,195"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_p_o_d_vector.html#a5be72d35fc52d2623985f20b95855d10" title="Return whether vector is empty." coords="286,219,430,259"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_drawable.html#a97ce585b50328905eb4a0c7e50d84aab" title="Return draw call source data." coords="258,284,458,309"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_skeleton.html#a0725533171475c6f23a550b9c9d26b2f" title=" " coords="268,333,448,359"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_decal_set.html#a51865d14929f67473aa71cc3b9ba36d6" title="Get triangle faces from the target geometry." coords="265,383,451,408"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="284,433,432,473"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_skeleton.html#ad2159e16479f1f972b5450722c8f3560" title=" " coords="269,497,447,537"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="243,561,473,587"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_bounding_box.html#a0a9e6a1766bd3700e1512f22f2d8e6e4" title=" " coords="283,611,433,651"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="289,675,427,715"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_bounding_box.html#a03f691b8e5e7e0a83758321c89ac7e40" title="Test if a point is inside." coords="283,739,433,779"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_sphere.html#a23cedf63ba7aa18b8c3cb5300743ba2d" title="Test if a point is inside." coords="275,804,441,829"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_vector3.html#a8cec272610e59b1abfa3f42909c90351" title=" " coords="276,853,440,879"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_decal_set.html#a41027d16a7e3f21f99bf61cbfbb66770" title="Mark decals and the bounding box dirty." coords="521,925,724,965"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_decal_set.html#a3051b0c9144329e9c9466c9e8f84781c" title="Remove all decals." coords="269,954,447,994"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_decal_set.html#a18384b227e33e1a36084ae9805bb8d18" title="Remove n oldest decals." coords="269,1018,447,1058"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="287,1083,429,1108"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="273,1132,443,1157"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_decal_set.html#acaeecfa659d401b21bdfb686f4f20bcd" title="Transform decal&#39;s vertices from the target geometry to the decal set local space." coords="261,1182,455,1222"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_decal_set.html#ab57603264541b21bb532f47a9b3f9acc" title="Subscribe/unsubscribe from scene post&#45;update as necessary." coords="271,1246,445,1286"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector3.html#a33cac219f3eab4ffe4d3d5effdde33e0" title="Test for equality with another vector with epsilon." coords="541,5,705,31"/>
+</map>

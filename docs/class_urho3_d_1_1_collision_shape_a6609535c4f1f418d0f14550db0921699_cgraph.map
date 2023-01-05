@@ -1,0 +1,27 @@
+<map id="Urho3D::CollisionShape::SetModel" name="Urho3D::CollisionShape::SetModel">
+<area shape="rect" id="node1" title=" " coords="5,451,165,491"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="234,536,382,576"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_collision_shape.html#a8cfe09cb27ec041dedcd92a69293bcbc" title="Update the new collision shape to the RigidBody." coords="228,407,388,447"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_object.html#a153b96c4397e045b2ca2b2d5471d097c" title="Unsubscribe from an event." coords="213,763,403,803"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_collision_shape.html#a5ecb900b219e57ddf9696a1fb194f33a" title="Update the collision shape after attribute changes." coords="228,184,388,224"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="734,219,882,259"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="481,579,629,619"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="457,667,654,707"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="956,226,1124,251"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="708,586,908,611"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="729,391,887,417"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_collision_shape.html#ab1f08f05ff8c76e97b03d6d9a94baf7e" title="Find the parent rigid body component and return its compound collision shape." coords="715,304,901,344"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="455,313,655,338"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="481,515,629,555"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="723,522,893,547"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_object.html#a00bec56f305dd6636d186e5b351d0264" title="Find the first event handler with no specific sender." coords="469,731,641,771"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="480,795,631,835"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_context.html#a7b5bd076e695054df7930255c3eee18b" title="Remove event receiver from specific events." coords="453,859,657,899"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_event_handler.html#ae09d06f06d3590e6f4e06006efa90176" title="Return event type." coords="733,731,883,771"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_context.html#a1b685db14efe388bbf40ec5c27bab7eb" title="Return event receivers for a sender and event type, or null if they do not exist." coords="720,859,896,899"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector3.html#a6b5f7e4dcec16c52e21e7dbf0a3cff15" title="Return absolute vector." coords="734,158,882,183"/>
+<area shape="rect" id="node22" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="506,70,605,95"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_collision_shape.html#ae8711104bc670ce7d5ec44ee687c5986" title="Release the collision shape." coords="475,248,635,288"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_collision_shape.html#a02029eaf22f387547af8d3cdbe430323" title="Update cached geometry collision shape." coords="451,184,660,224"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_collision_shape.html#a41c97935a817938bf566419da49581e7" title=" " coords="475,120,635,160"/>
+</map>

@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>U3D | Open source cross-platform 2D and 3D game engine</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="U3D" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Open source cross-platform 2D and 3D game engine" />
+<meta property="og:description" content="Open source cross-platform 2D and 3D game engine" />
+<link rel="canonical" href="/" />
+<meta property="og:url" content="/" />
+<meta property="og:site_name" content="U3D" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="U3D" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Open source cross-platform 2D and 3D game engine","headline":"U3D","name":"U3D","url":"/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/styles.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="U3D" /><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const toggler = document.querySelectorAll('[data-toggle="side-menu"]');
+      if (toggler.length) {
+        for (var i = 0; i < toggler.length; i++) {
+          const target = toggler[i].getAttribute('data-target');
+          if (target.length) {
+            toggler[i].addEventListener('click', function(event) {
+              event.preventDefault();
+              const menu = document.querySelector(target);
+
+              if (menu) {
+                menu.classList.toggle('d-none');
+              }
+            });
+          }
+        }
+      }
+    });
+  </script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Organization",
+      "@id": "#Organization",
+      "url": "https://u3d.io",
+      "legalName": "U3D",
+      "name": "U3D",
+      "description": "U3D is an open source, lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license",
+      "image": "https://u3d.io/assets/images/scene@2x.jpg",
+      "logo": "https://u3d.io/assets/images/logo.svg"
+    }
+  </script>
+</head>
+<body><nav class="navbar navbar-expand-lg navbar-light py-4">
+  <div class="container">
+    <a class="navbar-brand" href="https://u3d.io">
+      <img class="img-fluid" src="/assets/images/logo.svg" alt="U3D Game Engine Logo" width="200">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav09" aria-controls="nav09" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="nav09">
+      <ul class="navbar-nav mt-3 mt-lg-0 mb-3 mb-lg-0 ms-lg-auto me-4">
+        <li class="nav-item me-4"><a class="nav-link" href="/get-started">Get Started</a></li>
+        <li class="nav-item me-4"><a class="nav-link" href="/features">Features</a></li>
+        <li class="nav-item me-4"><a class="nav-link" href="/samples">Samples</a></li>
+        <li class="nav-item me-4"><a class="nav-link" href="/docs">Documentation</a></li>
+        <li class="nav-item me-4"><a class="nav-link" href="https://github.com/u3d-community/U3D/blob/master/CONTRIBUTING.md">Contribute</a></li>
+        <li class="nav-item"><a class="nav-link" href="/news">News</a></li>
+      </ul>
+      <div><a class="btn btn-primary" href="https://github.com/u3d-community/U3D/releases">Download</a></div>
+    </div>
+  </div>
+</nav>
+<section class="bg-white" style="margin-bottom: 160px;">
+  <div class="bg-dark pt-5 mb-5">
+    <div class="container position-relative pb-5">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-9 col-xl-8 text-center mb-5">
+          <h2 class="display-5 fw-bold text-white mt-2 mb-3">Built by developers, for developers.</h2>
+          <p class="lead text-white mb-4">The most powerful open-source 2D and 3D game development platform, designed to let you focus on creating amazing games. Freedom, no limits.</p>
+        </div>
+      </div>
+      <div class="row" style="margin-bottom: -200px;">
+        <div class="col-12 col-lg-4 mb-4 mb-lg-0">
+          <div class="p-5 h-100 text-center bg-light rounded">
+            <span class="d-inline-block mb-3">
+              <img src="/assets/images/recast.gif" alt="Artificial Intelligence Engine Demo" />
+            </span>
+            <h4 class="fw-bold">Powerful AI</h4>
+            <p>Recast/Detour Artificial Intelligence technology that handles character behaviors with modular sensory systems such as hearing and sight, and supports the requirements of the locomotion systems.</p>
+          </div>
+        </div>
+        <div class="col-12 col-lg-4 mb-4 mb-lg-0">
+          <div class="p-5 text-center bg-light rounded">
+            <span class="d-inline-block mb-3">
+              <img src="/assets/images/ik.gif" alt="Procedural Animation Engine Demo" />
+            </span>
+            <h4 class="fw-bold">Procedural Animation</h4>
+            <p>Procedural algorithms such as CC IK, example-based IK, and physical simulations, are used to augment animations to avoid the typical computer-generated look.</p>
+          </div>
+        </div>
+        <div class="col-12 col-lg-4 mb-4 mb-lg-0">
+          <div class="p-5 h-100 text-center bg-light rounded">
+            <span class="d-inline-block mb-3">
+              <img src="/assets/images/physics.gif" alt="Real World Physics Engine Demo" />
+            </span>
+            <h4 class="fw-bold">Real World Physics</h4>
+            <p>3D physics powered by Bullet Physics, and Box2D powering 2D. Rigid bodies, soft bodies, ragdoll characters and vehicles are directly in your control.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <section class="py-5">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-8 col-xl-7 mb-5 text-center">
+          <h2 class="display-5 fw-bold mt-2 mb-3">Fully-integrated cross-platform editing environment</h2>
+          <p class="lead text-muted mb-5">The built-in editor is intuitive and user-friendly, making it easy for game developers of all skill levels to quickly create and edit their games. Plus, with its cross-platform compatibility, you can work on your game from any device, no matter what operating system you use.</p>
+          <img class="img-fluid" src="/assets/images/editor.png" alt="U3D Game Engine Built-in Editor">
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-12 col-md-8 col-lg-4 text-center px-4 pb-5">
+          <div class="px-5">
+            <a href="assets/images/scene@2x.jpg" title="View U3D Scene Browser">
+              <img class="img-fluid mb-3 mx-auto bg-light rounded" src="/assets/images/scene.jpg" alt="U3D Scene Browser">
+            </a>
+            <h4>Scene Browser</h4>
+            <p class="text-muted">Helping you keep track of your level content and quickly locate and edit objects, as well as organize your scene into convenient layers and asset dependencies.</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-8 col-lg-4 text-center px-4 pb-5">
+          <div class="px-5">
+            <a href="assets/images/terrain@2x.jpg" title="View U3D Terrain Editor">
+              <img class="img-fluid mb-3 mx-auto bg-light rounded" src="/assets/images/terrain.jpg" alt="U3D Terrain Editor">
+            </a>
+            <h4>Terrain Editor</h4>
+            <p class="text-muted">U3D features a landscape design tool. Supports sculpting and painting of alpha layers onto terrain to control blending and decoration, collision data and displacement maps.</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-8 col-lg-4 text-center px-4 pb-5">
+          <div class="px-5">
+            <a href="assets/images/content@2x.jpg" title="View U3D Content Browser">
+              <img class="img-fluid mb-3 mx-auto bg-light rounded" src="/assets/images/content.jpg" alt="U3D Content Browser">
+            </a>
+            <h4>Content Browser</h4>
+            <p class="text-muted">A powerful asset browser for organizing your game content, including instant asset search, a robust tagging system and drag-and-drop object placement.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="pb-5">
+    <div class="container">
+      <div class="row justify-content-center mb-5 pb-3">
+        <div class="col-12 col-lg-8 col-xl-8 text-center">
+          <h2 class="display-5 fw-bold mb-3">The Power to Create your Vision</h2>
+          <p class="lead text-muted mb-4">Created by developers, for developers. U3D aims to give you the tools you need to stand up your game quickly, then experiment with and iterate on your game's design.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 col-lg-4">
+          <div class="d-flex mb-5">
+            <!-- icon -->
+            <div class="ms-3">
+              <h4>Free and open source</h4>
+              <p class="lead text-muted">No royalties, no fees, no obligations, no strings attached. All the power to you and your team.</p>
+            </div>
+          </div>
+          <div class="d-flex mb-5">
+            <!-- icon -->
+            <div class="ms-3">
+              <h4>Built-in Editor</h4>
+              <p class="lead text-muted">U3D and it's cross-platform suite of tools put the power to create stunning experiences at your fingertips. Visually create and manage scenes, materials and terrains.</p>
+            </div>
+          </div>
+          <div class="d-flex mb-5">
+            <!-- icon -->
+            <div class="ms-3">
+              <h4>Asset Workflow</h4>
+              <p class="lead text-muted">Import files from any Digital Content Creation tool using industry standards such as FBX, DAE and glTF, as well as community favorites like MD5, IQM and MD3.</p>
+            </div>
+          </div>
+        </div>
+        <div class="d-none d-lg-block col-4">
+          <img class="d-block mx-auto mt-lg-4 mt-xl-0 img-fluid" src="/assets/images/phone.png" alt="">
+        </div>
+        <div class="col-12 col-lg-4">
+          <div class="d-flex mb-5">
+            <!-- icon -->
+            <div class="ms-3">
+              <h4>Multiplayer Made Easy</h4>
+              <p class="lead text-muted">Bandwidth, latency, and packet loss are primary concerns among anyone looking to make a multiplayer games. Built on top of SLikeNet (RakNet), U3D gives you the power to create robust simulations.</p>
+            </div>
+          </div>
+          <div class="d-flex mb-5">
+            <!-- icon -->
+            <div class="ms-3">
+              <h4>Powerful Scripting</h4>
+              <p class="lead text-muted">Build with AngelScript and Lua. The built-in editor is powered by AngelScript, allowing you to easily customize your workflow. Native code is only used for low-level modules like rendering, physics and sound.</p>
+            </div>
+          </div>
+          <div class="d-flex mb-5">
+            <!-- icon -->
+            <div class="ms-3">
+              <h4>Create Once, Deploy Anywhere</h4>
+              <p class="lead text-muted">Deliver incredible interactive experiences on leading platforms such as Linux, MacOS, Windows, Android, iOS, tvOS, Raspberry Pi and the web.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--<section class="py-5">
+    <div class="container">
+
+
+      <div class="row">
+        <div class="col-12 col-md-6">
+          <div class="row">
+            <div class="col-6 p-2">
+              <img class="img-fluid rounded" src="/assets/images/blue-400-square.png" alt="">
+            </div>
+            <div class="col-6 p-2">
+              <img class="img-fluid rounded" src="/assets/images/blue-400-square.png" alt="">
+            </div>
+            <div class="col-12 p-2">
+              <img class="img-fluid rounded" src="/assets/images/blue-400-square.png" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6">
+          <div class="row">
+            <div class="col-12 p-2">
+              <img class="img-fluid rounded" src="/assets/images/blue-400-square.png" alt="">
+            </div>
+            <div class="col-6 p-2">
+              <img class="img-fluid rounded" src="/assets/images/blue-400-square.png" alt="">
+            </div>
+            <div class="col-6 p-2">
+              <img class="img-fluid rounded" src="/assets/images/blue-400-square.png" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>-->
+</div>
+
+<!--
+<div class="home">
+
+
+
+  <ul class="post-list"><li>
+        <span class="post-meta">Dec 7, 2022</span>
+        <h3>
+          <a class="post-link" href="/jekyll/update/2022/12/07/welcome-to-jekyll.html">
+            Welcome to Jekyll!
+          </a>
+        </h3></li></ul>
+
+    </div>
+-->
+<footer class="py-5">
+  <div class="container">
+    <div class="row border-bottom">
+      <div class="col-12 col-lg-3 mb-5">
+        <a class="d-inline-block mb-4" href="https://u3d.io">
+          <img class="img-fluid" src="/assets/images/logo.svg" alt="U3D Game Engine Logo" width="120">
+        </a>
+        <p class="text-muted">The open source cross-platform 2D and 3D game engine</p>
+        <p class="text-muted mb-5">Built with ❤ and C++, released under the MIT license.</p>
+      </div>
+      <div class="col-12 col-lg-9">
+        <div class="row">
+          <div class="col-12 col-md-6 col-lg-3 mb-5">
+            <h4 class="mb-4">Project</h4>
+            <ul class="list-unstyled">
+              <li class="mb-2"><a class="text-muted" href="#">Features</a></li>
+              <li class="mb-2"><a class="text-muted" href="https://github.com/orgs/u3d-community/projects/1">Roadmap</a></li>
+              <li class="mb-2"><a class="text-muted" href="#">News</a></li>
+              <li><a class="text-muted" href="https://github.com/u3d-community/U3D/releases">Releases</a></li>
+            </ul>
+          </div>
+          <div class="col-12 col-md-6 col-lg-3 mb-5">
+            <h4 class="mb-4">Learn</h4>
+            <ul class="list-unstyled">
+              <li class="mb-2"><a class="text-muted" href="#">Documentation</a></li>
+              <li class="mb-2"><a class="text-muted" href="#">Samples</a></li>
+              <li class="mb-2"><a class="text-muted" href="#">Tutorials</a></li>
+              <li><a class="text-muted" href="#">Forums</a></li>
+            </ul>
+          </div>
+          <div class="col-12 col-md-6 col-lg-3 mb-5">
+            <h4 class="mb-4">Legal</h4>
+            <ul class="list-unstyled">
+              <li class="mb-2"><a class="text-muted" href="https://github.com/u3d-community/U3D/blob/master/LICENSE">License</a></li>
+              <li class="mb-2"><a class="text-muted" href="https://github.com/u3d-community/U3D/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a></li>
+              <li class="mb-2"><a class="text-muted" href="https://github.com/u3d-community/U3D/graphs/contributors">Contributors</a></li>
+              <li><a class="text-muted" href="#">Privacy Policy</a></li>
+            </ul>
+          </div>
+          <div class="col-12 col-md-6 col-lg-3 mb-5">
+            <h4 class="mb-4">Community</h4>
+            <ul class="list-unstyled">
+              <li class="mb-2"><a class="text-muted" href="https://discord.gg/httHCqcXGx">Discord</a></li>
+              <li class="mb-2"><a class="text-muted" href="https://twitter.com/u3dcommunity">Twitter</a></li>
+              <li class="mb-2"><a class="text-muted" href="https://github.com/u3d-community/U3D">GitHub</a></li>
+              <li><a class="text-muted" href="#">Forum</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,4 @@
+<map id="Urho3D::View::PrepareInstancingBuffer" name="Urho3D::View::PrepareInstancingBuffer">
+<area shape="rect" id="node1" title="Prepare instancing buffer by filling it with all instance transforms." coords="203,29,413,69"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,37,155,62"/>
+</map>

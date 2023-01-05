@@ -1,0 +1,27 @@
+<map id="Urho3D::UIElement::GetLayoutFlexScale" name="Urho3D::UIElement::GetLayoutFlexScale">
+<area shape="rect" id="node1" title=" " coords="1187,569,1327,609"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#a7cba78373c23a734a1ccd2d4a27d8cb0" title="Manually update layout. Should not be necessary in most cases, but is provided for completeness." coords="999,569,1139,609"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_console.html#a21804113c047d876e9358aaa9daabf67" title="Handle the application post&#45;update." coords="261,154,459,194"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#afca95d8f1971fbbdcf725f715cc8c7a9" title="Insert a child element into a specific position in the child list." coords="793,569,933,609"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_console.html#a18546b712ec118a256122c627696662e" title=" " coords="231,851,489,876"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_drop_down_list.html#adb8bb7987d43e4bd48ce46d6084ecb9e" title="React to the popup being shown." coords="785,185,941,225"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_file_selector.html#a8ec8d229ef0e2a4836634e01e96803a7" title="Refresh the directory listing." coords="791,249,934,289"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_u_i_element.html#a24bd32cbd9356abf64ed68794df20645" title="Remove all child elements." coords="793,313,933,353"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_u_i_element.html#a9ccf68e4882157d8fc2489ea9b10a658" title="Remove a child element. Starting search at specified index if provided." coords="793,377,933,417"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_u_i_element.html#a7f9a61d707abb6dcc23dbd95b52d70ac" title="Remove a child element at index." coords="789,441,936,481"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_list_view.html#a2568134e5cc55f11963bd4625733cfb8" title=" " coords="775,505,951,545"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_u_i_element.html#af2b8879d81cc3c08d95a4b258d5d1f8e" title=" " coords="793,1003,933,1043"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_u_i_element.html#abc9749941382d57ff49605ef09c04933" title=" " coords="793,633,933,673"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_u_i_element.html#aa7dc82c9cbc8ac78b1ecf0a657a2d602" title="Set layout parameters." coords="793,697,933,737"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_u_i_element.html#ac424a8ee2f85b244dbe97050caad36e9" title=" " coords="793,761,933,801"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_u_i_element.html#a9487a437978a893fcab389212c8bc69a" title=" " coords="290,26,430,66"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i_element.html#a5a59dad3fead51e2cf52748aabf2dc33" title=" " coords="290,90,430,130"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_u_i_element.html#a388303ecaef3a6d4764cf84f3dfcceb8" title=" " coords="793,939,933,979"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_u_i_element.html#a8a0131dfc7f06ce10cdb77418ec830a9" title=" " coords="793,875,933,915"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_text.html#a27a4bc43cff802472202b3d1e532ceba" title="Update text when text, font or spacing changed." coords="777,1068,948,1093"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_console.html#afa65f6eacc596b544de5b0c3bc1a3d55" title="Construct." coords="5,129,183,155"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i_element.html#a76a4d4fc652ea858d46846ac2739ee98" title="Add a child element." coords="562,505,702,545"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i_element.html#a3e25622810270687bc65f5592cc00346" title="Create and add a child element and return it." coords="562,569,702,609"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_list_view.html#aeb784361fd2f048e99d554b6c4375e07" title="Insert item at a specific index. In hierarchy mode, the optional parameter will be used to determine ..." coords="537,879,727,904"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_u_i_element.html#a716e59972776da716fb58ccdbb67aece" title="Set parent element. Same as parent&#45;&gt;InsertChild(index, this)." coords="562,441,702,481"/>
+</map>

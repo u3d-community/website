@@ -1,0 +1,5 @@
+<map id="Urho3D::Texture2D::BeginLoad" name="Urho3D::Texture2D::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,35,144,75"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html#a35f0e2447dcc25e8f3b9e42e10b69737" title="Return the asynchronous loading state." coords="192,5,383,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="192,70,383,95"/>
+</map>

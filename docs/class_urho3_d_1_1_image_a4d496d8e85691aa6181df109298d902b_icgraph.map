@@ -1,0 +1,4 @@
+<map id="Urho3D::Image::GetDepth" name="Urho3D::Image::GetDepth">
+<area shape="rect" id="node1" title=" " coords="192,13,363,38"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture3_d.html#adc338a79d4dbbb51605bf14a252135a3" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="5,5,144,45"/>
+</map>

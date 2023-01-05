@@ -1,0 +1,27 @@
+<map id="Urho3D::DynamicNavigationMesh::DrawDebugGeometry" name="Urho3D::DynamicNavigationMesh::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="5,383,192,423"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="788,292,951,332"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_nav_area.html#a6cafb2dc0af092d6d8a373b39fcd9615" title="Render debug geometry for the bounds." coords="257,133,453,173"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_obstacle.html#af80a0a0086a6a54717a9c5f8c3328ceb" title="Render debug information." coords="257,268,454,308"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_off_mesh_connection.html#a0a048b8f3d0cd96a21c5524c69462549" title="Visualize the component as debug geometry." coords="259,372,451,412"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_node.html#a8018ae5a2c8035dd296966c0508916c2" title="Return child scene nodes with a specific component." coords="265,461,445,501"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="281,525,429,565"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="240,590,471,615"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="271,639,440,665"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="1004,299,1155,325"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="1203,299,1313,325"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_debug_renderer.html#a6755ab0e0b3feef19e558a5dcb8c0e4f" title="Add a bounding box." coords="545,5,708,45"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="519,249,735,274"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="553,133,701,173"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_matrix3x4.html#a8a997c13dea4269829fee68ecb039fbe" title="Set translation elements." coords="557,69,696,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_debug_renderer.html#ab868b2db01ad55a58a1b24d957abc7eb" title="Add a solid quadrangular polygon." coords="788,5,951,45"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="784,141,955,166"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_debug_renderer.html#a0d99abb43932492c162c983954086ef9" title="Add a cylinder." coords="545,349,708,389"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_sphere.html#a87d3287a4cae266144da2ae624933ef1" title="Return point on the sphere." coords="785,359,954,385"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_debug_renderer.html#a3d37048a98900ea96aa762d7ff173e7c" title="Add a sphere." coords="545,413,708,453"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_p_o_d_vector.html#a56e61cb5b8216360fd62b20eb78b5faf" title="Clear the vector." coords="797,483,941,523"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_node.html#a6c1d54009931a69fc95c983e8e9a3f6f" title="Return child nodes with a specific component recursively." coords="537,552,717,592"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_p_o_d_vector.html#a3eb78093c096ab9e9d68595facc56470" title="Add an element at the end." coords="783,559,956,585"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_p_o_d_vector.html#a90931bab46c47be9f1989f4ec86bd487" title="Resize the vector." coords="1007,523,1151,563"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="543,667,711,693"/>
+</map>

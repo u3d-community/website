@@ -1,0 +1,27 @@
+<map id="Urho3D::OctreeQuery::TestOctant" name="Urho3D::OctreeQuery::TestOctant">
+<area shape="rect" id="node1" title="Intersection test for an octant." coords="2241,227,2387,267"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_octant.html#af3fa8d34fbf5cd8bd8862cad88924812" title="Return drawable objects by a query, called internally." coords="1995,227,2193,267"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_octree.html#ae6daf0b6ffcca32a2ad5bd2781e21f0a" title=" " coords="1748,177,1947,203"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_octree.html#a83d635e33962e1fe5353b1d402318888" title="Return drawable objects by a ray query." coords="1766,271,1929,296"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_zone.html#a59f02e5760339c323d4a61467b56f80e" title="Clear zone reference from drawables inside the bounding box." coords="1469,55,1700,80"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_view.html#a0cddca92d8a715b17404427840d201fb" title="Query the octree for drawable objects." coords="1491,128,1679,153"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="1493,177,1676,203"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_zone.html#adef9612f3087baa6b90b52e6582722dd" title="Recalculate the ambient gradient colors from neighbor zones. Not safe to call from worker threads due..." coords="1485,227,1685,267"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_zone.html#a65c40c118a023a143f0ed53ac3bab5ab" title="Handle node transform being dirtied." coords="1220,5,1419,31"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_zone.html#a58ff49f54696d48d7fd02448ca579fbd" title="Handle removal from octree." coords="1217,55,1421,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_zone.html#a0484162a595123827bda691a1a37ab12" title=" " coords="964,5,1169,31"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#a50c3fe5d5c2b3040e13925aa277a8d93" title="Update and cull objects and construct rendering batches." coords="1245,128,1394,153"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_renderer.html#a0fa71f5839321a9d68def7a2978f452a" title="Update a queued viewport for rendering." coords="979,121,1154,161"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_renderer.html#a993f63f35d27a9ea6df861962018f354" title="Update for rendering. Called by HandleRenderUpdate()." coords="741,128,916,153"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_renderer.html#adf594e7a524f6e003e8370cf23dbee13" title="Handle render update event." coords="519,121,693,161"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_renderer.html#ae0d765a240f7cf5f829ddc95cb2729c9" title="Initialize when screen mode initially set." coords="269,128,449,153"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_zone.html#a6c92c15c40080776d405946a08529b21" title=" " coords="1230,202,1409,242"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_zone.html#ad7727166f310855a172c56910ade518c" title=" " coords="1230,266,1409,306"/>
+<area shape="rect" id="node17" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="989,248,1145,273"/>
+<area shape="rect" id="node18" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="757,203,900,228"/>
+<area shape="rect" id="node22" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="758,253,899,293"/>
+<area shape="rect" id="node19" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="535,231,677,271"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="5,226,200,266"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="248,271,471,296"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_octree.html#a3f0f2c5115f5426593ad64d982544a3d" title="Return the closest drawable object by a ray query." coords="1485,292,1684,317"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Urho3D::BillboardSet::OnWorldBoundingBoxUpdate" name="Urho3D::BillboardSet::OnWorldBoundingBoxUpdate">
+<area shape="rect" id="node1" title="Recalculate the world&#45;space bounding box." coords="5,77,204,117"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="259,5,475,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="252,55,483,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_bounding_box.html#a4befcf3c67e94eb2f1924e1179b09bd2" title="Merge a point." coords="292,105,443,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_matrix3x4.html#a0cdac780b2a7ea2077287c6b7a6ea631" title="Return the scaling part." coords="298,169,437,209"/>
+</map>

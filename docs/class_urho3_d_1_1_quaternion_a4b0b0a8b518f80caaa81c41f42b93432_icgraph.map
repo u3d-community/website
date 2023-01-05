@@ -1,0 +1,21 @@
+<map id="Urho3D::Quaternion::EulerAngles" name="Urho3D::Quaternion::EulerAngles">
+<area shape="rect" id="node1" title=" " coords="977,278,1115,318"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_camera.html#a550d2bdf61207a877e5ecf7bbb6e247e" title="Return a world rotation for facing a camera on certain axes based on the existing world rotation." coords="711,118,929,158"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_i_k_effector.html#a1d3396194f8934996bc7317e7aa357fc" title="Required for the editor, get the target rotation in euler angles." coords="739,214,901,254"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_quaternion.html#a4c8baca841bc265593038fa4a5b32847" title=" " coords="751,278,889,318"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_quaternion.html#a84d99238ace3cbe144d4caae42fa1bc4" title=" " coords="751,342,889,382"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_quaternion.html#ae5d50150c9fba0b05885339001685495" title=" " coords="751,406,889,446"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_text3_d.html#aa77a802e886bfb646350e8d0a0a70958" title="Recalculate camera facing and fixed screen size." coords="488,22,663,62"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_billboard_set.html#ae8d8caed716187e339f5e6488d25f156" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="504,86,647,126"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_billboard_set.html#adc0ee0f5b93f2ecea3db3569355ba0fc" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="504,150,647,190"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_text3_d.html#aff78b88d77fa5beca14427ab5572c99b" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="225,5,435,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_text3_d.html#ae76455bed7ea206ebb893e49c5a14ae7" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="220,55,440,80"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_i_k_effector.html#a2f3246c4a28ba043ec8a2ae7c93890e3" title=" " coords="509,214,641,254"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_rigid_body2_d.html#a6dc7a3910ee3dc93bbb7ade0f8fad5ef" title="Create body." coords="501,278,649,318"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_rigid_body2_d.html#a8a4d448e59079ef0de29b72d0f7c9684" title="Handle node transform being dirtied." coords="501,342,649,382"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_particle_emitter2_d.html#a59d6b326bcbe8273a103208935845cef" title="Update." coords="492,406,659,446"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_rigid_body2_d.html#a633bf73a98b1099f261f061ab3c65ce2" title="Handle scene being assigned." coords="256,278,404,318"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_particle_emitter2_d.html#abaa5fbe514eb5d5904039f69cd75257d" title="Handle scene post update." coords="238,406,422,446"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_particle_emitter2_d.html#a09b2df5a425839d0feff440a78ce1f5f" title="Handle scene being assigned." coords="5,374,172,414"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_particle_emitter2_d.html#aaa7a512b4fb84e3343be39bf899fb58d" title="Handle enabled/disabled state change." coords="5,438,172,478"/>
+</map>

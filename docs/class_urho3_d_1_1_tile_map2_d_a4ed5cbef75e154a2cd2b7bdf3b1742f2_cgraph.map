@@ -1,0 +1,15 @@
+<map id="Urho3D::TileMap2D::DrawDebugGeometry" name="Urho3D::TileMap2D::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="5,213,152,253"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="216,29,379,69"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_tile_map2_d.html#a721cfd249053a9dec72f879988f47472" title="Add debug geometry to the debug renderer." coords="224,117,371,157"/>
+<area shape="rect" id="node10" href="$struct_urho3_d_1_1_tile_map_info2_d.html#aeffb8d16f5cc16378906cd4b9d191020" title=" " coords="217,181,377,221"/>
+<area shape="rect" id="node11" href="$struct_urho3_d_1_1_tile_map_info2_d.html#a738ffbcaa7e996ab94ebd3b84ac13090" title=" " coords="217,245,377,285"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="223,309,371,349"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a7f36ffbac48689b8453d03c6a57a776f" title=" " coords="200,374,395,399"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="469,37,620,62"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="739,37,850,62"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a0c7ddadabfbb191e42b39877ca84cd67" title="Return component from the whole scene by ID, or null if not found." coords="443,106,647,131"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="471,156,619,196"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="695,106,895,131"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="711,163,879,189"/>
+</map>

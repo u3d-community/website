@@ -1,0 +1,27 @@
+<map id="Urho3D::IntRect::Size" name="Urho3D::IntRect::Size">
+<area shape="rect" id="node1" title=" " coords="1336,166,1481,191"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#a38bd2f1292778c57fae949c4e271c20d" title="Define with rendertarget and viewport. Return true if successful." coords="1107,75,1251,101"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_renderer.html#a0fa71f5839321a9d68def7a2978f452a" title="Update a queued viewport for rendering." coords="833,65,1008,105"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_graphics.html#a27670beb9e90540f69da3d24da2d07bd" title="Set scissor test." coords="1069,191,1288,217"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_cursor.html#a132e53f70b2e45f29a5ead1e5db84bbd" title=" " coords="1091,421,1266,446"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_renderer.html#a993f63f35d27a9ea6df861962018f354" title="Update for rendering. Called by HandleRenderUpdate()." coords="573,13,748,38"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_renderer.html#adf594e7a524f6e003e8370cf23dbee13" title="Handle render update event." coords="302,5,477,45"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_graphics.html#a72c254ccb779fe20b39574042ba49786" title="Clear any or all of rendertarget, depth buffer and stencil buffer." coords="840,247,1001,273"/>
+<area shape="rect" id="node10" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="849,129,992,169"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_graphics.html#ad417d2adc6d3fb173ec3e3d8fefd8b48" title="Set viewport." coords="820,194,1021,219"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_graphics.html#afdcde1ab06c42a77cc58fb29e4594f0c" title=" " coords="277,209,501,234"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_graphics.html#a573706d930b58c9d903611affebae991" title=" " coords="5,209,229,234"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="292,116,487,156"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="549,86,772,111"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_graphics.html#ae1d5bec42a30f9b3d6ad41db33084388" title="Reset all rendertargets, depth&#45;stencil surface and viewport." coords="558,187,763,227"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_cursor.html#ac42187d96290b83a4f8995d2264cba87" title="Define a shape." coords="824,351,1017,377"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_u_i.html#a444cb18d7cdbab6b37be5a6245c77388" title="Handle button or touch hover." coords="833,421,1009,446"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_window.html#a051e2a3e7e8052bd903a6460ea6dde0c" title="Set cursor shape based on drag mode." coords="827,471,1014,511"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_cursor.html#a80576d788b0d9598414fe08daffd3543" title="Set current shape." coords="833,535,1008,561"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_cursor.html#a97d9d20ad1d104a8d6a768415bd26d21" title="Define a shape." coords="564,351,757,377"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_cursor.html#a704d15848ce28eef980f3334146ad161" title="Set shapes attribute." coords="559,302,763,327"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_u_i.html#a72b99e98631cc015245568170dc221e0" title="Update the UI logic. Called by HandlePostUpdate()." coords="593,425,728,450"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_window.html#a932ccd738d5c204646be87a8e6d72dde" title="React to mouse drag begin." coords="559,573,762,598"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_window.html#a6b1bc0d6b435cc9fea0c0ed1fda015f3" title="React to mouse drag motion." coords="559,474,762,499"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_window.html#ad453fbdaf401511490f0206a40c94b59" title="React to mouse hover." coords="571,523,750,549"/>
+</map>

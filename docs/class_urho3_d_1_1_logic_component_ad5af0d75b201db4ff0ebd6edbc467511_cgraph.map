@@ -1,0 +1,5 @@
+<map id="Urho3D::LogicComponent::OnNodeSet" name="Urho3D::LogicComponent::OnNodeSet">
+<area shape="rect" id="node1" title="Handle scene node being assigned at creation." coords="5,37,180,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_logic_component.html#af7def43622414f47917715bd4cba04b3" title="Called when the component is added to a scene node. Other components may not yet exist." coords="228,5,403,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_logic_component.html#abcf1b341a1f3d950a76f689ee4286dcc" title="Called when the component is detached from a scene node, usually on destruction. Note that you will n..." coords="228,69,403,109"/>
+</map>

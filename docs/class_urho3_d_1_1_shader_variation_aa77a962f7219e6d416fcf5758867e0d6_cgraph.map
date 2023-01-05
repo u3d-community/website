@@ -1,0 +1,6 @@
+<map id="Urho3D::ShaderVariation::Release" name="Urho3D::ShaderVariation::Release">
+<area shape="rect" id="node1" title="Release the shader." coords="5,5,172,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#ac6f0b2fb0bce5afbeb088c7cb15abbe1" title="Clear the string." coords="220,13,364,38"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="412,13,564,38"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a953822d6a39e507861ee02a24bb7996e" title="Copy chars from one buffer to another." coords="612,13,791,38"/>
+</map>

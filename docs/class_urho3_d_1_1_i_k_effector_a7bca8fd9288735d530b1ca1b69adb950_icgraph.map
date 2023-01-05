@@ -1,0 +1,4 @@
+<map id="Urho3D::IKEffector::SetRotationWeight" name="Urho3D::IKEffector::SetRotationWeight">
+<area shape="rect" id="node1" title="Sets how much influence the target rotation should have on the solution. A value of 1 means to match ..." coords="185,5,321,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_i_k_effector.html#a2f3246c4a28ba043ec8a2ae7c93890e3" title=" " coords="5,5,137,45"/>
+</map>

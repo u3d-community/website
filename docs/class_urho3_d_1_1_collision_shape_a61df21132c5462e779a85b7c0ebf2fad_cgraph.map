@@ -1,0 +1,13 @@
+<map id="Urho3D::CollisionShape::OnMarkedDirty" name="Urho3D::CollisionShape::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="5,127,165,167"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a3cd5eac8dc19288118ed5578257a17cb" title="Add a component to the delayed dirty notify queue. Is thread&#45;safe." coords="213,5,421,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="243,69,391,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="469,141,669,166"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="226,184,409,224"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_collision_shape.html#a8cfe09cb27ec041dedcd92a69293bcbc" title="Update the new collision shape to the RigidBody." coords="237,248,397,288"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="485,77,653,102"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="490,198,649,223"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_collision_shape.html#ab1f08f05ff8c76e97b03d6d9a94baf7e" title="Find the parent rigid body component and return its compound collision shape." coords="476,248,663,288"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="495,312,643,352"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="717,319,888,345"/>
+</map>

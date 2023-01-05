@@ -1,0 +1,27 @@
+<map id="Urho3D::AsyncProgress" name="Urho3D::AsyncProgress">
+<area shape="rect" id="node1" title="Asynchronous loading progress of a scene." coords="2708,278,2869,303"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1523,112,1661,152"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_file.html" title="File opened either through the filesystem or from within a package file." coords="1131,90,1225,115"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_object.html" title=" " coords="925,187,1036,213"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_resource.html" title=" " coords="1114,223,1242,249"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="243,210,385,235"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="622,238,741,263"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,210,133,235"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="409,77,572,117"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1685,261,1864,301"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="596,123,767,163"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_abstract_file.html" title="A common root class for objects that implement both Serializer and Deserializer." coords="909,73,1052,98"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_deserializer.html" title=" " coords="610,73,753,98"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1888,181,2027,221"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_x_m_l_file.html" title="XML document resource." coords="1375,209,1495,234"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_j_s_o_n_file.html" title="JSON document resource." coords="1372,353,1499,378"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="1101,159,1255,199"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="2237,335,2377,375"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_j_s_o_n_value.html" title="JSON value class." coords="1109,378,1247,403"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_x_m_l_element.html" title="Element in an XML file." coords="2417,278,2565,303"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_x_path_result_set.html" title="XPath query result set." coords="2051,239,2213,265"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_hash_set.html" title=" " coords="2401,404,2580,444"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="2065,453,2199,478"/>
+<area shape="rect" id="node24" href="$struct_urho3_d_1_1_hash_node_base.html" title="Hash set/map node base class." coords="1691,570,1858,595"/>
+<area shape="rect" id="node25" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="1695,453,1855,478"/>
+</map>

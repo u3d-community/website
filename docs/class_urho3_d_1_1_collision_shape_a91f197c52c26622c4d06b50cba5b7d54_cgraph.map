@@ -1,0 +1,6 @@
+<map id="Urho3D::CollisionShape::GetWorldBoundingBox" name="Urho3D::CollisionShape::GetWorldBoundingBox">
+<area shape="rect" id="node1" title=" " coords="5,47,167,87"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="230,5,430,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="215,55,445,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_matrix3x4.html#a4e420dc4d1429c92a437853fcf7bc5f8" title="Return the rotation part." coords="261,105,399,145"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::IKEffector::SetRotationDecay" name="Urho3D::IKEffector::SetRotationDecay">
+<area shape="rect" id="node1" title="A factor with which to control the target rotation influence of the next segments down the chain." coords="5,22,137,62"/>
+<area shape="rect" id="node2" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="185,29,296,55"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::ParticleEmitter::SetEffect" name="Urho3D::ParticleEmitter::SetEffect">
+<area shape="rect" id="node1" title=" " coords="5,497,165,537"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_particle_emitter.html#a182059fa9f28d25885dc2f036377f92b" title="Apply not continuously updated values such as the material, the number of particles and sorting mode ..." coords="469,329,629,369"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="899,265,1047,305"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_particle_emitter.html#a4386ac257cdc5a82ae8714cd402cc9a3" title="Handle live reload of the particle effect." coords="213,468,408,508"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_particle_emitter.html#a703852a36efccdd7420ffaf0eab56617" title="Reset the particle emitter completely. Removes current particles, sets emitting state on,..." coords="469,525,629,565"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="223,621,398,661"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_object.html#a153b96c4397e045b2ca2b2d5471d097c" title="Unsubscribe from an event." coords="216,749,405,789"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_billboard_set.html#a1f1557cbe2c62b021f002a716d46de14" title=" " coords="693,233,848,273"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_billboard_set.html#af91693e93fee36742068ce645f4525eb" title=" " coords="693,297,849,337"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_billboard_set.html#ac36ee02b975064444f530988bc11479d" title=" " coords="699,361,842,401"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_billboard_set.html#ab062b7ae1d21d56b8d4c95de88cabce8" title=" " coords="699,425,842,465"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_particle_emitter.html#a7e1637d4c2cf88ab57a02f82049e3827" title=" " coords="691,489,851,529"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_billboard_set.html#abdf237f420e5d0518c15485a7455ca86" title=" " coords="699,41,842,81"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_billboard_set.html#aaf5b99a27784112f2f30f74a09fee33f" title=" " coords="699,105,842,145"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_billboard_set.html#aebf71f5a4b71cb7796bdd9a1a186c2c6" title=" " coords="699,169,842,209"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="1119,201,1267,241"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="1119,265,1267,305"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="1095,353,1292,393"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_particle_emitter.html#a30b8c39ac162550d8a8145b56e71c141" title="Remove all current particles." coords="691,553,851,593"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_particle_emitter.html#ac61e2bdd8719946a586ae73f1082f2f2" title="Reset the emission period timer." coords="691,617,851,657"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_particle_emitter.html#aad036d748e8fcd0c5aced83a6b0c1c76" title=" " coords="691,681,851,721"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="459,653,640,693"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="456,717,643,757"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="464,589,635,629"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_object.html#a00bec56f305dd6636d186e5b351d0264" title="Find the first event handler with no specific sender." coords="463,781,635,821"/>
+</map>

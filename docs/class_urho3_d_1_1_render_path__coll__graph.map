@@ -1,0 +1,8 @@
+<map id="Urho3D::RenderPath" name="Urho3D::RenderPath">
+<area shape="rect" id="node1" title="Rendering path definition. A sequence of commands (e.g. clear screen, draw objects with specific pass..." coords="564,65,705,90"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="269,7,412,33"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="12,7,140,33"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html" title=" " coords="257,57,424,97"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,99,147,125"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html" title=" " coords="256,121,425,161"/>
+</map>

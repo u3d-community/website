@@ -1,0 +1,13 @@
+<map id="Urho3D::Drawable::DrawDebugGeometry" name="Urho3D::Drawable::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="5,204,205,244"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#a6755ab0e0b3feef19e558a5dcb8c0e4f" title="Add a bounding box." coords="267,115,429,155"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_drawable.html#a3930dc9342c0aefcfd4c94eb8079e365" title=" " coords="253,204,443,244"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="274,268,422,308"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="724,29,887,69"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="935,94,1085,119"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_debug_renderer.html#ab868b2db01ad55a58a1b24d957abc7eb" title="Add a solid quadrangular polygon." coords="502,144,665,184"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="1133,94,1244,119"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_debug_renderer.html#a098d3d22f1af148c3a9b7657eed89454" title="Add a solid triangle." coords="724,168,887,208"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_drawable.html#af146747caaf6fd85ab71fda4e364bde4" title="Recalculate the world&#45;space bounding box." coords="491,208,676,248"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="498,275,669,301"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Urho3D::PropertySet2D" name="Urho3D::PropertySet2D">
+<area shape="rect" id="node1" title="Property set." coords="91,420,249,445"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,325,148,350"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="13,229,141,255"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="172,317,357,357"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="198,229,331,255"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_hash_node_base.html" title="Hash set/map node base class." coords="32,103,199,128"/>
+<area shape="rect" id="node7" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="290,103,450,128"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_allocator_node.html" title="Allocator node." coords="290,5,450,31"/>
+</map>

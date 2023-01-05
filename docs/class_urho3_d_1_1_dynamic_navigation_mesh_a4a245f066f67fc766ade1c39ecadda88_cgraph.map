@@ -1,0 +1,27 @@
+<map id="Urho3D::DynamicNavigationMesh::Build" name="Urho3D::DynamicNavigationMesh::Build">
+<area shape="rect" id="node1" title="Rebuild part of the navigation mesh in the rectangular area. Return true if successful." coords="5,665,192,705"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a9b955871256dc8a0509c85d4535cfd91" title="Build tiles in the rectangular area. Return number of built tiles." coords="247,401,433,441"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_navigation_mesh.html#a841b7dc758f63dcec5908322d5fa0895" title="Collect geometry from under Navigable components." coords="497,640,665,680"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector3.html#a33cac219f3eab4ffe4d3d5effdde33e0" title="Test for equality with another vector with epsilon." coords="258,698,422,723"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="240,747,440,773"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac0f1a30258c353d442f6006cd0ddf2fa" title="Build one tile of the navigation mesh. Return true if successful." coords="488,219,675,259"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html#a5be72d35fc52d2623985f20b95855d10" title="Return whether vector is empty." coords="766,5,910,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="743,70,933,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="759,119,917,145"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object.html#a8bd9b32c8a56c2f6d618d8afe8091eb7" title="Return execution context." coords="747,169,929,194"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="750,219,926,259"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="764,347,912,387"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_navigation_mesh.html#a6fc3d8aa1cf4e1c7a69c4946c7c6f720" title="Return bounding box of the tile in the node space." coords="754,283,922,323"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="753,411,923,437"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a33c8b46fb4ba500ad71dbf7f2652066f" title="Return all components." coords="734,705,942,730"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_off_mesh_connection.html#a2e74719297b1b8ee935030e03d89eff7" title=" " coords="742,755,934,795"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_off_mesh_connection.html#a21ff30a5418629eebed6d4cacf1cc271" title=" " coords="742,819,934,859"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_nav_area.html#ad620b0ac7226713e990694cb1e75b6a3" title=" " coords="745,933,931,973"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_bounding_box.html#a00fe243d05516209a4ef6f83ff7179df" title="Return transformed by a 3x3 matrix." coords="1001,905,1152,945"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="723,998,953,1023"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="769,461,907,501"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="764,525,912,565"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="765,590,911,615"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_matrix3x4.html#a30a35295a4d931ac923e4fc0bdb10502" title="Return the translation part." coords="769,640,907,680"/>
+<area shape="rect" id="node24" href="$_math_defs_8h.html#ad6a5d6144733a3594df64e9f8cbb3610" title=" " coords="525,729,637,754"/>
+</map>

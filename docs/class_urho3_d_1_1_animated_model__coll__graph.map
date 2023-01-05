@@ -1,0 +1,27 @@
+<map id="Urho3D::AnimatedModel" name="Urho3D::AnimatedModel">
+<area shape="rect" id="node1" title="Animated model component." coords="1865,643,2033,669"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_static_model.html" title="Static model component." coords="1486,354,1630,379"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="1003,214,1129,239"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html" title=" " coords="536,289,679,314"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="208,121,359,146"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_octant.html" title=" " coords="552,239,663,265"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="5,215,124,241"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html" title=" " coords="524,339,691,379"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="213,583,354,609"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="733,370,939,425"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector.html" title=" " coords="743,434,929,489"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html" title=" " coords="524,872,691,912"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html" title=" " coords="1175,928,1417,968"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector.html" title=" " coords="1213,808,1379,848"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_vector.html" title=" " coords="1454,562,1662,617"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="763,708,909,748"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector.html" title=" " coords="1208,152,1384,192"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html" title=" " coords="1441,497,1675,537"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_vector.html" title=" " coords="715,760,957,800"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="535,605,680,645"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="997,264,1135,304"/>
+<area shape="rect" id="node13" href="$struct_urho3_d_1_1_resource_ref_list.html" title="List of typed resource references." coords="981,329,1151,354"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_skeleton.html" title=" " coords="1234,874,1358,899"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector_buffer.html" title="Dynamically sized buffer that can be read and written to as a stream." coords="992,643,1140,669"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_abstract_file.html" title="A common root class for objects that implement both Serializer and Deserializer." coords="536,670,679,695"/>
+</map>

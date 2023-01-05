@@ -1,0 +1,5 @@
+<map id="Urho3D::Sqrt" name="Urho3D::Sqrt">
+<area shape="rect" id="node1" title=" " coords="421,29,520,55"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_particle_emitter.html#a4e4872622bad52221835f26ac78be6b4" title="Create a new particle. Return true if there was room." coords="213,22,373,62"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_particle_emitter.html#a482ed0bdc3327f8c7c5e856e4e39a812" title="Update before octree reinsertion. Is called from a worker thread." coords="5,22,165,62"/>
+</map>

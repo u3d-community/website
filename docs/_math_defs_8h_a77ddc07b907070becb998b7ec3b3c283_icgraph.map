@@ -1,0 +1,7 @@
+<map id="Urho3D::Pow" name="Urho3D::Pow">
+<area shape="rect" id="node1" title=" " coords="467,77,565,102"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_color.html#ac89ca3b4b70897fb89a42eccc3bc2716" title="Convert single component of the color from gamma to linear space." coords="213,5,419,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_color.html#a7da0b837ed0a184090412cb0c6b4033b" title="Convert single component of the color from linear to gamma space." coords="219,69,413,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_particle_emitter.html#a4e4872622bad52221835f26ac78be6b4" title="Create a new particle. Return true if there was room." coords="236,133,396,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_particle_emitter.html#a482ed0bdc3327f8c7c5e856e4e39a812" title="Update before octree reinsertion. Is called from a worker thread." coords="5,133,165,173"/>
+</map>

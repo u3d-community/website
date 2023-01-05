@@ -1,0 +1,11 @@
+<map id="Urho3D::UnknownComponent::SaveXML" name="Urho3D::UnknownComponent::SaveXML">
+<area shape="rect" id="node1" title="Save as XML data. Return true if successful." coords="5,151,203,191"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_x_m_l_element.html#af8968bd1a431788069818955496490d7" title="Create a child element." coords="496,29,644,69"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_unknown_component.html#a18760e601139d873b9b797f20fa776fb" title="Return type name of the stored component." coords="251,57,448,97"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_x_m_l_element.html#ad7c2e67e5dfefddc309e1c809aa1ba74" title=" " coords="275,121,423,161"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_x_m_l_element.html#ae8956473bc7d5907f82a4b4b2533a051" title="Set an attribute." coords="496,223,644,263"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_x_m_l_element.html#ac01095ae8ee7304ea5de928fb53b0092" title="Set an integer attribute." coords="275,236,423,276"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_x_m_l_element.html#a4b76864ac2e5d9345eda301a19469dcd" title="Set a string attribute." coords="275,300,423,340"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="692,141,848,166"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_x_m_l_element.html#a83c9e8cdf51efcf7a24fb02c1d94d1f7" title=" " coords="496,121,644,161"/>
+</map>

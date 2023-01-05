@@ -1,0 +1,4 @@
+<map id="Urho3D::ParticleEmitter::SetEmitting" name="Urho3D::ParticleEmitter::SetEmitting">
+<area shape="rect" id="node1" title=" " coords="5,5,165,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_particle_emitter.html#a5f32c7de225d109c47bca36d06a423bd" title="Return whether has active particles." coords="213,5,373,45"/>
+</map>

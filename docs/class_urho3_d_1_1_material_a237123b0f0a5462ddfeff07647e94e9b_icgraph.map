@@ -1,0 +1,11 @@
+<map id="Urho3D::Material::GetOcclusion" name="Urho3D::Material::GetOcclusion">
+<area shape="rect" id="node1" title=" " coords="236,237,441,262"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_custom_geometry.html#a31a154baaef524bd807cfeaae3e8f262" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="7,5,186,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_static_model.html#a934ce91d3123ebed38229a8994d8d8b6" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="25,69,169,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_static_model_group.html#a13fe7ab600249a608a696249ec27b1f2" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="7,133,186,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_terrain_patch.html#a88a34eac04ed50670992e3371f5821d8" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="23,197,170,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_custom_geometry.html#a38a3d209076cf5f992e9ae8289230fc4" title="Return number of occlusion geometry triangles." coords="5,261,188,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_static_model.html#aaf54a9fadd15d371554bdeea827cfe67" title="Return number of occlusion geometry triangles." coords="5,325,188,365"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_static_model_group.html#ac48e6a4b29fe0ed8903744c698c5e0e2" title="Return number of occlusion geometry triangles." coords="5,389,188,429"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_terrain_patch.html#a38ee9b2d0cc4c9156ebdba0b86bd934f" title="Return number of occlusion geometry triangles." coords="5,453,188,493"/>
+</map>

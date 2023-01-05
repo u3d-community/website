@@ -1,0 +1,27 @@
+<map id="Urho3D::IntRect::Width" name="Urho3D::IntRect::Width">
+<area shape="rect" id="node1" title=" " coords="793,511,948,537"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_graphics.html#a72c254ccb779fe20b39574042ba49786" title="Clear any or all of rendertarget, depth buffer and stencil buffer." coords="297,537,459,562"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_sprite_sheet2_d.html#ae5759481ecc681a18a42a0deb1dc84fb" title="End load from PList file." coords="555,5,717,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animation_set2_d.html#a3b678397fa1bdef4df12c0009df462f1" title="Finish load scml." coords="552,69,720,109"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_view.html#a12e115af146e183d6ac73cd2de04e39d" title="Finalize shadow camera view after shadow casters and the shadow map are known." coords="279,163,477,203"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_sprite2_d.html#a8160551f366771876fa46090c5ee5248" title="Return draw rectangle with custom hot spot." coords="547,248,725,288"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_viewport.html#a8c4201376e14c0703281473d43527089" title="Return ray corresponding to normalized screen coordinates." coords="530,313,742,338"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_image.html#af9f6ee50d0efc9445e7c96f5db36cf47" title="Return an SDL surface from the image, or null if failed. Only RGB images are supported...." coords="533,362,739,387"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_image.html#aa00356020ffcbf5ff333a6748e959b5d" title="Return subimage from the image by the defined rect or null if failed. 3D images are not supported...." coords="539,411,733,437"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_int_rect.html#a284c2c7d90a1af7c02e8c49fd217a144" title=" " coords="557,461,715,486"/>
+<area shape="rect" id="node15" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="300,819,456,845"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_view.html#a12a5286373ed1a6d3a63520e6181c6b9" title="Quantize a directional light shadow camera view to eliminate swimming." coords="549,133,723,173"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_view.html#a798fe80282652472bd0fb2c0694bbfb8" title="Perform a quad rendering command." coords="288,901,468,926"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_graphics.html#abd08617bb78ea63930fed43edff8d3db" title="Resolve multisampled backbuffer to a texture rendertarget. The texture&#39;s size should match the viewpo..." coords="548,687,724,727"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_viewport.html#aada0c3ada21f92bac763432c8754fecd" title="Convert screen coordinates and depth to a world space point." coords="551,751,721,791"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_view.html#af8780a9f8ed62181090adf6d0f71e2e8" title="Set G&#45;buffer offset and inverse size shader parameters. Called by Batch and internally by View." coords="551,865,721,905"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_graphics.html#a27670beb9e90540f69da3d24da2d07bd" title="Set scissor test." coords="527,562,745,587"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_graphics.html#ad417d2adc6d3fb173ec3e3d8fefd8b48" title="Set viewport." coords="277,599,479,625"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_image.html#a46a9d296c44006d85b0dd65f97515ebb" title="Copy contents of the image into the defined rect, scaling if necessary. This image should already be ..." coords="539,981,733,1006"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_viewport.html#a5a57ee091281b06807b541d491bd5875" title="Convert a world space point to normalized screen coordinates." coords="545,1031,727,1071"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_graphics.html#afdcde1ab06c42a77cc58fb29e4594f0c" title=" " coords="5,537,229,562"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_sprite_sheet2_d.html#a05ebdc87304187318050a337b2e4d4c9" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="300,5,456,45"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_animation_set2_d.html#a400a05b2809c877bb5902b0ac46ccb82" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="294,69,462,109"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#a22d0ec09958510be31cf7e42a9d7f88f" title="Get batches from lit geometries and shadowcasters." coords="16,170,219,195"/>
+<area shape="rect" id="node16" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="46,819,189,845"/>
+</map>

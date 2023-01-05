@@ -1,0 +1,4 @@
+<map id="Urho3D::Component::Save" name="Urho3D::Component::Save">
+<area shape="rect" id="node1" title="Save as binary data. Return true if successful." coords="231,5,407,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a72ab6ab2922a29d780e57dd5b4d31a77" title="Save to a JSON file. Return true if successful." coords="5,5,183,31"/>
+</map>

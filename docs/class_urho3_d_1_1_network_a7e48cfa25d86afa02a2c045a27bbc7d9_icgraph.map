@@ -1,0 +1,8 @@
+<map id="Urho3D::Network::IsServerRunning" name="Urho3D::Network::IsServerRunning">
+<area shape="rect" id="node1" title=" " coords="744,79,923,119"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_network.html#a9cd2a8e5698132f649b56657977126ba" title="Send outgoing messages after frame logic. Called by HandleRenderUpdate." coords="497,13,696,38"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_network.html#a419581864bc1a7ca44ae7d7c9712a2fd" title="Start a server on a port using UDP protocol. Return true if successful." coords="499,86,695,111"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_network.html#acbc869d61a1cbb47a7843d27ce17fdce" title="Stop the server." coords="499,159,694,185"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_network.html#a9e10514a40056835caf21a3fb9737e77" title="Handle render update frame event." coords="235,5,449,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_network.html#a566fbbabc194a73f96b4dee6a62a3854" title="Construct." coords="5,13,187,38"/>
+</map>

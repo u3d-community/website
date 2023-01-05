@@ -1,0 +1,4 @@
+<map id="Urho3D::Button::OnClickEnd" name="Urho3D::Button::OnClickEnd">
+<area shape="rect" id="node1" title="React to mouse click end." coords="208,5,393,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_button.html#a6c6bffb4a9177202735ee0e465a23225" title="React to a key press." coords="5,5,160,31"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="Urho3D::Node::GetRotation" name="Urho3D::Node::GetRotation">
+<area shape="rect" id="node1" title=" " coords="1992,113,2173,138"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animation_state.html#a2618e6f947c1a9be664b370cfaf27c09" title="Apply track." coords="1764,12,1927,52"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_smoothed_transform.html#a585795208deb2e6c35c0083359662b41" title="Handle scene node being assigned at creation." coords="1747,76,1944,116"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a0bf5b40b97dc36a8b39370aee92ccd9d" title=" " coords="1747,141,1944,166"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_smoothed_transform.html#a35445b17dfcabb0deba9f1f697653296" title="Update smoothing." coords="1747,191,1944,231"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animation_state.html#a09d3f8acf5b318a2a5ad9f1816a1073c" title="Apply animation to a skeleton. Transform changes are applied silently, so the model needs to dirty it..." coords="1519,5,1681,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animation_state.html#a4ebbb3962edd5a28f17fc54151a341e4" title="Apply animation to a scene node hierarchy." coords="1519,69,1681,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animation_state.html#ae662a588f71a9adfb4aea3162bb2a742" title="Apply the animation at the current time position." coords="1273,5,1436,45"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_smoothed_transform.html#aab4734d09c12855615e3cccfa3353abb" title="Handle smoothing update event." coords="1501,133,1699,173"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_connection.html#a0a9e39346bc1f85b9186d3258a178ac1" title="Process a scene update message from the server. Called by Network." coords="1523,197,1677,237"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_smoothed_transform.html#a8b09dd0dbfeab2267cf3a24d557e2c1d" title=" " coords="1256,69,1453,109"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_smoothed_transform.html#a69036b0d190ce6079b9233bef9b3a341" title=" " coords="1256,133,1453,173"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_smoothed_transform.html#ae51de7786cf37af2e03027a1f285cca6" title=" " coords="996,69,1193,109"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_smoothed_transform.html#a03c46a0ce7a836fe6e725123fc94b312" title=" " coords="996,133,1193,173"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_connection.html#a577c99b55dfd76a7e6b7f8b1de90c5bd" title="Process a message from the server or client. Called by Network." coords="1285,197,1425,237"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_network.html#a27e675ccc446bc8f6567b4b9f2248f32" title="Handle an inbound message." coords="981,205,1208,230"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_network.html#a3d878e00c02066e4b7d5a77e3e129e12" title="All incoming packages are handled here." coords="707,197,933,237"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_network.html#a71021827cd049524ec014dd55cc24ea5" title="Process incoming messages from connections. Called by HandleBeginFrame." coords="487,205,659,230"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_network.html#aa03da1be461abb4b6567e8470966c594" title="Handle begin frame event." coords="235,197,439,237"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_network.html#a566fbbabc194a73f96b4dee6a62a3854" title="Construct." coords="5,205,187,230"/>
+</map>

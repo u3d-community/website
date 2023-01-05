@@ -1,0 +1,6 @@
+<map id="Urho3D::ResourceWithMetadata::GetMetadata" name="Urho3D::ResourceWithMetadata::GetMetadata">
+<area shape="rect" id="node1" title=" " coords="479,23,689,63"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource_with_metadata.html#a5d03bdec155fe2a32f1931ba40b2dbd6" title="Save as &lt;metadata&gt; children of XML element." coords="220,23,431,63"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animation.html#a1bc19982a7e4306cd738af534be5e1fe" title="Save resource. Return true if successful." coords="5,5,172,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_model.html#abff8eafc5209a8bdbc64676952fc445d" title="Save resource. Return true if successful." coords="16,55,161,80"/>
+</map>

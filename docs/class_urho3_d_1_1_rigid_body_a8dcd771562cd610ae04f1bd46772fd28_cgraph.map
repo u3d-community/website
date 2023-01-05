@@ -1,0 +1,27 @@
+<map id="Urho3D::RigidBody::OnSetEnabled" name="Urho3D::RigidBody::OnSetEnabled">
+<area shape="rect" id="node1" title="Handle enabled/disabled state change." coords="5,890,144,930"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_rigid_body.html#a84c961b128867e4b196defc0973d3e03" title="Create the rigid body, or re&#45;add to the physics world with changed flags. Calls UpdateMass()." coords="192,458,331,498"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="661,936,809,976"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_rigid_body.html#a1bdc0a663b7be7779c7b0ca5e798a185" title="Remove the rigid body from the physics world." coords="399,890,566,930"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_rigid_body.html#a0549375a0e491e9ce9871aa9fbad6a23" title="Activate rigid body if it was resting." coords="899,245,1037,285"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html#ac564a928bd75354adfdeb2b7fd225149" title="Return iterator to the beginning." coords="411,573,555,613"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_constraint.html#ac35c8dbd49e89d58bd3a27b7dcd050d1" title="Create the constraint." coords="416,776,549,816"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="889,764,1047,790"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_p_o_d_vector.html#ad9cedde70f6aac8dde2b7bfba7ca4fbb" title="Return iterator to the end." coords="399,523,566,548"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a33c8b46fb4ba500ad71dbf7f2652066f" title="Return all components." coords="379,51,587,76"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_rigid_body.html#a37ae8640d12032625ad4529e379f7e87" title="Handle SmoothedTransform target position update." coords="409,394,557,434"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_rigid_body.html#a82a3a354368c42172fe2b2f04e517311" title="Handle SmoothedTransform target rotation update." coords="408,330,557,370"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_collision_shape.html#a8cfe09cb27ec041dedcd92a69293bcbc" title="Update the new collision shape to the RigidBody." coords="403,688,563,728"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_rigid_body.html#a0df5cff91b5c733ed89b5a1e653fa9ca" title=" " coords="665,73,804,113"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_rigid_body.html#a24ca02f33ced726d73ca08a0d5b3bb41" title=" " coords="665,216,804,256"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="395,101,570,141"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_rigid_body.html#a4d0f803bf8285833124c55ec86bcd3d3" title="Update gravity parameters to the Bullet rigid body." coords="413,165,552,205"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_rigid_body.html#a1207bc70121deacf2aa07fde3c2731df" title="Update mass and inertia to the Bullet rigid body. Readd body to world if necessary: if was in world a..." coords="413,458,552,498"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_p_o_d_vector.html#a75ae397d58ffa509b1c4df45913107d6" title="Return the buffer with right type." coords="663,525,807,565"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_constraint.html#a99f0746af3049d429da0c6c98dfcd8de" title="Apply high and low constraint limits." coords="668,757,801,797"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="635,707,835,732"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_constraint.html#a96d464ec50d1fc25f2c176ecc77e1da8" title="Release the constraint." coords="667,821,802,861"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="883,943,1053,968"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_object.html#acc5ba824ee1b4e69c816920debba17ac" title="Return active event sender. Null outside event handling." coords="651,330,818,370"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_rigid_body.html#aed70a2b7db10634aa8f98cbac628fd30" title=" " coords="665,394,804,434"/>
+</map>

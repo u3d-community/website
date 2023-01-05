@@ -1,0 +1,12 @@
+<map id="Urho3D::FileWatcher::ThreadFunction" name="Urho3D::FileWatcher::ThreadFunction">
+<area shape="rect" id="node1" title="Directory watching loop." coords="5,137,148,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_file_watcher.html#a7b37b969f5507ce20912b110af8e2fc1" title="Add a file change into the changes queue." coords="219,5,362,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a20e68dd4e5bf8f9fc9a12eb74260d5bc" title="Append Unicode character at the end as UTF8." coords="196,70,385,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="215,119,366,145"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="219,169,362,194"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_time.html#af23f046cbb890e86fcfc9ee1e63f6935" title="Sleep for a number of milliseconds." coords="220,242,361,267"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_string.html#a954d2f1f13dc059aa7268e99bc3ff30f" title="Return substrings split by a separator char. By default don&#39;t return empty strings." coords="221,315,360,341"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#af929252b4bd8cbd8dca97a116365c359" title="Append a string." coords="449,46,607,71"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#a3b04a91d06f0b5b3651bbfa867d9539d" title="Encode Unicode character to UTF8. Pointer will be incremented." coords="433,95,623,121"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="450,315,606,341"/>
+</map>

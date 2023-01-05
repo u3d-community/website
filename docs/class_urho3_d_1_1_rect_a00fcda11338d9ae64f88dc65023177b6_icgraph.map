@@ -1,0 +1,7 @@
+<map id="Urho3D::Rect::Size" name="Urho3D::Rect::Size">
+<area shape="rect" id="node1" title=" " coords="507,63,637,88"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_renderer.html#a7d4509e32b17bff5f3069f8fe6fd448d" title="Allocate a shadow map. If shadow map reuse is disabled, a different map is returned each time." coords="232,5,459,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_stretchable_sprite2_d.html#aa1f511e41a44dc22f5828cfaf90f3e2e" title=" " coords="256,55,435,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_stretchable_sprite2_d.html#ac239dd667909ebb6c77a88c59d1a5051" title="Update source batches." coords="256,119,435,159"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_stretchable_sprite2_d.html#af8e75f630aae22c3fb27d40d10de450e" title=" " coords="5,55,184,95"/>
+</map>

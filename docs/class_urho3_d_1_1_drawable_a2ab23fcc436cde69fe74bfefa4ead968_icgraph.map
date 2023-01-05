@@ -1,0 +1,13 @@
+<map id="Urho3D::Drawable::OnRemoveFromOctree" name="Urho3D::Drawable::OnRemoveFromOctree">
+<area shape="rect" id="node1" title="Handle removal from octree." coords="759,184,956,224"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html#a48c3be2aa6cb930b2ce959784d76fdbe" title="Remove from octree." coords="529,184,711,224"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html#acf1d2b41b502aebfa72c2e280470b453" title="Handle scene being assigned." coords="272,77,476,102"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_drawable.html#aeff4f69d702780990bcc4e347a2394f0" title="Handle enabled/disabled state change." coords="267,191,481,217"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_drawable.html#a4be7208dbdfff0725eef83f33ad28536" title="Destruct." coords="307,241,441,281"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_particle_emitter.html#afe74659b2f5ad4d4e8ddea2763d532d4" title="Handle scene being assigned." coords="32,5,192,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_ribbon_trail.html#abcd8d907e0e358d04be6c6dc384b5952" title="Handle node being assigned." coords="43,69,181,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_decal_set.html#a1371572adf3c0894e4795331ac921c03" title="Handle enabled/disabled state change." coords="5,134,219,159"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_particle_emitter.html#a02e92fa2d7a1ae2250dfc62e7690dab0" title="Handle enabled/disabled state change." coords="32,184,192,224"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_ribbon_trail.html#ad528c577d774550e285139ff929eb59f" title="Handle enabled/disabled state change." coords="43,248,181,288"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animated_sprite2_d.html#a64ed9baed42a39436bd1904fa0716847" title="Handle enabled/disabled state change." coords="22,312,202,352"/>
+</map>

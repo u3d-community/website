@@ -1,0 +1,26 @@
+<map id="Urho3D::IKSolver::SetAlgorithm" name="Urho3D::IKSolver::SetAlgorithm">
+<area shape="rect" id="node1" title="Selects the solver algorithm. Default is FABRIK. Note that this may not be the most efficient algorit..." coords="5,70,211,95"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_i_k_solver.html#afe4c1364201933e830b92ac7b6712f6a" title=" " coords="259,5,463,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_i_k_solver.html#aad4ab41a3accf0ff067ad591d0f7c67e" title="Destroys the solver&#39;s tree." coords="515,38,714,63"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_i_k_solver.html#a215740ec5753a2347b9da9ec9d84cc07" title="Builds the solver&#39;s tree to match the scene graph&#39;s tree. If a tree already exists,..." coords="263,153,459,178"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_i_k_solver.html#afaa45ef02d8aee5717b9eabece7ac883" title="Builds a chain of nodes up to the node of the specified effector component." coords="523,317,706,357"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_i_k_solver.html#a47e782eedb4819ac1f24020a3cce5eaa" title="Creates the ik library node and sets the current rotation/position and user data correctly." coords="786,209,953,249"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_i_k_solver.html#ac31967b5c4363bddf59ff0c2e4cfd5e0" title=" " coords="516,88,713,128"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#a33c8b46fb4ba500ad71dbf7f2652066f" title="Return all components." coords="511,153,719,178"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_i_k_solver.html#a33218dc2749da6a94ea2d6e6df62f8c8" title="Indicates that the internal structures of the IK library need to be updated. See the documentation of..." coords="515,203,714,243"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_p_o_d_vector.html#a02b72389727e56688c9f6ed66c2f8733" title="Return last element." coords="1042,455,1215,481"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a1ce16fa386bfc7b728711030eb941723" title=" " coords="1056,273,1201,298"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="795,145,943,185"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_node.html#a1bc658c7b719ce21531882df362ea958" title=" " coords="785,95,954,121"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_node.html#a01570d66b89fd1fa1ee8305cf00e9a3b" title="Return whether has a specific component." coords="767,325,972,350"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_p_o_d_vector.html#a76e8bca181c0ab7e7ebbe5b325c35aa2" title="Remove the last element." coords="786,374,953,399"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_p_o_d_vector.html#a3eb78093c096ab9e9d68595facc56470" title="Add an element at the end." coords="783,423,956,449"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="785,525,954,550"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_p_o_d_vector.html#a75ae397d58ffa509b1c4df45913107d6" title="Return the buffer with right type." coords="1287,448,1431,488"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="1028,82,1229,107"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="1021,219,1237,245"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="1020,170,1237,195"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_component.html#a6070c8208ad98595d8c3fe43778d6069" title="Return component in the same scene node by type. If there are several, returns the first." coords="1285,75,1433,115"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_p_o_d_vector.html#a90931bab46c47be9f1989f4ec86bd487" title="Resize the vector." coords="1057,388,1201,428"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_p_o_d_vector.html#ad95f32802a5ab7121a76ffbb900af590" title="Copy elements from one buffer to another." coords="1287,384,1431,424"/>
+</map>

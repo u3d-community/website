@@ -1,0 +1,9 @@
+<map id="Urho3D::LineEdit::OnDragBegin" name="Urho3D::LineEdit::OnDragBegin">
+<area shape="rect" id="node1" title="React to mouse drag begin." coords="5,71,173,111"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_line_edit.html#add16b13ffa1b32a49d7294ea059317d0" title="Return char index corresponding to position within element, or M_MAX_UNSIGNED if not found." coords="221,35,395,75"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i_element.html#a0c63c42b67cf6cee49ac02130c664d3f" title="React to mouse drag begin." coords="238,103,378,143"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a0ce25dda5f6557938bd76b776efa8bf0" title="Convert element coordinates to screen coordinates." coords="447,29,587,69"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#a031e2acb1765a940b9427003cb8653d7" title=" " coords="640,29,780,69"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="828,37,927,62"/>
+<area shape="rect" id="node7" href="$_math_defs_8h.html#a66f1c3f10121770fd4beebe9b463a96f" title="Count the number of set bits in a mask." coords="443,118,592,143"/>
+</map>

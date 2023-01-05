@@ -1,0 +1,4 @@
+<map id="Urho3D::StaticModel::ProcessRayQuery" name="Urho3D::StaticModel::ProcessRayQuery">
+<area shape="rect" id="node1" title="Process octree raycast. May be called from a worker thread." coords="221,5,365,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animated_model.html#a21938736faaa6f521e4e58bc964367e2" title="Process octree raycast. May be called from a worker thread." coords="5,5,173,45"/>
+</map>

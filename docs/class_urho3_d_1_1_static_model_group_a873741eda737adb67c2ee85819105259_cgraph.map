@@ -1,0 +1,16 @@
+<map id="Urho3D::StaticModelGroup::ApplyAttributes" name="Urho3D::StaticModelGroup::ApplyAttributes">
+<area shape="rect" id="node1" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="5,171,184,211"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a1df1e1bfa613bbd82fe6624c211db754" title="Add listener component that is notified of node being dirtied. Can either be in the same node or anot..." coords="243,13,427,38"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="261,63,409,103"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#af130e2e88e5d29e1da2b9d4e52d73db2" title="Return node from the whole scene by ID, or null if not found." coords="251,127,419,153"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="752,189,900,229"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_drawable.html#a04a978441415a93f044721f6473df0e3" title="Handle node transform being dirtied." coords="238,228,433,268"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a98f711e232ccff9b596e7846bdffab96" title="Remove listener component." coords="232,293,439,318"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="264,342,407,367"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#ab49b4b66b2eb1601cf166972fe42e5ce" title="Handle scene node transform dirtied." coords="513,5,661,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="487,127,687,153"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="965,197,1133,222"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_octant.html#a7c998cf647fa3ba6fc98d05a9a04dc9d" title="Return octree root." coords="504,229,669,254"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_octree.html#a578eb27fbff722b23eecfd03ef0e5571" title="Mark drawable object as requiring an update and a reinsertion." coords="489,278,685,303"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="735,271,917,311"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Urho3D::XPathQuery::Evaluate" name="Urho3D::XPathQuery::Evaluate">
+<area shape="rect" id="node1" title=" " coords="5,69,147,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_x_m_l_element.html#ac1d05fad1aca64d16270194f7c0dccbb" title=" " coords="195,5,343,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_x_m_l_element.html#ab4e492158e638c4736c4cea5140bbe2e" title="Return pugixml xml_node_struct." coords="195,69,343,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_x_m_l_element.html#af4b207249187cfcb33f5ff47124652ae" title="Return pugixml xpath_node." coords="195,133,343,173"/>
+</map>

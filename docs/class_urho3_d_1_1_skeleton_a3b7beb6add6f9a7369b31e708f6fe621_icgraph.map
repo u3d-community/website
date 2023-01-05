@@ -1,0 +1,17 @@
+<map id="Urho3D::Skeleton::GetRootBone" name="Urho3D::Skeleton::GetRootBone">
+<area shape="rect" id="node1" title=" " coords="1161,121,1369,146"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animated_model.html#a942660d75530f688f2eff8f02dd369e2" title="Remove (old) skeleton root bone." coords="945,53,1113,93"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animated_model.html#a2de4b384ea7057c33a9318d374711623" title="Destruct." coords="718,113,886,153"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_animation_state.html#a73efb90d9d6a41debe30e4d151a50e85" title=" " coords="948,228,1111,268"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animated_model.html#a67a9794df35c334b050f689bb706847a" title="Set model." coords="479,5,647,45"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_animated_model.html#aeae317724517abf074f05f2c2c411697" title="Set skeleton." coords="718,49,886,89"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animated_model.html#af6af95070304f3ecca53d9dee1ce63ad" title="Handle model reload finished." coords="221,5,420,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animated_model.html#a4bcb1159367b1b112ba751b0b5747f59" title="Set model attribute." coords="237,69,405,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animated_model.html#a76a01a86a9b1bcca181bfe91ae0e4a95" title=" " coords="5,69,173,109"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_animated_model.html#a1a9c66f9b072816093f73d60e5b58f62" title="Assign skeleton and animation bone node references as a postprocess. Called by ApplyAttributes." coords="479,145,647,185"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_animated_model.html#a92285931ef13f7c032bb04a7799d5970" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="237,145,405,185"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_animation_state.html#a345dfb4137ec34a49b0abc34d443ea8f" title="Construct with animated model and animation pointers." coords="721,228,883,268"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_animation_controller.html#aad167fe194c7966566523bca3d871331" title="Set animations attribute for network replication." coords="707,292,897,332"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_animation_controller.html#ad8fb6e2fd723fe2537c523d25298bcca" title="Set animation start bone. Return true on success." coords="707,356,897,396"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_animation_controller.html#ab2f8aa461c4a24f1b8b9fb7b79083383" title=" " coords="468,292,659,332"/>
+</map>

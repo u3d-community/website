@@ -1,0 +1,9 @@
+<map id="Urho3D::Object::GetCategory" name="Urho3D::Object::GetCategory">
+<area shape="rect" id="node1" title=" " coords="5,84,195,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="250,5,418,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="255,55,413,80"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_context.html#a1720c6f21c157f06dda2c5ef535b2706" title="Return all object categories." coords="243,105,425,145"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object.html#a4c7af660afc8467a99d1f17c8d099b3b" title=" " coords="253,169,415,195"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_hash_map.html#a992327678684d4e38150f32fc676faaf" title="Return the head node." coords="473,5,641,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="479,55,635,80"/>
+</map>

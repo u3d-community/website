@@ -1,0 +1,8 @@
+<map id="Urho3D::CollisionGeometryData" name="Urho3D::CollisionGeometryData">
+<area shape="rect" id="node1" title="Base class for collision shape geometry data." coords="196,80,405,105"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_convex_data.html" title="Convex hull geometry data." coords="473,5,617,31"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_g_impact_mesh_data.html" title="Triangle mesh geometry data." coords="453,55,636,80"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_heightfield_data.html" title="Heightfield geometry data." coords="463,104,626,129"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_triangle_mesh_data.html" title="Triangle mesh geometry data." coords="455,153,634,179"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,80,148,105"/>
+</map>

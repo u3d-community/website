@@ -1,0 +1,18 @@
+<map id="Urho3D::SoundSource3D::DrawDebugGeometry" name="Urho3D::SoundSource3D::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="5,264,173,304"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#a3d37048a98900ea96aa762d7ff173e7c" title="Add a sphere." coords="504,45,667,85"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_debug_renderer.html#ac017e437c4ce73e3a3975d4c83b84b74" title="Add a sphere sector. Angle ranges from 0 to 360. Identity Quaternion yields the filled portion of the..." coords="255,177,418,217"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="221,242,452,267"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="263,292,411,332"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_matrix3x4.html#a4e420dc4d1429c92a437853fcf7bc5f8" title="Return the rotation part." coords="267,356,406,396"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_matrix3x4.html#a30a35295a4d931ac923e4fc0bdb10502" title="Return the translation part." coords="267,420,406,460"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="722,106,885,146"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="936,114,1087,139"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_sphere.html#a87d3287a4cae266144da2ae624933ef1" title="Return point on the sphere." coords="719,32,888,58"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="1135,114,1245,139"/>
+<area shape="rect" id="node8" href="$_math_defs_8h.html#a10f1aaa54ec5fc34a79f2f408c4199f2" title=" " coords="538,134,633,159"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_sphere.html#ab48a46b094436f9c12efac572dd1efef" title="Return point on the sphere relative to sphere position." coords="500,234,671,274"/>
+<area shape="rect" id="node10" href="$_math_defs_8h.html#af7564744da23adb0019e989279ea7d88" title=" " coords="755,195,852,220"/>
+<area shape="rect" id="node11" href="$_math_defs_8h.html#a1e064ec2f12ba951dafbe7d38b6f89ed" title=" " coords="758,268,849,294"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="500,370,671,395"/>
+</map>

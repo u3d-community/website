@@ -1,0 +1,7 @@
+<map id="Urho3D::RigidBody::DrawDebugGeometry" name="Urho3D::RigidBody::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="5,55,152,95"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="200,5,359,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_rigid_body.html#aa018538b5550cafe48549a18606b7949" title=" " coords="210,55,349,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="205,119,353,159"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="407,127,577,152"/>
+</map>

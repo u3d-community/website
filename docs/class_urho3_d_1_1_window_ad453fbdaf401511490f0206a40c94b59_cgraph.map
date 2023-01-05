@@ -1,0 +1,27 @@
+<map id="Urho3D::Window::OnHover" name="Urho3D::Window::OnHover">
+<area shape="rect" id="node1" title="React to mouse hover." coords="5,184,184,209"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_window.html#a1d51760c95cdbe59f9cfe3665ed60466" title="Identify drag mode (move/resize)." coords="948,108,1157,133"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#a32b39f72aa0b8b75e5f25be827d1ed96" title="React to mouse hover." coords="255,176,395,216"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_window.html#a051e2a3e7e8052bd903a6460ea6dde0c" title="Set cursor shape based on drag mode." coords="232,259,419,299"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a74426efba577c8b92f7b49c307d7a446" title=" " coords="1224,36,1364,76"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#a8c3df9a7b24aa874345db797a95e130e" title=" " coords="1224,100,1364,140"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_cursor.html#a132e53f70b2e45f29a5ead1e5db84bbd" title=" " coords="467,304,641,329"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_cursor.html#ae68eb5551f79e8859e661620130e4d58" title="Apply pending OS cursor shape. Called by UI. No&#45;op when the OS mouse pointer is not used." coords="689,411,900,451"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="719,246,870,272"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_u_i_element.html#a388303ecaef3a6d4764cf84f3dfcceb8" title=" " coords="725,296,865,336"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_int_rect.html#a55a4bf2a2282cc3de62288ff424efd73" title=" " coords="722,361,867,386"/>
+<area shape="rect" id="node11" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="1463,194,1574,220"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i_element.html#a6eca4b74842f82376a1d9a7f889aa174" title="Return effective minimum size, also considering layout. Used internally." coords="1224,546,1364,586"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="1211,610,1377,650"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_u_i_element.html#ad18ecc5e79b04d47079bdc979eed8240" title="Mark screen position as needing an update." coords="983,462,1123,502"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_u_i_element.html#aa99ec115621b2ef219b0f17edd1ff91c" title="React to resize." coords="983,182,1123,222"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="1205,189,1383,214"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_u_i_element.html#a7cba78373c23a734a1ccd2d4a27d8cb0" title="Manually update layout. Should not be necessary in most cases, but is provided for completeness." coords="983,296,1123,336"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_u_i_element.html#a41f04deaaa70ebe9101a25fcf8bc1666" title=" " coords="1449,546,1589,586"/>
+<area shape="rect" id="node14" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="1469,356,1568,381"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="1431,610,1607,650"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_u_i_element.html#a2c26825089539496dc3c05f2701e9bff" title="Calculate child widths/positions in the layout." coords="1224,239,1364,279"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i_element.html#aa8ec3dcc9f57f4c5b7d13f60dcb76f38" title="Calculate layout width for resizing the parent element." coords="1205,418,1383,458"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_u_i_element.html#a7e286d16e39b54282ca0d64666d26b67" title="Disable automatic layout update. Should only be used if there are performance problems." coords="1221,482,1367,522"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_u_i_element.html#a952c4e37f3ee8fe5615791389d03f813" title="Enable automatic layout update." coords="1223,354,1365,394"/>
+</map>

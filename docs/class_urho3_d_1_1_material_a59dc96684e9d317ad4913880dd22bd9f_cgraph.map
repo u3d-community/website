@@ -1,0 +1,5 @@
+<map id="Urho3D::Material::SetNumTechniques" name="Urho3D::Material::SetNumTechniques">
+<area shape="rect" id="node1" title=" " coords="5,5,180,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_material.html#a5e79bcf19379d52c5057c8a97fdbb288" title="Recalculate the memory used by the material." coords="228,5,400,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="448,13,675,38"/>
+</map>

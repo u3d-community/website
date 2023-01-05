@@ -1,0 +1,5 @@
+<map id="Urho3D::Serializable::Load" name="Urho3D::Serializable::Load">
+<area shape="rect" id="node1" title="Load from binary data. Return true if successful." coords="221,35,361,75"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animated_model.html#ae21dcbd9bb8cb47c48caeb9c5aa0d16d" title="Load from binary data. Return true if successful." coords="5,5,173,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a81a34b9111afba558145d81e42ad640e" title="Load components and optionally load child nodes." coords="18,70,161,95"/>
+</map>

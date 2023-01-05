@@ -1,0 +1,5 @@
+<map id="Urho3D::AnimationKeyFrame" name="Urho3D::AnimationKeyFrame">
+<area shape="rect" id="node1" title="Skeletal animation keyframe." coords="88,200,279,225"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="5,51,124,77"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_quaternion.html" title="Rotation represented as a four&#45;dimensional normalized vector." coords="235,51,372,77"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Urho3D::Allocator&lt; T &gt;" name="Urho3D::Allocator&lt; T &gt;">
+<area shape="rect" id="node1" title="Allocator template class. Allocates objects of a specific class." coords="8,181,163,207"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="5,93,165,119"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_allocator_node.html" title="Allocator node." coords="5,5,165,31"/>
+</map>

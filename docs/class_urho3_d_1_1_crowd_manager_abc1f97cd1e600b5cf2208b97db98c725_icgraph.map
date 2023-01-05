@@ -1,0 +1,4 @@
+<map id="Urho3D::CrowdManager::DrawDebugGeometry" name="Urho3D::CrowdManager::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Draw the agents&#39; pathing debug data." coords="217,5,381,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_crowd_manager.html#af43cdf31e01b954a654780155d5ba08d" title="Add debug geometry to the debug renderer." coords="5,5,169,45"/>
+</map>

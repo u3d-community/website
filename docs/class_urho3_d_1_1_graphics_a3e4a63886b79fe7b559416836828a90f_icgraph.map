@@ -1,0 +1,10 @@
+<map id="Urho3D::Graphics::Restore" name="Urho3D::Graphics::Restore">
+<area shape="rect" id="node1" title=" " coords="1267,63,1441,88"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_graphics.html#afdcde1ab06c42a77cc58fb29e4594f0c" title=" " coords="995,63,1219,88"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_graphics.html#a573706d930b58c9d903611affebae991" title=" " coords="723,5,947,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_graphics.html#a2adea5d8adacf78e0a5e9093b0aa3f1d" title=" " coords="736,55,933,95"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_graphics.html#a116de4d90d4b556f408b58878bfd5654" title="Toggle between full screen and windowed mode. Return true if successful." coords="750,119,919,159"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_graphics.html#a120f99124337d4775a2153c62ec329b1" title="Set default window modes. Return true if successful." coords="484,55,675,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_graphics.html#aac131622deee0f32dffe86943d704f95" title="Set default window modes. Deprecated. Return true if successful." coords="252,63,436,88"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_graphics.html#a87d6974090e42a8c0d8ec676ca4da504" title="Begin frame rendering. Return true if device available and can render." coords="5,63,204,88"/>
+</map>

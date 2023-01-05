@@ -1,0 +1,19 @@
+<map id="Urho3D::Camera::DrawDebugGeometry" name="Urho3D::Camera::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="5,189,197,229"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#a39fd8fbbbc9d1c172d0dff0b7008a4b3" title="Add a frustum." coords="261,83,424,123"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_camera.html#a1edcc9f8a61ae07bd15bba96ee079d32" title=" " coords="245,275,440,300"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="506,83,669,123"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="773,29,923,55"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="1063,29,1173,55"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_frustum.html#ae3bb6685c4a3500651952fe03e6442ae" title="Define with projection parameters and a transform matrix." coords="765,265,931,291"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_frustum.html#aca09b9b4205607926beb618374834762" title="Define with orthographic projection parameters and a transform matrix." coords="488,300,687,325"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_camera.html#a08d24e076d62c0b397817f2c9f92cc41" title=" " coords="751,177,945,217"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_camera.html#aca9722244be40c0db7c31f891b8cb1bb" title=" " coords="494,399,681,424"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_camera.html#aa2ca83a0c0ffdede12922e6ed72b69b6" title="Recalculate projection matrix." coords="735,399,961,424"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_camera.html#a24305d3e4346c9eb4f8f3c2e50c5323d" title=" " coords="489,349,685,375"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_camera.html#a86a2e6d78d0ac6c20e043ada2f573401" title=" " coords="501,148,674,173"/>
+<area shape="rect" id="node8" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="1069,288,1167,313"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="1010,161,1226,187"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="1009,211,1227,236"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="779,113,917,153"/>
+</map>

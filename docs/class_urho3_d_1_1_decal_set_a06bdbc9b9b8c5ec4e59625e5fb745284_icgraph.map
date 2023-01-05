@@ -1,0 +1,15 @@
+<map id="Urho3D::DecalSet::OnMarkedDirty" name="Urho3D::DecalSet::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="1419,199,1612,239"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_decal_set.html#a41027d16a7e3f21f99bf61cbfbb66770" title="Mark decals and the bounding box dirty." coords="1168,199,1371,239"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_decal_set.html#a70a16cdcd0674837b6b2338f94f476b8" title="Add a decal at world coordinates, using a target drawable&#39;s geometry for reference...." coords="244,158,433,183"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_decal_set.html#a3051b0c9144329e9c9466c9e8f84781c" title="Remove all decals." coords="493,260,672,300"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_decal_set.html#a923a3994c943b0640359d3eed97917e6" title="Set decals attribute." coords="233,261,445,286"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_decal_set.html#adfa06ddf66c7c8d2feb6418dac3bf5d6" title="Remove a decal by iterator and return iterator to the next decal." coords="941,93,1120,133"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_decal_set.html#a76978cd431ca41ad6d845193a98a243b" title=" " coords="5,69,184,109"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_decal_set.html#a8d1d66dc21fe5355db4b281dc688e775" title="Handle scene post&#45;update event." coords="720,93,893,133"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_decal_set.html#a18384b227e33e1a36084ae9805bb8d18" title="Remove n oldest decals." coords="493,59,672,99"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_decal_set.html#ab57603264541b21bb532f47a9b3f9acc" title="Subscribe/unsubscribe from scene post&#45;update as necessary." coords="496,196,669,236"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_decal_set.html#a1371572adf3c0894e4795331ac921c03" title="Handle enabled/disabled state change." coords="232,207,445,233"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_decal_set.html#af900f38a29c2e870e4cbf7f9548eb10b" title=" " coords="251,69,427,109"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_decal_set.html#aaa1efc44c8cb8e7da1ae29cb48e3dc48" title=" " coords="251,5,427,45"/>
+</map>

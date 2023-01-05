@@ -1,0 +1,5 @@
+<map id="Urho3D::Button::OnDragMove" name="Urho3D::Button::OnDragMove">
+<area shape="rect" id="node1" title="React to mouse drag motion." coords="5,13,199,38"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_button.html#a7da6b87c3d323a912ab3e97b17c6be46" title="Set new pressed state." coords="247,13,431,38"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a1514f8d82ab6e8a2cf10f20b807f738d" title="Set child offset." coords="479,5,619,45"/>
+</map>

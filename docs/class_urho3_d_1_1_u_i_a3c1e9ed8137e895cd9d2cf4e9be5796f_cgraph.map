@@ -1,0 +1,7 @@
+<map id="Urho3D::UI::SetScale" name="Urho3D::UI::SetScale">
+<area shape="rect" id="node1" title=" " coords="5,55,148,80"/>
+<area shape="rect" id="node2" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="250,29,349,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i.html#a0c77edf9094ab2df2011c36c74514400" title="Resize root element to effective size." coords="196,79,403,104"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i.html#a38fcbcb1cdf8ba23084fe52d4601d6b8" title="Return effective size of the root element, according to UI scale and resolution / custom size." coords="451,71,613,111"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a1e0439c3642fe1b9779fe2199b9d89af" title=" " coords="661,79,803,104"/>
+</map>

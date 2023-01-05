@@ -1,0 +1,5 @@
+<map id="Urho3D::UIElement::GetBatches" name="Urho3D::UIElement::GetBatches">
+<area shape="rect" id="node1" title="Return UI rendering batches." coords="409,5,549,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#ad834d80ce2441030067143981a026a11" title="Get UI rendering batches with a specified offset. Also recurse to child elements." coords="209,5,361,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drop_down_list.html#a1ccb0767341512c2911fc5839e8b0265" title="Return UI rendering batches." coords="5,5,161,45"/>
+</map>

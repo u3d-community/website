@@ -1,0 +1,27 @@
+<map id="Urho3D::ListView::SetSelectOnClickEnd" name="Urho3D::ListView::SetSelectOnClickEnd">
+<area shape="rect" id="node1" title=" " coords="5,672,188,712"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_list_view.html#a5ef1accc2d51944f79e12918ff828970" title="Update subscription to UI click events." coords="236,672,407,712"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_list_view.html#a02c1afe654ab744d0883248a8d0ed0e8" title="Handle global UI mouseclick to check for selection change." coords="464,320,635,360"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="462,819,637,859"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_object.html#a153b96c4397e045b2ca2b2d5471d097c" title="Unsubscribe from an event." coords="455,672,644,712"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html#a02b72389727e56688c9f6ed66c2f8733" title="Return last element." coords="1425,356,1599,381"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_p_o_d_vector.html#a5be72d35fc52d2623985f20b95855d10" title="Return whether vector is empty." coords="722,291,866,331"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_list_view.html#ae2921128849b9ff41009cd07ea825cfd" title="Return index of item, or M_MAX_UNSIGNED If not found." coords="704,241,884,266"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_p_o_d_vector.html#a65b6612d9f6d21fab83c62c92ae3089c" title="Return first element." coords="1440,148,1584,188"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="1205,412,1372,452"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_list_view.html#a49abcdd3ab8c9142b09df967c3fe7e9e" title=" " coords="1200,119,1377,159"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_p_o_d_vector.html#a3eb78093c096ab9e9d68595facc56470" title="Add an element at the end." coords="1202,356,1375,381"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="1200,505,1377,530"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_list_view.html#a6b017f148d7ebef0564b6d239940c936" title=" " coords="693,356,895,381"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_list_view.html#a71aeb11dc012c14ed9fb268a354848d7" title="Set multiple selected items. If multiselect disabled, sets only the first." coords="944,406,1152,432"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_list_view.html#ac943102f0ed053e17432cb33f1a3b223" title="Toggle selection of an item." coords="965,62,1131,102"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_p_o_d_vector.html#a75ae397d58ffa509b1c4df45913107d6" title="Return the buffer with right type." coords="1647,320,1791,360"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_u_i_element.html#a74426efba577c8b92f7b49c307d7a446" title=" " coords="978,291,1118,331"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_u_i_element.html#a2213dfdd16c9f98be3696a23cdd31388" title=" " coords="978,227,1118,267"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="703,851,885,891"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="701,787,887,827"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="709,915,879,955"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="973,758,1123,798"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_object.html#a00bec56f305dd6636d186e5b351d0264" title="Find the first event handler with no specific sender." coords="708,672,880,712"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_context.html#a7b5bd076e695054df7930255c3eee18b" title="Remove event receiver from specific events." coords="692,608,896,648"/>
+</map>

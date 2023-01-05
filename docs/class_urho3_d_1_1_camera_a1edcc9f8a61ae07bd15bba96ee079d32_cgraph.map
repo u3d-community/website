@@ -1,0 +1,14 @@
+<map id="Urho3D::Camera::GetFrustum" name="Urho3D::Camera::GetFrustum">
+<area shape="rect" id="node1" title=" " coords="5,180,200,205"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_frustum.html#ae3bb6685c4a3500651952fe03e6442ae" title="Define with projection parameters and a transform matrix." coords="525,29,691,55"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_frustum.html#aca09b9b4205607926beb618374834762" title="Define with orthographic projection parameters and a transform matrix." coords="248,80,447,105"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_camera.html#a08d24e076d62c0b397817f2c9f92cc41" title=" " coords="511,274,705,314"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_camera.html#aca9722244be40c0db7c31f891b8cb1bb" title=" " coords="254,129,441,155"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_camera.html#aa2ca83a0c0ffdede12922e6ed72b69b6" title="Recalculate projection matrix." coords="495,180,721,205"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_camera.html#a24305d3e4346c9eb4f8f3c2e50c5323d" title=" " coords="249,231,445,256"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_camera.html#a86a2e6d78d0ac6c20e043ada2f573401" title=" " coords="261,332,434,357"/>
+<area shape="rect" id="node3" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="829,55,927,80"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="770,307,986,332"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="769,257,987,283"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="539,338,677,378"/>
+</map>

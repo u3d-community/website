@@ -1,0 +1,5 @@
+<map id="Urho3D::Obstacle::OnSetEnabled" name="Urho3D::Obstacle::OnSetEnabled">
+<area shape="rect" id="node1" title="Update the owning mesh when enabled status has changed." coords="5,13,217,38"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="265,5,413,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="461,13,632,38"/>
+</map>

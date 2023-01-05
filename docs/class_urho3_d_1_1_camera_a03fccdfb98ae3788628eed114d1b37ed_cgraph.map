@@ -1,0 +1,5 @@
+<map id="Urho3D::Camera::GetGPUProjection" name="Urho3D::Camera::GetGPUProjection">
+<area shape="rect" id="node1" title=" " coords="5,5,236,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_camera.html#ad705a7447b5db893eb5642f0d05c02ca" title=" " coords="284,5,488,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_camera.html#aa2ca83a0c0ffdede12922e6ed72b69b6" title="Recalculate projection matrix." coords="536,5,763,31"/>
+</map>

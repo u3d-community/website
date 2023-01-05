@@ -1,0 +1,8 @@
+<map id="Urho3D::Camera::SetOrthographic" name="Urho3D::Camera::SetOrthographic">
+<area shape="rect" id="node1" title=" " coords="720,77,939,102"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_renderer.html#a5c0831e08bf00013bbc106da1dd6a8c5" title="Allocate a temporary shadow camera and a scene node for it. Is thread&#45;safe." coords="472,5,672,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_camera.html#a7135721d90b089309a667a16bd27a603" title=" " coords="485,69,659,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#ad5d5472594f2048969af6ea296e843e5" title="Set up a directional light shadow camera." coords="479,133,665,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a4d3766cb580e7a61b7ce50bc4e9aa926" title="Set up initial shadow camera view(s)." coords="236,133,424,173"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="5,141,188,166"/>
+</map>

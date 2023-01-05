@@ -1,0 +1,27 @@
+<map id="Urho3D::CollisionShape::OnNodeSet" name="Urho3D::CollisionShape::OnNodeSet">
+<area shape="rect" id="node1" title="Handle node being assigned." coords="5,221,165,261"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a1df1e1bfa613bbd82fe6624c211db754" title="Add listener component that is notified of node being dirtied. Can either be in the same node or anot..." coords="213,79,397,105"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="658,501,858,526"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_collision_shape.html#a7853e41afbf7ebba92ce30cd1fb83bfc" title="Update terrain collision shape from the terrain component." coords="225,344,385,384"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="917,125,1091,165"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#ab49b4b66b2eb1601cf166972fe42e5ce" title="Handle scene node transform dirtied." coords="451,68,599,108"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_collision_shape.html#a8cfe09cb27ec041dedcd92a69293bcbc" title="Update the new collision shape to the RigidBody." coords="445,544,605,584"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_collision_shape.html#a5ecb900b219e57ddf9696a1fb194f33a" title="Update the collision shape after attribute changes." coords="445,344,605,384"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="925,593,1083,618"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_collision_shape.html#ab1f08f05ff8c76e97b03d6d9a94baf7e" title="Find the parent rigid body component and return its compound collision shape." coords="911,519,1097,559"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="684,652,832,692"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="919,659,1089,685"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector3.html#a6b5f7e4dcec16c52e21e7dbf0a3cff15" title="Return absolute vector." coords="930,190,1078,215"/>
+<area shape="rect" id="node14" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="709,322,807,347"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_collision_shape.html#ae8711104bc670ce7d5ec44ee687c5986" title="Release the collision shape." coords="678,436,838,476"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_collision_shape.html#a02029eaf22f387547af8d3cdbe430323" title="Update cached geometry collision shape." coords="653,233,863,273"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_collision_shape.html#a41c97935a817938bf566419da49581e7" title=" " coords="678,372,838,412"/>
+<area shape="rect" id="node13" href="$_math_defs_8h.html#ac3865cf9a0484b8452ccc4e62c5661ca" title=" " coords="1191,222,1287,247"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_unique_ptr.html#a908fda172f7c703c8e22f8b6e49509b3" title="Reset." coords="935,436,1073,476"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="1159,278,1318,303"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_hash_map.html#a9dc4e5c0ad1feb3eec2d2f1f1714698d" title="Return iterator to the pair with key, or end iterator if not found." coords="923,291,1085,317"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="1148,133,1329,173"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="1145,5,1332,45"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="1153,69,1324,109"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="1380,5,1531,45"/>
+</map>

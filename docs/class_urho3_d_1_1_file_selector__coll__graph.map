@@ -1,0 +1,27 @@
+<map id="Urho3D::FileSelector" name="Urho3D::FileSelector">
+<area shape="rect" id="node1" title="File selector dialog." coords="1020,1039,1163,1065"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="765,227,876,253"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="49,59,191,85"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="426,239,545,265"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="16,316,224,356"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i_element.html" title="Base class for UI elements." coords="418,941,553,966"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="400,175,571,215"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="751,563,890,603"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_window.html" title="Window UI element that can optionally by moved or resized." coords="425,379,546,405"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_int_rect.html" title="Two&#45;dimensional bounding rectangle with integer values." coords="63,747,177,773"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="53,259,187,285"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_text.html" title="Text UI element." coords="436,654,535,679"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_button.html" title="Push button UI element." coords="599,99,709,125"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="67,625,173,650"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="51,962,189,987"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_string.html" title="String class." coords="67,1277,173,1302"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_line_edit.html" title="Single&#45;line text editor UI element." coords="595,1261,713,1286"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html" title=" " coords="5,1012,235,1052"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="61,1189,179,1214"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="51,833,189,873"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="31,897,209,937"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_list_view.html" title="Scrollable list UI element." coords="759,1039,882,1065"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_drop_down_list.html" title="Menu UI element that displays a popup list view." coords="743,1186,899,1211"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html" title=" " coords="737,1313,904,1353"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector.html" title=" " coords="737,1377,904,1417"/>
+</map>

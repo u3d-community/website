@@ -1,0 +1,15 @@
+<map id="Urho3D::CollisionShape::SetRotation" name="Urho3D::CollisionShape::SetRotation">
+<area shape="rect" id="node1" title=" " coords="5,215,165,255"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="219,113,367,153"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_collision_shape.html#a8cfe09cb27ec041dedcd92a69293bcbc" title="Update the new collision shape to the RigidBody." coords="213,272,373,312"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="447,5,595,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="447,69,595,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="423,157,620,197"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="685,13,853,38"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="669,77,869,102"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="442,222,601,247"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_collision_shape.html#ab1f08f05ff8c76e97b03d6d9a94baf7e" title="Find the parent rigid body component and return its compound collision shape." coords="428,272,615,312"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="421,337,621,362"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="447,387,595,427"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="684,394,855,419"/>
+</map>

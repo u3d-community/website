@@ -1,0 +1,9 @@
+<map id="Urho3D::HeightfieldData" name="Urho3D::HeightfieldData">
+<area shape="rect" id="node1" title="Heightfield geometry data." coords="908,108,1071,133"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_collision_geometry_data.html" title="Base class for collision shape geometry data." coords="596,5,805,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="243,7,385,32"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,35,133,60"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="409,50,572,90"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="641,260,760,285"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="633,421,768,447"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Urho3D::StaticModel" name="Urho3D::StaticModel">
+<area shape="rect" id="node1" title="Static model component." coords="183,445,327,471"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_animated_model.html" title="Animated model component." coords="5,519,173,544"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_skybox.html" title="Static model component with fixed position in relation to the camera." coords="197,519,312,544"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_static_model_group.html" title="Renders several object instances while culling and receiving light as one unit. Can be used as a CPU&#45;..." coords="336,519,515,544"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="191,372,318,397"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="183,299,326,324"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="185,225,324,251"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="185,152,325,177"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_object.html" title=" " coords="199,79,310,104"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="183,5,326,31"/>
+</map>

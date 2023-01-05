@@ -1,0 +1,10 @@
+<map id="Urho3D::ScriptInstance::ApplyAttributes" name="Urho3D::ScriptInstance::ApplyAttributes">
+<area shape="rect" id="node1" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="5,112,163,152"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html#a0d857f439bb5a7935199a8e4fdb8f2c8" title=" " coords="241,5,384,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scene.html#a0c7ddadabfbb191e42b39877ca84cd67" title="Return component from the whole scene by ID, or null if not found." coords="211,70,415,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#af130e2e88e5d29e1da2b9d4e52d73db2" title="Return node from the whole scene by ID, or null if not found." coords="229,119,397,145"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="239,169,387,209"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_ref_counted.html#a59e95fecbcbc560f81f0bdd52306cc1d" title=" " coords="241,233,384,273"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="463,95,663,121"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="479,177,647,202"/>
+</map>

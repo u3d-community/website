@@ -1,0 +1,24 @@
+<map id="Urho3D::Slider::OnClickBegin" name="Urho3D::Slider::OnClickBegin">
+<area shape="rect" id="node1" title="React to mouse click begin." coords="5,280,196,305"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_slider.html#a2a5e5618af13eade287c45f26b59e224" title="Send slider page event." coords="244,280,387,305"/>
+<area shape="rect" id="node3" href="$_math_defs_8h.html#ac3865cf9a0484b8452ccc4e62c5661ca" title=" " coords="475,72,571,97"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="440,122,607,162"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_u_i_element.html#a74426efba577c8b92f7b49c307d7a446" title=" " coords="453,186,593,226"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_timer.html#a22dac8a7c8bda20a7e2355618c3a1418" title="Return elapsed milliseconds and optionally reset." coords="439,251,607,276"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_u_i_element.html#a8c3df9a7b24aa874345db797a95e130e" title=" " coords="453,301,593,341"/>
+<area shape="rect" id="node20" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="474,389,573,415"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_timer.html#a4cb8d7b146c6a0b136a02c9a01d8d8c1" title="Reset the timer." coords="450,439,597,464"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="435,512,612,537"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="660,122,836,162"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="884,129,1051,155"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="1113,5,1281,31"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="1118,55,1277,80"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html#a3313b8ec65ab0b23c74570898b09175c" title="Free a node." coords="1100,104,1295,129"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_base.html#a2774d115a617b0d6c315132352d43c01" title="Reset bucket head pointers." coords="1099,153,1296,179"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_base.html#a7790b0fb5131f0e0a098e322c9198f39" title="Set new size." coords="1106,203,1289,228"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_base.html#a42b5c2ba692fe96bff763b501b8922a9" title="Return number of elements." coords="1115,252,1279,277"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html#a992327678684d4e38150f32fc676faaf" title="Return the head node." coords="1367,5,1535,31"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1373,55,1529,80"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_base.html#af0f242c3642f60dc7cf69f3b7d24fa11" title="Return number of buckets." coords="1344,129,1559,155"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_base.html#ab2e9d0c50ac79b0a7eccd15b096745e9" title="Return bucket head pointers." coords="1369,179,1533,204"/>
+</map>

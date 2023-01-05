@@ -1,0 +1,16 @@
+<map id="Urho3D::UIElement::GetPosition" name="Urho3D::UIElement::GetPosition">
+<area shape="rect" id="node1" title=" " coords="1105,219,1245,259"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i.html#ae9abe9e6d8b996feaa7466a47d9e7c0c" title="Debug draw a UI element." coords="877,5,1035,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_list_view.html#af14e4ee5ec50da9eb9a01e4b530a0b84" title="Ensure full visibility of the item." coords="872,55,1040,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i.html#aae11bf022e65de66e9fab7b53e15c72b" title="Get a child element at element&#39;s screen position relative to specified root element." coords="869,120,1043,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_window.html#a932ccd738d5c204646be87a8e6d72dde" title="React to mouse drag begin." coords="855,169,1057,195"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_window.html#a6b1bc0d6b435cc9fea0c0ed1fda015f3" title="React to mouse drag motion." coords="604,288,807,313"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i_element.html#aa6fad1d07806bb3035f0759984b2afc1" title=" " coords="886,283,1026,323"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_u_i.html#aa007010436204316b3fe4859db32458e" title="Update the UI for rendering. Called by HandleRenderUpdate()." coords="868,448,1044,473"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_tool_tip.html#a1652f796b22acf7087e05e4929541104" title="Perform UI element update." coords="873,399,1039,424"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_window.html#a24c9bcde5479c0a65342d7cc2c474d04" title="Validate window position." coords="869,219,1043,259"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_u_i.html#a05bd51bad1a135929174fcd7fe5fcf96" title="Handle render update event." coords="617,441,793,481"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_u_i.html#a5bb71ed105d2bb465a10f66c9bfcb275" title="Initialize when screen mode initially set." coords="416,448,556,473"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_u_i.html#aefd3544d155762334a00429ef8196bae" title="Handle screen mode event." coords="159,423,368,448"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i.html#a2c011c43ca66ff4270e98601e4f9c4cf" title="Construct." coords="5,448,111,473"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Urho3D::Zone::GetInverseWorldTransform" name="Urho3D::Zone::GetInverseWorldTransform">
+<area shape="rect" id="node1" title=" " coords="5,27,177,67"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="225,5,456,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="271,55,410,95"/>
+</map>

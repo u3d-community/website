@@ -1,0 +1,7 @@
+<map id="Urho3D::NavArea::GetWorldBoundingBox" name="Urho3D::NavArea::GetWorldBoundingBox">
+<area shape="rect" id="node1" title=" " coords="456,69,641,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#a841b7dc758f63dcec5908322d5fa0895" title="Collect geometry from under Navigable components." coords="240,37,408,77"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_navigation_mesh.html#a91d23e0870d0fe89a1cdc97b95c9486f" title="Find a path between world space points. Return non&#45;empty list of navigation path points if successful..." coords="240,101,408,141"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_navigation_mesh.html#a38f762e87f10300096e08666fbafb443" title="Rebuild the navigation mesh. Return true if successful." coords="15,5,183,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac50303ab43f4c6b1b19867e6a3389af3" title="Build/rebuild the entire navigation mesh." coords="5,69,192,109"/>
+</map>

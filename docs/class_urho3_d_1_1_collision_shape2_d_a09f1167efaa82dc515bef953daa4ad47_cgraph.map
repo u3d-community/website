@@ -1,0 +1,16 @@
+<map id="Urho3D::CollisionShape2D::OnMarkedDirty" name="Urho3D::CollisionShape2D::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="5,156,181,196"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_collision_shape2_d.html#a62a332f564b66b20c7509886ffc227f8" title="Apply Node world scale." coords="245,5,421,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scene.html#a3cd5eac8dc19288118ed5578257a17cb" title="Add a component to the delayed dirty notify queue. Is thread&#45;safe." coords="229,69,437,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector3.html#a3589f6f93422b543e3f8a4bdcc1d5f88" title="Calculate dot product." coords="237,134,429,159"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="259,184,407,224"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#aee2647686dd036f0e4a04eaea909ceef" title=" " coords="229,248,437,288"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="242,312,425,352"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="497,162,665,187"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_quaternion.html#a0a55e229141be1ba710b0c134c61c966" title=" " coords="512,212,649,252"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_matrix3x4.html#a56f1e338bd39e384a53e2e006f79b24e" title="Return the scaling part with the sign. Reference rotation matrix is required to avoid ambiguity." coords="511,276,650,316"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#af15430523a0d5a9d23c4b761018e37b8" title="Recalculate the world transform." coords="485,340,676,380"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a7f36ffbac48689b8453d03c6a57a776f" title=" " coords="742,298,937,323"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="731,347,948,373"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="724,397,955,422"/>
+</map>

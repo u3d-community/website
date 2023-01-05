@@ -1,0 +1,27 @@
+<map id="Urho3D::AnimationSet2D::EndLoad" name="Urho3D::AnimationSet2D::EndLoad">
+<area shape="rect" id="node1" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="5,415,173,455"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animation_set2_d.html#a3b678397fa1bdef4df12c0009df462f1" title="Finish load scml." coords="221,415,389,455"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_area_allocator.html#a6b6949e6fedd21c43be6182af876bce0" title="Try to allocate an area. Return true if successful, with x &amp; y coordinates filled." coords="473,37,628,77"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a83b3a48f0d5d0aae79aa6b6304cde595" title="Return whether vector is empty." coords="473,102,628,127"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="456,151,645,177"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_image.html#a2768a9bcc38b2cc746c0a94c3acffc90" title="Return pixel data." coords="469,201,632,226"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_area_allocator.html#a79556c68c2026a50670b286e8dc81875" title="Return the current height." coords="473,251,628,291"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_image.html#ab7d68f0d57c07c8ad29229ef886052e5" title=" " coords="463,315,638,341"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="455,365,646,390"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_resource_cache.html#aa1657db0fcf2a1578bcb4bd5a00146ca" title="Return a resource by type and name. Load if not loaded yet. Return null if not found or if fails,..." coords="468,415,633,455"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_graphics.html#a7319deb2784231d90a38c51a4287894a" title="Return the API&#45;specific RGBA texture format." coords="437,479,664,505"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_area_allocator.html#a85205a9473c56a8bc7c66657b21b3ed0" title="Return the current width." coords="473,529,628,569"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_image.html#aa80b50b567b909c477d70685b4b3bb24" title=" " coords="465,594,636,619"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_int_rect.html#a19bd7564d19878420163e25024e6d84b" title=" " coords="471,643,630,669"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="477,693,624,718"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="479,742,622,767"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_int_rect.html#ac994f1ac126b1cf039ac6a0e6040f3b4" title=" " coords="473,791,628,817"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_area_allocator.html#acd0045fee4148a332b3d28b2cbcefe6d" title="Clean up redundant free space. Not called in fast mode." coords="735,5,889,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_area_allocator.html#a3b06245372a84faa7e77142652687433" title="Remove space from a free rectangle. Return true if the original rectangle should be erased from the f..." coords="735,69,889,109"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_context.html#a26cfc48202f21e82e9ec8f1029d15ef3" title="Create an object by type. Return pointer to it or null if no factory found." coords="712,285,912,310"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="968,407,1119,433"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_resource_cache.html#ad0a8e0e3e308b6ccae0cfc1ca4fa9e84" title="Find a resource." coords="729,385,895,425"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_shared_ptr.html#aad239ae69fe4b58518847e32b49aea47" title="Return the raw pointer." coords="733,450,891,475"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="960,529,1127,569"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_resource_cache.html#a7a8fddc0e1561115c557850f6751f76b" title="Open and return a file from the resource load paths or from inside a package file...." coords="729,500,895,540"/>
+</map>

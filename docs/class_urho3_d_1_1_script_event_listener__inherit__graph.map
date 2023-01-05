@@ -1,0 +1,5 @@
+<map id="Urho3D::ScriptEventListener" name="Urho3D::ScriptEventListener">
+<area shape="rect" id="node1" title="Interface class for allowing script objects or functions to subscribe to events." coords="59,5,244,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_script_file.html" title="Script file resource." coords="5,79,132,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_script_instance.html" title="Script object component." coords="157,79,314,104"/>
+</map>

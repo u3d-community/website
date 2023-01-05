@@ -1,0 +1,27 @@
+<map id="Urho3D::ValueAnimation::BeginLoad" name="Urho3D::ValueAnimation::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,325,171,365"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_x_m_l_file.html#a657534de06bc465c977cc3c28139cec4" title="Return the root element, with optionally specified name. Return null element if not found." coords="219,141,393,167"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_resource.html#ab0f4146b46be0c02323e3211e8a6aadf" title="Load resource synchronously. Call both BeginLoad() &amp; EndLoad() and return true if both succeeded." coords="224,797,388,823"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_value_animation.html#a9ec6ef8e4dcd6e23e591936d45147991" title="Load from XML data. Return true if successful." coords="223,325,389,365"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="467,5,617,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_resource.html#a0300ecba56eb1a6b92863053c2a8c038" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="444,769,640,795"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="1136,489,1292,515"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_resource.html#a3b2fab64e6c9f8b53cb579b1b6f89268" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="449,884,635,909"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="443,933,641,959"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_thread.html#a591d469de804a63cbcca350b84f96670" title="Return whether is executing in the main thread." coords="441,983,643,1008"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_string.html#a0a988cc147946dd80bf73cea2c1ac04c" title=" " coords="466,720,618,745"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_resource.html#af525961d5ee1dcfdd8e67c8bba6c03d0" title="Set the asynchronous loading state. Called by ResourceCache. Resources in the middle of asynchronous ..." coords="447,819,637,859"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_thread.html#a0f1bc30494bec12d878e356376b542ad" title=" " coords="691,975,873,1015"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="931,201,1079,241"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="708,419,856,459"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_x_m_l_element.html#af7c1e4d20b23c78b43b10a7d11d5aafd" title="Return a float attribute, or zero if missing." coords="708,106,856,146"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_x_m_l_element.html#a9aafd5a9e7302bcda8cf64b0664b588b" title="Return next sibling element." coords="708,507,856,547"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_x_m_l_element.html#a355dd709c5aa4cef307fd928cf5c37a4" title="Return an unsigned integer attribute, or zero if missing." coords="708,170,856,210"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_x_m_l_element.html#a36ddc2dc076cb372c82c52c73d7ca5ce" title="Return a variant attribute, or empty if missing." coords="708,285,856,325"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_x_m_l_element.html#acb3fcf0b9f824896a110628a228bb260" title="Return a variant map attribute, or empty if missing." coords="468,210,616,250"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_value_animation.html#a52573f5f03db4882b421ccc991cc9c7c" title="Set event frame." coords="459,325,625,365"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_value_animation.html#a156ee4642cfd1d02083dab6f3ca99414" title=" " coords="459,389,625,429"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_value_animation.html#a016a7527d1b85fec4b37bdc47ce00977" title="Set key frame." coords="459,453,625,493"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_x_m_l_element.html#afd561acf36305fd70cf86f60f666798f" title="Return attribute as C string, or null if missing." coords="1140,201,1288,241"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_variant.html#a993d526dff1f3a1be7610caef6c02fc7" title="Return variant type from type name." coords="921,311,1088,351"/>
+</map>

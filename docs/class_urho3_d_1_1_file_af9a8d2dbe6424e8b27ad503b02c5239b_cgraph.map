@@ -1,0 +1,15 @@
+<map id="Urho3D::File::GetChecksum" name="Urho3D::File::GetChecksum">
+<area shape="rect" id="node1" title="Return a checksum of the file contents using the SDBM hash algorithm." coords="5,224,188,249"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_deserializer.html#a62d8b0e28fa886adfdde1c42c6913477" title=" " coords="236,134,379,174"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_file.html#aa96e3d354d967ebeb8ad5863eb2797fe" title="Read bytes from the file. Return number of bytes actually read." coords="427,199,556,224"/>
+<area shape="rect" id="node12" href="$_math_defs_8h.html#aab0335c57ff0432163082a3d6d84c47b" title="Update a hash with the given 8&#45;bit value using the SDBM algorithm." coords="237,323,378,348"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_file.html#a72767679eb699c9d816c33ac6def3acb" title="Set position from the beginning of the file." coords="243,249,371,275"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="604,55,793,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_abstract_file.html#ada04895491d2abbb4d7d376869be7b4f" title="Return the file name." coords="627,105,770,145"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_file.html#adef704ac4cdbb2858593659cf462ccbb" title=" " coords="629,5,769,31"/>
+<area shape="rect" id="node7" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="651,308,746,333"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_file.html#a914775a77252b5e6c25a1bad4901cb83" title="Perform the file read internally using either C standard IO functions or SDL RWops for Android asset ..." coords="612,169,785,195"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_deserializer.html#a779317ca224e8350cf9b10ec4cb65145" title="Read a 16&#45;bit unsigned integer." coords="627,219,770,259"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_file.html#a22ff8bb1f694f05fc6c0fb3050270b49" title="Seek in file internally using either C standard IO functions or SDL RWops for Android asset files." coords="613,357,785,383"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_deserializer.html#ae82036f72896194adc1cd02f3b03509b" title="Read bytes from the stream. Return number of bytes actually read." coords="841,219,984,259"/>
+</map>

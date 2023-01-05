@@ -1,0 +1,9 @@
+<map id="Urho3D::CollisionShape::OnSetEnabled" name="Urho3D::CollisionShape::OnSetEnabled">
+<area shape="rect" id="node1" title="Handle enabled/disabled state change." coords="5,85,165,125"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_collision_shape.html#a8cfe09cb27ec041dedcd92a69293bcbc" title="Update the new collision shape to the RigidBody." coords="213,85,373,125"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="442,5,601,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_collision_shape.html#ab1f08f05ff8c76e97b03d6d9a94baf7e" title="Find the parent rigid body component and return its compound collision shape." coords="428,55,615,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="421,120,621,145"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="447,170,595,210"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="669,177,840,203"/>
+</map>

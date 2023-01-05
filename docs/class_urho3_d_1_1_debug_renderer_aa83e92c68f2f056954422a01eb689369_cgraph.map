@@ -1,0 +1,13 @@
+<map id="Urho3D::DebugRenderer::RegisterObject" name="Urho3D::DebugRenderer::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,69,168,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#a0dd763571b7960d3be0fe6cc4633ecae" title=" " coords="221,5,384,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="216,69,389,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_debug_renderer.html#a4c06af764a0e442062e6c4466037f6b2" title=" " coords="221,133,384,173"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="437,69,592,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="441,133,589,173"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="665,69,813,109"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="665,133,813,173"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="640,221,837,261"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="901,77,1069,102"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="885,141,1085,166"/>
+</map>

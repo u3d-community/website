@@ -1,0 +1,11 @@
+<map id="Urho3D::RaycastVehicle::GetNumWheels" name="Urho3D::RaycastVehicle::GetNumWheels">
+<area shape="rect" id="node1" title=" " coords="424,197,585,237"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_raycast_vehicle.html#af981f15be395db66a1ae5cbdee4bbcc4" title="Add a wheel. All parameters are relative to RigidBody / node." coords="215,5,376,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_raycast_vehicle.html#adc47ce3c6093158230b3c09e36c35afc" title="Perform post&#45;load after deserialization. Acquire the components from the scene nodes." coords="215,69,376,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_raycast_vehicle.html#a114ce68c6184ef9278f7782c799307eb" title="Perform fixed step post&#45;update." coords="215,133,376,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_raycast_vehicle.html#aa7321f21d4f94331935870f23c0580d2" title="Perform fixed step pre&#45;update." coords="215,197,376,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_raycast_vehicle.html#afb2e747a991eaef885084e2ee68918d2" title="Get wheel data attribute for serialization." coords="215,261,376,301"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_raycast_vehicle.html#af8fbffa173151c09fa798fac6eaf1b8d" title="Perform variable step post&#45;update." coords="215,325,376,365"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_raycast_vehicle.html#a9e0099927ccacd0750812984c203a96c" title="Sets node initial positions." coords="215,389,376,429"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_raycast_vehicle.html#a4a878a41bde11e6deaab32480346c30d" title=" " coords="5,261,167,301"/>
+</map>

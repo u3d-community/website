@@ -1,0 +1,8 @@
+<map id="Urho3D::RigidBody2D" name="Urho3D::RigidBody2D">
+<area shape="rect" id="node1" title="2D rigid body component." coords="5,372,153,397"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html" title=" " coords="8,299,151,324"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="10,225,149,251"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="9,152,149,177"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object.html" title=" " coords="24,79,135,104"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="8,5,151,31"/>
+</map>

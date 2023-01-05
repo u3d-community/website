@@ -1,0 +1,25 @@
+<map id="Urho3D::Serializable::SetAttribute" name="Urho3D::Serializable::SetAttribute">
+<area shape="rect" id="node1" title=" " coords="1393,345,1533,385"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene_resolver.html#a4322ce210921b372aa621462408597cc" title="Resolve component and node ID attributes and reset." coords="1183,226,1343,266"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_script_instance.html#aa535e7691f379c6e5cf1bf10f485d5ad" title="Restore values of script attributes after hot reload is complete." coords="1181,377,1345,417"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a2005276776f4ecca887f34438e161c68" title="Clone scene node, components and child nodes. Return the clone." coords="953,79,1099,104"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#a019a062421bf4e2d4f5f213245008f28" title="Finish asynchronous loading." coords="933,254,1119,294"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene.html#a1cca9113f43ff1b7517cf036f569ee52" title="Instantiate scene content from binary data. Return root node if successful." coords="938,29,1114,55"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scene.html#a03f80f9703e4d92e89b0de7fd930d239" title="Instantiate scene content from JSON data. Return root node if successful." coords="658,93,869,119"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_scene.html#a16c9193018c0cfadaae69961b9132762" title="Instantiate scene content from XML data. Return root node if successful." coords="662,453,865,479"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#a4d35bd54bbd8692b4d6f87e87cd40df9" title="Load from JSON data. Return true if successful." coords="938,204,1114,229"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_node.html#a0e5f40f54d5828147d1382d4e0813c6c" title="Load from XML data. Return true if successful." coords="941,343,1111,368"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#a625934c3af5fb17f25a09767d4c0cc6b" title="Update asynchronous loading." coords="667,266,860,306"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#afb949e0fedbb2becb9aa7a3dfb0ed7b2" title="Update scene. Called by HandleUpdate." coords="451,273,608,299"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#ad3307d7a01b61f9b6ded6cff9a44f857" title="Handle the logic update event to update the scene, if active." coords="204,273,403,299"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#aecd178e1857bd96c3e4537651fd7f60c" title="Construct." coords="5,273,156,299"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_scene.html#aa66ba16b03bd936a00b96e18da703947" title="Load from a JSON file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY mo..." coords="656,143,871,168"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_scene.html#afadea687110ecd2d6074d99cb7c44853" title="Load from JSON data. Removes all existing child nodes and components first. Return true if successful..." coords="674,192,853,217"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_scene.html#a3cd90a6194226a9279aa127222401cf4" title="Load from an XML file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY mo..." coords="659,331,867,356"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_scene.html#a238a6b49c396e644dcaa8844110b9d1b" title="Load from XML data. Removes all existing child nodes and components first. Return true if successful." coords="677,380,849,405"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_script_instance.html#a7e69b7960d45964c13b03f1a2f7a92cf" title="Handle script file reload finished." coords="919,479,1133,519"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_script_instance.html#a10c8fb88fd2721b1cb5096a6b18084e0" title="Set script file only. Recreate object if necessary." coords="685,503,842,543"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_script_instance.html#a619abbdf05bc9c3e9bf0ef237ba59ccb" title="Create object of certain class from the script file. Return true if successful." coords="451,535,608,575"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_script_instance.html#a41479323a4b184adb0cc5f869874ed0f" title="Set script file attribute." coords="451,471,608,511"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_script_instance.html#aff0c88217ff63483a137efec6ae1bd45" title=" " coords="225,471,382,511"/>
+</map>

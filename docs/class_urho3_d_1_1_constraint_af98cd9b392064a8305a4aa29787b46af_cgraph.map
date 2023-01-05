@@ -1,0 +1,6 @@
+<map id="Urho3D::Constraint::OnMarkedDirty" name="Urho3D::Constraint::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="5,35,139,75"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_constraint.html#a83814fcb7cbae0372f386b96d969cabd" title="Apply constraint frames." coords="187,5,320,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="368,66,568,91"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="389,13,547,38"/>
+</map>

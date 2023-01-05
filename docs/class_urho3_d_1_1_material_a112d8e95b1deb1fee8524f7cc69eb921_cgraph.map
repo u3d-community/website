@@ -1,0 +1,27 @@
+<map id="Urho3D::Material::BeginLoad" name="Urho3D::Material::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,487,195,512"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_material.html#a4395cdd6b565b52783713ea1712ec0c1" title="Helper function for loading JSON files." coords="243,291,465,316"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_material.html#a2a6e0e7eae446f7c7513090852aeac21" title="Reset to defaults." coords="521,447,696,487"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_material.html#a34c505680ced124298f079470392a3bb" title="Helper function for loading XML files." coords="246,519,462,544"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_deserializer.html#a59b68616d6572fed705f41237cb57be9" title=" " coords="283,569,425,609"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="525,397,693,423"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="533,5,684,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="776,80,935,105"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_j_s_o_n_value.html#a8ef53c37d618d5fb4d4288135c289ae7" title="Return JSON value with key." coords="526,55,691,80"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_j_s_o_n_value.html#a5a67ae140d0b62ea2594fb7e948469b5" title="Return JSON array value." coords="536,155,681,195"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_resource.html#a35f0e2447dcc25e8f3b9e42e10b69737" title="Return the asynchronous loading state." coords="513,511,704,551"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_j_s_o_n_value.html#a159dec69802e4e232fda08b364182fb6" title="Return JSON object value." coords="536,219,681,259"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_j_s_o_n_value.html#a6d7a17d89d5cf4320aa16b589f41d617" title="Return string value. The &#39;defaultValue&#39; may potentially be returned as is, so it is the responsibilit..." coords="536,283,681,323"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="537,348,680,373"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_string.html#ac6f0b2fb0bce5afbeb088c7cb15abbe1" title="Clear the string." coords="783,429,927,455"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_thread.html#a591d469de804a63cbcca350b84f96670" title="Return whether is executing in the main thread." coords="755,479,956,504"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_material.html#a5e79bcf19379d52c5057c8a97fdbb288" title="Recalculate the memory used by the material." coords="1007,593,1179,633"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_material.html#a9c262eda9301a091165f9c1c26df060a" title="Recalculate shader parameter hash." coords="1007,393,1179,433"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_material.html#a59dc96684e9d317ad4913880dd22bd9f" title=" " coords="768,593,943,633"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_material.html#a27f2b7dd5a1ab57e0be7f9a30be657ed" title=" " coords="761,529,949,569"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_material.html#ae3128e4b8f3ba47ba1b85f63d9c37bd9" title="Set technique." coords="752,315,959,340"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_material.html#a91ce30ee008cdd6eef192815dd62623c" title="Update whether should be subscribed to scene or global update events for shader parameter animation." coords="771,365,940,405"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="535,575,683,615"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="535,663,683,703"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_x_m_l_element.html#ac0e88c8f1412e65469cc4ebc9457f8ee" title="Return whether has an attribute." coords="535,751,683,791"/>
+</map>

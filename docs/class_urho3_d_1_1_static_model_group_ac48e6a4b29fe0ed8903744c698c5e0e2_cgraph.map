@@ -1,0 +1,8 @@
+<map id="Urho3D::StaticModelGroup::GetNumOccluderTriangles" name="Urho3D::StaticModelGroup::GetNumOccluderTriangles">
+<area shape="rect" id="node1" title="Return number of occlusion geometry triangles." coords="5,99,188,139"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_geometry.html#a00c09617cfdc7175df34b3701050de7e" title=" " coords="243,5,434,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_static_model.html#adf6c7441ada8f34d7dcd5541961a59ed" title="Return the geometry for a specific LOD level." coords="267,69,411,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_material.html#a237123b0f0a5462ddfeff07647e94e9b" title=" " coords="236,134,441,159"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_drawable.html#a3930dc9342c0aefcfd4c94eb8079e365" title=" " coords="244,184,433,224"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_drawable.html#af146747caaf6fd85ab71fda4e364bde4" title="Recalculate the world&#45;space bounding box." coords="489,184,675,224"/>
+</map>

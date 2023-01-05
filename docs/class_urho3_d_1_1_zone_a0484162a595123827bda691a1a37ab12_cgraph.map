@@ -1,0 +1,27 @@
+<map id="Urho3D::Zone::SetBoundingBox" name="Urho3D::Zone::SetBoundingBox">
+<area shape="rect" id="node1" title=" " coords="5,637,211,662"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="284,683,432,723"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_zone.html#a65c40c118a023a143f0ed53ac3bab5ab" title="Handle node transform being dirtied." coords="259,510,457,535"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="1064,592,1212,632"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="547,788,695,828"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="522,724,719,764"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="1285,599,1453,625"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="787,795,987,821"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_zone.html#a59f02e5760339c323d4a61467b56f80e" title="Clear zone reference from drawables inside the bounding box." coords="505,249,736,274"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_scene.html#a3cd5eac8dc19288118ed5578257a17cb" title="Add a component to the delayed dirty notify queue. Is thread&#45;safe." coords="517,471,725,511"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="1047,473,1229,513"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_drawable.html#a04a978441415a93f044721f6473df0e3" title="Handle node transform being dirtied." coords="523,535,718,575"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_p_o_d_vector.html#ac564a928bd75354adfdeb2b7fd225149" title="Return iterator to the beginning." coords="815,241,959,281"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_bounding_box.html#adc0131aa1d9fcea402a47973925da048" title="Return true if this bounding box is defined via a previous call to Define() or Merge()." coords="812,63,963,103"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_p_o_d_vector.html#ad9cedde70f6aac8dde2b7bfba7ca4fbb" title="Return iterator to the end." coords="804,191,971,217"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_drawable.html#a74be6fab1f5cfdd44da3572015edf6ba" title="Return drawable flags." coords="784,127,991,167"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_octree.html#ae6daf0b6ffcca32a2ad5bd2781e21f0a" title=" " coords="788,13,987,38"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_octant.html#a7c998cf647fa3ba6fc98d05a9a04dc9d" title="Return octree root." coords="805,482,970,507"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_drawable.html#a3930dc9342c0aefcfd4c94eb8079e365" title=" " coords="793,356,982,396"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_drawable.html#a3181013d83f6d1b3110abe34316fe435" title="Set new zone. Zone assignment may optionally be temporary, meaning it needs to be re&#45;evaluated on the..." coords="796,306,979,331"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_p_o_d_vector.html#a75ae397d58ffa509b1c4df45913107d6" title="Return the buffer with right type." coords="1066,213,1210,253"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_octant.html#af3fa8d34fbf5cd8bd8862cad88924812" title="Return drawable objects by a query, called internally." coords="1039,5,1237,45"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_octree_query.html#a5963c8409ce72b85bd9377b773d40c73" title="Intersection test for drawables." coords="1297,5,1442,45"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_drawable.html#af146747caaf6fd85ab71fda4e364bde4" title="Recalculate the world&#45;space bounding box." coords="1045,356,1231,396"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_octree.html#a578eb27fbff722b23eecfd03ef0e5571" title="Mark drawable object as requiring an update and a reinsertion." coords="789,542,985,567"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Urho3D::TerrainPatch::UpdateBatches" name="Urho3D::TerrainPatch::UpdateBatches">
+<area shape="rect" id="node1" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="5,274,152,314"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector3.html#a3589f6f93422b543e3f8a4bdcc1d5f88" title="Calculate dot product." coords="219,88,411,113"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_terrain_patch.html#a008fa90074af9915b13a5fa603f2c8db" title="Return a corrected LOD level to ensure stitching can work correctly." coords="235,138,395,178"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_camera.html#adc14322198c5fd70f75ed8a739212e54" title="Return distance to position. In orthographic mode uses only Z coordinate." coords="217,203,413,228"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_camera.html#a165a829d35ab50d0df4bfcd17b1a6255" title="Return a scene node&#39;s LOD scaled distance." coords="206,252,425,277"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_drawable.html#a3930dc9342c0aefcfd4c94eb8079e365" title=" " coords="221,302,410,342"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="200,367,431,392"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_matrix3x4.html#a0cdac780b2a7ea2077287c6b7a6ea631" title="Return the scaling part." coords="246,417,385,457"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="231,481,400,507"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="524,29,619,55"/>
+<area shape="rect" id="node6" href="$_math_defs_8h.html#ac3865cf9a0484b8452ccc4e62c5661ca" title=" " coords="523,103,619,128"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_camera.html#a86a2e6d78d0ac6c20e043ada2f573401" title=" " coords="485,152,658,177"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="955,167,1171,192"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector3.html#a8cec272610e59b1abfa3f42909c90351" title=" " coords="489,253,653,279"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_camera.html#a08d24e076d62c0b397817f2c9f92cc41" title=" " coords="712,74,907,114"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="740,138,879,178"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="955,81,1172,107"/>
+<area shape="rect" id="node14" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="522,327,621,352"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_drawable.html#af146747caaf6fd85ab71fda4e364bde4" title="Recalculate the world&#45;space bounding box." coords="479,377,664,417"/>
+</map>

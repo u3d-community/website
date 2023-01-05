@@ -1,0 +1,3 @@
+<map id="Urho3D::DecalSet::AddDecal" name="Urho3D::DecalSet::AddDecal">
+<area shape="rect" id="node1" title="Add a decal at world coordinates, using a target drawable&#39;s geometry for reference...." coords="5,29,195,55"/>
+</map>

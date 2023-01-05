@@ -1,0 +1,27 @@
+<map id="Urho3D::ResourceWithMetadata::AddMetadata" name="Urho3D::ResourceWithMetadata::AddMetadata">
+<area shape="rect" id="node1" title=" " coords="5,497,216,537"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_hash_map.html#ad7e80c0c98d795960287fdce2215e312" title="Insert a pair. Return an iterator to it." coords="264,348,435,374"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="276,528,423,554"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_hash_map.html#a3501298fa6a20a6825ace2feffb2d8a4" title="Insert a key and value and return either the new or existing node." coords="483,216,685,242"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_hash_base.html#aa42035b544f9dfee6c1353df83cc2d45" title="Allocate bucket head pointers + room for size and bucket count variables." coords="737,101,924,141"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_base.html#af0f242c3642f60dc7cf69f3b7d24fa11" title="Return number of buckets." coords="1221,55,1436,80"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_base.html#ab2e9d0c50ac79b0a7eccd15b096745e9" title="Return bucket head pointers." coords="1247,186,1411,211"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html#a85f871cbe77f2d780e1a169f19936ad8" title="Find a node from the buckets. Do not call if the buckets have not been allocated." coords="733,315,928,340"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html#a6baa78766271c323b914fd2e6ca70c66" title="Compute a hash based on the key and the bucket size." coords="991,55,1158,80"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html#a9b027f4d1b9c11c0454f1c60646af8bc" title="Rehash the buckets." coords="741,216,920,242"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1251,420,1407,446"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_base.html#a42b5c2ba692fe96bff763b501b8922a9" title="Return number of elements." coords="749,266,913,291"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_base.html#a2774d115a617b0d6c315132352d43c01" title="Reset bucket head pointers." coords="976,108,1173,134"/>
+<area shape="rect" id="node9" href="$struct_urho3_d_1_1_hash_map_1_1_node.html#a5b917a49ae9df7b89215e8808db681da" title="Return next node in the bucket." coords="990,413,1159,453"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="991,262,1159,287"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="995,363,1154,388"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="511,528,657,554"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector.html#a17e4a13942a9512bc0eceb3e46d950dd" title="Insert elements into the vector using copy or move constructor." coords="499,673,669,713"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="1251,604,1406,630"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="999,579,1150,604"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html#a05f68c0546419caf7d6050a3e7d8d1d5" title="Calculate new vector capacity." coords="745,730,917,770"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_vector.html#a5c0b7ecbd0ae0c75a9a69bf9dedc517a" title="Construct elements using default ctor." coords="987,744,1163,784"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="748,630,913,655"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector_base.html#aec648d72344954c3be22218eb180f6a4" title="Swap with another vector." coords="760,794,901,834"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html#afb87585db12d120ab5148ec782d14632" title="Call the elements&#39; destructors." coords="991,680,1159,720"/>
+</map>

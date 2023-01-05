@@ -1,0 +1,27 @@
+<map id="Urho3D::SpriteSheet2D::EndLoad" name="Urho3D::SpriteSheet2D::EndLoad">
+<area shape="rect" id="node1" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="5,549,161,589"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_sprite_sheet2_d.html#a342ae88d8e8f88834900568a735e6f67" title="End load from JSON file." coords="209,868,376,908"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_sprite_sheet2_d.html#ae5759481ecc681a18a42a0deb1dc84fb" title="End load from PList file." coords="212,549,373,589"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_sprite_sheet2_d.html#afd516e83f5aaca4884b1bbbe0640a4cc" title="End load from XML file." coords="213,280,372,320"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a253629ba660641c388bb0bf050b0cd3e" title="Return element at index." coords="443,1063,573,1089"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#ac6f0b2fb0bce5afbeb088c7cb15abbe1" title="Clear the string." coords="436,458,580,483"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_sprite_sheet2_d.html#a240b85041b416960e4a358df7c7d0411" title="Define sprite." coords="430,708,586,748"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_j_s_o_n_value.html#a8ef53c37d618d5fb4d4288135c289ae7" title="Return JSON value with key." coords="425,1014,591,1039"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_j_s_o_n_value.html#a5a67ae140d0b62ea2594fb7e948469b5" title="Return JSON array value." coords="435,1113,581,1153"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_j_s_o_n_value.html#a3999a466ca9eff700ae528deb44e20cc" title="Return integer value." coords="435,772,581,812"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_j_s_o_n_value.html#a6d7a17d89d5cf4320aa16b589f41d617" title="Return string value. The &#39;defaultValue&#39; may potentially be returned as is, so it is the responsibilit..." coords="435,836,581,876"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_j_s_o_n_value.html#aacdaf3f95f89a12fe832bfe6f6699689" title=" " coords="435,900,581,940"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="437,965,579,990"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="642,1063,797,1089"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="643,458,795,483"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="640,810,799,835"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="424,557,592,582"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_int_rect.html#a19bd7564d19878420163e25024e6d84b" title=" " coords="429,658,587,683"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_string.html#a954d2f1f13dc059aa7268e99bc3ff30f" title="Return substrings split by a separator char. By default don&#39;t return empty strings." coords="439,409,577,434"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_int_rect.html#ac994f1ac126b1cf039ac6a0e6040f3b4" title=" " coords="431,507,585,533"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="645,211,793,251"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="434,320,582,360"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_x_m_l_element.html#aee06acb7085894da986940750c2735be" title="Return an integer attribute, or zero if missing." coords="434,181,582,221"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_x_m_l_element.html#a9aafd5a9e7302bcda8cf64b0664b588b" title="Return next sibling element." coords="434,29,582,69"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_x_m_l_element.html#ac0e88c8f1412e65469cc4ebc9457f8ee" title="Return whether has an attribute." coords="434,117,582,157"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::WeakArrayPtr&lt; T &gt;" name="Urho3D::WeakArrayPtr&lt; T &gt;">
+<area shape="rect" id="node1" title="Weak array pointer template class. Uses non&#45;intrusive reference counting." coords="5,93,188,119"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="33,5,161,31"/>
+</map>

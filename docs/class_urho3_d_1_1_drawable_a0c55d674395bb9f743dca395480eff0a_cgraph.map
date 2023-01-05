@@ -1,0 +1,15 @@
+<map id="Urho3D::Drawable::RegisterObject" name="Urho3D::Drawable::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,145,187,185"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html#aa8ee386880f6aad566f662abd2760d4f" title=" " coords="235,127,451,153"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html#a431071bb2e7c05ad55c8aade5c18e659" title=" " coords="235,177,450,202"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="522,116,670,156"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_drawable.html#a04a978441415a93f044721f6473df0e3" title="Handle node transform being dirtied." coords="499,201,693,241"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="1013,151,1161,191"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="766,5,914,45"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="741,93,939,133"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="1235,158,1403,183"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="987,13,1187,38"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_octant.html#a7c998cf647fa3ba6fc98d05a9a04dc9d" title="Return octree root." coords="757,258,923,283"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_octree.html#a578eb27fbff722b23eecfd03ef0e5571" title="Mark drawable object as requiring an update and a reinsertion." coords="742,209,938,234"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="995,215,1178,255"/>
+</map>

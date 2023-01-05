@@ -1,0 +1,27 @@
+<map id="Urho3D::SoundSource3D::Update" name="Urho3D::SoundSource3D::Update">
+<area shape="rect" id="node1" title="Update sound source." coords="5,592,173,632"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_sound_source3_d.html#adebd130fdd2f5de2bdfac64ca7ce0e3d" title="Calculate attenuation and panning based on current position and listener position." coords="221,313,389,353"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_sound_source.html#a73e8e58990434073b566533cf951125d" title="Update the sound source. Perform subclass specific operations. Called by Audio." coords="229,835,381,875"/>
+<area shape="rect" id="node3" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="491,482,601,507"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector3.html#a3589f6f93422b543e3f8a4bdcc1d5f88" title="Calculate dot product." coords="450,531,642,557"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="472,581,620,621"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="472,5,620,45"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="438,70,654,95"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="437,119,655,145"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_quaternion.html#a4d4b3c4b38d40c1e216c51e058709545" title="Return inverse." coords="477,169,615,209"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="713,639,861,679"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector3.html#a8cec272610e59b1abfa3f42909c90351" title=" " coords="464,283,628,309"/>
+<area shape="rect" id="node14" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="497,357,595,382"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector3.html#a005fcc19e10062672549703f42401854" title="Return normalized to unit length." coords="449,234,643,259"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="703,13,871,38"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="919,646,1089,671"/>
+<area shape="rect" id="node16" href="$_math_defs_8h.html#ad6a5d6144733a3594df64e9f8cbb3610" title=" " coords="731,234,843,259"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_component.html#af908546af61d16a0ac497fdad2ed42f2" title="Perform autoremove. Called by subclasses. Caller should keep a weak pointer to itself to check whethe..." coords="472,899,620,939"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_weak_ptr.html#a80470479c6c1e102058e458fe5d20190" title="Return whether the object has expired. If null pointer, always return true." coords="459,963,633,989"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="458,1013,634,1053"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_sound_source.html#a8dac4f4733a076eace3a300cef3be92e" title=" " coords="470,1077,622,1117"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_sound_source.html#ac68eabd8d87e30739b12a2a41dde4ae4" title="Advance playback pointer to simulate audio playback in headless mode." coords="470,835,622,875"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="457,721,635,746"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_sound_source.html#a01e9621dc60ef4094139104e730d0171" title="Stop sound without locking the audio mutex. Called internally." coords="470,771,622,811"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_component.html#a9cb217364df06d4886bfba9d3aec3bed" title="Remove from the scene node. If no other shared pointer references exist, causes immediate deletion." coords="713,899,861,939"/>
+</map>

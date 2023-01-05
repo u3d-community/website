@@ -1,0 +1,23 @@
+<map id="Urho3D::CrowdManager::RegisterObject" name="Urho3D::CrowdManager::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,391,169,431"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_crowd_manager.html#af723818c2ca8130d548ee6574b76106f" title="Return all the obstacle avoidance types configured in the crowd as attribute." coords="219,231,435,271"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_crowd_manager.html#aff4ea699ceaeb82d26106768afefb0f8" title="Return all the filter types configured in the crowd as attribute." coords="244,295,411,335"/>
+<area shape="rect" id="node15" href="$namespace_urho3_d_1_1_attribute_metadata.html#a0eec60ed91ef3d0a83f7c94563ac8f43" title="Names of vector struct elements. StringVector." coords="217,359,437,399"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="241,423,414,463"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_crowd_manager.html#a9fdc347fc186fdca44005be49b20a2d9" title="Set all the obstacle avoidance types configured in the crowd based on the corresponding attribute." coords="220,487,435,527"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_crowd_manager.html#aade58f13dc5072c99436bf791953bdad" title="Set all the query filter types configured in the crowd based on the corresponding attribute." coords="244,551,411,591"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="489,215,636,240"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="909,325,1074,351"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="699,75,846,100"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a17e4a13942a9512bc0eceb3e46d950dd" title="Insert elements into the vector using copy or move constructor." coords="688,203,857,243"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="1349,124,1504,149"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="1138,124,1289,149"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#a05f68c0546419caf7d6050a3e7d8d1d5" title="Calculate new vector capacity." coords="905,146,1077,186"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html#a5c0b7ecbd0ae0c75a9a69bf9dedc517a" title="Construct elements using default ctor." coords="1125,203,1301,243"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector_base.html#aec648d72344954c3be22218eb180f6a4" title="Swap with another vector." coords="921,261,1062,301"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector.html#afb87585db12d120ab5148ec782d14632" title="Call the elements&#39; destructors." coords="1129,318,1297,358"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="1143,383,1284,408"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="485,421,640,461"/>
+<area shape="rect" id="node19" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="515,509,610,535"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="491,559,634,584"/>
+</map>

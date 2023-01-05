@@ -1,0 +1,3 @@
+<map id="Urho3D::XMLFile::Save" name="Urho3D::XMLFile::Save">
+<area shape="rect" id="node1" title="Save resource with default indentation (one tab). Return true if successful." coords="5,29,160,55"/>
+</map>

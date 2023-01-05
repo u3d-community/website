@@ -1,0 +1,21 @@
+<map id="Urho3D::Graphics::SetVertexBuffers" name="Urho3D::Graphics::SetVertexBuffers">
+<area shape="rect" id="node1" title=" " coords="1955,162,2141,202"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_geometry.html#a4a7263e950743d3a59f18469766bfe19" title="Draw." coords="1730,140,1897,165"/>
+<area shape="rect" id="node17" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="1509,50,1651,90"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_graphics.html#a4f5631b54b7a4717d350b94e0e469b88" title="Set vertex buffer." coords="1720,190,1907,230"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_graphics.html#a8200e87e47a345db85552abd3772b66f" title="Set multiple vertex buffers." coords="1720,254,1907,294"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="1509,115,1651,140"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_view.html#a9f5a7068310ea03c58673eb5add7db21" title="Draw a fullscreen quad. Shaders and renderstates must have been set beforehand. Quad will be drawn to..." coords="1213,172,1440,197"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_renderer.html#a408789b2d93f27c7884360b7ecccec55" title="Optimize a light by marking it to the stencil buffer and setting a stencil test." coords="1488,215,1672,255"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="1255,50,1398,90"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="691,99,886,139"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="939,57,1162,83"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="477,137,626,163"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#a07fcfa3743eb980a7f821d810abc42e5" title="Blit the viewport from one surface to another." coords="952,180,1149,205"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_renderer.html#a4e44255580c9a9665ae72d4a4f77c705" title="Blur the shadow map." coords="936,229,1165,255"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_view.html#a798fe80282652472bd0fb2c0694bbfb8" title="Perform a quad rendering command." coords="961,107,1141,132"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_renderer.html#ad3cd417832137ad7fca7704fb0f40af1" title=" " coords="689,222,888,262"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_renderer.html#ae0d765a240f7cf5f829ddc95cb2729c9" title="Initialize when screen mode initially set." coords="461,229,641,255"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_renderer.html#ade42fa3aa8f7f48620bffc61ab32c635" title="Handle screen mode event." coords="239,250,413,290"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_renderer.html#a8e41f9dda2e33e9e208c5ccfd0d1c6ac" title="Construct." coords="5,229,191,255"/>
+</map>

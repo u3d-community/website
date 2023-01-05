@@ -1,0 +1,19 @@
+<map id="Urho3D::IsNaN" name="Urho3D::IsNaN">
+<area shape="rect" id="node1" title=" " coords="1160,199,1271,224"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_matrix2.html#a9df1b552d864ff9cd82b925c4b904177" title="Return whether any element is NaN." coords="949,5,1112,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_matrix3.html#af889ca04e44840025786a3ea547e705e" title="Return whether any element is NaN." coords="949,55,1112,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_matrix3x4.html#a58070ab0d121a4d984cf50151552eb43" title="Return whether any element is NaN." coords="961,105,1100,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_matrix4.html#a1e12e8ef7183f9e6610f980ec269381b" title="Return whether any element is NaN." coords="949,169,1112,195"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_quaternion.html#a59be2a20efbfd54a6aa5b920ab9aa3f8" title="Return whether any element is NaN." coords="962,219,1099,259"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector2.html#a24f2475ba3aed4e0673e8a671e823285" title="Return whether any component is NaN." coords="949,284,1112,309"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector3.html#ae3b4753e30af7a6fe34a9a7f4646084e" title="Return whether any component is NaN." coords="949,333,1112,359"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector4.html#ad43a5b4100c213db7c4aad98a1b3a662" title="Return whether any component is NaN." coords="949,383,1112,408"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_quaternion.html#a18879f2754646ddf9a8608d9eaafff35" title="Define from a direction to look in and an up direction. Return true if successful,..." coords="763,219,901,259"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_camera.html#a550d2bdf61207a877e5ecf7bbb6e247e" title="Return a world rotation for facing a camera on certain axes based on the existing world rotation." coords="496,190,715,230"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#afb32a557cfa6483f55c896046efb9b4a" title="Look at a target position in the chosen transform space. Note that the up vector is always specified ..." coords="528,255,683,280"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_text3_d.html#aa77a802e886bfb646350e8d0a0a70958" title="Recalculate camera facing and fixed screen size." coords="273,126,448,166"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_billboard_set.html#ae8d8caed716187e339f5e6488d25f156" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="289,190,432,230"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_billboard_set.html#adc0ee0f5b93f2ecea3db3569355ba0fc" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="289,254,432,294"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_text3_d.html#aff78b88d77fa5beca14427ab5572c99b" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="11,109,220,135"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_text3_d.html#ae76455bed7ea206ebb893e49c5a14ae7" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="5,159,225,184"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::LuaScriptInstance::OnSceneSet" name="Urho3D::LuaScriptInstance::OnSceneSet">
+<area shape="rect" id="node1" title="Handle scene being assigned." coords="5,427,184,467"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_lua_script_instance.html#aa7f85320b1c3578fd83701bc55df4bf0" title="Subscribe to script method events." coords="248,220,467,260"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_lua_script_instance.html#accdbe137dfc95d695f120dcd5331f8d6" title="Unsubscribe from script method events." coords="232,589,483,629"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a1df1e1bfa613bbd82fe6624c211db754" title="Add listener component that is notified of node being dirtied. Can either be in the same node or anot..." coords="542,27,726,53"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a75922f91ae1ee7376aaf1b2e0c0cc84c" title="Return a component from the scene root that sends out fixed update events (either PhysicsWorld or Phy..." coords="556,105,712,145"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="813,120,961,160"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_lua_script_instance.html#a35e3ee537d2015148e3f24acc0483d11" title="Handle the logic post update event." coords="545,220,723,260"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_lua_script_instance.html#a74cad0febb38074e51a72bf7d92b71b9" title="Handle the logic update event." coords="545,284,723,324"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="547,408,721,448"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#ab49b4b66b2eb1601cf166972fe42e5ce" title="Handle scene node transform dirtied." coords="813,5,961,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a0c7ddadabfbb191e42b39877ca84cd67" title="Return component from the whole scene by ID, or null if not found." coords="785,70,989,95"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="1037,70,1237,95"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="1053,127,1221,153"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_lua_function.html#aaebe8556aab514240aae0a06f82c2629" title="Begin function call. When a script object is given then pass it as self argument (first parameter) to..." coords="815,184,959,224"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_lua_function.html#a10c1b2a030d1763e524b5fd50e4afd8b" title="End call and actually execute the function. The return values, if any, are still left in the stack wh..." coords="815,248,959,288"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_lua_function.html#aa9dfc1e87eecc78c929b3a280560fb31" title="Push float to stack." coords="815,312,959,352"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_lua_script_instance.html#a3516536d2ba9fac5b5f8e708de85fb70" title="Return Lua reference to script object." coords="1048,184,1227,224"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="797,376,978,416"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="794,440,981,480"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="802,504,973,544"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="1062,500,1213,540"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_node.html#a98f711e232ccff9b596e7846bdffab96" title="Remove listener component." coords="531,654,737,679"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_object.html#a153b96c4397e045b2ca2b2d5471d097c" title="Unsubscribe from an event." coords="539,589,729,629"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_object.html#a00bec56f305dd6636d186e5b351d0264" title="Find the first event handler with no specific sender." coords="801,619,973,659"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_context.html#a7b5bd076e695054df7930255c3eee18b" title="Remove event receiver from specific events." coords="785,683,989,723"/>
+</map>

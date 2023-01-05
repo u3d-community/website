@@ -1,0 +1,13 @@
+<map id="Urho3D::SoundSource::GetSoundType" name="Urho3D::SoundSource::GetSoundType">
+<area shape="rect" id="node1" title=" " coords="972,55,1124,95"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_audio.html#afd99707417a45cad089e18681e231b4d" title="Mix sound sources into the buffer." coords="737,5,911,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_sound_source.html#aae9a850fca6b040a1162784c48305014" title=" " coords="748,55,900,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_audio.html#afe2741a7a803a4e5fec31b7bd0ecb677" title="Actually update sound sources with the specific timestep. Called internally." coords="724,120,924,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_audio.html#a185245f1c7242dd78b14042e3e8267f3" title="Restart sound output." coords="493,45,632,71"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_audio.html#a433ee54bdc8ac9f891166888dbc0647b" title="Resume playback of all sound types." coords="474,95,651,120"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_audio.html#a79935c51456e54b1d97a22d73a84be7c" title="Resume playback of specific sound type." coords="449,144,676,169"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_audio.html#a06e397e757fdd20e747c16b78ede8a37" title="Run update on sound sources. Not required for continued playback, but frees unused sound sources &amp; so..." coords="485,193,641,219"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_audio.html#a47d9e2bbbd31dc8ded6f4e83486cdcb4" title="Initialize sound output with specified buffer length and output mode." coords="218,45,386,71"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_audio.html#a087de3d1eb52ea426b9fa6db017aa851" title="Handle render update event." coords="203,186,401,226"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_audio.html#a794332db2cbd49b835dded0df11a9f9f" title="Construct." coords="5,193,155,219"/>
+</map>

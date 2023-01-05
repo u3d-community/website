@@ -1,0 +1,11 @@
+<map id="Urho3D::UIElement::GetFocusMode" name="Urho3D::UIElement::GetFocusMode">
+<area shape="rect" id="node1" title=" " coords="1169,72,1309,112"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i.html#a0ee542fdc8ae962d5a52737b9e5efb19" title="Return the first element in hierarchy that can alter focus." coords="949,43,1121,83"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i.html#aa0f1800447d1a747be7e2c7c71e5e069" title="Handle mouse wheel event." coords="691,8,901,33"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i.html#a1354d0acce25fb4c12d08a4addc09612" title="Set focused UI element." coords="699,105,893,130"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i.html#aa7966075651b12fe5bc1dae57a5bb636" title="Handle keypress event." coords="453,158,643,184"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i.html#a2c011c43ca66ff4270e98601e4f9c4cf" title="Construct." coords="5,84,111,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i.html#a78d9ccf1b8ff40f9d04d7a85c99a5f4e" title="Handle button or touch begin." coords="463,94,633,134"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_u_i.html#a0c3fcb4a57507c8c853110327a37e78e" title="Handle mouse button down event." coords="159,58,405,84"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_u_i.html#a63fbf9f726a2e7819a9327cb4aeea381" title="Handle touch begin event." coords="181,108,383,133"/>
+</map>

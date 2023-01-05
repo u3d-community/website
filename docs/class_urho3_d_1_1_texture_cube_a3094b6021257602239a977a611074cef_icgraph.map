@@ -1,0 +1,8 @@
+<map id="Urho3D::TextureCube::Release" name="Urho3D::TextureCube::Release">
+<area shape="rect" id="node1" title="Release the texture." coords="589,69,736,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture_cube.html#a4c60b67e36c4dabddf662b303be19f50" title="Create the GPU texture." coords="395,37,541,77"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_texture_cube.html#a8653bccf6a008920f03771cf9681ac2c" title="Destruct." coords="395,101,541,141"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture_cube.html#a06a1fa6272e90ab5faef533200b63f70" title="Recreate the GPU resource and restore data if applicable." coords="200,5,347,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture_cube.html#a6b635689647bfaf37a0be4e0e4e823fe" title="Set size, format, usage and multisampling parameter for rendertargets. Note that cube textures always..." coords="200,69,347,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture_cube.html#a40f3c72a68d864e9d0e57d35491f9934" title="Set data of one face from an image. Return true if successful. Optionally make a single channel image..." coords="5,69,152,109"/>
+</map>

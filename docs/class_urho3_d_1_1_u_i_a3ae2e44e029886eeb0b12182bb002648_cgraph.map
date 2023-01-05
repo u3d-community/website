@@ -1,0 +1,5 @@
+<map id="Urho3D::UI::GetCursorPosition" name="Urho3D::UI::GetCursorPosition">
+<area shape="rect" id="node1" title=" " coords="5,5,207,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i.html#af26cf457fe79738d08052a434e525f72" title="Convert system mouse position (or offset) to scaled UI position (or offset)." coords="255,5,465,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i.html#acfb2418515b35357fa94d483b58cd292" title=" " coords="513,5,657,31"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="Urho3D::Scene::MarkNetworkUpdate" name="Urho3D::Scene::MarkNetworkUpdate">
+<area shape="rect" id="node1" title="Mark for attribute check on the next network update." coords="5,29,203,69"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Urho3D::RenderSurface::GetLinkedRenderTarget" name="Urho3D::RenderSurface::GetLinkedRenderTarget">
+<area shape="rect" id="node1" title=" " coords="716,22,881,62"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="445,29,668,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,22,397,62"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,29,155,55"/>
+</map>

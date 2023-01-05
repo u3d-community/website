@@ -1,0 +1,27 @@
+<map id="Urho3D::Serializable::LoadXML" name="Urho3D::Serializable::LoadXML">
+<area shape="rect" id="node1" title="Load from XML data. Return true if successful." coords="5,618,145,658"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector.html#a253629ba660641c388bb0bf050b0cd3e" title="Return element at index." coords="227,31,358,56"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a0d2da282b3aede6a8e5ba3ec45ff3945" title="Return comparison result with a string." coords="700,664,867,689"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="709,399,857,439"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_serializable.html#a7e18871871feb97ee7cfb637e9b3e090" title="Return attribute descriptions, or null if none defined." coords="223,701,363,741"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="709,309,857,349"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_x_m_l_element.html#a9aafd5a9e7302bcda8cf64b0664b588b" title="Return next sibling element." coords="709,221,857,261"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="193,765,392,791"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_x_m_l_element.html#af5aeb48b8ff507f49752705f0a127114" title="Return a variant attribute with static type." coords="219,285,367,325"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="712,471,855,496"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_variant.html#a5cdfda6b6a036a4d462f45669734dcd4" title=" " coords="209,815,377,840"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_x_m_l_element.html#ad7c2e67e5dfefddc309e1c809aa1ba74" title=" " coords="219,865,367,905"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_serializable.html#a3785d97ef92557bab8239688af94ac5e" title="Handle attribute write access. Default implementation writes to the variable at offset,..." coords="223,929,363,969"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="464,5,619,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="924,407,1080,432"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_x_m_l_element.html#afd561acf36305fd70cf86f60f666798f" title="Return attribute as C string, or null if missing." coords="928,139,1076,179"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_context.html#a154a078ece29446d7796ddabd3fbec71" title="Return attribute descriptions for an object type, or null if none defined." coords="440,731,643,756"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_object.html#a4c7af660afc8467a99d1f17c8d099b3b" title=" " coords="460,780,623,805"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_variant.html#ab5e789dec05c21850b73453f8a985797" title="Set from typename and value strings. Pointers will be set to null, and VariantBuffer or VariantMap ty..." coords="691,560,876,585"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_x_m_l_element.html#ad00f0dd518fc28c1950c817ba98be435" title="Return a resource reference attribute, or empty if missing." coords="467,463,615,503"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_x_m_l_element.html#a091da4a3ef5e02bbb6205c636abfa1e1" title="Return a resource reference list attribute, or empty if missing." coords="467,399,615,439"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_x_m_l_element.html#a889dc5c013f08e10c07a5e0aa94af3a3" title="Return a string vector attribute, or empty if missing." coords="467,157,615,197"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_x_m_l_element.html#acb3fcf0b9f824896a110628a228bb260" title="Return a variant map attribute, or empty if missing." coords="467,285,615,325"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_x_m_l_element.html#ae684fd0e1c8c2cdde0a245678ef4af17" title="Return a variant vector attribute, or empty if missing." coords="467,221,615,261"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_x_m_l_element.html#a83c9e8cdf51efcf7a24fb02c1d94d1f7" title=" " coords="467,865,615,905"/>
+</map>

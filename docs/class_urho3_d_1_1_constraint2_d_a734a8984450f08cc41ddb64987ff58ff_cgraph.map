@@ -1,0 +1,6 @@
+<map id="Urho3D::Constraint2D::OnNodeSet" name="Urho3D::Constraint2D::OnNodeSet">
+<area shape="rect" id="node1" title="Handle node being assigned." coords="5,35,155,75"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="203,13,404,38"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#a5092f734dab3100e777b678ad6c13215" title="Handle scene node being assigned at creation." coords="229,63,377,103"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#a6070c8208ad98595d8c3fe43778d6069" title="Return component in the same scene node by type. If there are several, returns the first." coords="452,5,600,45"/>
+</map>

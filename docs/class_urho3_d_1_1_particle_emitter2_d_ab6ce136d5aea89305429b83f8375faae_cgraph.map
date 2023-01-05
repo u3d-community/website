@@ -1,0 +1,21 @@
+<map id="Urho3D::ParticleEmitter2D::UpdateSourceBatches" name="Urho3D::ParticleEmitter2D::UpdateSourceBatches">
+<area shape="rect" id="node1" title="Update source batches." coords="5,261,172,301"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector.html#a816870b165f6d7662f3d806ad73c5c59" title="Clear the vector." coords="221,268,370,293"/>
+<area shape="rect" id="node13" href="$_math_defs_8h.html#af7564744da23adb0019e989279ea7d88" title=" " coords="247,219,344,244"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="424,113,571,139"/>
+<area shape="rect" id="node17" href="$_math_defs_8h.html#a1e064ec2f12ba951dafbe7d38b6f89ed" title=" " coords="250,341,341,367"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="220,391,371,416"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a5d21ed173348c7bca276c417ed7d38e2" title="Resize the vector." coords="419,281,576,307"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html#ae9748e916e5595ad4ea377f2a0d1a1b7" title="Resize the vector and create/remove new elements as necessary." coords="624,288,799,313"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="1291,220,1445,245"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a05f68c0546419caf7d6050a3e7d8d1d5" title="Calculate new vector capacity." coords="847,159,1019,199"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#a5c0b7ecbd0ae0c75a9a69bf9dedc517a" title="Construct elements using default ctor." coords="1067,213,1243,253"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#afb87585db12d120ab5148ec782d14632" title="Call the elements&#39; destructors." coords="1071,378,1239,418"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="850,339,1015,364"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector_base.html#aec648d72344954c3be22218eb180f6a4" title="Swap with another vector." coords="862,223,1003,263"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="1079,163,1230,188"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="1084,328,1225,353"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html#a2966c346317753692342733ce84a6829" title="Return last element." coords="638,5,785,31"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html#a17e4a13942a9512bc0eceb3e46d950dd" title="Insert elements into the vector using copy or move constructor." coords="627,106,796,146"/>
+<area shape="rect" id="node19" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="442,391,553,416"/>
+</map>

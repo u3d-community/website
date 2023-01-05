@@ -1,0 +1,27 @@
+<map id="Urho3D::ParticleEmitter" name="Urho3D::ParticleEmitter">
+<area shape="rect" id="node1" title="Particle emitter component." coords="1512,506,1672,531"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_billboard_set.html" title="Billboard component." coords="1320,667,1463,693"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="983,303,1110,329"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_zone.html" title="Component that describes global rendering properties." coords="1340,235,1443,261"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_light.html" title="Light component." coords="1341,387,1442,413"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html" title=" " coords="597,489,740,514"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="267,186,418,211"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_octant.html" title=" " coords="613,169,724,194"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="5,247,124,273"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_particle_effect.html" title="Particle effect definition." coords="267,75,418,101"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html" title=" " coords="585,296,752,336"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="272,505,413,530"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="596,360,741,400"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="596,424,741,464"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="787,689,932,729"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html" title=" " coords="776,616,943,656"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="1151,499,1296,539"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="981,455,1113,481"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="975,760,1119,800"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_geometry.html" title="Defines one or more vertex buffers, an index buffer and a draw range." coords="603,771,734,797"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="265,796,420,836"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="967,875,1127,915"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vertex_buffer.html" title="Hardware vertex buffer." coords="595,882,742,907"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_vector_buffer.html" title="Dynamically sized buffer that can be read and written to as a stream." coords="973,585,1121,610"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="777,7,941,47"/>
+</map>

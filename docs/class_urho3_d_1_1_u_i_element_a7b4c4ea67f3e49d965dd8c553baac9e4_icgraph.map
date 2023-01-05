@@ -1,0 +1,5 @@
+<map id="Urho3D::UIElement::OnTextInput" name="Urho3D::UIElement::OnTextInput">
+<area shape="rect" id="node1" title="React to text input event." coords="395,5,535,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i.html#a4a2c486b01a8b5d5a44a84a3d9b02db1" title="Handle text input event." coords="159,13,347,38"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i.html#a2c011c43ca66ff4270e98601e4f9c4cf" title="Construct." coords="5,13,111,38"/>
+</map>

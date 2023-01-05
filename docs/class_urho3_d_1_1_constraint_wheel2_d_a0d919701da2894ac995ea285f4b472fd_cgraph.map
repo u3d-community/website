@@ -1,0 +1,27 @@
+<map id="Urho3D::ConstraintWheel2D::RegisterObject" name="Urho3D::ConstraintWheel2D::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,517,181,557"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_constraint_wheel2_d.html#aba1eb16f01ba6c9afd1558f6793e3cc7" title=" " coords="229,5,405,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_constraint_wheel2_d.html#a221dd6e16fd64a7d349509ba4ccc9f64" title=" " coords="229,69,405,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_constraint_wheel2_d.html#a29ebe64d8d4d4cba0f0d1323433d2151" title=" " coords="229,133,405,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_constraint_wheel2_d.html#ad1c1721e0e4533a5b209362d7444a8e9" title=" " coords="229,197,405,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_constraint_wheel2_d.html#ab5aa230e1748f12de15155f0ca87e35d" title=" " coords="229,261,405,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_constraint_wheel2_d.html#a3476d676cc7363ddb4d9c8980ec54955" title=" " coords="229,325,405,365"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_constraint_wheel2_d.html#a03e3b7da8199e6d809dc97e4f0164dc3" title=" " coords="229,389,405,429"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="243,453,391,493"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="231,517,404,557"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_constraint_wheel2_d.html#adfd08ba4c09a5813c0fc4bb82eed4afb" title=" " coords="229,733,405,773"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_constraint_wheel2_d.html#acc587910079e08051c807ff70baaca0e" title=" " coords="229,797,405,837"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_constraint_wheel2_d.html#a02eee3b6c7f867ca24c12a6da9e0a66c" title=" " coords="229,861,405,901"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="243,581,391,621"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_constraint_wheel2_d.html#a49bfe123bb70cc4b8356c40eff0134cc" title=" " coords="229,925,405,965"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_constraint_wheel2_d.html#a6a7526c6845d2127b12999db1c8e0865" title=" " coords="229,989,405,1029"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_constraint_wheel2_d.html#a2a1097e3e31962449a00747a7e3adfa6" title=" " coords="229,1077,405,1117"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_constraint_wheel2_d.html#a8a7ce118389b447b2529358daefee790" title=" " coords="229,669,405,709"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="465,452,619,492"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="468,797,616,837"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_constraint2_d.html#a6b020a0b52d60cf6f05f584f85801c58" title="Recreate joint." coords="467,861,617,901"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="679,760,827,800"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="459,591,625,631"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_component.html#a97c506dfb55216668b1fdf4d4425f7d7" title="Handle enabled/disabled state change." coords="468,655,616,695"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="453,541,631,566"/>
+</map>

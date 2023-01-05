@@ -1,0 +1,4 @@
+<map id="Urho3D::Texture2D::SetSize" name="Urho3D::Texture2D::SetSize">
+<area shape="rect" id="node1" title="Set size, format, usage and multisampling parameters for rendertargets. Zero size will follow applica..." coords="192,5,331,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture2_d.html#ab49167ad05742f9610fd938c2f9f29ce" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="5,5,144,45"/>
+</map>

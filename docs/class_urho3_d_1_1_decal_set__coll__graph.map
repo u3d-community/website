@@ -1,0 +1,27 @@
+<map id="Urho3D::DecalSet" name="Urho3D::DecalSet">
+<area shape="rect" id="node1" title="Decal renderer component." coords="1273,676,1399,701"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="1001,323,1127,348"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_zone.html" title="Component that describes global rendering properties." coords="1285,244,1387,269"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_light.html" title="Light component." coords="1285,340,1387,365"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="625,281,767,307"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="7,276,146,301"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="277,247,384,272"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="17,147,136,172"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="255,80,406,105"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_octant.html" title=" " coords="641,201,751,227"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html" title=" " coords="432,445,599,485"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="6,488,147,513"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="256,398,405,438"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="443,493,588,533"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="443,341,588,381"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html" title=" " coords="793,607,960,647"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="804,550,949,590"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="992,854,1136,894"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_geometry.html" title="Defines one or more vertex buffers, an index buffer and a draw range." coords="631,851,761,876"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="253,719,408,759"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_index_buffer.html" title="Hardware index buffer." coords="5,727,148,752"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="984,726,1144,766"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vertex_buffer.html" title="Hardware vertex buffer." coords="623,733,769,759"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_list.html" title=" " coords="989,790,1139,830"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_list_base.html" title="Doubly&#45;linked list base class." coords="635,797,757,823"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Urho3D::DropDownList::GetBatches" name="Urho3D::DropDownList::GetBatches">
+<area shape="rect" id="node1" title="Return UI rendering batches." coords="5,299,161,339"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_border_image.html#aafc7425774297149ed7235f2c48902a7" title="Return UI rendering batches." coords="212,51,363,91"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#ad834d80ce2441030067143981a026a11" title="Get UI rendering batches with a specified offset. Also recurse to child elements." coords="211,159,363,199"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i_element.html#a031e2acb1765a940b9427003cb8653d7" title=" " coords="631,196,771,236"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_drop_down_list.html#a51cd58dae013d0ef628979b6cbb20465" title=" " coords="209,299,365,339"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_u_i_element.html#a38937eccdeeec10bc07da3b9e434a66f" title=" " coords="217,363,357,403"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_u_i_element.html#ac992938afcfd6166d08a37dfaea1bd99" title="Set hovering state." coords="217,427,357,467"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_u_i_element.html#aadc1df6af3b0201f49e4fa0f55cabfcd" title=" " coords="217,491,357,531"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a1bc81ebf873ab97c4251c0bad93b568e" title=" " coords="428,5,568,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#acdc7fcffd94cbfa796b2ffc71cdc83d2" title="Adjust scissor for rendering." coords="428,69,568,109"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_u_i_element.html#ab18ce5c994a725e2a7b4724ee1287fe9" title="Return UI rendering batches." coords="428,133,568,173"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="413,198,583,223"/>
+<area shape="rect" id="node8" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="651,41,750,66"/>
+<area shape="rect" id="node9" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="653,114,748,139"/>
+<area shape="rect" id="node7" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="819,203,917,229"/>
+</map>

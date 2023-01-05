@@ -1,0 +1,27 @@
+<map id="Urho3D::LogicComponent::OnSetEnabled" name="Urho3D::LogicComponent::OnSetEnabled">
+<area shape="rect" id="node1" title="Handle enabled/disabled state change. Changes update event subscription." coords="5,247,180,287"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_logic_component.html#a7290eb9fff45aef56ae052ccc8e8b729" title="Subscribe/unsubscribe to update events based on current enabled state and update event mask." coords="228,247,403,287"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#a75922f91ae1ee7376aaf1b2e0c0cc84c" title="Return a component from the scene root that sends out fixed update events (either PhysicsWorld or Phy..." coords="460,55,616,95"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="701,55,849,95"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_logic_component.html#a917286aa2813c0787a347622ebdf06d1" title="Handle scene post&#45;update event." coords="451,421,625,461"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_logic_component.html#a9a318417ce77addd2c7a161f196e4b00" title="Handle scene update event." coords="451,183,625,223"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object.html#a153b96c4397e045b2ca2b2d5471d097c" title="Unsubscribe from an event." coords="681,247,870,287"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="464,545,612,585"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="451,326,625,366"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#a0c7ddadabfbb191e42b39877ca84cd67" title="Return component from the whole scene by ID, or null if not found." coords="673,5,877,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="927,5,1127,31"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="943,63,1111,88"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_logic_component.html#ac5d84eea37c43d10f358500c97fae876" title="Called on scene post&#45;update, variable timestep." coords="688,503,863,543"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_logic_component.html#ab87accfdac685351fde43278dca1fa1f" title="Called before the first update. At this point all other components of the node should exist...." coords="688,119,863,159"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_logic_component.html#a5dafa887363d3d648ab45a14c80beb9b" title="Called on scene update, variable timestep." coords="688,183,863,223"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_object.html#a00bec56f305dd6636d186e5b351d0264" title="Find the first event handler with no specific sender." coords="941,183,1113,223"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="952,311,1103,351"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_context.html#a7b5bd076e695054df7930255c3eee18b" title="Remove event receiver from specific events." coords="925,247,1129,287"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_event_handler.html#ae09d06f06d3590e6f4e06006efa90176" title="Return event type." coords="1197,183,1347,223"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_context.html#a1b685db14efe388bbf40ec5c27bab7eb" title="Return event receivers for a sender and event type, or null if they do not exist." coords="1184,247,1360,287"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_event_receiver_group.html#a3074ee82cc374a0a9145fe8847086022" title="Remove receiver. Leave holes during send, which requires later cleanup." coords="1177,311,1367,351"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="690,568,861,593"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="685,375,866,415"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="682,311,869,351"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="690,439,861,479"/>
+</map>

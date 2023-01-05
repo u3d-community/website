@@ -1,0 +1,8 @@
+<map id="Urho3D::Drawable::OnMarkedDirty" name="Urho3D::Drawable::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="5,23,200,63"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_octant.html#a7c998cf647fa3ba6fc98d05a9a04dc9d" title="Return octree root." coords="263,5,429,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_octree.html#a578eb27fbff722b23eecfd03ef0e5571" title="Mark drawable object as requiring an update and a reinsertion." coords="248,55,444,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="509,15,657,55"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="492,79,675,119"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="723,23,891,48"/>
+</map>

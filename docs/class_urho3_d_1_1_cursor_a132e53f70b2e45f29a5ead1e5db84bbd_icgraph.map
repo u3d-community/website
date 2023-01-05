@@ -1,0 +1,18 @@
+<map id="Urho3D::Cursor::SetShape" name="Urho3D::Cursor::SetShape">
+<area shape="rect" id="node1" title=" " coords="1348,157,1523,183"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_cursor.html#ac42187d96290b83a4f8995d2264cba87" title="Define a shape." coords="1107,55,1300,80"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i.html#a444cb18d7cdbab6b37be5a6245c77388" title="Handle button or touch hover." coords="1115,128,1291,153"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_window.html#a051e2a3e7e8052bd903a6460ea6dde0c" title="Set cursor shape based on drag mode." coords="1110,178,1297,218"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_cursor.html#a80576d788b0d9598414fe08daffd3543" title="Set current shape." coords="1116,243,1291,268"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_cursor.html#a97d9d20ad1d104a8d6a768415bd26d21" title="Define a shape." coords="860,5,1053,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_cursor.html#a704d15848ce28eef980f3334146ad161" title="Set shapes attribute." coords="855,55,1059,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_cursor.html#a39199ab6d191ae94e99df7a20cb41717" title=" " coords="621,47,789,87"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_u_i.html#a72b99e98631cc015245568170dc221e0" title="Update the UI logic. Called by HandlePostUpdate()." coords="889,128,1024,153"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_u_i.html#a13c304d61ad9f05554b32fe017e07e0b" title="Handle logic post&#45;update event." coords="604,128,807,153"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_u_i.html#a5bb71ed105d2bb465a10f66c9bfcb275" title="Initialize when screen mode initially set." coords="416,128,556,153"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_u_i.html#aefd3544d155762334a00429ef8196bae" title="Handle screen mode event." coords="159,103,368,128"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_u_i.html#a2c011c43ca66ff4270e98601e4f9c4cf" title="Construct." coords="5,128,111,153"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_window.html#a932ccd738d5c204646be87a8e6d72dde" title="React to mouse drag begin." coords="855,177,1058,203"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_window.html#a6b1bc0d6b435cc9fea0c0ed1fda015f3" title="React to mouse drag motion." coords="855,227,1058,252"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_window.html#ad453fbdaf401511490f0206a40c94b59" title="React to mouse hover." coords="867,276,1046,301"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::UIElement::IsVisible" name="Urho3D::UIElement::IsVisible">
+<area shape="rect" id="node1" title=" " coords="1108,319,1248,359"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_list_view.html#aaf9f6831a1e93ad5bc4ae93559b9a23e" title="Move selection by a delta and clamp at list ends. If additive (multiselect only), will add to the exi..." coords="861,61,1033,101"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_list_view.html#a8a67087dd8eb4dc4f977f27769593e13" title="React to a key press." coords="575,39,740,65"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_list_view.html#af14e4ee5ec50da9eb9a01e4b530a0b84" title="Ensure full visibility of the item." coords="863,125,1031,165"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i.html#a64c370ff3f5dcbee044573fae5db7a43" title="Return UI element at screen position recursively." coords="861,190,1034,215"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_list_view.html#aeb784361fd2f048e99d554b6c4375e07" title="Insert item at a specific index. In hierarchy mode, the optional parameter will be used to determine ..." coords="853,239,1042,265"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_sprite.html#aedada728de8e83b44472e1dd798a1b0d" title=" " coords="867,404,1028,444"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_tool_tip.html#a73a1d9518db0d686186655b07eab5cd2" title="Hide tooltip if visible and reset parentage." coords="869,494,1025,519"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_input.html#a9a8eecc920bc4bf4cf3f2b1048796beb" title="Set the mouse mode." coords="274,621,477,646"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_input.html#a42f016907a65f849a98e0ad9c24d97ee" title="Set whether the operating system mouse cursor is visible. When not visible (default),..." coords="844,621,1051,646"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_scroll_view.html#ada1100bb04166f0d5c8201ba6662df7b" title="Perform UI element update." coords="880,671,1015,711"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_console.html#a34c1811446ef1218f69c6a40b8898e80" title="Update elements to layout properly. Call this after manually adjusting the sub&#45;elements." coords="835,354,1060,379"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_u_i_element.html#a7cba78373c23a734a1ccd2d4a27d8cb0" title="Manually update layout. Should not be necessary in most cases, but is provided for completeness." coords="877,289,1017,329"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_list_view.html#aa7328480b37cc673aa9ccea8653e2c67" title="Add item to the end of the list." coords="567,138,747,163"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_console.html#a18546b712ec118a256122c627696662e" title=" " coords="528,239,787,265"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_console.html#a21804113c047d876e9358aaa9daabf67" title="Handle the application post&#45;update." coords="277,181,474,221"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_console.html#a6b523b3fbdff6cc3da360dc128be09fd" title=" " coords="271,358,480,383"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_tool_tip.html#a1652f796b22acf7087e05e4929541104" title="Perform UI element update." coords="575,519,740,545"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_input.html#a31ac853b836e1c4bb1106a984aefd1f6" title="Prepare input state for application gaining input focus." coords="29,571,199,597"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_input.html#ac35fd7d54a42a16634d28a227d4e7581" title="Prepare input state for application losing input focus." coords="27,621,201,646"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_input.html#a1a587bd955adb43ee0d1333d59f47516" title="Reset the last mouse mode that wasn&#39;t suppressed in SetMouseMode." coords="5,670,223,695"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_input.html#ad12d5ff3951c02df21943b9c4284e30b" title="Reset last mouse visibility that was not suppressed in SetMouseVisible." coords="566,721,749,761"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_input.html#af189e73afffcd2185b72f8546a444876" title=" " coords="546,671,769,697"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_console.html#a7cd4f5cb4f263100cb04348d48746fa3" title="Handle UI root resize." coords="558,340,757,380"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_console.html#ab6c414693bfee660f1e871d2d76d509c" title=" " coords="563,404,752,444"/>
+</map>

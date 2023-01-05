@@ -1,0 +1,12 @@
+<map id="Urho3D::UIElement::FilterImplicitAttributes" name="Urho3D::UIElement::FilterImplicitAttributes">
+<area shape="rect" id="node1" title="Filter implicit attributes in serialization process." coords="5,69,156,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#af20fa0798d41c04285757b8ba6c4a7f6" title=" " coords="204,5,344,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#af7389fe1ec87c47bd6c9e6bdb151cda1" title=" " coords="204,69,344,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#ad23ccc306cf25e891e8ab6c156492b79" title="Remove child XML element by matching attribute name." coords="204,133,344,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_x_m_l_element.html#a562a34e40cd98016c3a770466a439a50" title="Remove a child element. Return true if successful." coords="393,69,541,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_x_m_l_element.html#a49f0b7c1cec40b16581bc24d86ee5e25" title="Select an element/attribute using XPath query." coords="392,133,543,173"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_x_path_query.html#ae49880eeaa6a9bd48f2f6aaa2058d0e2" title="Add/Set a bool variable. Return true if successful." coords="397,197,538,237"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_x_path_query.html#a3ca967cf52def09237cda5c41c8e789b" title="Return pugixml xpath_query." coords="598,73,739,113"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_x_m_l_element.html#a8dd6d311d1d9d33a802a7b08d99666ba" title="Construct null element." coords="595,137,743,177"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="591,205,747,230"/>
+</map>

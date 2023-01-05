@@ -1,0 +1,27 @@
+<map id="Urho3D::TileMap2D::RegisterObject" name="Urho3D::TileMap2D::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,133,148,173"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_tile_map2_d.html#af72a2a6f6b9a22dbbc1a8c8468888a19" title="Return tile map file attribute." coords="211,5,354,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="209,69,357,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="196,133,369,173"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="916,259,1064,299"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_tile_map2_d.html#a865be4dc3189f887cad580a108d42768" title="Set tile map file attribute." coords="211,280,354,320"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="417,133,572,173"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="1147,356,1313,396"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="1391,227,1539,267"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="1156,420,1304,460"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_component.html#a97c506dfb55216668b1fdf4d4425f7d7" title="Handle enabled/disabled state change." coords="1156,217,1304,257"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="1141,306,1319,331"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="1377,356,1553,396"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="1629,363,1795,389"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="1628,234,1796,259"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="1391,420,1539,460"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="1367,508,1564,548"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="1612,427,1812,453"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_tile_map2_d.html#a6214ad04240021eaed58d71e25081bed" title=" " coords="423,344,566,384"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_node.html#ab23d77af7fe3350c1dcfec8281849ed3" title="Create a component to this node (with specified ID if provided)." coords="620,441,839,466"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="1156,484,1304,524"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#aefe4240e24961864d51e9a0d9f742756" title="Create a temporary child scene node (with specified ID if provided)." coords="623,248,836,288"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_tmx_layer2_d.html#a0ce7543dc87eae59959a7774538be921" title="Return name." coords="656,312,803,352"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_tile_map_layer2_d.html#a54b4cdcb017c10ea0d4a0e92a708f5b0" title="Initialize with tile map and tmx layer." coords="645,376,813,416"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_node.html#a3792a0c2e23b120ac879c2931d6f9dc4" title="Add a pre&#45;created component. Using this function from application code is discouraged,..." coords="887,427,1093,453"/>
+</map>

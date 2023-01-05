@@ -1,0 +1,27 @@
+<map id="Urho3D::Component::OnMarkedDirty" name="Urho3D::Component::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle scene node transform dirtied." coords="751,606,899,646"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a3792a0c2e23b120ac879c2931d6f9dc4" title="Add a pre&#45;created component. Using this function from application code is discouraged,..." coords="496,56,703,81"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a1df1e1bfa613bbd82fe6624c211db754" title="Add listener component that is notified of node being dirtied. Can either be in the same node or anot..." coords="507,613,691,639"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_node.html#a729772e9f5530a69584e7c3a6a8722ce" title="Mark node and child nodes to need world transform recalculation. Notify listener components." coords="514,919,685,944"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#ab23d77af7fe3350c1dcfec8281849ed3" title="Create a component to this node (with specified ID if provided)." coords="229,5,448,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a7d5ace493b64e225e28101f4f8c697ee" title="Create component, allowing UnknownComponent if actual type is not supported. Leave typeName empty if ..." coords="5,23,181,63"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_spline_path.html#aeda8d385fe734579f66408158582ada0" title="Add a Node to the SplinePath as a Control Point." coords="271,106,406,146"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_static_model_group.html#ab4a5ac832727b6ad759ecbe45ea06b76" title="Add an instance scene node. It does not need any drawable components of its own." coords="249,170,428,210"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_static_model_group.html#a873741eda737adb67c2ee85819105259" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="249,234,428,274"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_spline_path.html#a050f0c34ef856d7794b007bb1bc6d5db" title="Apply Attributes to the SplinePath." coords="271,298,406,338"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animated_model.html#a1a9c66f9b072816093f73d60e5b58f62" title="Assign skeleton and animation bone node references as a postprocess. Called by ApplyAttributes." coords="9,683,177,723"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_decal_set.html#a3b632a266d97f53b916eb90e5e7f8bb3" title="Find bones after loading." coords="253,413,424,453"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_camera.html#ad79e0ea6490ce36910898597a15d7dd3" title="Handle node being assigned." coords="242,477,435,503"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_drawable.html#aa7a00b82f8a07ba71b8a63561023a4c4" title="Handle node being assigned." coords="238,527,439,552"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_crowd_agent.html#a4fb8f2d0ca54df3f0c139dc237631b1f" title="Handle node being assigned." coords="265,577,412,617"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_obstacle.html#a1849db395b9d0535558d6403b6d3115c" title="Handle node being assigned." coords="239,641,438,667"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_collision_shape.html#a5c1e0baeb586e2e3edad2c7b7872fe4d" title="Handle node being assigned." coords="259,691,419,731"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_constraint.html#add04d343e4a403b0d105d577d85ad26f" title="Handle node being assigned." coords="272,755,405,795"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_rigid_body.html#aecb162e8c99ab6b69af6fdcab95bc31f" title="Handle node being assigned." coords="269,819,408,859"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_collision_shape2_d.html#a403db7c60e1ba9753698acf1a21ec137" title="Handle node being assigned." coords="251,883,427,923"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_rigid_body2_d.html#aa4a0f10598208406e0401705c70d8036" title="Handle node being assigned." coords="265,947,413,987"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_animated_model.html#aeae317724517abf074f05f2c2c411697" title="Set skeleton." coords="255,1011,423,1051"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_lua_script_instance.html#aa7f85320b1c3578fd83701bc55df4bf0" title="Subscribe to script method events." coords="229,1075,448,1115"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_script_instance.html#ad8ebeb9ea6ced1456471dc05ebbc96a8" title="Subscribe/unsubscribe from scene updates as necessary." coords="251,1139,426,1179"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_node.html#aefe578aa19c22b27311a4377239cca01" title="Add a child scene node at a specific index. If index is not explicitly specified or is greater than c..." coords="255,1204,422,1229"/>
+</map>

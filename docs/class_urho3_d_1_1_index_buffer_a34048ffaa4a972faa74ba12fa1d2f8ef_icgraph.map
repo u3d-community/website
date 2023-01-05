@@ -1,0 +1,5 @@
+<map id="Urho3D::IndexBuffer::GetIndexCount" name="Urho3D::IndexBuffer::GetIndexCount">
+<area shape="rect" id="node1" title=" " coords="204,23,347,63"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_model.html#a3623ddcafb95242955bf9335288855ae" title="Clone the model. The geometry data is deep&#45;copied and can be modified in the clone without affecting ..." coords="5,5,156,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_model.html#abff8eafc5209a8bdbc64676952fc445d" title="Save resource. Return true if successful." coords="8,55,153,80"/>
+</map>

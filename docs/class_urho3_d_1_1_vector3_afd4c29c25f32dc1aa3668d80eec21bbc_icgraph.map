@@ -1,0 +1,18 @@
+<map id="Urho3D::Vector3::LengthSquared" name="Urho3D::Vector3::LengthSquared">
+<area shape="rect" id="node1" title=" " coords="1007,255,1220,280"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_quaternion.html#a18879f2754646ddf9a8608d9eaafff35" title="Define from a direction to look in and an up direction. Return true if successful,..." coords="791,126,930,166"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_camera.html#a68a03b28634de2c029279eb3105b5a3e" title="Return squared distance to position. In orthographic mode uses only Z coordinate." coords="763,190,959,230"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_ray.html#a67d79637313133a9b743e9f7c4968097" title="Return hit distance to a sphere, or infinity if no hit." coords="777,255,945,280"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_sphere.html#a0e49adf9ae70c3c6505298dda44eeeac" title="Test if a bounding box is inside, outside or intersects." coords="777,304,944,329"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector3.html#a4161d0adf8675873cd5045f5c9369ddc" title="Project position vector onto line segment." coords="777,354,944,394"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_camera.html#a550d2bdf61207a877e5ecf7bbb6e247e" title="Return a world rotation for facing a camera on certain axes based on the existing world rotation." coords="496,73,715,113"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#afb32a557cfa6483f55c896046efb9b4a" title="Look at a target position in the chosen transform space. Note that the up vector is always specified ..." coords="528,137,683,163"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_text3_d.html#aa77a802e886bfb646350e8d0a0a70958" title="Recalculate camera facing and fixed screen size." coords="273,22,448,62"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_billboard_set.html#ae8d8caed716187e339f5e6488d25f156" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="289,86,432,126"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_billboard_set.html#adc0ee0f5b93f2ecea3db3569355ba0fc" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="289,162,432,202"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_text3_d.html#aff78b88d77fa5beca14427ab5572c99b" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="11,5,220,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_text3_d.html#ae76455bed7ea206ebb893e49c5a14ae7" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="5,55,225,80"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_billboard_set.html#a294220448a9bc650e7a3a1e127127f1d" title="Rewrite billboard vertex buffer." coords="533,187,677,227"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_ribbon_trail.html#afd634ca73ce1acb9b0a8e491c9b629ae" title="Rewrite RibbonTrail vertex buffer." coords="533,251,677,291"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_ribbon_trail.html#ae50e330642685c41211a3c5103dc4204" title="Prepare geometry for rendering. Called from a worker thread if possible (no GPU update)." coords="292,251,429,291"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::TileMapObject2D" name="Urho3D::TileMapObject2D">
+<area shape="rect" id="node1" title="Tile map object." coords="2627,665,2800,690"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="269,351,412,377"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_object.html" title=" " coords="949,271,1059,297"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="647,351,766,377"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_property_set2_d.html" title="Property set." coords="628,761,785,786"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="8,73,136,98"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1817,359,1996,399"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html" title="String class." coords="951,359,1057,385"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_resource.html" title=" " coords="1301,243,1429,269"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_sprite_sheet2_d.html" title="Sprite sheet." coords="1535,349,1691,374"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="1847,586,1966,611"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_sprite2_d.html" title="Sprite." coords="2129,366,2252,391"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html" title=" " coords="2367,696,2533,736"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="2120,703,2261,729"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="2381,468,2519,508"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="621,236,792,276"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="935,173,1073,198"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="950,222,1058,247"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1292,416,1437,456"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_texture2_d.html" title="2D texture resource." coords="938,687,1070,713"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_int_rect.html" title="Two&#45;dimensional bounding rectangle with integer values." coords="1849,147,1964,173"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="1839,309,1974,334"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1097,753,1268,793"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="248,849,433,889"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="5,857,139,882"/>
+</map>

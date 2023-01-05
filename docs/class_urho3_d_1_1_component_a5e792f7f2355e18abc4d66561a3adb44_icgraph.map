@@ -1,0 +1,5 @@
+<map id="Urho3D::Component::GetDependencyNodes" name="Urho3D::Component::GetDependencyNodes">
+<area shape="rect" id="node1" title="Return the depended on nodes to order network updates." coords="519,5,673,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a1638957bfa976ea888972a09af45a4f1" title="Prepare network update by comparing attributes and marking replication states dirty as necessary." coords="264,5,471,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scene.html#a355bbd2fc23e394d8b8a4cad0090519c" title="Prepare network update by comparing attributes and marking replication states dirty as necessary." coords="5,5,216,45"/>
+</map>

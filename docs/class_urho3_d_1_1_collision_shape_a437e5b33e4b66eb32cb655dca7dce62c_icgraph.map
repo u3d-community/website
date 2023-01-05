@@ -1,0 +1,6 @@
+<map id="Urho3D::CollisionShape::GetPosition" name="Urho3D::CollisionShape::GetPosition">
+<area shape="rect" id="node1" title=" " coords="221,93,381,133"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#a9975760e63efcb66d129fbaada30a5a9" title="Visit nodes and collect navigable geometry." coords="5,5,173,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_physics_world.html#a7ab7f0188c08871f864e9b2df37e1692" title="Perform a physics world swept convex test using a user&#45;supplied collision shape and return the first ..." coords="12,93,167,133"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_collision_shape.html#a6a675622871c1c2d7b7add9c3e440de4" title=" " coords="9,157,169,197"/>
+</map>

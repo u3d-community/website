@@ -1,0 +1,5 @@
+<map id="Urho3D::Sprite2D::EndLoad" name="Urho3D::Sprite2D::EndLoad">
+<area shape="rect" id="node1" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="5,31,188,56"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_sprite2_d.html#a9941b08d2a48916bdc1b9f6046506602" title=" " coords="236,5,441,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_sprite2_d.html#aecad4f3116b4c35dc1abb1ecc1efc4a3" title=" " coords="243,55,434,80"/>
+</map>

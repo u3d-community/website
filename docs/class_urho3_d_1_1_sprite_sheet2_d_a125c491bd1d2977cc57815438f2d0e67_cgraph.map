@@ -1,0 +1,6 @@
+<map id="Urho3D::SpriteSheet2D::SetTexture" name="Urho3D::SpriteSheet2D::SetTexture">
+<area shape="rect" id="node1" title=" " coords="5,5,161,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#ac6f0b2fb0bce5afbeb088c7cb15abbe1" title="Clear the string." coords="209,13,353,38"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="401,13,553,38"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a953822d6a39e507861ee02a24bb7996e" title="Copy chars from one buffer to another." coords="601,13,780,38"/>
+</map>

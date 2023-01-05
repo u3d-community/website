@@ -1,0 +1,18 @@
+<map id="Urho3D::RigidBody2D::OnNodeSet" name="Urho3D::RigidBody2D::OnNodeSet">
+<area shape="rect" id="node1" title="Handle node being assigned." coords="5,143,153,183"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_rigid_body2_d.html#af07073b0d6856e7e78803582f1e00618" title="Add collision shape." coords="215,5,371,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a1df1e1bfa613bbd82fe6624c211db754" title="Add listener component that is notified of node being dirtied. Can either be in the same node or anot..." coords="201,70,385,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_p_o_d_vector.html#ac564a928bd75354adfdeb2b7fd225149" title="Return iterator to the beginning." coords="697,232,841,272"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_collision_shape2_d.html#a5c6ed3597e4e875162cbb9e4e679bac1" title="Create fixture." coords="205,171,381,211"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_p_o_d_vector.html#ad9cedde70f6aac8dde2b7bfba7ca4fbb" title="Return iterator to the end." coords="451,121,617,146"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a2ec5ed0ada9cbf2db27b31edd2a1307f" title="Return components derived from class." coords="205,289,382,329"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html#ab49b4b66b2eb1601cf166972fe42e5ce" title="Handle scene node transform dirtied." coords="460,56,608,96"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_p_o_d_vector.html#a75ae397d58ffa509b1c4df45913107d6" title="Return the buffer with right type." coords="904,257,1048,297"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="433,175,635,201"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#a6070c8208ad98595d8c3fe43778d6069" title="Return component in the same scene node by type. If there are several, returns the first." coords="695,168,843,208"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html#a56e61cb5b8216360fd62b20eb78b5faf" title="Clear the vector." coords="462,347,606,387"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_p_o_d_vector.html#a3eb78093c096ab9e9d68595facc56470" title="Add an element at the end." coords="447,297,621,322"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_p_o_d_vector.html#a90931bab46c47be9f1989f4ec86bd487" title="Resize the vector." coords="697,347,841,387"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html#ad95f32802a5ab7121a76ffbb900af590" title="Copy elements from one buffer to another." coords="904,347,1048,387"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_p_o_d_vector.html#a02b72389727e56688c9f6ed66c2f8733" title="Return last element." coords="683,297,856,322"/>
+</map>

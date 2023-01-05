@@ -1,0 +1,13 @@
+<map id="Urho3D::RigidBody::SetRotation" name="Urho3D::RigidBody::SetRotation">
+<area shape="rect" id="node1" title=" " coords="5,92,144,132"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_rigid_body.html#a0549375a0e491e9ce9871aa9fbad6a23" title="Activate rigid body if it was resting." coords="205,5,343,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector3.html#a33cac219f3eab4ffe4d3d5effdde33e0" title="Test for equality with another vector with epsilon." coords="192,70,356,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_rigid_body.html#a3ade5533fdee7f3a31c67928d843ce1c" title=" " coords="205,120,343,160"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="200,184,348,224"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#ad6a5d6144733a3594df64e9f8cbb3610" title=" " coords="447,70,559,95"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="429,120,577,160"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="429,184,577,224"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="404,272,601,312"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="665,127,833,153"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="649,191,849,217"/>
+</map>

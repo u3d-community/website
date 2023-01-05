@@ -1,0 +1,7 @@
+<map id="Urho3D::Image::Save" name="Urho3D::Image::Save">
+<area shape="rect" id="node1" title="Save the image to a stream. Regardless of original format, the image is saved as png...." coords="5,80,149,105"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="204,5,393,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="203,55,394,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_image.html#a7f857b190bc10a60737469481fb407af" title=" " coords="197,104,400,129"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializer.html#af1212487507dad99d9f389f9c8b48a60" title="Write bytes to the stream. Return number of bytes actually written." coords="235,154,363,194"/>
+</map>

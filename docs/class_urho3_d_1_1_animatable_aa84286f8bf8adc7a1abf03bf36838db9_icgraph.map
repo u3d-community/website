@@ -1,0 +1,5 @@
+<map id="Urho3D::Animatable::SaveJSON" name="Urho3D::Animatable::SaveJSON">
+<area shape="rect" id="node1" title="Save as JSON data. Return true if successful." coords="424,35,563,75"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#a2648da59492c100485b69d6a23f5ef54" title="Save as JSON data. Return true if successful." coords="228,5,376,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a47b9c64700e94b5b2bdc2df02b4ba7f7" title="Save as JSON data. Return true if successful." coords="5,42,180,67"/>
+</map>

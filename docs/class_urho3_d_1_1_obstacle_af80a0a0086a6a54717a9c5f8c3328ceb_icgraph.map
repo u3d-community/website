@@ -1,0 +1,6 @@
+<map id="Urho3D::Obstacle::DrawDebugGeometry" name="Urho3D::Obstacle::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Render debug information." coords="485,37,683,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_obstacle.html#a163190f3e253800097859b43812fad77" title="Simplified rendering of debug information for script usage." coords="240,5,437,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a9cab2b73806cb46dd3e9c0449961cb0c" title="Visualize the component as debug geometry." coords="245,69,432,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac3525ed32fcfa8a82da4e67fda1a811a" title="Add debug geometry to the debug renderer." coords="5,69,192,109"/>
+</map>

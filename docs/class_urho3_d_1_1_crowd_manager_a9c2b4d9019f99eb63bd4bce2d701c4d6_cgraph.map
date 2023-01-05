@@ -1,0 +1,27 @@
+<map id="Urho3D::CrowdManager::SetMaxAgents" name="Urho3D::CrowdManager::SetMaxAgents">
+<area shape="rect" id="node1" title=" " coords="5,276,169,316"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_crowd_manager.html#ac3a6bc24eba4635e434de04dd382db56" title="Create and initialized internal Detour crowd object. When it is a recreate, it preserves the configur..." coords="217,384,381,424"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="225,104,373,144"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_crowd_manager.html#a2c8cdc3e3c556719b41881c5e9e90566" title="Get all the crowd agent components in the specified node hierarchy. If the node is not specified then..." coords="455,217,619,257"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_crowd_manager.html#af723818c2ca8130d548ee6574b76106f" title="Return all the obstacle avoidance types configured in the crowd as attribute." coords="429,563,645,603"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_crowd_manager.html#aff4ea699ceaeb82d26106768afefb0f8" title="Return all the filter types configured in the crowd as attribute." coords="454,499,621,539"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_crowd_manager.html#a9fdc347fc186fdca44005be49b20a2d9" title="Set all the obstacle avoidance types configured in the crowd based on the corresponding attribute." coords="430,384,645,424"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_crowd_manager.html#aade58f13dc5072c99436bf791953bdad" title="Set all the query filter types configured in the crowd based on the corresponding attribute." coords="454,320,621,360"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="453,449,622,474"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html#ac564a928bd75354adfdeb2b7fd225149" title="Return iterator to the beginning." coords="961,120,1105,160"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_p_o_d_vector.html#ad9cedde70f6aac8dde2b7bfba7ca4fbb" title="Return iterator to the end." coords="950,313,1117,338"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_p_o_d_vector.html#af38653ad4e71cda50219a4b1bfca2953" title="Erase a range of elements." coords="725,228,869,268"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a33c8b46fb4ba500ad71dbf7f2652066f" title="Return all components." coords="693,178,901,203"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="723,63,871,103"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_p_o_d_vector.html#a75ae397d58ffa509b1c4df45913107d6" title="Return the buffer with right type." coords="1165,216,1309,256"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_p_o_d_vector.html#a6ea320cf619d0086ab16053b2e112fa2" title="Move a range of elements within the vector." coords="961,248,1105,288"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_p_o_d_vector.html#a90931bab46c47be9f1989f4ec86bd487" title="Resize the vector." coords="961,184,1105,224"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="949,70,1117,95"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="724,566,871,591"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="715,513,880,538"/>
+<area shape="rect" id="node18" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="750,367,845,393"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="726,417,869,442"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="463,5,611,45"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="439,144,636,184"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="697,13,897,38"/>
+</map>

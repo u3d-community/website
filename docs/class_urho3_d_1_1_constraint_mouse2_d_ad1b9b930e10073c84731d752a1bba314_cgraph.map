@@ -1,0 +1,27 @@
+<map id="Urho3D::ConstraintMouse2D::RegisterObject" name="Urho3D::ConstraintMouse2D::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,325,187,365"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_constraint_mouse2_d.html#af4fb8638306a67d478c15cc3a2eaa699" title=" " coords="235,5,416,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_constraint_mouse2_d.html#adfc2e5a4db8e92718c8d2b5a11f0f02d" title=" " coords="235,69,416,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_constraint_mouse2_d.html#a981d6f44b60f8105f0c158217cbd6179" title=" " coords="235,133,416,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_constraint_mouse2_d.html#a2125d53b9c16ffc20155e79db705cc73" title=" " coords="235,197,416,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="251,261,399,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="239,325,412,365"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_constraint_mouse2_d.html#a9921e2675ff166d52e3c047f1d54b0a7" title=" " coords="235,717,416,757"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="251,389,399,429"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_constraint_mouse2_d.html#ac0d92ff05266f59c0adef7bbcfdc1256" title=" " coords="235,453,416,493"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_constraint_mouse2_d.html#ae2a77a43f7a999e387d1a032996d6d04" title=" " coords="235,541,416,581"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_constraint_mouse2_d.html#a02fe7149f75c8d56a438171d05a472df" title=" " coords="235,629,416,669"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="475,221,630,261"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="479,540,627,580"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_constraint2_d.html#a6b020a0b52d60cf6f05f584f85801c58" title="Recreate joint." coords="478,631,627,671"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="714,417,862,457"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_component.html#a8f1388c232ca01b7c7328c761aae6e76" title=" " coords="714,481,862,521"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_scene.html#a00b724dfff718639b9de12d71139499c" title="Mark for attribute check on the next network update." coords="689,569,887,609"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="935,425,1103,450"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_constraint2_d.html#a5bd16c56eb8593d219bb77c676c2d531" title="Create joint." coords="713,633,863,673"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_constraint2_d.html#a96753482a7b07d8a9cd15c55c22d1079" title="Release joint." coords="713,697,863,737"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="469,360,636,400"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_component.html#a97c506dfb55216668b1fdf4d4425f7d7" title="Handle enabled/disabled state change." coords="479,475,627,515"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="464,310,641,335"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="700,353,876,393"/>
+</map>

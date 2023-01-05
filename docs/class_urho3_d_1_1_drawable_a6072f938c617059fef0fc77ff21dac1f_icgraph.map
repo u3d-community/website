@@ -1,0 +1,18 @@
+<map id="Urho3D::Drawable::GetShadowDistance" name="Urho3D::Drawable::GetShadowDistance">
+<area shape="rect" id="node1" title=" " coords="1388,278,1589,318"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="1161,49,1317,75"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="907,132,1089,157"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_view.html#a7d398cea4906919b033f5fc86f67d764" title="Process shadow casters&#39; visibilities and build their combined view&#45; or projection&#45;space bounding box." coords="1137,150,1340,190"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_animated_model.html#a76a01a86a9b1bcca181bfe91ae0e4a95" title=" " coords="1155,214,1323,254"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_billboard_set.html#abd9c58891183fd07f23f9fdfcec57527" title=" " coords="1167,278,1310,318"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_custom_geometry.html#adf40494db43b2ab2869faad887ddf8a4" title=" " coords="1149,342,1328,382"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_light.html#addf06c14a914ff91a084194c409a7917" title=" " coords="1143,407,1335,432"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_particle_emitter.html#a866c84f59b51494573ee28e000523ede" title=" " coords="1159,457,1319,497"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_static_model.html#aac7bd4f30d276bad34d0afd36dec5f6f" title=" " coords="1167,521,1311,561"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="927,5,1069,31"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="927,55,1069,95"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="716,27,859,67"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="203,27,397,67"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="445,72,668,97"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="5,35,155,60"/>
+</map>

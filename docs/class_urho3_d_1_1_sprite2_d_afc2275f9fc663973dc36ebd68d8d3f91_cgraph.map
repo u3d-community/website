@@ -1,0 +1,5 @@
+<map id="Urho3D::Sprite2D::RegisterObject" name="Urho3D::Sprite2D::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,5,183,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="231,5,404,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="452,5,607,45"/>
+</map>

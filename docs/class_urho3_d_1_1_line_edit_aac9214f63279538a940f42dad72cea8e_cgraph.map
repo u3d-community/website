@@ -1,0 +1,15 @@
+<map id="Urho3D::LineEdit::OnDragMove" name="Urho3D::LineEdit::OnDragMove">
+<area shape="rect" id="node1" title="React to mouse drag motion." coords="5,133,207,158"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_line_edit.html#add16b13ffa1b32a49d7294ea059317d0" title="Return char index corresponding to position within element, or M_MAX_UNSIGNED if not found." coords="261,77,434,117"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_line_edit.html#add758c21b19b35c5aad9a2312ad9526d" title=" " coords="255,157,440,197"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a0ce25dda5f6557938bd76b776efa8bf0" title="Convert element coordinates to screen coordinates." coords="744,29,884,69"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#a031e2acb1765a940b9427003cb8653d7" title=" " coords="957,29,1097,69"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="1145,37,1244,62"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_string.html#ad062c733a6396f806c3e7418a71378b3" title=" " coords="488,286,671,311"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_line_edit.html#af9825009b8da28fc2704bf1dfcce7a5f" title="Update cursor position and restart cursor blinking." coords="496,157,663,197"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_string.html#ac98156ce9bb85bd015c3ec255d307025" title="Decode Unicode character from UTF8. Pointer will be incremented." coords="719,350,909,375"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_u_i_element.html#a75032690b0214d2551eac5744a306644" title=" " coords="744,221,884,261"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_u_i_element.html#af0d0d929939b0fb4b8d38c7699ecdfa0" title=" " coords="744,285,884,325"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i_element.html#a8c3df9a7b24aa874345db797a95e130e" title=" " coords="744,93,884,133"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_u_i_element.html#a1514f8d82ab6e8a2cf10f20b807f738d" title="Set child offset." coords="744,157,884,197"/>
+</map>

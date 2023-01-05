@@ -1,0 +1,5 @@
+<map id="Urho3D::Graphics::SetTextureForUpdate" name="Urho3D::Graphics::SetTextureForUpdate">
+<area shape="rect" id="node1" title=" " coords="5,35,197,75"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_g_p_u_object.html#afeb0a749cfb6c1bb4c7f1b4a35d7f901" title="Return the object name. Applicable only on OpenGL." coords="263,5,406,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture.html#a7adc2cc26705dc098a0259da525ded0a" title="Return texture&#39;s target. Only used on OpenGL." coords="245,70,424,95"/>
+</map>

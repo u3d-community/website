@@ -1,0 +1,27 @@
+<map id="Urho3D::NavigationMesh::CollectGeometries" name="Urho3D::NavigationMesh::CollectGeometries">
+<area shape="rect" id="node1" title="Visit nodes and collect navigable geometry." coords="5,637,173,677"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#a841b7dc758f63dcec5908322d5fa0895" title="Collect geometry from under Navigable components." coords="240,193,408,233"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a33c8b46fb4ba500ad71dbf7f2652066f" title="Return all components." coords="486,13,694,39"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="475,444,705,469"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="521,63,659,103"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="516,127,664,167"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="517,256,663,281"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_p_o_d_vector.html#ab1ba347a0118ed7d9ef79f3026153c88" title="Return number of elements." coords="505,305,675,331"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_bounding_box.html#a00fe243d05516209a4ef6f83ff7179df" title="Return transformed by a 3x3 matrix." coords="515,379,665,419"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_set.html#a3baa6033b348457709d004b717ac9eaf" title="Return whether contains a key." coords="233,473,415,499"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#a609638715475a7611a09f06825cbaf8b" title="Return immediate child scene nodes." coords="234,523,414,548"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_collision_shape.html#a43e2ee47cb39a7c94bee112b60b5fda1" title="Return Bullet collision shape." coords="244,573,404,613"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a2ec5ed0ada9cbf2db27b31edd2a1307f" title="Return components derived from class." coords="235,637,413,677"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_static_model.html#a48be3bb6844d8cd82c518a3badc71929" title=" " coords="245,701,403,741"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_collision_shape.html#a437e5b33e4b66eb32cb655dca7dce62c" title=" " coords="244,765,404,805"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_collision_shape.html#a04b7150583c6f4a1f16855d725bc25d4" title=" " coords="244,829,404,869"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_collision_shape.html#a4e42b4f42285562965380ac9551f7578" title=" " coords="244,893,404,933"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_collision_shape.html#a492c641e63c5327060c37ae845f55ad7" title=" " coords="244,957,404,997"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_object.html#a4c7af660afc8467a99d1f17c8d099b3b" title=" " coords="243,1021,405,1047"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_drawable.html#a3930dc9342c0aefcfd4c94eb8079e365" title=" " coords="229,1071,419,1111"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_collision_shape.html#a91f197c52c26622c4d06b50cba5b7d54" title=" " coords="243,409,405,449"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#a01570d66b89fd1fa1ee8305cf00e9a3b" title="Return whether has a specific component." coords="221,1187,427,1212"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_hash_set.html#a14064ab8bc6c6c6782961cb95295a2ee" title="Insert a key. Return an iterator to it." coords="243,1236,405,1261"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="253,1285,395,1311"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_off_mesh_connection.html#a2e74719297b1b8ee935030e03d89eff7" title=" " coords="494,191,686,231"/>
+</map>

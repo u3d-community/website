@@ -1,0 +1,4 @@
+<map id="Urho3D::TrailPoint" name="Urho3D::TrailPoint">
+<area shape="rect" id="node1" title="Trail is consisting of series of tails. Two connected points make a tail." coords="5,215,132,240"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="9,51,128,77"/>
+</map>

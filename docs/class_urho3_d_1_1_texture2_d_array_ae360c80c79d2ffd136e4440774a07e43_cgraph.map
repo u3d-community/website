@@ -1,0 +1,14 @@
+<map id="Urho3D::Texture2DArray::Create" name="Urho3D::Texture2DArray::Create">
+<area shape="rect" id="node1" title="Create the GPU texture." coords="5,227,168,267"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture.html#a0dc9b5632a502d45cf001c0cdaebd8e5" title="Check maximum allowed mip levels for a specific texture size." coords="239,5,425,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture.html#a60c268d6f819bd4fdc219ba8f5f3820c" title=" " coords="234,70,430,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture.html#a09c2fc9bd5347131e3a0126b109d07ab" title=" " coords="237,120,427,160"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture.html#af49ebd8d0572e8616402f9c663b6a818" title=" " coords="245,185,419,210"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_texture.html#af633d70298690db00993d6c89b2f0a50" title=" " coords="223,234,441,259"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_texture.html#a49289626d40733f33cb84e044cca1eab" title=" " coords="227,283,437,309"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture.html#a8672316692e6b78cb6482cbcecfe409c" title="Regenerate mipmap levels for a rendertarget after rendering and before sampling. Called internally by..." coords="239,333,425,373"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_texture2_d_array.html#a44f47d575bcb17bdc43061b6ffce2a75" title="Release the texture." coords="251,397,413,437"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_texture.html#a7eaf51cf81ac775bdc87e00ec1a47979" title="Update dirty parameters to the texture object. Called by Graphics when assigning the texture." coords="216,462,448,487"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_graphics.html#af39a9a2972752ace04fa2aac273ecc9e" title="Return whether is using an OpenGL 3 context. Return always false on Direct3D9 &amp; Direct3D11." coords="496,333,669,373"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_color.html#ac870749558797286cd923e11c182ce87" title="Return float data." coords="513,462,652,487"/>
+</map>

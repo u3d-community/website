@@ -1,0 +1,4 @@
+<map id="Urho3D::Texture2DArray::OnDeviceLost" name="Urho3D::Texture2DArray::OnDeviceLost">
+<area shape="rect" id="node1" title="Mark the GPU resource destroyed on context destruction." coords="5,5,168,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_g_p_u_object.html#a054b2b9d1ac58c3dc81866bb7db6761a" title="Mark the GPU resource destroyed on graphics context destruction." coords="216,5,359,45"/>
+</map>

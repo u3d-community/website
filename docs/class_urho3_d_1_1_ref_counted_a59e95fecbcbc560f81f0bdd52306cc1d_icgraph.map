@@ -1,0 +1,7 @@
+<map id="Urho3D::RefCounted::ReleaseRef" name="Urho3D::RefCounted::ReleaseRef">
+<area shape="rect" id="node1" title=" " coords="463,69,605,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_script_instance.html#aec3e097d88feedbb38b040e6009f64e4" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="230,5,387,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_message_box.html#ac48d58c104a3fefd9181cfb91d130a03" title="Handle events that dismiss the message box." coords="203,69,415,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_script_instance.html#a326048c5e8c6db7b9287f3b157701997" title="Handle attribute write access." coords="230,133,387,173"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_message_box.html#a92065fc96e684dfb5128c791e53550bd" title="Construct. If layout file is not given, use the default message box layout. If style file is not give..." coords="5,69,155,109"/>
+</map>

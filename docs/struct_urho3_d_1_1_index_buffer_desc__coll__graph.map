@@ -1,0 +1,5 @@
+<map id="Urho3D::IndexBufferDesc" name="Urho3D::IndexBufferDesc">
+<area shape="rect" id="node1" title="Description of index buffer data for asynchronous loading." coords="5,196,177,221"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="10,93,173,133"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="27,5,155,31"/>
+</map>

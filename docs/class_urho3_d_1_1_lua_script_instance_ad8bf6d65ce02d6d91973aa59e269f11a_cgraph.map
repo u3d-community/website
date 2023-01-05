@@ -1,0 +1,6 @@
+<map id="Urho3D::LuaScriptInstance::AddEventHandler" name="Urho3D::LuaScriptInstance::AddEventHandler">
+<area shape="rect" id="node1" title="Add a scripted event handler by function name." coords="5,35,184,75"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_lua_script.html#a4a61fb194eba833e56e2afb4882d7612" title="Return Lua function at the given stack index." coords="248,5,383,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#af3f67422b866ceb72b79d9ba7df375e2" title="Return a string with all occurrences of a character replaced." coords="232,70,399,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#ab08b5f1f7cee23f3e14eebcb2f7f8d4e" title="Replace all occurrences of a character." coords="447,70,605,95"/>
+</map>

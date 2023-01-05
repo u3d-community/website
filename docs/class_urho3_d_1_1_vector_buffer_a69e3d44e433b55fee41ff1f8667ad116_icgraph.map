@@ -1,0 +1,9 @@
+<map id="Urho3D::VectorBuffer::Write" name="Urho3D::VectorBuffer::Write">
+<area shape="rect" id="node1" title="Write bytes to the buffer. Return number of bytes actually written." coords="493,120,641,160"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_network.html#aee2065f8e52cd936d15367c234fedd2d" title="Broadcast a message with content ID to all client connections." coords="243,5,434,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_decal_set.html#a51674c68b8680dc72e7b932a9a3b3f2c" title="Return decals attribute." coords="232,70,445,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ad4fbf93cf323e3bde6d240c2ae8cdd3e" title="Return navigation data attribute." coords="243,120,435,160"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_connection.html#af832bef82996f3caee76012f2631986f" title="Send a message." coords="269,184,409,224"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_connection.html#a6a106ddabdcfdb463a4f0c71604e841d" title="Send package files to client. Called by network." coords="269,248,409,288"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_decal_set.html#a76978cd431ca41ad6d845193a98a243b" title=" " coords="5,63,184,103"/>
+</map>

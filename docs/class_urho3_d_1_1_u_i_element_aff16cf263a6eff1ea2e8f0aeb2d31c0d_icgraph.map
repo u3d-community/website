@@ -1,0 +1,10 @@
+<map id="Urho3D::UIElement::GetClipBorder" name="Urho3D::UIElement::GetClipBorder">
+<area shape="rect" id="node1" title=" " coords="1068,113,1208,153"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_console.html#a34c1811446ef1218f69c6a40b8898e80" title="Update elements to layout properly. Call this after manually adjusting the sub&#45;elements." coords="795,121,1020,146"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_console.html#a21804113c047d876e9358aaa9daabf67" title="Handle the application post&#45;update." coords="237,5,434,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_console.html#a7cd4f5cb4f263100cb04348d48746fa3" title="Handle UI root resize." coords="236,69,435,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_console.html#ab6c414693bfee660f1e871d2d76d509c" title=" " coords="523,113,712,153"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_console.html#a18546b712ec118a256122c627696662e" title=" " coords="488,178,747,203"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_console.html#a6b523b3fbdff6cc3da360dc128be09fd" title=" " coords="231,178,440,203"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_console.html#afa65f6eacc596b544de5b0c3bc1a3d55" title="Construct." coords="5,77,183,102"/>
+</map>

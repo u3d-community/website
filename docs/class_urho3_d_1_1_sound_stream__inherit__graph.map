@@ -1,0 +1,6 @@
+<map id="Urho3D::SoundStream" name="Urho3D::SoundStream">
+<area shape="rect" id="node1" title="Base class for sound streams." coords="146,79,299,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_buffered_sound_stream.html" title="Sound stream that supports manual buffering of data from the main thread." coords="5,152,208,177"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_ogg_vorbis_sound_stream.html" title="Ogg Vorbis sound stream." coords="233,152,447,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="151,5,294,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::NavigationMesh::ReleaseNavigationMesh" name="Urho3D::NavigationMesh::ReleaseNavigationMesh">
+<area shape="rect" id="node1" title="Release the navigation mesh and the query." coords="5,5,175,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_bounding_box.html#afef3c1bfa3910387adb4f5992371a8dd" title="Clear to undefined state." coords="223,5,373,45"/>
+</map>

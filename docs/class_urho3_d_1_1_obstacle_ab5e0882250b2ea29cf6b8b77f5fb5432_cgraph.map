@@ -1,0 +1,10 @@
+<map id="Urho3D::Obstacle::OnMarkedDirty" name="Urho3D::Obstacle::OnMarkedDirty">
+<area shape="rect" id="node1" title="Handle node transform being dirtied." coords="5,133,197,173"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a3cd5eac8dc19288118ed5578257a17cb" title="Add a component to the delayed dirty notify queue. Is thread&#45;safe." coords="245,5,453,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="275,69,423,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="275,133,423,173"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="258,197,441,237"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_ref_counted.html#a7e764b1f4b072a1a0dbfaeac62626244" title=" " coords="278,261,421,301"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="503,77,671,102"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a36ffa108037ab29617bf178fcb4ec1da" title=" " coords="501,141,672,166"/>
+</map>

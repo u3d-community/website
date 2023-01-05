@@ -1,0 +1,4 @@
+<map id="Urho3D::IKEffector::SetWeight" name="Urho3D::IKEffector::SetWeight">
+<area shape="rect" id="node1" title="Sets how much influence the effector has on the solution." coords="5,22,137,62"/>
+<area shape="rect" id="node2" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="185,29,296,55"/>
+</map>

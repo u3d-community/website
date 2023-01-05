@@ -1,0 +1,18 @@
+<map id="Urho3D::Camera::ScreenToWorldPoint" name="Urho3D::Camera::ScreenToWorldPoint">
+<area shape="rect" id="node1" title="Convert normalized screen coordinates (0 &#45; 1) and distance along view Z axis (in Z coordinate) to a w..." coords="5,319,185,359"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_camera.html#a24305d3e4346c9eb4f8f3c2e50c5323d" title=" " coords="756,359,952,385"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_camera.html#a653cf41d95901dc68abdc463b4b3d5fc" title="Return ray corresponding to normalized screen coordinates (0 &#45; 1), with origin on the near clip plane..." coords="233,243,440,269"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_camera.html#a86a2e6d78d0ac6c20e043ada2f573401" title=" " coords="511,79,685,105"/>
+<area shape="rect" id="node16" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="287,483,386,509"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_camera.html#aa2ca83a0c0ffdede12922e6ed72b69b6" title="Recalculate projection matrix." coords="1000,310,1227,335"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_camera.html#ad705a7447b5db893eb5642f0d05c02ca" title=" " coords="496,243,700,269"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="1005,130,1221,155"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#afe17e6e94b7ab99663c827442db45a5e" title=" " coords="488,358,708,383"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_camera.html#ab80937e50cbb6c26ee2b653d9bbd1a1e" title="Return if projection parameters are valid for rendering and raycasting." coords="501,293,695,333"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector3.html#a005fcc19e10062672549703f42401854" title="Return normalized to unit length." coords="501,194,695,219"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_camera.html#a08d24e076d62c0b397817f2c9f92cc41" title=" " coords="757,69,951,109"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="785,5,923,45"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="1005,77,1222,102"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_camera.html#aca9722244be40c0db7c31f891b8cb1bb" title=" " coords="761,310,947,335"/>
+<area shape="rect" id="node15" href="$_math_defs_8h.html#ad6a5d6144733a3594df64e9f8cbb3610" title=" " coords="798,209,910,234"/>
+</map>

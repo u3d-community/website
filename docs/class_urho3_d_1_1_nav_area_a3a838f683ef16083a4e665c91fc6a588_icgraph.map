@@ -1,0 +1,5 @@
+<map id="Urho3D::NavArea::GetAreaID" name="Urho3D::NavArea::GetAreaID">
+<area shape="rect" id="node1" title=" " coords="231,45,420,70"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#a91d23e0870d0fe89a1cdc97b95c9486f" title="Find a path between world space points. Return non&#45;empty list of navigation path points if successful..." coords="10,5,178,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_nav_area.html#ab1899c86543b81c76f5bbda90b0ff816" title=" " coords="5,69,183,109"/>
+</map>

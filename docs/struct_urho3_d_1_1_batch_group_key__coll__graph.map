@@ -1,0 +1,27 @@
+<map id="Urho3D::BatchGroupKey" name="Urho3D::BatchGroupKey">
+<area shape="rect" id="node1" title="Instanced draw call grouping key." coords="1787,968,1949,993"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_zone.html" title="Component that describes global rendering properties." coords="395,415,497,440"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="769,525,896,551"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="743,385,922,425"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_light.html" title="Light component." coords="1211,536,1313,561"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="18,487,169,512"/>
+<area shape="rect" id="node9" href="$struct_urho3_d_1_1_light_batch_queue.html" title="Queue for light related draw calls." coords="1497,645,1668,671"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="40,205,147,231"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="27,635,159,660"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="24,266,163,306"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_texture2_d.html" title="2D texture resource." coords="1196,783,1328,808"/>
+<area shape="rect" id="node11" href="$struct_urho3_d_1_1_batch_queue.html" title="Queue that contains both instanced and non&#45;instanced draw calls." coords="1191,733,1333,759"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="760,723,905,763"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_string.html" title="String class." coords="779,881,886,907"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_pass.html" title="Material rendering pass, which defines shaders and render state." coords="1211,1149,1313,1175"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_material.html" title="Describes how to render 3D geometries." coords="1522,968,1643,993"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_resource.html" title=" " coords="1198,1068,1326,1093"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_vector.html" title=" " coords="1179,471,1345,511"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="373,602,519,642"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="761,1145,904,1171"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector.html" title=" " coords="701,1195,964,1235"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="729,1259,936,1329"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html" title=" " coords="1179,925,1345,965"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1171,989,1353,1044"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_geometry.html" title="Defines one or more vertex buffers, an index buffer and a draw range." coords="1517,1129,1648,1155"/>
+</map>

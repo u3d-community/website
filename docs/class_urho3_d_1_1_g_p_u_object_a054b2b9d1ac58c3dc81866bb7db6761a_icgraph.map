@@ -1,0 +1,11 @@
+<map id="Urho3D::GPUObject::OnDeviceLost" name="Urho3D::GPUObject::OnDeviceLost">
+<area shape="rect" id="node1" title="Mark the GPU resource destroyed on graphics context destruction." coords="220,229,363,269"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_index_buffer.html#a163a80f91a2e803aa3140fd0610e4b9b" title="Mark the buffer destroyed on graphics context destruction. May be a no&#45;op depending on the API." coords="17,5,160,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_shader_program.html#a183ec4e8113e8a9a58bf3c773c18ee43" title="Mark the GPU resource destroyed on context destruction." coords="6,69,171,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_shader_variation.html#afccab99454614b4b667e7c647992cf2f" title="Mark the GPU resource destroyed on graphics context destruction." coords="5,133,172,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture2_d.html#a099a6127ddbe765e18705ff9130a9b8d" title="Mark the GPU resource destroyed on context destruction." coords="19,197,158,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_texture2_d_array.html#a8c23d207067fa6d7722148ae0dc36339" title="Mark the GPU resource destroyed on context destruction." coords="7,261,170,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_texture3_d.html#a68551ed12e3dadf82365fb84875b9bef" title="Mark the GPU resource destroyed on context destruction." coords="19,325,158,365"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture_cube.html#a471219b9c5fbe29894b33dd8102c826e" title="Mark the GPU resource destroyed on context destruction." coords="15,389,162,429"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vertex_buffer.html#a7d5b1d3ad958b729367f2e7a2d54dd41" title="Mark the buffer destroyed on graphics context destruction. May be a no&#45;op depending on the API." coords="15,453,162,493"/>
+</map>

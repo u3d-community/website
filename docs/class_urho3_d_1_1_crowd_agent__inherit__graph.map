@@ -1,0 +1,8 @@
+<map id="Urho3D::CrowdAgent" name="Urho3D::CrowdAgent">
+<area shape="rect" id="node1" title="Crowd agent component, requires a CrowdManager component in the scene. When not set explicitly,..." coords="5,372,152,397"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html" title=" " coords="7,299,150,324"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="9,225,148,251"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="9,152,149,177"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object.html" title=" " coords="23,79,134,104"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="7,5,150,31"/>
+</map>

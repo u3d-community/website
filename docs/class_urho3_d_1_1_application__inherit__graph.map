@@ -1,0 +1,5 @@
+<map id="Urho3D::Application" name="Urho3D::Application">
+<area shape="rect" id="node1" title="Base class for creating applications which initialize the Urho3D engine and run a main loop until exi..." coords="7,152,146,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="21,79,132,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,5,148,31"/>
+</map>

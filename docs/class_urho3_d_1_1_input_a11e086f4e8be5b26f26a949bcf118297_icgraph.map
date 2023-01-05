@@ -1,0 +1,14 @@
+<map id="Urho3D::Input::HasFocus" name="Urho3D::Input::HasFocus">
+<area shape="rect" id="node1" title=" " coords="1824,70,1992,95"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_input.html#a62f0700878de37c1964cc3f057287718" title="Send an input focus or window minimization change event." coords="1609,63,1776,103"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_input.html#a31ac853b836e1c4bb1106a984aefd1f6" title="Prepare input state for application gaining input focus." coords="1391,70,1561,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_input.html#a6dc8699608ba629964e3c702e629be92" title="Handle SDL event." coords="1137,19,1343,45"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_input.html#ac35fd7d54a42a16634d28a227d4e7581" title="Prepare input state for application losing input focus." coords="1153,171,1327,197"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_input.html#ab4cd4fe34682b2d90183f181718c6125" title="Poll for window messages. Called by HandleBeginFrame()." coords="919,123,1069,149"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_input.html#a2b19913a84b72c17a1079b821ec18564" title="Initialize when screen mode initially set." coords="464,127,620,153"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_input.html#a81b43d331225b80eb2f2e647b142ab5c" title="Handle touch events from the controls of screen joystick(s)." coords="899,5,1089,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_input.html#ae6e2a0dd7db2be45379d5551187afb7b" title="Add screen joystick." coords="673,5,846,45"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_input.html#a147c4675aa679dbf4d9702b3d3d6b921" title="Handle frame start event." coords="668,120,851,160"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_input.html#ac0a172bd8f0568c96db9ceb0b46ed0e5" title="Handle screen mode event." coords="191,153,416,178"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_input.html#a48199becd3824e420e4bce2ed6a03c12" title="Construct." coords="5,127,143,153"/>
+</map>

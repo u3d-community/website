@@ -1,0 +1,27 @@
+<map id="Urho3D::Model" name="Urho3D::Model">
+<area shape="rect" id="node1" title="3D model resource." coords="1156,621,1267,647"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource_with_metadata.html" title="Base class for resources that support arbitrary metadata stored. Metadata serialization shall be impl..." coords="771,256,981,281"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_resource.html" title=" " coords="310,181,438,207"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_object.html" title=" " coords="21,5,131,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html" title="String class." coords="23,93,129,119"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="7,181,145,207"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="22,231,130,256"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="270,239,478,279"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="9,280,143,305"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector.html" title=" " coords="291,304,457,329"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,596,147,621"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html" title=" " coords="291,354,457,394"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html" title=" " coords="504,398,747,438"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector.html" title=" " coords="507,445,744,485"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_vector.html" title=" " coords="532,493,719,548"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector.html" title=" " coords="537,559,713,599"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="803,614,949,654"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html" title=" " coords="542,669,709,709"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="803,741,949,781"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html" title=" " coords="542,771,709,811"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_vector.html" title=" " coords="793,867,959,907"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector.html" title=" " coords="268,875,480,929"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="801,1020,951,1045"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="315,1095,433,1120"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_skeleton.html" title=" " coords="814,313,938,339"/>
+</map>

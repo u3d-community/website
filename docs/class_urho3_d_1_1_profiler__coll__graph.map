@@ -1,0 +1,27 @@
+<map id="Urho3D::Profiler" name="Urho3D::Profiler">
+<area shape="rect" id="node1" title="Hierarchical performance profiler subsystem." coords="1556,1020,1671,1045"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="547,917,657,943"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_event_handler.html" title="Internal helper class for invoking event handler functions." coords="873,865,1024,891"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="255,291,397,316"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="1313,519,1431,544"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,291,133,316"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="827,708,1070,763"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="535,572,669,597"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="849,787,1048,841"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="841,299,1057,353"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="837,378,1060,447"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="801,471,1096,541"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="856,629,1041,684"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="845,565,1053,605"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_hash_node_base.html" title="Hash set/map node base class." coords="243,625,409,651"/>
+<area shape="rect" id="node9" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="246,508,406,533"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="876,170,1021,210"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="531,177,673,203"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="873,234,1025,274"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="863,55,1034,95"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="1287,917,1457,957"/>
+<area shape="rect" id="node18" href="$struct_urho3_d_1_1_linked_list_node.html" title="Singly&#45;linked list node base class." coords="519,847,685,872"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="533,759,671,784"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_profiler_block.html" title=" " coords="1298,63,1446,88"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_hires_timer.html" title="High&#45;resolution operating system timer used in profiling." coords="879,5,1018,31"/>
+</map>

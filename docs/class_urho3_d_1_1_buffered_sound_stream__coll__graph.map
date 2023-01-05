@@ -1,0 +1,12 @@
+<map id="Urho3D::BufferedSoundStream" name="Urho3D::BufferedSoundStream">
+<area shape="rect" id="node1" title="Sound stream that supports manual buffering of data from the main thread." coords="1044,99,1247,124"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_sound_stream.html" title="Base class for sound streams." coords="735,29,888,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="516,23,659,48"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="263,5,391,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_list.html" title=" " coords="708,84,915,139"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_list_base.html" title="Doubly&#45;linked list base class." coords="526,108,649,133"/>
+<area shape="rect" id="node7" href="$struct_urho3_d_1_1_list_node_base.html" title="Doubly&#45;linked list node base class." coords="249,108,405,133"/>
+<area shape="rect" id="node8" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="247,196,407,221"/>
+<area shape="rect" id="node9" href="$struct_urho3_d_1_1_allocator_node.html" title="Allocator node." coords="5,196,165,221"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_mutex.html" title="Operating system mutual exclusion primitive." coords="756,163,867,188"/>
+</map>

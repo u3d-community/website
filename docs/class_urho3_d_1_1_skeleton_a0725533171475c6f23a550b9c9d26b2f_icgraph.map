@@ -1,0 +1,23 @@
+<map id="Urho3D::Skeleton::GetBone" name="Urho3D::Skeleton::GetBone">
+<area shape="rect" id="node1" title=" " coords="1441,306,1621,331"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_decal_set.html#a70a16cdcd0674837b6b2338f94f476b8" title="Add a decal at world coordinates, using a target drawable&#39;s geometry for reference...." coords="1195,154,1384,179"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animated_model.html#a5f01b5895e5a19b37fe2f218e21a9e83" title="Finalize master model bone bounding boxes by merging from matching non&#45;master bones...." coords="945,241,1137,281"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_skeleton.html#a5b3a3a9c31ef0d794e5aa716970cf1b2" title="Return bone by name." coords="1199,407,1379,433"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_skeleton.html#a7f5481f8136746a088b19f3cc5d0e9ea" title="Return parent of the given bone. Return null for root bones." coords="1199,457,1379,497"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_skeleton.html#a3b7beb6add6f9a7369b31e708f6fe621" title=" " coords="1185,306,1393,331"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_animation_state.html#a73efb90d9d6a41debe30e4d151a50e85" title=" " coords="960,152,1123,192"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_animated_model.html#a707f22c736d77f2b7aab9d09a0da4da7" title="Set animation states attribute." coords="957,420,1125,460"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animated_model.html#aeae317724517abf074f05f2c2c411697" title="Set skeleton." coords="718,248,886,288"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animated_model.html#a1a9c66f9b072816093f73d60e5b58f62" title="Assign skeleton and animation bone node references as a postprocess. Called by ApplyAttributes." coords="479,180,647,220"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_animated_model.html#a67a9794df35c334b050f689bb706847a" title="Set model." coords="479,299,647,339"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animated_model.html#a92285931ef13f7c032bb04a7799d5970" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="237,180,405,220"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_animated_model.html#af6af95070304f3ecca53d9dee1ce63ad" title="Handle model reload finished." coords="221,299,420,339"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_animated_model.html#a4bcb1159367b1b112ba751b0b5747f59" title="Set model attribute." coords="237,363,405,403"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animated_model.html#a76a01a86a9b1bcca181bfe91ae0e4a95" title=" " coords="5,392,173,432"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_animated_model.html#a942660d75530f688f2eff8f02dd369e2" title="Remove (old) skeleton root bone." coords="957,305,1125,345"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_animated_model.html#a2de4b384ea7057c33a9318d374711623" title="Destruct." coords="718,363,886,403"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_animation_state.html#a345dfb4137ec34a49b0abc34d443ea8f" title="Construct with animated model and animation pointers." coords="721,69,883,109"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_animation_controller.html#aad167fe194c7966566523bca3d871331" title="Set animations attribute for network replication." coords="707,5,897,45"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_animation_controller.html#ad8fb6e2fd723fe2537c523d25298bcca" title="Set animation start bone. Return true on success." coords="707,184,897,224"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_animation_controller.html#ab2f8aa461c4a24f1b8b9fb7b79083383" title=" " coords="468,5,659,45"/>
+</map>

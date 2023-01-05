@@ -1,0 +1,8 @@
+<map id="Urho3D::NamedPipe" name="Urho3D::NamedPipe">
+<area shape="rect" id="node1" title="Named pipe for interprocess communication." coords="88,152,231,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="29,79,140,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,5,148,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_abstract_file.html" title="A common root class for objects that implement both Serializer and Deserializer." coords="172,79,315,104"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_deserializer.html" title=" " coords="172,5,315,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_serializer.html" title=" " coords="339,5,467,31"/>
+</map>

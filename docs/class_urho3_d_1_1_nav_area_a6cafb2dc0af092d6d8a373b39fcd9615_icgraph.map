@@ -1,0 +1,7 @@
+<map id="Urho3D::NavArea::DrawDebugGeometry" name="Urho3D::NavArea::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Render debug geometry for the bounds." coords="475,37,671,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a9cab2b73806cb46dd3e9c0449961cb0c" title="Visualize the component as debug geometry." coords="240,5,427,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_navigation_mesh.html#aa810398f062f052eb649c02f2ba4f02c" title="Visualize the component as debug geometry." coords="249,69,417,109"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac3525ed32fcfa8a82da4e67fda1a811a" title="Add debug geometry to the debug renderer." coords="5,5,192,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_navigation_mesh.html#a250c94d8ee843a6219679daccf951a1f" title="Add debug geometry to the debug renderer." coords="15,69,183,109"/>
+</map>

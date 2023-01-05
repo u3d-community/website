@@ -1,0 +1,4 @@
+<map id="Urho3D::UI::SetClipboardText" name="Urho3D::UI::SetClipboardText">
+<area shape="rect" id="node1" title=" " coords="5,5,197,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="245,5,401,31"/>
+</map>

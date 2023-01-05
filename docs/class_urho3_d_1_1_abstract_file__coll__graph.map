@@ -1,0 +1,6 @@
+<map id="Urho3D::AbstractFile" name="Urho3D::AbstractFile">
+<area shape="rect" id="node1" title="A common root class for objects that implement both Serializer and Deserializer." coords="165,93,308,119"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_deserializer.html" title=" " coords="5,5,148,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_serializer.html" title=" " coords="173,5,301,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html" title="String class." coords="325,5,431,31"/>
+</map>

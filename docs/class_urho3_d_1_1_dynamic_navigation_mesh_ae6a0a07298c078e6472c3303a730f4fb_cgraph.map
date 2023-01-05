@@ -1,0 +1,27 @@
+<map id="Urho3D::DynamicNavigationMesh::SetNavigationDataAttr" name="Urho3D::DynamicNavigationMesh::SetNavigationDataAttr">
+<area shape="rect" id="node1" title="Set navigation data attribute." coords="5,184,196,224"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_p_o_d_vector.html#a5be72d35fc52d2623985f20b95855d10" title="Return whether vector is empty." coords="273,5,417,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_unique_ptr.html#a0a3ac051f536377b767fb97eabc203f5" title="Return the raw pointer." coords="266,70,425,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_memory_buffer.html#a2b08978bb93f51c3686245e40abcfb22" title="Read bytes from the memory area. Return number of bytes actually read." coords="266,120,425,160"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_deserializer.html#a6de9c7c5ea5594a93b3ad5ab57df0f95" title="Read a bounding box." coords="274,184,417,224"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_deserializer.html#ac237484f24d551dd8ccd812b181b500b" title="Read a 32&#45;bit integer." coords="517,213,659,253"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#acb3cec975698de0326b5b23f1587a5d1" title="Read tiles data to the navigation mesh." coords="252,352,439,392"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#acf03d9f21bfd9df95356791d2a24e022" title="Release the navigation mesh, query, and tile cache." coords="244,645,447,685"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_deserializer.html#ae82036f72896194adc1cd02f3b03509b" title="Read bytes from the stream. Return number of bytes actually read." coords="741,213,884,253"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_object.html#a8bd9b32c8a56c2f6d618d8afe8091eb7" title="Return execution context." coords="497,329,679,354"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="500,379,676,419"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="514,443,662,483"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_deserializer.html#a62d8b0e28fa886adfdde1c42c6913477" title=" " coords="517,507,659,547"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="499,595,677,621"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="729,386,896,411"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="959,262,1127,287"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="963,311,1122,337"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_map.html#a3313b8ec65ab0b23c74570898b09175c" title="Free a node." coords="945,361,1140,386"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_base.html#a2774d115a617b0d6c315132352d43c01" title="Reset bucket head pointers." coords="944,410,1141,435"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_base.html#a7790b0fb5131f0e0a098e322c9198f39" title="Set new size." coords="951,459,1134,485"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_base.html#a42b5c2ba692fe96bff763b501b8922a9" title="Return number of elements." coords="961,509,1125,534"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_map.html#a992327678684d4e38150f32fc676faaf" title="Return the head node." coords="1189,262,1357,287"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_navigation_mesh.html#a8697f7700e19448df268ebe330e13d12" title="Release the navigation mesh and the query." coords="503,645,673,685"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a62c2f11e461a02a32d62b6a3e46a4a33" title="Free the tile cache." coords="495,709,681,749"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_bounding_box.html#afef3c1bfa3910387adb4f5992371a8dd" title="Clear to undefined state." coords="737,645,888,685"/>
+</map>

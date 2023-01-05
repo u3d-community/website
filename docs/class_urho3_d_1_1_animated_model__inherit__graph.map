@@ -1,0 +1,10 @@
+<map id="Urho3D::AnimatedModel" name="Urho3D::AnimatedModel">
+<area shape="rect" id="node1" title="Animated model component." coords="5,519,173,544"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_static_model.html" title="Static model component." coords="17,445,161,471"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="26,372,153,397"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html" title=" " coords="18,299,161,324"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="20,225,159,251"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="19,152,159,177"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object.html" title=" " coords="34,79,145,104"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="18,5,161,31"/>
+</map>

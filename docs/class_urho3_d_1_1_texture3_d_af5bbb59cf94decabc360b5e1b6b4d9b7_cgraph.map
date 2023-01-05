@@ -1,0 +1,19 @@
+<map id="Urho3D::Texture3D::EndLoad" name="Urho3D::Texture3D::EndLoad">
+<area shape="rect" id="node1" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="5,253,144,293"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture.html#a0af2da2738e6f62ee40ae331a5891a03" title="Check whether texture memory budget has been exceeded. Free unused materials in that case to release ..." coords="195,189,398,229"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture3_d.html#a0b5c66551839c003ab2949fc67ca19ed" title="Set data either partially or fully on a mip level. Return true if successful." coords="227,253,366,293"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_texture.html#a6e635893e2f569815c31347bb7569797" title="Set additional parameters from an XML file." coords="192,411,401,436"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture.html#a728bf72dad6c6da0ad4c7d6fb394c2de" title="Return data size in bytes for a rectangular region." coords="461,5,656,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_texture.html#a49289626d40733f33cb84e044cca1eab" title=" " coords="721,56,931,81"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_texture.html#a60c268d6f819bd4fdc219ba8f5f3820c" title=" " coords="461,107,657,132"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture.html#a09c2fc9bd5347131e3a0126b109d07ab" title=" " coords="463,157,654,197"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_texture.html#a8c1e870c80fa76565966955a72164cc4" title="Return mip level depth, or 0 if level does not exist." coords="473,221,645,261"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_texture.html#a846792b1ba7a9cd53aba7d8620b76907" title=" " coords="473,285,645,325"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_texture.html#ab8097a345104d479b277648ab98a9d20" title=" " coords="473,349,645,389"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_texture.html#af49ebd8d0572e8616402f9c663b6a818" title=" " coords="471,413,646,439"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_texture.html#af633d70298690db00993d6c89b2f0a50" title=" " coords="449,463,668,488"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture.html#abf684025c32c9a6bc816693313d255eb" title="Return data size in bytes for a pixel or block row." coords="716,5,936,31"/>
+<area shape="rect" id="node10" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="777,292,875,317"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_x_m_l_file.html#a657534de06bc465c977cc3c28139cec4" title="Return the root element, with optionally specified name. Return null element if not found." coords="471,512,646,537"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="751,512,901,537"/>
+</map>

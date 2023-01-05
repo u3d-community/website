@@ -1,0 +1,27 @@
+<map id="Urho3D::Graphics::Restore" name="Urho3D::Graphics::Restore">
+<area shape="rect" id="node1" title=" " coords="5,336,180,361"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#ac6f0b2fb0bce5afbeb088c7cb15abbe1" title="Clear the string." coords="260,167,404,192"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_graphics.html#aee06c66457f19fdad1d9e169b9c9941a" title="Release/clear GPU objects and optionally close the window. Used only on OpenGL." coords="244,300,420,325"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="499,367,677,392"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_graphics.html#a28692e56283ce29f241889657472efc3" title="Reset cached rendering state." coords="228,431,436,471"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="512,32,664,57"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a953822d6a39e507861ee02a24bb7996e" title="Copy chars from one buffer to another." coords="765,5,943,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_graphics.html#a8f67132e189c7f7366a8b9d269495be8" title="Clean up all framebuffers. Called when destroying the context. Used only on OpenGL." coords="499,135,677,175"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="505,293,671,319"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_graphics.html#aecd0066098f01560de4784346ace7a2f" title="Bind a framebuffer using either extension or core functionality. Used only on OpenGL." coords="740,55,968,80"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_graphics.html#afacc39509612f8ea1c934de68ffba439" title="Delete a framebuffer using either extension or core functionality. Used only on OpenGL." coords="771,105,937,145"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_graphics.html#a66b6675da108ca1de2eae6f5dd03286f" title=" " coords="751,169,957,195"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="770,219,938,244"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="775,268,933,293"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_map.html#a3313b8ec65ab0b23c74570898b09175c" title="Free a node." coords="757,317,951,343"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_base.html#a2774d115a617b0d6c315132352d43c01" title="Reset bucket head pointers." coords="755,367,953,392"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_hash_base.html#a7790b0fb5131f0e0a098e322c9198f39" title="Set new size." coords="763,416,945,441"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_hash_base.html#a42b5c2ba692fe96bff763b501b8922a9" title="Return number of elements." coords="772,465,936,491"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_map.html#a992327678684d4e38150f32fc676faaf" title="Return the head node." coords="1039,219,1207,244"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1045,268,1201,293"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_hash_base.html#af0f242c3642f60dc7cf69f3b7d24fa11" title="Return number of buckets." coords="1016,343,1231,368"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_base.html#ab2e9d0c50ac79b0a7eccd15b096745e9" title="Return bucket head pointers." coords="1041,392,1205,417"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_graphics.html#af002db3f0656638b5419e501597bf9db" title="Set hardware culling mode." coords="485,416,691,441"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_graphics.html#a8caad07fa70c69870bd1ebd33014b931" title="Set depth compare." coords="484,465,692,491"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_graphics.html#abce9b1421f7b2d1179659ca887171f2a" title="Set depth write on/off." coords="497,515,679,555"/>
+</map>

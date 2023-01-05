@@ -1,0 +1,27 @@
+<map id="Urho3D::Animation::BeginLoad" name="Urho3D::Animation::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,629,144,669"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animation.html#ae4c8918b0bbcd26ef8e23ea6a753b23e" title="Add a trigger point." coords="236,5,375,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a253629ba660641c388bb0bf050b0cd3e" title="Return element at index." coords="484,74,615,99"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animation.html#a7aa5e965cccdbc2cc8833b56de361d00" title="Create and return a track by name. If track by same name already exists, returns the existing." coords="236,336,375,376"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_j_s_o_n_value.html#a8ef53c37d618d5fb4d4288135c289ae7" title="Return JSON value with key." coords="467,130,632,155"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_j_s_o_n_value.html#a5a67ae140d0b62ea2594fb7e948469b5" title="Return JSON array value." coords="233,400,378,440"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="475,471,623,511"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_j_s_o_n_value.html#a36e02cdb88c9920e15a49a88af807572" title="Return float value." coords="233,629,378,669"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_deserializer.html#a59b68616d6572fed705f41237cb57be9" title=" " coords="234,693,377,733"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_resource.html#aa6fcd2703fb5cb0e1cb6bb57b9590599" title=" " coords="210,758,401,783"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_x_m_l_element.html#a9aafd5a9e7302bcda8cf64b0664b588b" title="Return next sibling element." coords="475,565,623,605"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_j_s_o_n_value.html#a047677c66c58b3d99640f3018ff333f6" title="Return a variant." coords="477,192,622,232"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_j_s_o_n_value.html#aacdaf3f95f89a12fe832bfe6f6699689" title=" " coords="233,808,378,848"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_resource_with_metadata.html#a85948141c17b39bddd26a2c63acbcc39" title="Load metadata from JSON array." coords="200,171,411,211"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="478,282,621,307"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_resource_with_metadata.html#a16dc2ff1d1182913cefeaba7273a571c" title="Load metadata from &lt;metadata&gt; children of XML element." coords="200,515,411,555"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_deserializer.html#a50fb98730fae281e2fdac0f83c451f13" title="Read a four&#45;letter file ID." coords="234,872,377,912"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_deserializer.html#a5e715bb883005d93ca8aa9d03ebccb87" title="Read a float." coords="234,936,377,976"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_deserializer.html#a13d8433924e409593da96c1aa785866f" title="Read a quaternion." coords="234,1000,377,1040"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_deserializer.html#a5645dce4244a3f13e9253f0c35605a83" title="Read a null&#45;terminated string." coords="234,1064,377,1104"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_deserializer.html#ab86746f3f96c7264b5e2b7abe0d977b4" title="Read an 8&#45;bit unsigned integer." coords="234,1128,377,1168"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_deserializer.html#a1fcc8ffc3d0744f90616d0d4feacba10" title="Read a 32&#45;bit unsigned integer." coords="234,1192,377,1232"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_deserializer.html#a1088b0c0c767b838e1c4fd7cfc0ea922" title="Read a Vector3." coords="234,1256,377,1296"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="192,1321,419,1346"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="680,74,835,99"/>
+</map>

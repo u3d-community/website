@@ -1,0 +1,9 @@
+<map id="Urho3D::OffMeshConnection::DrawDebugGeometry" name="Urho3D::OffMeshConnection::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="5,87,197,127"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="513,29,675,69"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_debug_renderer.html#a3d37048a98900ea96aa762d7ff173e7c" title="Add a sphere." coords="272,87,435,127"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="245,151,461,177"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="727,66,877,91"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="925,66,1036,91"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_sphere.html#a87d3287a4cae266144da2ae624933ef1" title="Return point on the sphere." coords="509,145,679,170"/>
+</map>

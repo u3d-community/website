@@ -1,0 +1,12 @@
+<map id="Urho3D::HttpRequest" name="Urho3D::HttpRequest">
+<area shape="rect" id="node1" title="An HTTP connection with response data stream." coords="568,169,715,195"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="268,5,411,31"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="12,37,140,63"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="258,55,421,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_deserializer.html" title=" " coords="268,120,411,145"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_thread.html" title="Operating system thread." coords="282,169,397,195"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html" title="String class." coords="286,257,393,283"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html" title=" " coords="256,307,423,347"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="5,315,147,340"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_mutex.html" title="Operating system mutual exclusion primitive." coords="284,372,395,397"/>
+</map>

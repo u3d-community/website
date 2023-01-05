@@ -1,0 +1,13 @@
+<map id="Urho3D::CustomGeometry::DrawOcclusion" name="Urho3D::CustomGeometry::DrawOcclusion">
+<area shape="rect" id="node1" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="5,267,184,307"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_occlusion_buffer.html#a62a292e64edc586d8d03b1494e2aa46d" title="Submit a triangle mesh to the buffer using non&#45;indexed geometry. Return true if did not overflow the ..." coords="264,5,431,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_material.html#a26428585da68410238f2f9c7dc9a4204" title=" " coords="245,70,449,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vertex_buffer.html#afdb3a120f19945f58c189cf76a00ee25" title="Return offset of a element within vertex, or M_MAX_UNSIGNED if does not exist." coords="274,120,421,160"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_custom_geometry.html#adeb6410bb73e0111ea38c65b082258b0" title="Return the geometry for a specific LOD level." coords="258,184,437,224"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_material.html#a237123b0f0a5462ddfeff07647e94e9b" title=" " coords="245,249,450,274"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_geometry.html#aec935a4a9c832f37255d72bc172c8f78" title="Return raw vertex and index data for CPU operations, or null pointers if not available...." coords="243,298,452,323"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_geometry.html#a83dab7be1e1ca752552d9fc4ad56b2d7" title=" " coords="250,348,445,388"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_geometry.html#a9985765cea3457bbb80a2441fc13a1ec" title=" " coords="250,412,445,452"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="232,477,463,502"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_occlusion_buffer.html#abb237b9998494fab164e9fd299aabcf9" title="Set culling mode." coords="264,527,431,567"/>
+</map>

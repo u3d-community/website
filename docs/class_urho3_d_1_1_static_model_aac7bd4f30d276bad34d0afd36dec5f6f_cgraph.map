@@ -1,0 +1,27 @@
+<map id="Urho3D::StaticModel::RegisterObject" name="Urho3D::StaticModel::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,427,149,467"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html#aaace7f6327baffa0a0c4adb1d840de24" title=" " coords="209,5,392,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html#a415b264905a2ac605c837e38c9f86afe" title=" " coords="200,70,401,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_static_model.html#ad2f8984ceb13794a177d0f7bd27eadcf" title="Return materials attribute." coords="229,120,373,160"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_static_model.html#ac22774ee64f0c3f8aa07b04923381e2d" title="Return model attribute." coords="229,184,373,224"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_drawable.html#a6072f938c617059fef0fc77ff21dac1f" title=" " coords="200,248,401,288"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_component.html#a1cb9a868ec7bb3e46c37fbc91040cf95" title=" " coords="227,312,375,352"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_drawable.html#aabd4960e08a707a45f9720fcb30dfa39" title=" " coords="201,377,400,402"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="214,427,387,467"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_drawable.html#a6fa21af838026c1566496968bc7a696c" title=" " coords="209,605,392,645"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_component.html#a84cc0be4504cc2234be4056ef7ffe976" title=" " coords="227,491,375,531"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_drawable.html#a31131f13cd30e8f47d201953f0d6293f" title=" " coords="201,555,401,581"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_static_model.html#acf47b8d4682e6f06a367cd52dc4069a6" title="Set materials attribute." coords="229,669,373,709"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_static_model.html#ad0b8df3ed239e295894411942ef4af2c" title="Set model attribute." coords="229,733,373,773"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_drawable.html#aa1e97bbb2427a3626a5b6816dfc888d6" title=" " coords="197,798,404,823"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_drawable.html#ae1f5e010e8a556927758e8eaa7b65e9a" title=" " coords="201,848,401,888"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_static_model.html#ad8ea93c382ead54a7793f5f6b40885cd" title=" " coords="469,92,613,132"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a5d21ed173348c7bca276c417ed7d38e2" title="Resize the vector." coords="462,157,619,182"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="463,295,618,335"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_component.html#aaf87acb64001774c62f0784254f9b291" title="Mark for attribute check on the next network update." coords="467,687,615,727"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="677,589,825,629"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="457,548,624,588"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_component.html#a97c506dfb55216668b1fdf4d4425f7d7" title="Handle enabled/disabled state change." coords="467,359,615,399"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="452,447,629,473"/>
+<area shape="rect" id="node21" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="491,637,590,662"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Urho3D::CollisionShape2D::OnNodeSet" name="Urho3D::CollisionShape2D::OnNodeSet">
+<area shape="rect" id="node1" title="Handle node being assigned." coords="5,92,181,132"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_node.html#a1df1e1bfa613bbd82fe6624c211db754" title="Add listener component that is notified of node being dirtied. Can either be in the same node or anot..." coords="229,13,413,38"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_collision_shape2_d.html#a5c6ed3597e4e875162cbb9e4e679bac1" title="Create fixture." coords="233,63,409,103"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="461,98,663,123"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_component.html#a5092f734dab3100e777b678ad6c13215" title="Handle scene node being assigned at creation." coords="247,177,395,217"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html#ab49b4b66b2eb1601cf166972fe42e5ce" title="Handle scene node transform dirtied." coords="488,5,636,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#a6070c8208ad98595d8c3fe43778d6069" title="Return component in the same scene node by type. If there are several, returns the first." coords="711,91,859,131"/>
+</map>

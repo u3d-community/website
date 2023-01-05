@@ -1,0 +1,11 @@
+<map id="Urho3D::Model::GetBoundingBox" name="Urho3D::Model::GetBoundingBox">
+<area shape="rect" id="node1" title=" " coords="684,109,899,134"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_static_model.html#a9cf254e2f4535519c8ee06d42d736402" title=" " coords="480,37,624,77"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animated_model.html#a67a9794df35c334b050f689bb706847a" title="Set model." coords="468,133,636,173"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_static_model.html#a4f3c5397ad06d8632620d12314867e8d" title="Handle model reload finished." coords="221,5,420,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_static_model.html#ad0b8df3ed239e295894411942ef4af2c" title="Set model attribute." coords="249,69,393,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_static_model.html#aac7bd4f30d276bad34d0afd36dec5f6f" title=" " coords="17,69,161,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_animated_model.html#af6af95070304f3ecca53d9dee1ce63ad" title="Handle model reload finished." coords="221,133,420,173"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_animated_model.html#a4bcb1159367b1b112ba751b0b5747f59" title="Set model attribute." coords="237,197,405,237"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_animated_model.html#a76a01a86a9b1bcca181bfe91ae0e4a95" title=" " coords="5,197,173,237"/>
+</map>

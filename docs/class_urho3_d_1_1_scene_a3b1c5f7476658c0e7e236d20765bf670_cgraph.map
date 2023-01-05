@@ -1,0 +1,27 @@
+<map id="Urho3D::Scene::Load" name="Urho3D::Scene::Load">
+<area shape="rect" id="node1" title="Load from binary data. Removes all existing child nodes and components first. Return true if successf..." coords="5,497,151,523"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a45ba116883b4aca1bb0572c485788172" title="Clear scene completely of either replicated, local or all nodes and components." coords="223,347,370,372"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_scene.html#a08f99dc8b2497499e581f2eb7ce1a082" title="Stop asynchronous loading." coords="471,461,650,501"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_scene.html#aad4b930c9f2dc906c9cf960b2dfeebb3" title="Finish loading. Sets the scene filename and checksum." coords="199,529,395,555"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_deserializer.html#a59b68616d6572fed705f41237cb57be9" title=" " coords="489,589,632,629"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#abff724992139c3007e51c4f61541cd5c" title="Load from binary data. Return true if successful." coords="225,631,368,656"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_deserializer.html#a50fb98730fae281e2fdac0f83c451f13" title="Read a four&#45;letter file ID." coords="225,73,368,113"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#ac6f0b2fb0bce5afbeb088c7cb15abbe1" title="Clear the string." coords="489,139,633,164"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#ae184dc647767b28ff234b1c4e699370e" title="Remove child scene nodes that match criteria." coords="457,273,665,299"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#ab6c88401cefdaeccae1e098de0cf3109" title="Template version of removing all components of specific type." coords="443,347,679,372"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#a4fe38a2be941c8ca1fa59b9639775c09" title=" " coords="477,192,644,217"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_scene.html#aa696692927ca2360290f70d4d0ed73fd" title="Clear all registered node user variable hash reverse mappings." coords="473,397,648,437"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="754,5,906,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#a953822d6a39e507861ee02a24bb7996e" title="Copy chars from one buffer to another." coords="984,5,1163,31"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a9db232116d4278bd3e10c365d2ef57d5" title=" " coords="981,160,1165,185"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a473c783c66c1bc0b497878bc787b1451" title="Mark node dirty in scene replication states." coords="727,309,933,349"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a3ffe2c6ea129ee77f6d2ed1d4a67f41f" title="Remove a child scene node." coords="735,397,925,423"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#a97fb1222bd2f38e6c1c433c0b7e54d40" title="Return whether the specified id is a replicated id." coords="1213,160,1413,185"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="747,119,913,159"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_node.html#a9c4864e96c873752bed6b1f178888fde" title="Mark for attribute check on the next network update." coords="733,55,927,95"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="741,208,919,233"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_scene_resolver.html#a33df99e344392eb3cc86dfee09b02b6b" title="Reset. Clear all remembered nodes and components." coords="750,497,910,537"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="747,447,913,472"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_deserializer.html#a34bb25ff9cde90db1e0614b078a2eaae" title=" " coords="489,525,632,565"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_deserializer.html#ae82036f72896194adc1cd02f3b03509b" title="Read bytes from the stream. Return number of bytes actually read." coords="489,73,632,113"/>
+</map>

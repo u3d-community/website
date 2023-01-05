@@ -1,0 +1,11 @@
+<map id="Urho3D::AnimationState::SetWeight" name="Urho3D::AnimationState::SetWeight">
+<area shape="rect" id="node1" title=" " coords="721,101,884,141"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animation_state.html#a13b00d3249c2576b21b357297f76360c" title="Modify blending weight." coords="497,5,659,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animation_controller.html#aad167fe194c7966566523bca3d871331" title="Set animations attribute for network replication." coords="483,69,673,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animation_controller.html#a057d38bc50f0dfeb117c3b022a433c27" title="Set animation weight. Return true on success." coords="483,133,673,173"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animation_controller.html#a4883f39485a8da9bf5488101c3a99875" title="Update the animations. Is called from HandleScenePostUpdate()." coords="483,197,673,237"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animation_controller.html#ab2f8aa461c4a24f1b8b9fb7b79083383" title=" " coords="244,69,435,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_animation_controller.html#abe3fe1fb76d6500d50c5c58af6048a9c" title="Handle scene post&#45;update event." coords="244,197,435,237"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_animation_controller.html#a6c13fabcbc9319fdfe14a83e87b42d2d" title="Handle scene being assigned." coords="5,165,196,205"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_animation_controller.html#aa54134ff4083cc5d722a300011002b8f" title="Handle enabled/disabled state change." coords="5,229,196,269"/>
+</map>

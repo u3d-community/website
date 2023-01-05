@@ -1,0 +1,21 @@
+<map id="Urho3D::Image::BeginLoad" name="Urho3D::Image::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,379,184,404"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_image.html#a5cb53bddf2e66e409445aeb3adda06c1" title="Free an image file&#39;s pixel data." coords="243,5,448,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_shared_array_ptr.html#af2203f689349e6e22e78d2b7574be4e8" title="Return the raw pointer." coords="513,105,703,131"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_image.html#a4c6f247559a46bdfcc8111a0ad8c8102" title="Decode an image using stb_image." coords="245,207,445,232"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_deserializer.html#a29f095da2db6cf9e4c7e76365341466e" title=" " coords="537,183,679,223"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_deserializer.html#ae82036f72896194adc1cd02f3b03509b" title="Read bytes from the stream. Return number of bytes actually read." coords="537,273,679,313"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_deserializer.html#a59b68616d6572fed705f41237cb57be9" title=" " coords="274,435,417,475"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_image.html#ac2b6e849145877f96dd72af0599d2cca" title="Return the next sibling image of an array or cubemap." coords="244,500,447,525"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_deserializer.html#ad0eb039dde5cc9ec8fedaa044d850db1" title=" " coords="274,550,417,590"/>
+<area shape="rect" id="node10" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="296,639,395,664"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_deserializer.html#a50fb98730fae281e2fdac0f83c451f13" title="Read a four&#45;letter file ID." coords="274,371,417,411"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_deserializer.html#a1fcc8ffc3d0744f90616d0d4feacba10" title="Read a 32&#45;bit unsigned integer." coords="274,257,417,297"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_deserializer.html#a04335b8bfc3e845d1e95599d362b2115" title="Set position from the beginning of the stream. Return actual new position." coords="274,689,417,729"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_image.html#a00fb8676bd4c841927d7c417285d1877" title="Set new image data." coords="264,55,427,80"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="232,753,459,779"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_image.html#a409d2c88160a9e4f3e95004d2108df56" title="Set 2D size and number of color components. Old image data will be destroyed and new data is undefine..." coords="265,827,425,852"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="532,379,684,404"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_string.html#a953822d6a39e507861ee02a24bb7996e" title="Copy chars from one buffer to another." coords="757,379,936,404"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_image.html#a7f857b190bc10a60737469481fb407af" title=" " coords="507,55,709,80"/>
+</map>

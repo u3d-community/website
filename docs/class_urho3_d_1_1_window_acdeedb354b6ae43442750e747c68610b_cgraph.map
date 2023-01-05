@@ -1,0 +1,27 @@
+<map id="Urho3D::Window::RegisterObject" name="Urho3D::Window::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,539,180,579"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_window.html#a5155094f0edeb0e4de41d9d9b2ac813b" title=" " coords="240,5,419,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_window.html#abad844c0149d44d1c242365b0902bde2" title=" " coords="240,69,419,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_window.html#a815f85864c7e29dbba51a2e2142614a6" title=" " coords="237,133,422,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_window.html#ac73d54833e7401095853cb1d9ec1adb9" title=" " coords="237,197,422,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_window.html#a5927be287cb89bc419fd5bdec93234bd" title=" " coords="237,261,422,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_window.html#af21d2ba3b77a96b5984ef8bae6aa35c8" title=" " coords="236,325,423,365"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_window.html#a8ce9ae6a7169ba5122966f040945c192" title=" " coords="241,390,417,415"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_window.html#a4bc05ccfb4183f36e8e28e81070dbe5c" title=" " coords="235,439,423,465"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_window.html#ad461e05c98062c3f8f1ed46f1500fb51" title=" " coords="232,489,427,514"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="243,539,416,579"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_window.html#a794f1c495c4ba0f081d38596b27b5117" title=" " coords="241,603,418,643"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_window.html#a34b6c2deafb60b7f66b3063c8b423ceb" title=" " coords="241,667,418,707"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_window.html#ab2c046329a404e867e228d9bdc7c0e05" title=" " coords="237,731,421,757"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_window.html#afb2d8495d5066434741081452758f42a" title=" " coords="237,781,421,821"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_window.html#a269d62853570065ca26cd95b6aa0bc46" title=" " coords="237,845,421,885"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_window.html#a335419bd9080e6af4d9b12a5c87a3875" title=" " coords="237,909,421,949"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_window.html#a26ae3e0c0c70e4ce0f45bff8869b1485" title=" " coords="231,974,427,999"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_window.html#a257249517d9720bc7c849410462dfa21" title=" " coords="228,1023,431,1049"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_window.html#a5e269090789f333bdd1cfb1b65d72b63" title=" " coords="237,1073,422,1113"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="490,539,645,579"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="484,684,651,724"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="479,773,656,798"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="704,684,880,724"/>
+<area shape="rect" id="node25" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="518,1081,617,1106"/>
+</map>

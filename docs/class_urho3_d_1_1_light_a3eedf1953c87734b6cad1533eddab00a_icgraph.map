@@ -1,0 +1,6 @@
+<map id="Urho3D::Light::GetSpecularIntensity" name="Urho3D::Light::GetSpecularIntensity">
+<area shape="rect" id="node1" title=" " coords="245,55,424,95"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_light.html#addf06c14a914ff91a084194c409a7917" title=" " coords="5,5,197,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_renderer.html#a4f48ac64f450dc7cb8ef339d84de223f" title="Choose shaders for a forward rendering batch. The related batch queue is provided in case it has extr..." coords="9,55,193,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_renderer.html#a082229608bb0f466ac48885bb4055a48" title="Choose shaders for a deferred light volume batch." coords="12,119,191,159"/>
+</map>

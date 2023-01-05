@@ -1,0 +1,26 @@
+<map id="Urho3D::Resource::GetMemoryUse" name="Urho3D::Resource::GetMemoryUse">
+<area shape="rect" id="node1" title=" " coords="813,387,1040,413"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_script_file.html#a907ea2dc2ef7b59cc6e5990ebc4d1a3a" title="Add a script section, checking for includes recursively. Return true if successful." coords="594,29,725,69"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_x_m_l_file.html#a394e6504613c6918bc5b89906f7e32be" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="565,94,753,119"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animation.html#a383d43a7dde9c895340693165292d660" title="Clone the animation." coords="590,144,729,184"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_model.html#a3623ddcafb95242955bf9335288855ae" title="Clone the model. The geometry data is deep&#45;copied and can be modified in the clone without affecting ..." coords="584,209,735,234"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_particle_effect.html#af8df03744a9459f9010b1b698fc6de43" title="Clone the particle effect." coords="584,259,735,299"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_particle_effect2_d.html#a53bfee014ae100d6dd68d455f6b6b1e4" title="Clone the 2D particle effect." coords="576,323,743,363"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_image.html#a9e053a7acb4d07f65001c304c85fdae4" title="Flip image horizontally. Return true if successful." coords="293,261,491,286"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_image.html#a06351e85c01083bdfffc4904186c5015" title="Flip image vertically. Return true if successful." coords="302,310,482,335"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_image.html#ac699da01725de992bce0c47474096307" title="Return a compressed mip level." coords="553,488,765,528"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_font_face_bitmap.html#aa7c66b38a3934b0ec5fa4b76afe01f2a" title="Load font face." coords="575,552,743,592"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_font_face_free_type.html#ad76941dd7b07298359fb6880dd260d77" title="Load font face." coords="29,724,207,764"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_font_face_free_type.html#a4729d53682665ade1a3816f33de03c1e" title="Setup next texture." coords="570,781,749,821"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_font_face.html#a38314b6f878cf3c1137b7e4721bd105a" title="Destruct." coords="593,845,726,885"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_script_file.html#a5e39a588cf9beb06879a387233469734" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="329,29,455,69"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_graphics.html#aba8bc69f7cae9251dbf3dc99d771ed30" title="Take a screenshot. Return true if successful." coords="5,310,231,335"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_image.html#ab0314fcd1455d08f6b411af04ddc0183" title="Return decompressed image data in RGBA format." coords="279,552,505,592"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_image.html#aa00356020ffcbf5ff333a6748e959b5d" title="Return subimage from the image by the defined rect or null if failed. 3D images are not supported...." coords="295,617,489,642"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_texture_cube.html#a40f3c72a68d864e9d0e57d35491f9934" title="Set data of one face from an image. Return true if successful. Optionally make a single channel image..." coords="319,667,465,707"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_texture2_d.html#ab49167ad05742f9610fd938c2f9f29ce" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="323,360,461,400"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_texture3_d.html#adc338a79d4dbbb51605bf14a252135a3" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="323,424,461,464"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_texture2_d_array.html#a6bf5a1b684ec0d37ea5e81e0f2d7dd84" title="Set data of one layer from an image. Return true if successful. Optionally make a single channel imag..." coords="311,488,473,528"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_font_face_free_type.html#aef996d110f756368c9f9d526ff78ac00" title="Load char glyph." coords="303,781,481,821"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_font_face_free_type.html#a1f8dc4a293592a3668776b523dd47d47" title="Return pointer to the glyph structure corresponding to a character. Return null if glyph not found." coords="29,788,207,828"/>
+</map>

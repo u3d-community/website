@@ -1,0 +1,8 @@
+<map id="Urho3D::Animatable::SaveXML" name="Urho3D::Animatable::SaveXML">
+<area shape="rect" id="node1" title="Save as XML data. Return true if successful." coords="435,88,573,128"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html#ab02324fafcfde655d1e7110dedb9134e" title="Save as XML data. Return true if successful." coords="229,5,377,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#aee9138da9786316c8355e6bcec11a8cf" title="Save as XML data. Return true if successful." coords="5,42,172,67"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_menu.html#a827fcf395930a1cdca3ab5db32885672" title="Save as XML data. Return true if successful." coords="220,121,387,146"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#aba2d5669c9b8aa49f4c7c4690adb3bfc" title="Save as XML data. Return true if successful." coords="233,195,373,235"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i.html#a5cd07643076e6439a75cb6de7e038df9" title="Save a UI layout to an XML file. Return true if successful." coords="9,202,168,227"/>
+</map>

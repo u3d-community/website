@@ -1,0 +1,12 @@
+<map id="Urho3D::File::IsOpen" name="Urho3D::File::IsOpen">
+<area shape="rect" id="node1" title=" " coords="683,107,823,132"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_file.html#aa96e3d354d967ebeb8ad5863eb2797fe" title="Read bytes from the file. Return number of bytes actually read." coords="485,5,614,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_file.html#a72767679eb699c9d816c33ac6def3acb" title="Set position from the beginning of the file." coords="262,56,390,81"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_image.html#a14d0e7c60a23e7c6aca1dc9f97d40b0e" title="Save in DDS format. Only uncompressed RGBA images are supported. Return true if successful." coords="241,157,411,183"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_image.html#a78a5e3043e9b5f7fa9375325f9ab0263" title="Save in PNG format. Return true if successful." coords="464,107,635,132"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_file.html#ad1686ab39e8979917bca432929a63b6b" title="Write bytes to the file. Return number of bytes actually written." coords="484,208,615,233"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_file.html#af9a8d2dbe6424e8b27ad503b02c5239b" title="Return a checksum of the file contents using the SDBM hash algorithm." coords="5,7,188,32"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#a37aeb39ae74b420d003a597adccac577" title="Load from a binary file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY ..." coords="6,56,187,81"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_image.html#adcea1e1f246e18b77acfdc12937f95b3" title="Save the image to a file. Format of the image is determined by file extension. JPG is saved with maxi..." coords="15,157,179,183"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_image.html#a03b0cd2a466d2b6d9dadf1c77fe23622" title="Save in WebP format with minimum (fastest) or specified compression. Return true if successful...." coords="236,207,416,232"/>
+</map>

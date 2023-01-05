@@ -1,0 +1,4 @@
+<map id="Urho3D::UIElement::SetDefaultStyle" name="Urho3D::UIElement::SetDefaultStyle">
+<area shape="rect" id="node1" title=" " coords="223,5,363,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_menu.html#a00efa90d9d6a5023541fffd71a38a984" title="Load from XML data with style. Return true if successful." coords="5,13,175,38"/>
+</map>

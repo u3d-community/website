@@ -1,0 +1,13 @@
+<map id="Urho3D::String::Joined" name="Urho3D::String::Joined">
+<area shape="rect" id="node1" title=" " coords="709,134,863,159"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_pass.html#a00a5e29a8c34b34b98ba542daecba492" title="Return the effective pixel shader defines, accounting for excludes. Called internally by Renderer." coords="481,5,659,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_pass.html#ae724fb0332dbc01f9b220e9ffc1c370e" title="Return the effective vertex shader defines, accounting for excludes. Called internally by Renderer." coords="481,69,659,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#ae4b85c625b26ce7f52a70ba9abe50f8e" title="Join substrings with a &#39;glue&#39; string." coords="501,134,639,159"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_shader.html#a5274cb30fe0bf589a5a4006fc0c630fa" title="Sort the defines and strip extra spaces to prevent creation of unnecessary duplicate shader variation..." coords="479,184,661,224"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_lua_script.html#a0768ea1b4accf218d066ef87b1c31e9e" title="Print function." coords="503,248,637,288"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_renderer.html#aa9c1c4b719643700a5d7e4bee5fafd32" title="Reload shaders for a material pass. The related batch queue is provided in case it has extra shader c..." coords="239,37,429,77"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_renderer.html#a4f48ac64f450dc7cb8ef339d84de223f" title="Choose shaders for a forward rendering batch. The related batch queue is provided in case it has extr..." coords="5,37,189,77"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_shader.html#a046a09601addd162087b43dc802293a2" title="Return a variation with defines. Separate multiple defines with spaces." coords="237,191,431,217"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_lua_script.html#a51e775ac0c9bf13de0f3c7230a38170c" title="Replace print." coords="267,248,401,288"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_lua_script.html#a20160f675034053b2cc48272f81387d7" title="Construct." coords="30,248,165,288"/>
+</map>

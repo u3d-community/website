@@ -1,0 +1,4 @@
+<map id="Urho3D::Engine::SetMaxFps" name="Urho3D::Engine::SetMaxFps">
+<area shape="rect" id="node1" title=" " coords="220,5,404,31"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_engine.html#ae686bb22644561e57a4aaef3f8665c0e" title="Initialize engine using parameters given and show the application window. Return true if successful." coords="5,5,172,31"/>
+</map>

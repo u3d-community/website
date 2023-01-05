@@ -1,0 +1,27 @@
+<map id="Urho3D::FrameInfo" name="Urho3D::FrameInfo">
+<area shape="rect" id="node1" title="Rendering frame update parameters." coords="1955,392,2089,417"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="1711,367,1845,392"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_camera.html" title="Camera component." coords="1719,416,1837,441"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_component.html" title=" " coords="1415,276,1557,301"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="816,196,955,221"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="1157,340,1264,365"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="357,107,497,132"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object.html" title=" " coords="33,79,144,104"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="5,129,172,169"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="335,157,518,197"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_set.html" title=" " coords="342,221,511,261"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="308,285,545,340"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_scene.html" title="Root scene node, represents the whole scene." coords="1431,428,1541,453"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="819,59,951,84"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="781,502,989,542"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="826,708,945,733"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_frustum.html" title="Convex constructed of 6 planes." coords="1425,477,1547,503"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_plane.html" title=" " coords="1158,705,1263,731"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_quaternion.html" title="Rotation represented as a four&#45;dimensional normalized vector." coords="817,147,954,172"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_vector.html" title=" " coords="767,246,1004,286"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector.html" title=" " coords="785,310,986,350"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector.html" title=" " coords="771,374,1000,414"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="813,438,958,478"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_matrix4.html" title="4x4 matrix for arbitrary linear transforms including projection." coords="1427,379,1545,404"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="1427,639,1545,664"/>
+</map>

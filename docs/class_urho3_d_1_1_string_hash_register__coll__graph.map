@@ -1,0 +1,10 @@
+<map id="Urho3D::StringHashRegister" name="Urho3D::StringHashRegister">
+<area shape="rect" id="node1" title="Helper class used for StringHash reversing." coords="221,420,407,445"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="111,317,319,357"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="149,229,282,255"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_hash_node_base.html" title="Hash set/map node base class." coords="5,103,172,128"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_allocator_block.html" title="Allocator memory block." coords="263,103,423,128"/>
+<area shape="rect" id="node6" href="$struct_urho3_d_1_1_allocator_node.html" title="Allocator node." coords="263,5,423,31"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_unique_ptr.html" title=" " coords="343,317,482,357"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_mutex.html" title="Operating system mutual exclusion primitive." coords="357,229,468,255"/>
+</map>

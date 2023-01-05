@@ -1,0 +1,12 @@
+<map id="Urho3D::Object::GetGlobalVar" name="Urho3D::Object::GetGlobalVar">
+<area shape="rect" id="node1" title=" " coords="5,52,199,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_context.html#a8856236257d604dac81d7085f231fc98" title="Return global variable based on key." coords="247,52,449,77"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="725,27,883,52"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_map.html#a9dc4e5c0ad1feb3eec2d2f1f1714698d" title="Return iterator to the pair with key, or end iterator if not found." coords="497,77,659,103"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="979,5,1135,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html#a85f871cbe77f2d780e1a169f19936ad8" title="Find a node from the buckets. Do not call if the buckets have not been allocated." coords="707,77,901,103"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#a6baa78766271c323b914fd2e6ca70c66" title="Compute a hash based on the key and the bucket size." coords="721,141,887,167"/>
+<area shape="rect" id="node7" href="$struct_urho3_d_1_1_hash_map_1_1_node.html#a5b917a49ae9df7b89215e8808db681da" title="Return next node in the bucket." coords="972,55,1141,95"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_base.html#ab2e9d0c50ac79b0a7eccd15b096745e9" title="Return bucket head pointers." coords="975,120,1139,145"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_base.html#af0f242c3642f60dc7cf69f3b7d24fa11" title="Return number of buckets." coords="949,169,1164,195"/>
+</map>

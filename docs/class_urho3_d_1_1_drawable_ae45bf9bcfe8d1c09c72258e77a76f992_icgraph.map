@@ -1,0 +1,14 @@
+<map id="Urho3D::Drawable::GetViewMask" name="Urho3D::Drawable::GetViewMask">
+<area shape="rect" id="node1" title=" " coords="499,287,713,313"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_renderer2_d.html#a6665c12118a1d607f6e4bd9d2c1a4f91" title="Check visibility." coords="280,5,423,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_view.html#ae6b753dabd0921ef05ce5d73b75c6209" title="Find and set a new zone for a drawable when it has moved." coords="270,70,433,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_octant.html#af538bf340823bb42d8a3037a9ffd4d6d" title="Return drawable objects by a ray query, called internally." coords="252,120,451,160"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_octant.html#a6403db50466326b28398f2277406d2cc" title="Return drawable objects only for a threaded ray query, called internally." coords="252,184,451,224"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_renderer2_d.html#a32a45002ff30c2e8556b42ebb6e75637" title="Process octree raycast. May be called from a worker thread." coords="280,248,423,288"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_point_octree_query.html#a6fcf3680c6a0c843ec369516e6eadd37" title="Intersection test for drawables." coords="264,312,439,352"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_sphere_octree_query.html#abd5bb776d0fcf468b5793a00a6c94f85" title="Intersection test for drawables." coords="259,376,444,416"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_box_octree_query.html#a9373e6af2e2013f12d31e6c6f583d6c1" title="Intersection test for drawables." coords="268,440,435,480"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_frustum_octree_query.html#a2f14a7a9a1e62cf68e955360c38050a1" title="Intersection test for drawables." coords="254,504,449,544"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_all_content_octree_query.html#a7e492d7f9b53dd9d7320da5626700127" title="Intersection test for drawables." coords="265,568,437,608"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_octree.html#a3f0f2c5115f5426593ad64d982544a3d" title="Return the closest drawable object by a ray query." coords="5,191,204,217"/>
+</map>

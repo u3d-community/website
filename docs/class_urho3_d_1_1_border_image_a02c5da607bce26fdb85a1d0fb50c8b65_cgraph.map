@@ -1,0 +1,27 @@
+<map id="Urho3D::BorderImage::RegisterObject" name="Urho3D::BorderImage::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,581,156,621"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_border_image.html#ada7a78e31d7ca4557aabfc34fc39d6aa" title=" " coords="215,5,366,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_border_image.html#a676655833d7a21dd91280dd455f08434" title=" " coords="215,69,366,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_border_image.html#abe8d2e0d7385d0ea3b85c98f29746200" title=" " coords="215,133,366,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_border_image.html#ac1d88c97e4d0d5dc51c396bc914c5aaa" title=" " coords="215,197,366,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_border_image.html#a7a33e88cf1e3871095877df5a79aa5b5" title=" " coords="215,261,366,301"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_border_image.html#abe6a51d6c6a159e8a520d8cd4f04fbc5" title=" " coords="215,325,366,365"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_border_image.html#a37b14717b54115d4e40517e1d14d67c2" title="Get material attribute." coords="215,389,366,429"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_border_image.html#a28467132f0f44b5d1c1413ecc759620e" title="Return texture attribute." coords="215,453,366,493"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_border_image.html#a3a7259570a4337ebf2e284f379477e5e" title=" " coords="215,517,366,557"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="204,581,377,621"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_border_image.html#a3d6917a5f1fd36f5760a3e825ad7184e" title=" " coords="215,645,366,685"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_border_image.html#abc6fbb9e672e706975d3ab46c9b4cc8f" title=" " coords="215,709,366,749"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_border_image.html#acfa54cf112ece8f397809439e4edf067" title=" " coords="215,773,366,813"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_border_image.html#af82b0cb76e39b60973c1913e5673f305" title=" " coords="215,837,366,877"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_border_image.html#a96baa020c36b2ddf3bf65d40fc5b24d2" title=" " coords="215,901,366,941"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_border_image.html#a6b690e13125601d6e4b4fca5b4761035" title=" " coords="827,1020,977,1060"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_border_image.html#a185f685ff71214dcbed6df526e5991cb" title="Set material attribute." coords="215,1016,366,1056"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_border_image.html#a424212c6aec7ad5a8aa0b4101eb83724" title="Set texture attribute." coords="215,1080,366,1120"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_border_image.html#ae270dac45c593e93eb746a6ff2085203" title=" " coords="215,1144,366,1184"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="425,581,580,621"/>
+<area shape="rect" id="node15" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="453,813,552,838"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_border_image.html#acfdf153f8a78512721ce5d1af2da23eb" title=" " coords="427,1016,578,1056"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_border_image.html#a6d362a60f796ef51fa4238e12e4f7bcd" title=" " coords="427,1080,578,1120"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_border_image.html#a61b5fd6eefc7e88a0c8be83788170999" title="Use whole texture as the image." coords="628,1048,779,1088"/>
+</map>

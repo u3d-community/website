@@ -1,0 +1,12 @@
+<map id="Urho3D::Octree::DrawDebugGeometry" name="Urho3D::Octree::DrawDebugGeometry">
+<area shape="rect" id="node1" title="Visualize the component as debug geometry." coords="5,144,189,184"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_octant.html#a0cc41080dea82194594c51583b1a2d62" title=" " coords="237,144,421,184"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_debug_renderer.html#a6755ab0e0b3feef19e558a5dcb8c0e4f" title="Add a bounding box." coords="469,100,632,140"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_debug_renderer.html#a81f7b1227249e32b760c1c534c55ea8b" title="Check whether a bounding box is inside the view frustum." coords="469,176,632,216"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_debug_renderer.html#aa250f6d8ac576c708e9af181c398e46f" title="Add a line." coords="928,29,1091,69"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_color.html#a06623b98b5524439f8a243d103b214dd" title="Return color packed to a 32&#45;bit integer, with R component in the lowest 8 bits. Components are clampe..." coords="1139,94,1289,119"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_debug_renderer.html#ab868b2db01ad55a58a1b24d957abc7eb" title="Add a solid quadrangular polygon." coords="699,144,861,184"/>
+<area shape="rect" id="node6" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="1337,94,1448,119"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_debug_renderer.html#a098d3d22f1af148c3a9b7657eed89454" title="Add a solid triangle." coords="928,168,1091,208"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_frustum.html#ae98feba8cd681b9a5d023b43b71e56ff" title="Test if a sphere if (partially) inside or outside." coords="680,209,880,234"/>
+</map>

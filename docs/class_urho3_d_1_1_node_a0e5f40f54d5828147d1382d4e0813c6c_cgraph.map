@@ -1,0 +1,27 @@
+<map id="Urho3D::Node::LoadXML" name="Urho3D::Node::LoadXML">
+<area shape="rect" id="node1" title="Load from XML data. Return true if successful." coords="5,145,175,171"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene_resolver.html#ab1d8eba7016a02851c191e203be845c9" title="Remember a created node." coords="243,27,403,67"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a1885ad7b7ac3bacdb3573bc8c3cfdc67" title="Apply attribute changes that can not be applied immediately recursively to child nodes and components..." coords="223,116,424,141"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_x_m_l_element.html#a355dd709c5aa4cef307fd928cf5c37a4" title="Return an unsigned integer attribute, or zero if missing." coords="249,166,397,206"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene_resolver.html#a4322ce210921b372aa621462408597cc" title="Resolve component and node ID attributes and reset." coords="243,370,403,410"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="489,26,637,66"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="723,5,879,31"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_x_m_l_element.html#afd561acf36305fd70cf86f60f666798f" title="Return attribute as C string, or null if missing." coords="727,55,875,95"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html#a253629ba660641c388bb0bf050b0cd3e" title="Return element at index." coords="735,495,866,520"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_set.html#a3baa6033b348457709d004b717ac9eaf" title="Return whether contains a key." coords="472,649,653,675"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_serializable.html#a3783f928c689a3d4ee2d9766661eca0c" title=" " coords="493,370,633,410"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_serializable.html#a7e18871871feb97ee7cfb637e9b3e090" title="Return attribute descriptions, or null if none defined." coords="731,381,871,421"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_object.html#a4c7af660afc8467a99d1f17c8d099b3b" title=" " coords="948,328,1111,353"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="729,544,872,569"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_variant.html#a9c415240f0a9c973fdc5269c61b57f6f" title="Return unsigned int or zero on type mismatch. Floats and doubles are converted." coords="481,699,645,724"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_variant.html#aa28373473fd23bbbcae34ea4b4cbe2f1" title="Return a variant vector or empty on type mismatch." coords="472,90,653,130"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_hash_set.html#a14064ab8bc6c6c6782961cb95295a2ee" title="Insert a key. Return an iterator to it." coords="481,600,644,625"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="489,155,636,180"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_scene_resolver.html#a33df99e344392eb3cc86dfee09b02b6b" title="Reset. Clear all remembered nodes and components." coords="483,205,643,245"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_serializable.html#a52c377ff65bd3198a3c460c6a43dc008" title=" " coords="493,434,633,474"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="952,495,1107,520"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_set.html#a2135707c813a6c132d5bb3dbaed38b0a" title="Find a node from the buckets. Do not call if the buckets have not been allocated." coords="707,600,894,625"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_set.html#a2fbb4a28646210c984e7f27f2995cb11" title="Compute a hash based on the key and the bucket size." coords="721,649,881,675"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="701,445,900,471"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_serializable.html#a18c5041e406e9df1ff04ac9b31733661" title="Handle attribute read access. Default implementation reads the variable at offset,..." coords="731,317,871,357"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Urho3D::SmoothedTransform" name="Urho3D::SmoothedTransform">
+<area shape="rect" id="node1" title="Transform smoothing component for network updates." coords="5,372,203,397"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html" title=" " coords="33,299,175,324"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="35,225,173,251"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="34,152,174,177"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object.html" title=" " coords="49,79,159,104"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="33,5,175,31"/>
+</map>

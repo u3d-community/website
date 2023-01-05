@@ -1,0 +1,6 @@
+<map id="Urho3D::UIElement::OnDragBegin" name="Urho3D::UIElement::OnDragBegin">
+<area shape="rect" id="node1" title="React to mouse drag begin." coords="256,63,396,103"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_line_edit.html#ab6b1fed419e29781d4a048954ef7a575" title="React to mouse drag begin." coords="23,5,191,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_slider.html#abdc26dff7a5f58c1dd00460f205f62c4" title="React to mouse drag begin." coords="13,70,201,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_window.html#a932ccd738d5c204646be87a8e6d72dde" title="React to mouse drag begin." coords="5,119,208,145"/>
+</map>

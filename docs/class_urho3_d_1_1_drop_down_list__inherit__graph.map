@@ -1,0 +1,11 @@
+<map id="Urho3D::DropDownList" name="Urho3D::DropDownList">
+<area shape="rect" id="node1" title="Menu UI element that displays a popup list view." coords="5,592,161,617"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_menu.html" title="Menu UI element that optionally shows a popup." coords="30,519,137,544"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_button.html" title="Push button UI element." coords="28,445,139,471"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_border_image.html" title="Image UI element with optional border." coords="8,372,159,397"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html" title="Base class for UI elements." coords="16,299,151,324"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="14,225,153,251"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="13,152,153,177"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_object.html" title=" " coords="28,79,139,104"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="12,5,155,31"/>
+</map>

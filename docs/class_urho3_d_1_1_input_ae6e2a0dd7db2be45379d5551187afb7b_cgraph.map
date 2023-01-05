@@ -1,0 +1,27 @@
+<map id="Urho3D::Input::AddScreenJoystick" name="Urho3D::Input::AddScreenJoystick">
+<area shape="rect" id="node1" title="Add screen joystick." coords="5,589,179,629"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="247,5,397,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_o_d_vector.html#ac564a928bd75354adfdeb2b7fd225149" title="Return iterator to the beginning." coords="250,105,394,145"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#a4b25def89817c81ac32545396777dbf6" title="Return whether contains a specific occurrence of a string." coords="239,219,405,244"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="475,307,631,332"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="473,420,632,445"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="251,55,393,80"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_p_o_d_vector.html#ad9cedde70f6aac8dde2b7bfba7ca4fbb" title="Return iterator to the end." coords="239,169,405,195"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html#a9dc4e5c0ad1feb3eec2d2f1f1714698d" title="Return iterator to the pair with key, or end iterator if not found." coords="241,445,403,471"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_u_i_element.html#a83bc1b2d8a2587e7ffe1d7d381a4c6d3" title="Template version of returning child element by index using dynamic cast. May return 0 when casting fa..." coords="247,495,397,535"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_u_i_element.html#ac3bc78c7f6dfc4df1e4fdf85a4c3788a" title="Return immediate child elements." coords="252,559,392,599"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_u_i_element.html#ac31b2befe892a1e1ae420594dcb6ec91" title=" " coords="483,638,623,678"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_input.html#a81b43d331225b80eb2f2e647b142ab5c" title="Handle touch events from the controls of screen joystick(s)." coords="227,725,417,765"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_u_i_element.html#a7a085bb6b90aad996999804bd7e8a3e7" title="Set a user variable." coords="483,713,623,753"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_string.html#afa8a3643a9866f6846520794d3b45b47" title="Return whether starts with a string." coords="465,784,640,809"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_string.html#a812ed0a9a7397006169814ac64295b78" title="Return a substring from position to end." coords="469,833,637,859"/>
+<area shape="rect" id="node19" href="$struct_urho3_d_1_1_joystick_state.html#a962557fcac9ee900967e083ce840a9b4" title="Initialize the number of buttons, axes and hats and set them to neutral state." coords="246,890,398,930"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_string.html#a0a988cc147946dd80bf73cea2c1ac04c" title=" " coords="246,955,398,980"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html#a5d21ed173348c7bca276c417ed7d38e2" title="Resize the vector." coords="243,1004,401,1029"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i_element.html#a8a0131dfc7f06ce10cdb77418ec830a9" title=" " coords="252,1054,392,1094"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="251,1119,393,1144"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_string.html#a954d2f1f13dc059aa7268e99bc3ff30f" title="Return substrings split by a separator char. By default don&#39;t return empty strings." coords="253,344,391,369"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="235,1169,409,1209"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="475,31,630,56"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_p_o_d_vector.html#a75ae397d58ffa509b1c4df45913107d6" title="Return the buffer with right type." coords="481,134,625,174"/>
+</map>

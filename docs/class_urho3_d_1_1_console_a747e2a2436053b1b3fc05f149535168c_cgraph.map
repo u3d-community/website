@@ -1,0 +1,14 @@
+<map id="Urho3D::Console::SetNumHistoryRows" name="Urho3D::Console::SetNumHistoryRows">
+<area shape="rect" id="node1" title=" " coords="5,206,257,231"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector.html#a5d21ed173348c7bca276c417ed7d38e2" title="Resize the vector." coords="305,181,463,206"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="313,230,455,255"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#ae9748e916e5595ad4ea377f2a0d1a1b7" title="Resize the vector and create/remove new elements as necessary." coords="511,181,685,206"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="1177,26,1332,51"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_vector.html#a05f68c0546419caf7d6050a3e7d8d1d5" title="Calculate new vector capacity." coords="733,256,905,296"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a5c0b7ecbd0ae0c75a9a69bf9dedc517a" title="Construct elements using default ctor." coords="953,151,1129,191"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#afb87585db12d120ab5148ec782d14632" title="Call the elements&#39; destructors." coords="957,215,1125,255"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="737,102,902,127"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_vector_base.html#aec648d72344954c3be22218eb180f6a4" title="Swap with another vector." coords="749,320,890,360"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="966,51,1117,77"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="971,101,1112,126"/>
+</map>

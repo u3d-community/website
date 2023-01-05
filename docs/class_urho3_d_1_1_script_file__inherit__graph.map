@@ -1,0 +1,7 @@
+<map id="Urho3D::ScriptFile" name="Urho3D::ScriptFile">
+<area shape="rect" id="node1" title="Script file resource." coords="104,225,231,251"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html" title=" " coords="13,152,141,177"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html" title=" " coords="21,79,132,104"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,5,148,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_script_event_listener.html" title="Interface class for allowing script objects or functions to subscribe to events." coords="165,152,351,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Urho3D::LuaScriptInstance::ApplyAttributes" name="Urho3D::LuaScriptInstance::ApplyAttributes">
+<area shape="rect" id="node1" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="5,69,184,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_lua_function.html#aaebe8556aab514240aae0a06f82c2629" title="Begin function call. When a script object is given then pass it as self argument (first parameter) to..." coords="232,37,376,77"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_lua_function.html#a10c1b2a030d1763e524b5fd50e4afd8b" title="End call and actually execute the function. The return values, if any, are still left in the stack wh..." coords="232,101,376,141"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_lua_script_instance.html#a3516536d2ba9fac5b5f8e708de85fb70" title="Return Lua reference to script object." coords="424,5,603,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_lua_function.html#aec2f70c0be7886a14ec8417235a15e48" title="Check that function is valid." coords="441,69,585,109"/>
+</map>

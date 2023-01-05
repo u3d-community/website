@@ -1,0 +1,5 @@
+<map id="Urho3D::Node::GetSignedWorldScale" name="Urho3D::Node::GetSignedWorldScale">
+<area shape="rect" id="node1" title=" " coords="232,37,440,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_collision_shape2_d.html#a09f1167efaa82dc515bef953daa4ad47" title="Handle node transform being dirtied." coords="7,5,183,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_stretchable_sprite2_d.html#ac239dd667909ebb6c77a88c59d1a5051" title="Update source batches." coords="5,69,184,109"/>
+</map>

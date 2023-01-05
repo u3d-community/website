@@ -1,0 +1,5 @@
+<map id="Urho3D::Graphics::SetTextureParametersDirty" name="Urho3D::Graphics::SetTextureParametersDirty">
+<area shape="rect" id="node1" title=" " coords="244,37,436,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_graphics.html#a8482c325a24a9c64c69898d39232ff53" title="Set default texture anisotropy level. Called by Renderer before rendering." coords="5,5,196,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_graphics.html#aa5cd5d4b7aa461dca5c1e4202bf92b33" title="Set default texture filtering mode. Called by Renderer before rendering." coords="5,69,196,109"/>
+</map>

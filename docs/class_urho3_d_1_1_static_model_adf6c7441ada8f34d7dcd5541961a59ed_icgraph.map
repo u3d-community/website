@@ -1,0 +1,7 @@
+<map id="Urho3D::StaticModel::GetLodGeometry" name="Urho3D::StaticModel::GetLodGeometry">
+<area shape="rect" id="node1" title="Return the geometry for a specific LOD level." coords="236,101,380,141"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_static_model.html#a934ce91d3123ebed38229a8994d8d8b6" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="25,5,169,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_static_model_group.html#a13fe7ab600249a608a696249ec27b1f2" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="7,69,186,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_static_model.html#aaf54a9fadd15d371554bdeea827cfe67" title="Return number of occlusion geometry triangles." coords="5,133,188,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_static_model_group.html#ac48e6a4b29fe0ed8903744c698c5e0e2" title="Return number of occlusion geometry triangles." coords="5,197,188,237"/>
+</map>

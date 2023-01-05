@@ -1,0 +1,25 @@
+<map id="Urho3D::Geometry::GetIndexCount" name="Urho3D::Geometry::GetIndexCount">
+<area shape="rect" id="node1" title=" " coords="1225,297,1416,337"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#ae43a2bf6ba897fa62844ed0169dcc548" title="Add a triangle mesh to the geometry data." coords="1000,55,1168,95"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_model.html#a3623ddcafb95242955bf9335288855ae" title="Clone the model. The geometry data is deep&#45;copied and can be modified in the clone without affecting ..." coords="1009,119,1159,145"/>
+<area shape="rect" id="node12" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="1013,169,1155,209"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_static_model.html#a934ce91d3123ebed38229a8994d8d8b6" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="1012,233,1156,273"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_static_model_group.html#a13fe7ab600249a608a696249ec27b1f2" title="Draw to occlusion buffer. Return true if did not run out of triangles." coords="995,297,1173,337"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_decal_set.html#a51865d14929f67473aa71cc3b9ba36d6" title="Get triangle faces from the target geometry." coords="991,362,1177,387"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_static_model.html#aaf54a9fadd15d371554bdeea827cfe67" title="Return number of occlusion geometry triangles." coords="993,412,1175,452"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_static_model_group.html#ac48e6a4b29fe0ed8903744c698c5e0e2" title="Return number of occlusion geometry triangles." coords="993,476,1175,516"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_model.html#abff8eafc5209a8bdbc64676952fc445d" title="Save resource. Return true if successful." coords="1011,541,1157,566"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_navigation_mesh.html#aa1afd3c3723b93fb9f93f97cc1dc4770" title="Get geometry data within a bounding box." coords="764,55,932,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_navigation_mesh.html#a602be9b482a0a9b7917bb13fd3b02cbf" title="Build one tile of the navigation mesh. Return true if successful." coords="510,5,678,45"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac0f1a30258c353d442f6006cd0ddf2fa" title="Build one tile of the navigation mesh. Return true if successful." coords="501,69,687,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_navigation_mesh.html#ab649eee713babaa030e62c423da0e5f8" title="Build tiles in the rectangular area. Return number of built tiles." coords="253,5,421,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_navigation_mesh.html#a38f762e87f10300096e08666fbafb443" title="Rebuild the navigation mesh. Return true if successful." coords="15,5,183,45"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac50303ab43f4c6b1b19867e6a3389af3" title="Build/rebuild the entire navigation mesh." coords="244,69,431,109"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a9b955871256dc8a0509c85d4535cfd91" title="Build tiles in the rectangular area. Return number of built tiles." coords="244,133,431,173"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a770e064c2824a40fb0448cd88b64fedf" title="Build/rebuild a portion of the navigation mesh." coords="5,133,192,173"/>
+<area shape="rect" id="node13" href="$struct_urho3_d_1_1_batch_queue.html#a9a3a0ba457231d2a75e65fe2a1d1d94c" title="Draw." coords="777,169,919,209"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="240,213,435,253"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_view.html#ae7e6e47346e5ff4346eb8cb251e013ef" title="Render a shadow map." coords="483,237,705,262"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_view.html#a124582e02f0e82ba799467b20b162436" title="Render batches." coords="24,221,173,246"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_decal_set.html#a70a16cdcd0674837b6b2338f94f476b8" title="Add a decal at world coordinates, using a target drawable&#39;s geometry for reference...." coords="753,362,943,387"/>
+</map>

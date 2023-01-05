@@ -1,0 +1,27 @@
+<map id="Urho3D::ScriptFile" name="Urho3D::ScriptFile">
+<area shape="rect" id="node1" title="Script file resource." coords="1753,369,1880,394"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="2044,304,2223,344"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html" title=" " coords="1339,283,1467,309"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html" title=" " coords="1009,206,1119,231"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_script.html" title="Scripting subsystem. Allows execution of AngelScript." coords="2376,119,2483,145"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="243,289,385,314"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_context.html" title="Urho3D execution context. Provides access to subsystems, object factories and attributes,..." coords="638,238,757,263"/>
+<area shape="rect" id="node5" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,465,133,490"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="409,83,588,123"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="807,561,969,601"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_linked_list.html" title=" " coords="612,173,783,213"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_string.html" title="String class." coords="1011,343,1117,369"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_string_hash.html" title="32&#45;bit hash value for a string." coords="995,431,1133,457"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_timer.html" title="Low&#45;resolution operating system timer." coords="1010,255,1118,281"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_script_event_listener.html" title="Interface class for allowing script objects or functions to subscribe to events." coords="1311,234,1496,259"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="2556,340,2695,380"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html" title=" " coords="1555,61,1729,101"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="993,86,1135,111"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html" title=" " coords="1320,169,1487,209"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_hash_set.html" title=" " coords="1314,556,1493,596"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="997,491,1131,517"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1311,620,1495,660"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1309,333,1498,373"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1276,398,1531,453"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="1297,477,1509,531"/>
+</map>

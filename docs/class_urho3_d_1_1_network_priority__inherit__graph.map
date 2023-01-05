@@ -1,0 +1,8 @@
+<map id="Urho3D::NetworkPriority" name="Urho3D::NetworkPriority">
+<area shape="rect" id="node1" title="Network interest management settings component." coords="5,372,172,397"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html" title=" " coords="17,299,160,324"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="19,225,158,251"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="19,152,159,177"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object.html" title=" " coords="33,79,144,104"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="17,5,160,31"/>
+</map>

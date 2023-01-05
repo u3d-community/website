@@ -1,0 +1,5 @@
+<map id="Urho3D::WorkItem" name="Urho3D::WorkItem">
+<area shape="rect" id="node1" title=" " coords="11,168,143,193"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,93,148,119"/>
+<area shape="rect" id="node3" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="13,5,141,31"/>
+</map>

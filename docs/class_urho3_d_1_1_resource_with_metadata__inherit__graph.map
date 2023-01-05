@@ -1,0 +1,14 @@
+<map id="Urho3D::ResourceWithMetadata" name="Urho3D::ResourceWithMetadata">
+<area shape="rect" id="node1" title="Base class for resources that support arbitrary metadata stored. Metadata serialization shall be impl..." coords="180,225,391,251"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animation.html" title="Skeletal animation resource." coords="5,299,139,324"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_model.html" title="3D model resource." coords="163,299,274,324"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_sound.html" title="Sound resource." coords="298,299,409,324"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_texture.html" title="Base class for texture resources." coords="433,299,549,324"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html" title=" " coords="221,152,349,177"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_object.html" title=" " coords="230,79,341,104"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="214,5,357,31"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_texture2_d.html" title="2D texture resource." coords="167,372,299,397"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_texture2_d_array.html" title="2D texture array resource." coords="324,372,487,397"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_texture3_d.html" title="3D texture resource." coords="511,372,643,397"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_texture_cube.html" title="Cube texture resource." coords="668,372,815,397"/>
+</map>

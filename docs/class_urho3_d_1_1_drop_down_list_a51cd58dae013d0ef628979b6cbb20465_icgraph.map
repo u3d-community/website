@@ -1,0 +1,22 @@
+<map id="Urho3D::DropDownList::GetSelectedItem" name="Urho3D::DropDownList::GetSelectedItem">
+<area shape="rect" id="node1" title=" " coords="1333,335,1489,375"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drop_down_list.html#a1ccb0767341512c2911fc5839e8b0265" title="Return UI rendering batches." coords="1092,189,1248,229"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_file_selector.html#ad466c4ce221ba557aa0cc022f42da870" title=" " coords="1099,253,1241,293"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_console.html#af2c9e1cc4d88cb3913eda27424e5aab0" title="Handle interpreter being selected on the drop down list." coords="1055,399,1285,439"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_drop_down_list.html#a03d4dd14c1af0da97deedcefdde09e4d" title="Handle listview item click event." coords="1092,463,1248,503"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_console.html#a08a6a59af924fde47f10ba2f702a1c9d" title="Handle enter pressed on the line edit." coords="1073,335,1267,375"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_file_selector.html#ac7c4c01759f09d23dd856c71a2cc1655" title="Enter a directory or confirm a file. Return true if a directory entered." coords="427,239,569,279"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_file_selector.html#a14da1edca50b30aff0b7b763e2f0ce33" title="Handle cancel button pressed." coords="419,405,577,445"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_file_selector.html#a372b507fb35782c00d99ded29d4610f0" title="Handle filter changed." coords="628,115,779,155"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_file_selector.html#a7c152fd3654baa5f7a75ccbb1366b931" title="Handle OK button pressed." coords="212,10,355,50"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_file_selector.html#a8ec8d229ef0e2a4836634e01e96803a7" title="Refresh the directory listing." coords="847,179,989,219"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_file_selector.html#a8f0352bf675048a625d1b8e5ae2ce8ea" title="Set filters." coords="632,294,775,334"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_file_selector.html#a004ed41fadc3029706a35857268bfdaf" title="Handle file doubleclicked from the list (enter directory / OK the file selection)." coords="196,226,371,266"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_file_selector.html#a5315d211e3108ad4012c648d1cbd3b6a" title="Handle file list key pressed." coords="212,290,355,330"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_file_selector.html#ae0e66de218b839be46c7f802abf04c80" title="Construct." coords="5,198,148,238"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_file_selector.html#a70224d0b3a485fd4aab57cc6b9af1c6f" title=" " coords="632,179,775,219"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_file_selector.html#ac07a78273e7db4a6d4ab33d807c072f7" title="Handle path edited." coords="424,175,572,215"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_console.html#afa65f6eacc596b544de5b0c3bc1a3d55" title="Construct." coords="829,409,1007,435"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_drop_down_list.html#aea48d30276bbf2cac5a224fc2ac78515" title="Construct." coords="625,487,781,527"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_drop_down_list.html#a08725a9905a00fbcef08966a480aa135" title="Handle a key press from the listview." coords="840,517,996,557"/>
+</map>

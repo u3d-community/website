@@ -1,0 +1,4 @@
+<map id="Urho3D::ParticleEmitter2D::OnDrawOrderChanged" name="Urho3D::ParticleEmitter2D::OnDrawOrderChanged">
+<area shape="rect" id="node1" title="Handle draw order changed." coords="5,5,173,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable2_d.html#ac5ec05da88c587e159dcbed6633ea653" title="Return draw order by layer and order in layer." coords="221,5,364,45"/>
+</map>

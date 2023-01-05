@@ -1,0 +1,16 @@
+<map id="Urho3D::RibbonTrail::Update" name="Urho3D::RibbonTrail::Update">
+<area shape="rect" id="node1" title="Update before octree reinsertion. Is called from a main thread." coords="5,101,143,141"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html#a04a978441415a93f044721f6473df0e3" title="Handle node transform being dirtied." coords="191,43,385,83"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_drawable.html#ae865f6d21de70fd7bc95a7207d694b88" title="Update before octree reinsertion. Is called from a worker thread." coords="201,108,375,133"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_ribbon_trail.html#a8ba0edb45a15578b55595a3c9245d031" title="Update/Rebuild tail mesh only if position changed (called by UpdateBatches())." coords="219,158,357,198"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_octant.html#a7c998cf647fa3ba6fc98d05a9a04dc9d" title="Return octree root." coords="459,5,624,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_octree.html#a578eb27fbff722b23eecfd03ef0e5571" title="Mark drawable object as requiring an update and a reinsertion." coords="443,55,639,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="715,15,863,55"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#a5a3132086218d7b7e6d8f3ccd50f7249" title="Return threaded update flag." coords="697,79,880,119"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#ad3742cda838a2b291daa44d3ab00de56" title=" " coords="928,23,1096,48"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a1bc658c7b719ce21531882df362ea958" title=" " coords="457,112,626,137"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="433,161,649,187"/>
+<area shape="rect" id="node12" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="492,235,591,260"/>
+<area shape="rect" id="node13" href="$_math_defs_8h.html#aabc352ef555bbe69733d76b2c4c45d06" title=" " coords="468,308,615,333"/>
+<area shape="rect" id="node14" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="733,308,844,333"/>
+</map>

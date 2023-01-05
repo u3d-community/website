@@ -1,0 +1,5 @@
+<map id="Urho3D::UIElement::ApplyAttributes" name="Urho3D::UIElement::ApplyAttributes">
+<area shape="rect" id="node1" title="Apply attribute changes that can not be applied immediately." coords="223,35,363,75"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scroll_view.html#af3d4f9cec7657b36a06ff4511a88cefd" title="Apply attribute changes that can not be applied immediately." coords="23,5,157,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_menu.html#a00efa90d9d6a5023541fffd71a38a984" title="Load from XML data with style. Return true if successful." coords="5,70,175,95"/>
+</map>

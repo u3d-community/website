@@ -1,0 +1,6 @@
+<map id="Urho3D::CustomVariantValueImpl::Compare" name="Urho3D::CustomVariantValueImpl::Compare">
+<area shape="rect" id="node1" title="Compare to another custom value." coords="5,37,199,77"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_custom_variant_value_traits.html#a5ef7c9d0c9aab27f816f9edaeeb51ad5" title="Compare types." coords="247,5,440,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_custom_variant_value.html#a5f17b363eda2c0e387a9d16aa6b74c9b" title="Return pointer to value of the specified type. Return null pointer if type does not match." coords="247,69,440,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_custom_variant_value_impl.html#a492eabeaffdb70c079553a8096f51d0b" title="Get value." coords="488,69,681,109"/>
+</map>

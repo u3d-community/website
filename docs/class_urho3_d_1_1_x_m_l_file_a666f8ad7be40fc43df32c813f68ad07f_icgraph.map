@@ -1,0 +1,7 @@
+<map id="Urho3D::XMLFile::Save" name="Urho3D::XMLFile::Save">
+<area shape="rect" id="node1" title="Save resource with default indentation (one tab). Return true if successful." coords="224,109,379,134"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object_animation.html#afced8f1fb7812b395e4d2b7db94e046a" title="Save resource. Return true if successful." coords="5,5,176,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_value_animation.html#ad4b9ad26ed97281b82c9aa862806c83e" title="Save resource. Return true if successful." coords="8,69,173,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_particle_effect2_d.html#a787e6c47e1657a095821750a372ed37b" title="Save resource. Return true if successful." coords="7,133,174,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_shader_precache.html#aacd7319ad7fb136e8d7f3884e12fec87" title="Destruct. Write the collected shaders to XML." coords="6,197,175,237"/>
+</map>

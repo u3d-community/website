@@ -1,0 +1,27 @@
+<map id="Urho3D::BoundingBox::Size" name="Urho3D::BoundingBox::Size">
+<area shape="rect" id="node1" title=" " coords="1041,501,1192,541"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_octant.html#a666ad6843dbf9c4a7d151be1c74911fb" title="Check if a drawable object fits." coords="771,80,993,105"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_octant.html#a6304500141e75a6b6537a334d3922cec" title="Initialize bounding box." coords="799,180,965,205"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_view.html#a49001e64316a935b378b045fde2043a2" title="Check visibility of one shadow caster." coords="779,279,985,319"/>
+<area shape="rect" id="node12" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="804,229,960,255"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_bounding_box.html#a5ba8b6f96c6587ad5c70e8d01521ca28" title="Return transformed by a 3x4 matrix." coords="807,343,957,383"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_animated_model.html#a4ddbe87cb65a57aadbd52a611fccea8b" title="Update before octree reinsertion. Is called from a worker thread." coords="798,407,966,447"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_drawable.html#a4f1798df7e5a110d9c29ddd2e68df80b" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="795,471,969,511"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_view.html#a97f9dbaf8b51572832e0890af3e53e4b" title="Query for occluders as seen from a camera." coords="513,507,723,532"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_animated_model.html#a59fb5fdb95f5e8bfa3c3fbf1012eaf60" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="798,586,966,626"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_billboard_set.html#ae8d8caed716187e339f5e6488d25f156" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="811,650,953,690"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_decal_set.html#a738073327526ae29261d31019889bcb3" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="795,714,969,754"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_ribbon_trail.html#a3850bf25c57dcaf0a5cae5d02d3db045" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="813,778,951,818"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_static_model.html#ac59f46b979f0e586501f3b4e7689c284" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="810,842,954,882"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_static_model_group.html#a91aa25c17c0160a3673bb985190479af" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="793,906,971,946"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_octant.html#a2065c1ede777a63ec52954ca57a6de45" title="Insert a drawable object by checking for fit recursively." coords="515,29,721,55"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_octree.html#a56ad2ab6941f97453c66625bd8dad9da" title="Update and reinsert drawable objects." coords="281,80,439,105"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_drawable.html#adaacb5c93a02cfd9d662b167b0bae813" title="Add to octree." coords="255,29,465,55"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_octree.html#aa8eb76b6cb6ec002fd1687a001668222" title="Handle render update in case of headless execution." coords="5,73,207,113"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_octant.html#a45c74cdea87783c7b5e65e1d5559eaaa" title="Construct." coords="541,131,695,156"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_octree.html#af2145144805c864820bbdca1c637ca34" title="Set size and maximum subdivision levels. If octree is not empty, drawable objects will be temporarily..." coords="537,180,699,205"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_view.html#a7d398cea4906919b033f5fc86f67d764" title="Process shadow casters&#39; visibilities and build their combined view&#45; or projection&#45;space bounding box." coords="517,378,719,418"/>
+<area shape="rect" id="node13" href="$struct_urho3_d_1_1_batch.html#add3a46f1fc8c0dd490d0cc965bec2e5b" title="Prepare and draw." coords="547,229,689,255"/>
+<area shape="rect" id="node14" href="$struct_urho3_d_1_1_batch_group.html#ae44c18517fde1462221ddc7c7a1b2cd4" title="Prepare and draw." coords="547,279,689,319"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_view.html#a0cddca92d8a715b17404427840d201fb" title="Query the octree for drawable objects." coords="266,507,454,532"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Urho3D::NavAreaStub" name="Urho3D::NavAreaStub">
+<area shape="rect" id="node1" title="Navigation area stub." coords="6,288,155,313"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="5,200,156,225"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="21,51,140,77"/>
+</map>

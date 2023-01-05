@@ -1,0 +1,27 @@
+<map id="Urho3D::ScriptInstance" name="Urho3D::ScriptInstance">
+<area shape="rect" id="node1" title="Script object component." coords="1761,649,1919,675"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_component.html" title=" " coords="1490,267,1633,292"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="708,56,847,81"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="1140,288,1247,313"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="237,84,377,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="215,134,398,174"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_set.html" title=" " coords="222,198,391,238"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_base.html" title="Hash set/map base class." coords="5,768,139,793"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="188,5,425,60"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="449,779,635,819"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="920,838,1105,878"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_scene.html" title="Root scene node, represents the whole scene." coords="1507,356,1616,381"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="711,288,843,313"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_string.html" title="String class." coords="1140,432,1247,457"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="718,479,837,504"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_quaternion.html" title="Rotation represented as a four&#45;dimensional normalized vector." coords="709,567,846,592"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector.html" title=" " coords="659,106,896,146"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="236,539,377,564"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector.html" title=" " coords="677,170,878,210"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_vector.html" title=" " coords="694,617,861,657"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html" title=" " coords="1281,722,1448,762"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_script_event_listener.html" title="Interface class for allowing script objects or functions to subscribe to events." coords="685,681,870,707"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_script_file.html" title="Script file resource." coords="1130,631,1257,656"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1472,610,1651,650"/>
+<area shape="rect" id="node22" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="1129,581,1257,607"/>
+</map>

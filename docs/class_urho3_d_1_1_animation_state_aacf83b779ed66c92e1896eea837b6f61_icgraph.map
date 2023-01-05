@@ -1,0 +1,8 @@
+<map id="Urho3D::AnimationState::SetLayer" name="Urho3D::AnimationState::SetLayer">
+<area shape="rect" id="node1" title=" " coords="483,69,645,109"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animation_controller.html#a5d1adceee492a37666943e3ed92fd55a" title="Play an animation and set full target weight. Name must be the full resource name...." coords="244,5,435,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animation_controller.html#a064462b9ee840d2966e4fdfa5e7fdd3c" title="Set animation blending layer priority. Return true on success." coords="244,69,435,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animation_controller.html#aad167fe194c7966566523bca3d871331" title="Set animations attribute for network replication." coords="244,133,435,173"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animation_controller.html#a154c9679c306a39c42e97715301f7331" title="Play an animation, set full target weight and fade out all other animations on the same layer...." coords="5,5,196,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animation_controller.html#ab2f8aa461c4a24f1b8b9fb7b79083383" title=" " coords="5,133,196,173"/>
+</map>

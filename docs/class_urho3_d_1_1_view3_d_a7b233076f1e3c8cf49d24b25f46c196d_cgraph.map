@@ -1,0 +1,7 @@
+<map id="Urho3D::View3D::RegisterObject" name="Urho3D::View3D::RegisterObject">
+<area shape="rect" id="node1" title=" " coords="5,55,176,95"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view3_d.html#a05443947130236acae5af8b68052792b" title=" " coords="224,5,437,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_context.html#aa9b2cffef8d52fa18bfe533a2615a598" title="Register a factory for an object type." coords="244,55,417,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view3_d.html#aa9264b2d957319c70c8f933c5bb53942" title=" " coords="225,120,437,145"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_object_factory.html#a191ee9fd0ce7c127dfd92b2b9ae47709" title="Return type hash of objects created by this factory." coords="485,55,640,95"/>
+</map>

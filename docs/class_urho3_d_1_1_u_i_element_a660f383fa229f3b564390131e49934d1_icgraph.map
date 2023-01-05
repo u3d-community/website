@@ -1,0 +1,13 @@
+<map id="Urho3D::UIElement::SetMaxSize" name="Urho3D::UIElement::SetMaxSize">
+<area shape="rect" id="node1" title=" " coords="1131,101,1271,141"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#aa6fad1d07806bb3035f0759984b2afc1" title=" " coords="943,5,1083,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a9fa7546339360d06375e185289765d15" title=" " coords="943,69,1083,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_u_i_element.html#a5ca6f5ad3810ec5b1ed4c0e3adcf2b36" title="Set maximum size." coords="943,133,1083,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#a2f4e6c855f453d1c60f03bb186e60d32" title=" " coords="943,197,1083,237"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_console.html#aa78240b2be979065acb6b3dd39a71bba" title="Populate the command line interpreters that could handle the console command." coords="716,197,895,237"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_console.html#a1326b059443a666f16fbe89cb000c662" title=" " coords="483,205,668,230"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_console.html#a2da5b84e5872cbe7df7a7d5491eb09bd" title="Handle close button being pressed." coords="231,133,435,173"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_console.html#a20b0b2076b279c2fcb8ac02257c63722" title="Handle a log message." coords="237,197,429,237"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_console.html#a62a7add1a0c2dab1f2b0ed01691fed27" title="Toggle visibility." coords="249,262,416,287"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_console.html#afa65f6eacc596b544de5b0c3bc1a3d55" title="Construct." coords="5,173,183,198"/>
+</map>

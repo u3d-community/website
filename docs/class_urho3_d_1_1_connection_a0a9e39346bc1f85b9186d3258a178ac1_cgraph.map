@@ -1,0 +1,27 @@
+<map id="Urho3D::Connection::ProcessSceneUpdate" name="Urho3D::Connection::ProcessSceneUpdate">
+<area shape="rect" id="node1" title="Process a scene update message from the server. Called by Network." coords="5,649,160,689"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_serializable.html#a58f03d097b05420b50a9017f44a24593" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="247,67,387,107"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#ab23d77af7fe3350c1dcfec8281849ed3" title="Create a component to this node (with specified ID if provided)." coords="208,132,427,157"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="729,105,877,145"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="217,269,418,295"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_memory_buffer.html#a37531ed23897a74e61866b067d3d2abf" title="Return memory area." coords="238,319,397,359"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_deserializer.html#a29f095da2db6cf9e4c7e76365341466e" title=" " coords="246,383,389,423"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object.html#a4c7af660afc8467a99d1f17c8d099b3b" title=" " coords="236,448,399,473"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_connection.html#ab9c83a362d77dce88f60294d07c3a4aa" title=" " coords="247,498,387,538"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_serializable.html#aca892470b457612c0e96c57c134a616b" title="Read and apply a network delta update. Return true if attributes were changed." coords="247,562,387,602"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_deserializer.html#a4f7070a0dd21b4627e5603e1557efb0a" title="Read a variant." coords="507,619,649,659"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_serializable.html#ae6c88e100f5da55f2567098a96f8a759" title="Read and apply a network latest data update. Return true if attributes were changed." coords="236,677,399,717"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_deserializer.html#a508036fa8d83b204d775690a1dd8bc4a" title="Read a 24&#45;bit network object ID." coords="246,741,389,781"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_deserializer.html#a98b32d12ab5e2226b897521c4ddcfa45" title="Read a 32&#45;bit StringHash." coords="246,805,389,845"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_deserializer.html#a1798cf3925097557803752554b7b519f" title="Read a variable&#45;length encoded unsigned integer, which can use 29 bits maximum." coords="246,869,389,909"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_component.html#a9cb217364df06d4886bfba9d3aec3bed" title="Remove from the scene node. If no other shared pointer references exist, causes immediate deletion." coords="243,933,391,973"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_node.html#a926c3fc7ece12b5c4d0f9d05e54d8b56" title="Remove from the parent node. If no other shared pointer references exist, causes immediate deletion." coords="237,997,397,1023"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_p_o_d_vector.html#a90931bab46c47be9f1989f4ec86bd487" title="Resize the vector." coords="245,1047,389,1087"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_node.html#a70dad27412862b789eaadab43cb1fd0b" title="Set a user variable." coords="242,1112,393,1137"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_connection.html#a30a6d1fba95a44b4216bc9e89b16d3b3" title="Return an address:port string." coords="247,1162,387,1202"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_smoothed_transform.html#a35445b17dfcabb0deba9f1f697653296" title="Update smoothing." coords="219,1226,416,1266"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_node.html#a3792a0c2e23b120ac879c2931d6f9dc4" title="Add a pre&#45;created component. Using this function from application code is discouraged,..." coords="475,5,681,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_context.html#a26cfc48202f21e82e9ec8f1029d15ef3" title="Create an object by type. Return pointer to it or null if no factory found." coords="478,55,678,80"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a9db232116d4278bd3e10c365d2ef57d5" title=" " coords="486,104,670,129"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_string_hash.html#a444cf37ce746edd1e266a4ecca31c0c5" title="Return as string." coords="509,154,647,194"/>
+</map>

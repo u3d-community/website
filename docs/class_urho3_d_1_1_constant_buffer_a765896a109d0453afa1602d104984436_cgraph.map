@@ -1,0 +1,5 @@
+<map id="Urho3D::ConstantBuffer::Release" name="Urho3D::ConstantBuffer::Release">
+<area shape="rect" id="node1" title="Release the buffer." coords="5,5,168,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_shared_array_ptr.html#a5f621b62e29d89c1d29f1c2089932bd5" title="Reset to null and release the array reference." coords="216,5,379,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_shared_array_ptr.html#a4fe651dd5116bb958bd304858c5f3a35" title="Release the array reference and delete it and the RefCount structure if necessary." coords="427,5,589,45"/>
+</map>

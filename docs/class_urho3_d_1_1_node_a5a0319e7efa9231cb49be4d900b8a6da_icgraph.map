@@ -1,0 +1,8 @@
+<map id="Urho3D::Node::GetScale" name="Urho3D::Node::GetScale">
+<area shape="rect" id="node1" title=" " coords="672,74,836,99"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animation_state.html#a2618e6f947c1a9be664b370cfaf27c09" title="Apply track." coords="444,37,607,77"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a0bf5b40b97dc36a8b39370aee92ccd9d" title=" " coords="427,102,624,127"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animation_state.html#a09d3f8acf5b318a2a5ad9f1816a1073c" title="Apply animation to a skeleton. Transform changes are applied silently, so the model needs to dirty it..." coords="216,5,379,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animation_state.html#a4ebbb3962edd5a28f17fc54151a341e4" title="Apply animation to a scene node hierarchy." coords="216,69,379,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animation_state.html#ae662a588f71a9adfb4aea3162bb2a742" title="Apply the animation at the current time position." coords="5,37,168,77"/>
+</map>

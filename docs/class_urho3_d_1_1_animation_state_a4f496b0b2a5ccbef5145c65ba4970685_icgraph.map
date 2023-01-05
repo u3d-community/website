@@ -1,0 +1,15 @@
+<map id="Urho3D::AnimationState::GetTime" name="Urho3D::AnimationState::GetTime">
+<area shape="rect" id="node1" title=" " coords="969,191,1132,231"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animation_state.html#a7ae6a442fb5681d75cefe81ebbad19e8" title="Modify time position. Animation triggers will be fired." coords="740,12,903,52"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animation_controller.html#a4883f39485a8da9bf5488101c3a99875" title="Update the animations. Is called from HandleScenePostUpdate()." coords="483,37,673,77"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_animated_model.html#ad6565526b105f5f944fab8791e7f834a" title="Return animation states attribute." coords="737,127,905,167"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_animation_controller.html#a49f3ed3e46d53d9007dcfceb767ceb1d" title="Return node animation states attribute." coords="721,191,921,231"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_animation_controller.html#abbea3af4ffbbab236bd7dd4e9aa043a7" title="Return animation time position." coords="726,255,917,295"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_animation_controller.html#a87044736b084534cba9830499e591044" title="Return whether an animation is at its end. Will return false if the animation is not active at all." coords="726,319,917,359"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_animation_controller.html#a8d80960d45fa70e266cabbc6fa835848" title="Return whether an animation is fading out." coords="726,383,917,423"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animation_controller.html#abe3fe1fb76d6500d50c5c58af6048a9c" title="Handle scene post&#45;update event." coords="244,37,435,77"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animation_controller.html#a6c13fabcbc9319fdfe14a83e87b42d2d" title="Handle scene being assigned." coords="5,5,196,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_animation_controller.html#aa54134ff4083cc5d722a300011002b8f" title="Handle enabled/disabled state change." coords="5,69,196,109"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_animated_model.html#a76a01a86a9b1bcca181bfe91ae0e4a95" title=" " coords="494,127,662,167"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_animation_controller.html#ab2f8aa461c4a24f1b8b9fb7b79083383" title=" " coords="483,191,673,231"/>
+</map>

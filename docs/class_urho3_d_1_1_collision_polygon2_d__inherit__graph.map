@@ -1,0 +1,9 @@
+<map id="Urho3D::CollisionPolygon2D" name="Urho3D::CollisionPolygon2D">
+<area shape="rect" id="node1" title="2D polygon collision component." coords="5,445,192,471"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_collision_shape2_d.html" title="2D collision shape component." coords="11,372,187,397"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="27,299,170,324"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="29,225,168,251"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="29,152,169,177"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_object.html" title=" " coords="43,79,154,104"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="27,5,170,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Urho3D::HttpRequest::GetAvailableSize" name="Urho3D::HttpRequest::GetAvailableSize">
+<area shape="rect" id="node1" title=" " coords="5,5,152,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_http_request.html#a0675bbd9729a91706692b17673694cde" title="Check for available read data in buffer and whether end has been reached. Must only be called when th..." coords="200,5,385,45"/>
+</map>

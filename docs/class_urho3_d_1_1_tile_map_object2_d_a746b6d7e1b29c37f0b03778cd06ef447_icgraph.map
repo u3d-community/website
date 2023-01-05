@@ -1,0 +1,9 @@
+<map id="Urho3D::TileMapObject2D::GetObjectType" name="Urho3D::TileMapObject2D::GetObjectType">
+<area shape="rect" id="node1" title=" " coords="1009,37,1183,77"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_tile_map_layer2_d.html#aef0b04647bec35d267d982bf2439f81a" title="Add debug geometry to the debug renderer." coords="793,5,961,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_tile_map_layer2_d.html#a221b4a18e40c7d127ba79a4a417cc6d0" title="Set object group." coords="793,69,961,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_tile_map_layer2_d.html#a54b4cdcb017c10ea0d4a0e92a708f5b0" title="Initialize with tile map and tmx layer." coords="577,69,745,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_tile_map2_d.html#a6214ad04240021eaed58d71e25081bed" title=" " coords="387,69,529,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_tile_map2_d.html#a865be4dc3189f887cad580a108d42768" title="Set tile map file attribute." coords="196,69,339,109"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_tile_map2_d.html#a0d9c48fb509acdd122e14c12bedf1ff5" title=" " coords="5,69,148,109"/>
+</map>

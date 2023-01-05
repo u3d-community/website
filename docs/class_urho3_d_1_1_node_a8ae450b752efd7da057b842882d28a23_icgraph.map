@@ -1,0 +1,27 @@
+<map id="Urho3D::Node::GetWorldScale" name="Urho3D::Node::GetWorldScale">
+<area shape="rect" id="node1" title=" " coords="460,681,660,706"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#ae96147f96c4694884d56a1f527e15f55" title="Allocate the navigation mesh without building any tiles. Bounding box is not padded...." coords="229,5,397,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a2b7ade339dad6d4a0360e5c5aff707dc" title="Allocate the navigation mesh without building any tiles. Bounding box is not padded...." coords="219,69,406,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_constraint.html#a83814fcb7cbae0372f386b96d969cabd" title="Apply constraint frames." coords="246,184,379,224"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_constraint.html#af98cd9b392064a8305a4aa29787b46af" title="Handle node transform being dirtied." coords="19,124,152,164"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_navigation_mesh.html#a38f762e87f10300096e08666fbafb443" title="Rebuild the navigation mesh. Return true if successful." coords="229,248,397,288"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#ac50303ab43f4c6b1b19867e6a3389af3" title="Build/rebuild the entire navigation mesh." coords="219,312,406,352"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_text3_d.html#aa77a802e886bfb646350e8d0a0a70958" title="Recalculate camera facing and fixed screen size." coords="225,376,400,416"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_physics_world.html#a7ab7f0188c08871f864e9b2df37e1692" title="Perform a physics world swept convex test using a user&#45;supplied collision shape and return the first ..." coords="235,464,390,504"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_constraint.html#ac35c8dbd49e89d58bd3a27b7dcd050d1" title="Create the constraint." coords="246,552,379,592"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_collision_shape.html#a603207bf68d4a4ed1bdecd8430fa1568" title="Visualize the component as debug geometry." coords="233,616,393,656"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_terrain.html#a95868faa09f0c2ce2d51aa8021c3ddbf" title="Return height at world coordinates." coords="224,681,401,706"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_collision_shape.html#a91f197c52c26622c4d06b50cba5b7d54" title=" " coords="232,731,393,771"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_collision_shape.html#a8cfe09cb27ec041dedcd92a69293bcbc" title="Update the new collision shape to the RigidBody." coords="233,795,393,835"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_collision_shape.html#a61df21132c5462e779a85b7c0ebf2fad" title="Handle node transform being dirtied." coords="5,823,165,863"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_collision_shape.html#a5c1e0baeb586e2e3edad2c7b7872fe4d" title="Handle node being assigned." coords="233,909,393,949"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_constraint.html#add04d343e4a403b0d105d577d85ad26f" title="Handle node being assigned." coords="246,973,379,1013"/>
+<area shape="rect" id="node21" href="$struct_urho3_d_1_1_batch.html#ad8794a08ef43585f0c54aebf11f39e11" title="Prepare for rendering." coords="235,1038,391,1063"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_node.html#a88196c33c41b9f1aa96c359a6d4e9009" title=" " coords="213,1087,412,1113"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_particle_emitter.html#a482ed0bdc3327f8c7c5e856e4e39a812" title="Update before octree reinsertion. Is called from a worker thread." coords="233,1137,393,1177"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_particle_emitter2_d.html#a59d6b326bcbe8273a103208935845cef" title="Update." coords="229,1201,396,1241"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_collision_shape.html#a5ecb900b219e57ddf9696a1fb194f33a" title="Update the collision shape after attribute changes." coords="233,1265,393,1305"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_constraint.html#a8c9d37e56291499492b0dfdb90a6d841" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="19,436,152,476"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_constraint.html#a4ed9f415e1d759a99d02463a472033b4" title=" " coords="19,188,152,228"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_constraint.html#a3e1e4103e5778593dccbfc4eafed0119" title=" " coords="19,252,152,292"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Urho3D::Drawable::GetZoneMask" name="Urho3D::Drawable::GetZoneMask">
+<area shape="rect" id="node1" title=" " coords="248,63,464,88"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_view.html#ae6b753dabd0921ef05ce5d73b75c6209" title="Find and set a new zone for a drawable when it has moved." coords="21,5,184,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_drawable.html#a0c55d674395bb9f743dca395480eff0a" title=" " coords="12,55,193,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_zone.html#acb708c5f00f97b7692887853b6c281b3" title=" " coords="5,120,200,145"/>
+</map>

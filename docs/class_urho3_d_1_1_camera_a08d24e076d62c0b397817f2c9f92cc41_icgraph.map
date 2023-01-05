@@ -1,0 +1,27 @@
+<map id="Urho3D::Camera::GetEffectiveWorldTransform" name="Urho3D::Camera::GetEffectiveWorldTransform">
+<area shape="rect" id="node1" title=" " coords="1020,784,1215,824"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_camera.html#a1edcc9f8a61ae07bd15bba96ee079d32" title=" " coords="503,163,697,189"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_light.html#a2ac64042dfe3354b9be2663ea63ec4da" title="Return a transform for deferred fullscreen quad (directional light) rendering." coords="773,848,960,888"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_renderer.html#a408789b2d93f27c7884360b7ecccec55" title="Optimize a light by marking it to the stencil buffer and setting a stencil test." coords="245,848,429,888"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_camera.html#abf6c369a0b6c33979d21efd080439ef6" title="Return frustum split by custom near and far clip distances." coords="781,48,952,88"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_camera.html#a86a2e6d78d0ac6c20e043ada2f573401" title=" " coords="780,434,953,459"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_view.html#afe8c414e896c0d06ee17ed18e5ce85dd" title="Set camera&#45;specific shader parameters. Called by Batch and internally by View." coords="493,784,707,824"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_skybox.html#a6d2fcb14f15a571751bf9ee41c62b826" title="Calculate distance and prepare batches for rendering. May be called from worker thread(s),..." coords="761,1014,972,1039"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_camera.html#a35b2f97c4a3370a26b10ff133f86d2fa" title="Visualize the component as debug geometry." coords="241,120,433,160"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_view.html#ae6b753dabd0921ef05ce5d73b75c6209" title="Find and set a new zone for a drawable when it has moved." coords="256,70,419,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_view.html#a0cddca92d8a715b17404427840d201fb" title="Query the octree for drawable objects." coords="243,259,431,285"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="5,99,188,125"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_view.html#a7d398cea4906919b033f5fc86f67d764" title="Process shadow casters&#39; visibilities and build their combined view&#45; or projection&#45;space bounding box." coords="236,5,439,45"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_debug_renderer.html#a65ddc45de33de57b41a9889fdce2363c" title="Set the camera viewpoint. Call before rendering, or before adding geometry if you want to use culling..." coords="256,309,419,349"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_view.html#a9f5a7068310ea03c58673eb5add7db21" title="Draw a fullscreen quad. Shaders and renderstates must have been set beforehand. Quad will be drawn to..." coords="487,913,713,938"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_light.html#a3b3648ecb50a410286b5be3b9fa4ddfc" title="Return light volume model transform." coords="514,848,686,888"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_view.html#ad5d5472594f2048969af6ea296e843e5" title="Set up a directional light shadow camera." coords="507,48,693,88"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_billboard_set.html#a89ce2a7854fe70aa88e94e709ff1cd01" title="Calculate billboard scale factors in fixed screen size mode." coords="511,363,689,403"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_text3_d.html#aa77a802e886bfb646350e8d0a0a70958" title="Recalculate camera facing and fixed screen size." coords="513,427,687,467"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_view.html#a2dd8e9237f495ba4ec4a69b195988cfa" title="Execute render commands." coords="503,491,697,531"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_camera.html#adc14322198c5fd70f75ed8a739212e54" title="Return distance to position. In orthographic mode uses only Z coordinate." coords="502,262,698,287"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_camera.html#a68a03b28634de2c029279eb3105b5a3e" title="Return squared distance to position. In orthographic mode uses only Z coordinate." coords="502,555,698,595"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_renderer.html#a3f4c5f6c7f7490e74f15349dc16a6c69" title="Return a scissor rectangle for a light." coords="510,619,690,659"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_camera.html#a653cf41d95901dc68abdc463b4b3d5fc" title="Return ray corresponding to normalized screen coordinates (0 &#45; 1), with origin on the near clip plane..." coords="497,683,703,709"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_renderer.html#a7d4509e32b17bff5f3069f8fe6fd448d" title="Allocate a shadow map. If shadow map reuse is disabled, a different map is returned each time." coords="487,213,713,238"/>
+</map>

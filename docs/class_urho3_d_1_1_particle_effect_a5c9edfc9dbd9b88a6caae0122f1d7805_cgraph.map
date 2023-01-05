@@ -1,0 +1,8 @@
+<map id="Urho3D::ParticleEffect::EndLoad" name="Urho3D::ParticleEffect::EndLoad">
+<area shape="rect" id="node1" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="5,47,156,87"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_string.html#ac6f0b2fb0bce5afbeb088c7cb15abbe1" title="Clear the string." coords="207,5,351,31"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="204,55,355,80"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_particle_effect.html#ac365cce2799ec135da82b71cdedc3b43" title=" " coords="204,105,355,145"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#aed2d8d23da6f2403c7aaa20082036f88" title="Resize the string." coords="403,5,555,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_string.html#a953822d6a39e507861ee02a24bb7996e" title="Copy chars from one buffer to another." coords="603,5,781,31"/>
+</map>

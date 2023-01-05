@@ -1,0 +1,27 @@
+<map id="Urho3D::Technique::BeginLoad" name="Urho3D::Technique::BeginLoad">
+<area shape="rect" id="node1" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="5,609,144,649"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_technique.html#ac62a7bc29ffdb55f118c4cbcae8f607b" title="Create a new pass." coords="233,5,372,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_resource.html#a965ad58111e131f7725edec44358c75e" title="Set memory use in bytes, possibly approximate." coords="461,70,688,95"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="736,363,892,389"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="227,171,378,197"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_x_m_l_element.html#a6de3d4f87f59ced8e52fa31f3a83873c" title="Return attribute, or empty if missing." coords="501,268,649,308"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_x_m_l_element.html#a92036a0cb99ae57618057338d1145f38" title="Return attribute in lowercase, or empty if missing." coords="229,272,377,312"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_x_m_l_element.html#a2451ba18a17d36d2c6e9b1ef94979198" title="Return bool attribute, or false if missing." coords="229,336,377,376"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_x_m_l_element.html#abb0379163b8d534a37e24740a4e0cd0f" title="Return child element, or null if missing." coords="501,356,649,396"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_x_m_l_element.html#a9aafd5a9e7302bcda8cf64b0664b588b" title="Return next sibling element." coords="501,444,649,484"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_x_m_l_element.html#ac0e88c8f1412e65469cc4ebc9457f8ee" title="Return whether has an attribute." coords="501,532,649,572"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_pass.html#a22c03384267d119be7d483b295b82e3e" title=" " coords="215,552,390,592"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_pass.html#a653f75abd5e2aa50e90db33dbe24f3ed" title=" " coords="205,617,400,642"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_pass.html#a7fc70e5e80c98248f1f0d9cbd1758c98" title=" " coords="211,666,395,691"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_pass.html#a8282bea0388aae89ca9c3690fc0d749b" title=" " coords="192,715,413,741"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_pass.html#a741fe35541b1496c43dfab33d45e70bb" title=" " coords="207,765,399,790"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_pass.html#ae5b3030deadc08d49f537670563d875b" title=" " coords="209,814,396,839"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_pass.html#ac3a13909c2a3f5d1bd1dd47c0a6499d1" title=" " coords="199,863,406,889"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_pass.html#a4e3ae893279a7b7a613a3022258b80c5" title=" " coords="205,913,401,938"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_pass.html#a69f6ca5912cfc23b59c499b80efb748f" title=" " coords="205,963,401,1003"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_pass.html#abbfd320cfa476337a116391859a0c053" title=" " coords="205,1027,401,1067"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_pass.html#a30446a09f9bba7a2d798611253d97d74" title=" " coords="199,1091,406,1117"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_pass.html#a7ed8083cf1d9cc266eba3c45e9056dfb" title=" " coords="199,1141,406,1181"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_pass.html#a8a40711bea48c8aa343253aa13a7a4b7" title=" " coords="199,1205,406,1245"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_technique.html#ab057594403d9ff53c0038014a369348b" title=" " coords="505,5,644,45"/>
+</map>

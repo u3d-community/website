@@ -1,0 +1,27 @@
+<map id="Urho3D::Component::SaveJSON" name="Urho3D::Component::SaveJSON">
+<area shape="rect" id="node1" title="Save as JSON data. Return true if successful." coords="5,250,153,290"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html#aa70436408fab29ff5d6ea54fa1e09b9b" title=" " coords="813,817,1012,843"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animatable.html#aa84286f8bf8adc7a1abf03bf36838db9" title="Save as JSON data. Return true if successful." coords="201,250,340,290"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_j_s_o_n_value.html#abaa12eb8d43333b563bdb559774c8365" title="Set JSON value with key." coords="601,5,765,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_value_animation.html#afd9ee2195ab1501547c5699a9f224d30" title="Return owner." coords="388,250,553,290"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_j_s_o_n_value.html#aacdaf3f95f89a12fe832bfe6f6699689" title=" " coords="840,329,985,369"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_serializable.html#a7319eee017bad624295be2f2a6c351f1" title="Save as JSON data. Return true if successful." coords="401,529,541,569"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_value_animation.html#a8669b6494851ffe6004350c5618b5f75" title="Save as XML data. Return true if successful." coords="388,163,553,203"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector.html#a253629ba660641c388bb0bf050b0cd3e" title="Return element at index." coords="847,557,978,583"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_serializable.html#a48b7ab5369b91ff7b7e47c83347963d8" title=" " coords="613,666,753,706"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_serializable.html#a7e18871871feb97ee7cfb637e9b3e090" title="Return attribute descriptions, or null if none defined." coords="843,727,983,767"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="841,613,984,639"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_variant.html#a61ad89a11dde2836cc8d21565b694361" title="Return int or zero on type mismatch. Floats and doubles are converted." coords="835,508,990,533"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_serializable.html#a18c5041e406e9df1ff04ac9b31733661" title="Handle attribute read access. Default implementation reads the variable at offset,..." coords="613,781,753,821"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_serializable.html#a6b41d88d2fd2b8c6e67968820828faea" title="Return whether should save default&#45;valued attributes into XML. Default false." coords="606,437,761,477"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_j_s_o_n_value.html#a884b1e10484fc8c46fbe04d64943473c" title="Set variant value, context must provide for resource ref." coords="611,501,756,541"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="1060,403,1215,428"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_serializable.html#a946b490fe2b64108853e8ad08964bb3f" title="Get instance&#45;level default value." coords="843,663,983,703"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_j_s_o_n_value.html#aaa39b31173d0e0dd2021de34b08cc4a0" title="Set value type and number type, internal function." coords="1065,27,1210,67"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_j_s_o_n_value.html#a7f87ac739ce187f929cd61ccd642802b" title=" " coords="1263,27,1408,67"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_j_s_o_n_value.html#afac212769a26ea44e530739207a67db2" title="Set variant map, context must provide for resource ref." coords="840,55,985,95"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="610,171,757,196"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_vector.html#a30b2235d2061acfb649faa5afddebb69" title="Set new capacity." coords="830,249,995,275"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_j_s_o_n_value.html#a80c79eecad170464d49770972271564e" title="Set variant, context must provide for resource ref." coords="611,271,756,311"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_string_hash.html#a45cb23f483d73b40b2dc825e395ac4e9" title=" " coords="614,106,753,146"/>
+</map>

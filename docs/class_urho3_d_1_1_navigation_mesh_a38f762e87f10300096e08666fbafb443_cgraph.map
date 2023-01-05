@@ -1,0 +1,27 @@
+<map id="Urho3D::NavigationMesh::Build" name="Urho3D::NavigationMesh::Build">
+<area shape="rect" id="node1" title="Rebuild the navigation mesh. Return true if successful." coords="5,723,173,763"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#ab649eee713babaa030e62c423da0e5f8" title="Build tiles in the rectangular area. Return number of built tiles." coords="237,231,405,271"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_object.html#a8bd9b32c8a56c2f6d618d8afe8091eb7" title="Return execution context." coords="748,15,931,41"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="751,91,927,131"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="751,466,928,491"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_navigation_mesh.html#a841b7dc758f63dcec5908322d5fa0895" title="Collect geometry from under Navigable components." coords="237,419,405,459"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_vector.html#a83b3a48f0d5d0aae79aa6b6304cde595" title="Return whether vector is empty." coords="244,651,399,677"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_vector3.html#a33cac219f3eab4ffe4d3d5effdde33e0" title="Test for equality with another vector with epsilon." coords="239,701,403,726"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_navigation_mesh.html#a457723c37e169fd979943b40ee237542" title=" " coords="237,751,405,791"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="221,815,421,841"/>
+<area shape="rect" id="node21" href="$_math_defs_8h.html#aa40930b7b71e52ee4d2562ba58a63317" title="Return log base two or the MSB position of the given value." coords="246,889,397,914"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_bounding_box.html#a4befcf3c67e94eb2f1924e1179b09bd2" title="Merge a point." coords="246,939,397,979"/>
+<area shape="rect" id="node23" href="$_math_defs_8h.html#a40d33200d2bcbe345b556045ca344b29" title="Round up to next power of two." coords="232,1027,411,1053"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_navigation_mesh.html#a8697f7700e19448df268ebe330e13d12" title="Release the navigation mesh and the query." coords="237,1077,406,1117"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_vector.html#a5da7101c355895f41098fcf875e4c56a" title="Return size of vector." coords="250,1142,393,1167"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_navigation_mesh.html#a602be9b482a0a9b7917bb13fd3b02cbf" title="Build one tile of the navigation mesh. Return true if successful." coords="501,103,669,143"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_component.html#ada751ff77fe3e5bc417db31cfebc0df8" title=" " coords="765,247,913,287"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#a33c8b46fb4ba500ad71dbf7f2652066f" title="Return all components." coords="481,397,689,422"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_off_mesh_connection.html#a2e74719297b1b8ee935030e03d89eff7" title=" " coords="489,447,681,487"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_off_mesh_connection.html#a21ff30a5418629eebed6d4cacf1cc271" title=" " coords="489,511,681,551"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_nav_area.html#ad620b0ac7226713e990694cb1e75b6a3" title=" " coords="492,575,677,615"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="469,639,700,665"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="515,167,654,207"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_component.html#aafa7952d0f225edde3387da0c91a9356" title=" " coords="511,231,659,271"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_vector.html#a083b39861b996df82f811a9a4ebff109" title="Add an element at the end." coords="511,295,658,321"/>
+</map>

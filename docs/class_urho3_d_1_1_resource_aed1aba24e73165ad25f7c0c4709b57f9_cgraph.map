@@ -1,0 +1,6 @@
+<map id="Urho3D::Resource::GetUseTimer" name="Urho3D::Resource::GetUseTimer">
+<area shape="rect" id="node1" title=" " coords="5,55,183,95"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_timer.html#a22dac8a7c8bda20a7e2355618c3a1418" title="Return elapsed milliseconds and optionally reset." coords="231,5,399,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html#a7e764b1f4b072a1a0dbfaeac62626244" title=" " coords="243,55,386,95"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_timer.html#a4cb8d7b146c6a0b136a02c9a01d8d8c1" title="Reset the timer." coords="241,120,388,145"/>
+</map>

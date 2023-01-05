@@ -1,0 +1,9 @@
+<map id="Urho3D::Light::OnWorldBoundingBoxUpdate" name="Urho3D::Light::OnWorldBoundingBoxUpdate">
+<area shape="rect" id="node1" title="Recalculate the world&#45;space bounding box." coords="5,70,220,110"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_bounding_box.html#afd34713236804d7207ce7fd709e99db9" title="Define from another bounding box." coords="281,13,431,53"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_light.html#aa5c17d7cb70fee936e42171baaa1aadd" title=" " coords="268,77,444,103"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="493,128,709,153"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_frustum.html#ae3bb6685c4a3500651952fe03e6442ae" title="Define with projection parameters and a transform matrix." coords="518,29,683,55"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#ad74175e15dfaa86263299e355a2d49ed" title=" " coords="492,79,709,104"/>
+<area shape="rect" id="node5" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="757,29,856,55"/>
+</map>

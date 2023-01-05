@@ -1,0 +1,7 @@
+<map id="Urho3D::UIElement::IsWithinScissor" name="Urho3D::UIElement::IsWithinScissor">
+<area shape="rect" id="node1" title="Return whether is visible and inside a scissor rectangle and should be rendered." coords="5,93,145,133"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#a74426efba577c8b92f7b49c307d7a446" title=" " coords="193,5,333,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a031e2acb1765a940b9427003cb8653d7" title=" " coords="193,93,333,133"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_u_i_element.html#a8c3df9a7b24aa874345db797a95e130e" title=" " coords="193,157,333,197"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="381,101,480,126"/>
+</map>

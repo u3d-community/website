@@ -1,0 +1,14 @@
+<map id="Urho3D::ParticleEffect2D::Save" name="Urho3D::ParticleEffect2D::Save">
+<area shape="rect" id="node1" title="Save resource. Return true if successful." coords="5,216,172,256"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_x_m_l_element.html#af8968bd1a431788069818955496490d7" title="Create a child element." coords="435,120,583,160"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_x_m_l_file.html#a749db4388da1420917188fda2e01cec8" title="Clear the document and create a root element." coords="631,314,823,339"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_x_m_l_file.html#a666f8ad7be40fc43df32c813f68ad07f" title="Save resource with default indentation (one tab). Return true if successful." coords="226,438,381,463"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_x_m_l_element.html#ae8956473bc7d5907f82a4b4b2533a051" title="Set an attribute." coords="653,201,801,241"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_particle_effect2_d.html#ac3d96ea843960b0d2f4266a910237f45" title="Write Color." coords="220,120,387,160"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_particle_effect2_d.html#a25a14b0fa91e45e8e84924b3615b47e3" title="Write float." coords="220,184,387,224"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_particle_effect2_d.html#a752682f620988ab638d0a5f3cc127f03" title="Write integer." coords="220,5,387,45"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_particle_effect2_d.html#a3fbe3c0f7b100182f94667751fa61009" title="Write Vector2." coords="220,248,387,288"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="871,209,1027,234"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_x_m_l_element.html#ad22d73e151580d42f4486feec1c58a06" title="Set a float attribute." coords="435,192,583,232"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_x_m_l_element.html#ac01095ae8ee7304ea5de928fb53b0092" title="Set an integer attribute." coords="435,19,583,59"/>
+</map>

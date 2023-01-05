@@ -1,0 +1,10 @@
+<map id="Urho3D::Terrain::GetHeight" name="Urho3D::Terrain::GetHeight">
+<area shape="rect" id="node1" title="Return height at world coordinates." coords="5,153,183,179"/>
+<area shape="rect" id="node2" href="$_math_defs_8h.html#a1addf32ffcf84cac95ca33a7d0bd8bc8" title=" " coords="295,29,397,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_terrain.html#a0acc8a5be52b65ae25545069980368a6" title="Return an uninterpolated terrain height value, clamping to edges." coords="245,79,447,104"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="238,128,454,153"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a8ae450b752efd7da057b842882d28a23" title=" " coords="246,177,446,203"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#a2eb3e2cda5c98b2a92d95fcca8e43fbb" title=" " coords="231,227,461,252"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_matrix3x4.html#a8d184f29d81512103ed020bc0da8a69b" title="Return inverse." coords="277,277,415,317"/>
+<area shape="rect" id="node4" href="$_math_defs_8h.html#a937fef228b452d2488ce13d78f0bd810" title=" " coords="509,79,620,104"/>
+</map>

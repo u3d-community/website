@@ -1,0 +1,7 @@
+<map id="Urho3D::CeilToInt" name="Urho3D::CeilToInt">
+<area shape="rect" id="node1" title=" " coords="661,45,787,70"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_navigation_mesh.html#a602be9b482a0a9b7917bb13fd3b02cbf" title="Build one tile of the navigation mesh. Return true if successful." coords="441,5,609,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_physics_world.html#a75aa1ba5ef79934fa5933e9fc2a0516c" title=" " coords="437,69,613,109"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_navigation_mesh.html#ab649eee713babaa030e62c423da0e5f8" title="Build tiles in the rectangular area. Return number of built tiles." coords="221,5,389,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_navigation_mesh.html#a38f762e87f10300096e08666fbafb443" title="Rebuild the navigation mesh. Return true if successful." coords="5,5,173,45"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::Node::SetName" name="Urho3D::Node::SetName">
+<area shape="rect" id="node1" title=" " coords="779,636,945,661"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a45ba116883b4aca1bb0572c485788172" title="Clear scene completely of either replicated, local or all nodes and components." coords="557,153,704,179"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_node.html#af38b633b6f35ad2a430adb650e3b354f" title="Create a child scene node (with specified ID if provided)." coords="541,611,721,636"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_node.html#a0bf5b40b97dc36a8b39370aee92ccd9d" title=" " coords="532,660,729,685"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_scene.html#a0fe334f7776874f008b411b66d4e8f0a" title=" " coords="531,709,731,735"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_scene.html#a3b1c5f7476658c0e7e236d20765bf670" title="Load from binary data. Removes all existing child nodes and components first. Return true if successf..." coords="303,5,448,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#a37aeb39ae74b420d003a597adccac577" title="Load from a binary file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY ..." coords="285,55,466,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_scene.html#aa66ba16b03bd936a00b96e18da703947" title="Load from a JSON file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY mo..." coords="268,104,483,129"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_scene.html#a3cd90a6194226a9279aa127222401cf4" title="Load from an XML file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY mo..." coords="271,153,479,179"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_scene.html#ac0d709ca533b3a22a800adad0b87077e" title="Load from a JSON file. Return true if successful." coords="286,203,465,228"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_scene.html#a2773f04916fe39bed1fbf0ee08f7c1c0" title="Load from an XML file. Return true if successful." coords="289,252,461,277"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#a33ae61edab40444e22d014c844e19c55" title="Clone node recursively." coords="274,325,477,351"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#aefe4240e24961864d51e9a0d9f742756" title="Create a temporary child scene node (with specified ID if provided)." coords="269,375,482,415"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_scene.html#a1cca9113f43ff1b7517cf036f569ee52" title="Instantiate scene content from binary data. Return root node if successful." coords="287,464,463,489"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_scene.html#a03f80f9703e4d92e89b0de7fd930d239" title="Instantiate scene content from JSON data. Return root node if successful." coords="270,537,481,563"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_scene.html#a16c9193018c0cfadaae69961b9132762" title="Instantiate scene content from XML data. Return root node if successful." coords="274,611,477,636"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_node.html#a81a34b9111afba558145d81e42ad640e" title="Load components and optionally load child nodes." coords="304,660,447,685"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_node.html#a5e1c150d8d013c7550537c5251bf86f7" title="Load components from XML data and optionally load child nodes." coords="287,709,463,735"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_node.html#ab44e461de1af5859a176dfaa75ec95bd" title="Load components from XML data and optionally load child nodes." coords="291,759,460,784"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_animated_model.html#aeae317724517abf074f05f2c2c411697" title="Set skeleton." coords="291,809,459,849"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_scene.html#a625934c3af5fb17f25a09767d4c0cc6b" title="Update asynchronous loading." coords="279,897,472,937"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a2005276776f4ecca887f34438e161c68" title="Clone scene node, components and child nodes. Return the clone." coords="39,325,186,351"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_terrain.html#a4c3774f5e5fb85197eb87d8fd1fff046" title="Regenerate terrain geometry." coords="5,379,220,404"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_tile_map2_d.html#a6214ad04240021eaed58d71e25081bed" title=" " coords="41,429,184,469"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_animated_model.html#a1a9c66f9b072816093f73d60e5b58f62" title="Assign skeleton and animation bone node references as a postprocess. Called by ApplyAttributes." coords="29,809,197,849"/>
+</map>

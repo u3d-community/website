@@ -1,0 +1,8 @@
+<map id="Urho3D::Pass::GetPixelShader" name="Urho3D::Pass::GetPixelShader">
+<area shape="rect" id="node1" title=" " coords="476,101,673,126"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_technique.html#a990878e219ce61207b380ab0bdf13aca" title="Clone the technique. Passes will be deep copied to allow independent modification." coords="263,5,402,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_renderer.html#aa9c1c4b719643700a5d7e4bee5fafd32" title="Reload shaders for a material pass. The related batch queue is provided in case it has extra shader c..." coords="237,93,428,133"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_u_i.html#a5f23155e2af111b3f82736beb7929e44" title="Render UI batches to the current rendertarget. Geometry must have been uploaded first." coords="265,158,400,183"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_technique.html#a06c3bc21df26728f23a7ccd81eba8765" title="Return a clone with added shader compilation defines. Called internally by Material." coords="28,5,167,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_renderer.html#a4f48ac64f450dc7cb8ef339d84de223f" title="Choose shaders for a forward rendering batch. The related batch queue is provided in case it has extr..." coords="5,93,189,133"/>
+</map>

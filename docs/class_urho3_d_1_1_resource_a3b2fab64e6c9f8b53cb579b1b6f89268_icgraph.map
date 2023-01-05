@@ -1,0 +1,19 @@
+<map id="Urho3D::Resource::EndLoad" name="Urho3D::Resource::EndLoad">
+<area shape="rect" id="node1" title="Finish resource loading. Always called from the main thread. Return true if successful." coords="1172,326,1359,351"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_resource.html#ab0f4146b46be0c02323e3211e8a6aadf" title="Load resource synchronously. Call both BeginLoad() &amp; EndLoad() and return true if both succeeded." coords="960,326,1124,351"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_particle_effect.html#aa0d9efcb340d6a16860aef9d7cd9916f" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="737,5,888,45"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_p_list_file.html#a48721813989c5193e48116ae69e83ab6" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="749,69,877,109"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_object_animation.html#a46f94474d9e82b864567c4c8665c0d76" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="727,133,898,173"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_value_animation.html#a753729f770a747b938de50ff088356a4" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="730,197,895,237"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_particle_effect2_d.html#ae68d6b19e4e6744f5edcfa5e5e341466" title="Load resource from stream. May be called from a worker thread. Return true if successful." coords="729,261,896,301"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_j_s_o_n_file.html#a9299fee3b3709d8c4cf2bd704da5dce3" title="Deserialize from a string. Return true if successful." coords="713,326,912,351"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_x_m_l_file.html#ac509f89874d8666f8b757bab006b8986" title="Deserialize from a string. Return true if successful." coords="717,375,908,401"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_resource.html#a1df6a3a4fb06cf46319ec2aaf23fb93b" title=" " coords="721,425,905,450"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_shader_precache.html#ae2b5464e3db1248b1e652dd79d5a05b9" title="Load shaders from an XML file." coords="728,475,897,515"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_resource_cache.html#a95d38fca7d46be128efaa865acad0ec3" title="Reload a resource. Return true on success. The resource will not be removed from the cache in case of..." coords="730,539,895,579"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_shader_precache.html#aeff7b3d126d75daff9f599ab64544af2" title="Construct and begin collecting shader combinations. Load existing combinations from XML if the file e..." coords="728,603,897,643"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_graphics.html#ab7a91acbf613629e3b95f600b10e6c2a" title="Precache shader variations from an XML file generated with BeginDumpShaders()." coords="457,475,641,515"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_resource_cache.html#a4d3296328ea7bc08bcbeec2c973ffe37" title="Reload a resource based on filename. Causes also reload of dependent resources if necessary." coords="432,539,665,579"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_resource_cache.html#a8cc5a76256fc43875016a8ae85c15ab3" title="Handle begin frame event. Automatic resource reloads and the finalization of background loaded resour..." coords="219,539,384,579"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_resource_cache.html#a43e64e32120b4e9acf83fb5e2ea77aab" title="Construct." coords="5,539,171,579"/>
+</map>

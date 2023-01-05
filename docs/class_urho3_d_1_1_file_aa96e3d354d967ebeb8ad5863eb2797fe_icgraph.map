@@ -1,0 +1,6 @@
+<map id="Urho3D::File::Read" name="Urho3D::File::Read">
+<area shape="rect" id="node1" title="Read bytes from the file. Return number of bytes actually read." coords="412,29,541,55"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_file.html#af9a8d2dbe6424e8b27ad503b02c5239b" title="Return a checksum of the file contents using the SDBM hash algorithm." coords="5,5,188,31"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_file.html#a72767679eb699c9d816c33ac6def3acb" title="Set position from the beginning of the file." coords="236,55,364,80"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_scene.html#a37aeb39ae74b420d003a597adccac577" title="Load from a binary file asynchronously. Return true if started successfully. The LOAD_RESOURCES_ONLY ..." coords="6,55,187,80"/>
+</map>

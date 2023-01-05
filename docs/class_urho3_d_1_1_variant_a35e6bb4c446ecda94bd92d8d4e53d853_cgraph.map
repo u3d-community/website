@@ -1,0 +1,12 @@
+<map id="Urho3D::Variant::IsZero" name="Urho3D::Variant::IsZero">
+<area shape="rect" id="node1" title=" " coords="5,183,164,208"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_vector.html#aa20f23bae4cf1d7cda06f6c3b47c7504" title="Return iterator to the beginning." coords="233,5,384,31"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_hash_base.html#acca34b209bda6149251edbb5a548ccc6" title="Return whether has no elements." coords="221,55,397,80"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#a8413f000551027cd127996e3c5b00185" title=" " coords="233,104,384,129"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector.html#a83b3a48f0d5d0aae79aa6b6304cde595" title="Return whether vector is empty." coords="231,153,386,179"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_p_o_d_vector.html#a5be72d35fc52d2623985f20b95855d10" title="Return whether vector is empty." coords="237,203,381,243"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_vector.html#af79ffb0683568b08fe130ee028bfd1ef" title="Return iterator to the end." coords="238,268,379,293"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_variant.html#ac8b603e02f51307565802cf9442498e0" title="Return pointer to custom variant value." coords="215,318,402,358"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_custom_variant_value.html#a876bb2339141d8193607a00ebac32993" title="Compare to zero." coords="212,382,405,422"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_vector.html#a2126455bfd4dd42c90838abba6fef37a" title="Return the buffer with right type." coords="453,137,608,163"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Urho3D::Node::SetRotation" name="Urho3D::Node::SetRotation">
+<area shape="rect" id="node1" title=" " coords="831,234,1011,259"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_animation_state.html#a2618e6f947c1a9be664b370cfaf27c09" title="Apply track." coords="590,69,753,109"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a0bf5b40b97dc36a8b39370aee92ccd9d" title=" " coords="299,134,496,159"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_node.html#af02633f8b886f9939f839b86378c82f9" title=" " coords="580,234,763,259"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_node.html#ade5376cdb305ed25f152ef344660b284" title="Set network rotation attribute." coords="560,185,783,210"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_node.html#a0ca75040c310b9b4b7dd941a327ef4cf" title=" " coords="562,283,781,309"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_node.html#a0a51e567fd136b48e30056517c3c6100" title=" " coords="563,355,779,381"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_smoothed_transform.html#a35445b17dfcabb0deba9f1f697653296" title="Update smoothing." coords="573,541,770,581"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animation_state.html#a09d3f8acf5b318a2a5ad9f1816a1073c" title="Apply animation to a skeleton. Transform changes are applied silently, so the model needs to dirty it..." coords="316,5,479,45"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_animation_state.html#a4ebbb3962edd5a28f17fc54151a341e4" title="Apply animation to a scene node hierarchy." coords="316,69,479,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animation_state.html#ae662a588f71a9adfb4aea3162bb2a742" title="Apply the animation at the current time position." coords="39,37,201,77"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_view.html#a4d3766cb580e7a61b7ce50bc4e9aa926" title="Set up initial shadow camera view(s)." coords="303,184,491,224"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_view.html#a8386e461553bac5a6b4512b8a9712e79" title="Query for lit geometries and shadow casters for a light." coords="29,191,211,217"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_rigid_body.html#a1683e21222126986b0d7c8c7c58e4b8f" title="Apply new world transform after a simulation step. Called internally." coords="321,248,473,288"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_rigid_body2_d.html#a536af8f567b3c277e89a704b473cb34c" title="Apply specified world position &amp; rotation. Called by PhysicsWorld2D." coords="318,312,477,352"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_node.html#afb32a557cfa6483f55c896046efb9b4a" title="Look at a target position in the chosen transform space. Note that the up vector is always specified ..." coords="320,377,475,402"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_raycast_vehicle.html#af8fbffa173151c09fa798fac6eaf1b8d" title="Perform variable step post&#45;update." coords="317,427,478,467"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_node.html#a8aa097522ad1d8d502ec74610a05ada4" title="Set both position and rotation in world space as an atomic operation." coords="283,491,512,517"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_rigid_body.html#ab4840875f0cc02f2ea6f27d5aaf8401c" title=" " coords="51,245,189,285"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_physics_world.html#a282dce733280a5175597b3ee7d4c9e14" title="Step the simulation forward." coords="43,309,197,349"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_node.html#ae4eb180d8cfd3b80ba96ca14fd9f7797" title="Set position, rotation, and scale in world space as an atomic operation from a transformation matrix." coords="5,491,235,517"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_smoothed_transform.html#aab4734d09c12855615e3cccfa3353abb" title="Handle smoothing update event." coords="299,541,496,581"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_connection.html#a0a9e39346bc1f85b9186d3258a178ac1" title="Process a scene update message from the server. Called by Network." coords="320,605,475,645"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_smoothed_transform.html#a8b09dd0dbfeab2267cf3a24d557e2c1d" title=" " coords="21,541,219,581"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_smoothed_transform.html#a69036b0d190ce6079b9233bef9b3a341" title=" " coords="21,605,219,645"/>
+</map>

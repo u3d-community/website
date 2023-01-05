@@ -1,0 +1,5 @@
+<map id="Urho3D::View" name="Urho3D::View">
+<area shape="rect" id="node1" title="Internal structure for 3D rendering work. Created for each backbuffer and texture viewport,..." coords="26,152,127,177"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html" title=" " coords="21,79,132,104"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="5,5,148,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Urho3D::Image::GetComponents" name="Urho3D::Image::GetComponents">
+<area shape="rect" id="node1" title=" " coords="216,109,428,134"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_texture_cube.html#a40f3c72a68d864e9d0e57d35491f9934" title="Set data of one face from an image. Return true if successful. Optionally make a single channel image..." coords="13,5,160,45"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_texture2_d.html#ab49167ad05742f9610fd938c2f9f29ce" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="17,69,156,109"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_texture3_d.html#adc338a79d4dbbb51605bf14a252135a3" title="Set data from an image. Return true if successful. Optionally make a single channel image alpha&#45;only." coords="17,133,156,173"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_texture2_d_array.html#a6bf5a1b684ec0d37ea5e81e0f2d7dd84" title="Set data of one layer from an image. Return true if successful. Optionally make a single channel imag..." coords="5,197,168,237"/>
+</map>

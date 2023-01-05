@@ -1,0 +1,5 @@
+<map id="Urho3D::CheckBox::GetBatches" name="Urho3D::CheckBox::GetBatches">
+<area shape="rect" id="node1" title="Return UI rendering batches." coords="5,66,211,91"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_border_image.html#aafc7425774297149ed7235f2c48902a7" title="Return UI rendering batches." coords="259,29,409,69"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i_element.html#a1bc81ebf873ab97c4251c0bad93b568e" title=" " coords="457,59,597,99"/>
+</map>

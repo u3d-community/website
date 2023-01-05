@@ -1,0 +1,27 @@
+<map id="Urho3D::ScrollView" name="Urho3D::ScrollView">
+<area shape="rect" id="node1" title="Scrollable UI element for showing a (possibly large) child element." coords="2084,807,2219,833"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html" title="Base class for UI elements." coords="847,611,981,637"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1273,615,1420,655"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_border_image.html" title="Image UI element with optional border." coords="1099,1083,1249,1109"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="509,691,648,717"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializable.html" title="Base class for objects with automatic serialization through attributes." coords="54,766,194,791"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="33,816,215,856"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_set.html" title=" " coords="39,623,209,663"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="5,687,243,742"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_string.html" title="String class." coords="71,46,177,71"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_x_path_query.html" title="XPath query." coords="508,7,649,33"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html" title=" " coords="464,577,693,617"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="53,573,195,598"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_vector.html" title=" " coords="495,642,662,667"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_int_rect.html" title="Two&#45;dimensional bounding rectangle with integer values." coords="521,1038,636,1063"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_scroll_bar.html" title="Scroll bar UI element with forward and back buttons." coords="1444,1015,1571,1041"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="525,335,632,361"/>
+<area shape="rect" id="node13" href="$struct_urho3_d_1_1_color_1_1_channel_mask.html" title="Mask describing color channels." coords="28,335,220,361"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_map.html" title=" " coords="475,385,683,425"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_vector2.html" title="Two&#45;dimensional vector." coords="519,853,638,878"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_int_vector2.html" title="Two&#45;dimensional vector with integer values." coords="511,1199,646,1225"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="509,449,648,489"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="489,513,668,553"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1781,924,1920,964"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1595,1053,1757,1093"/>
+</map>

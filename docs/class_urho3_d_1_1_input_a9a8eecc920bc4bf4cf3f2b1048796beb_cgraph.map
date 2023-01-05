@@ -1,0 +1,27 @@
+<map id="Urho3D::Input::SetMouseMode" name="Urho3D::Input::SetMouseMode">
+<area shape="rect" id="node1" title="Set the mouse mode." coords="5,488,208,513"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="788,122,955,162"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_input.html#aec9589694319bf9c8a97be0238c8ea78" title=" " coords="256,665,460,691"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_u_i_element.html#a8d8ba4e0f53c653b1defd109f5335246" title=" " coords="801,186,941,226"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_input.html#ad12d5ff3951c02df21943b9c4284e30b" title="Reset last mouse visibility that was not suppressed in SetMouseVisible." coords="267,398,449,438"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_input.html#a42f016907a65f849a98e0ad9c24d97ee" title="Set whether the operating system mouse cursor is visible. When not visible (default),..." coords="508,389,715,415"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="783,463,960,488"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_input.html#afee26f2c5df67c89a3f48135fe86d6fe" title="Set whether the mouse is currently being grabbed by an operation." coords="763,512,980,537"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_input.html#a09b8ea81693b77ea3c1a64f676f96c8e" title="Set SDL mouse mode absolute." coords="770,562,973,602"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_input.html#ae54b715827d591258b8b15382860c1e2" title="Suppress next mouse movement." coords="776,626,967,666"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_input.html#a7b05bd641de78570f883e7a610ccf3f6" title="Set SDL mouse mode relative." coords="257,715,459,755"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="1028,122,1204,162"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="1252,129,1419,155"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="1481,5,1649,31"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="1486,55,1645,80"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#a3313b8ec65ab0b23c74570898b09175c" title="Free a node." coords="1468,104,1663,129"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_base.html#a2774d115a617b0d6c315132352d43c01" title="Reset bucket head pointers." coords="1467,153,1664,179"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_base.html#a7790b0fb5131f0e0a098e322c9198f39" title="Set new size." coords="1474,203,1657,228"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_base.html#a42b5c2ba692fe96bff763b501b8922a9" title="Return number of elements." coords="1483,252,1647,277"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html#a992327678684d4e38150f32fc676faaf" title="Return the head node." coords="1712,5,1880,31"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1718,55,1874,80"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_input.html#af799244a701a0e94b767a59f0a82e92b" title=" " coords="763,251,980,276"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_u_i_element.html#a031e2acb1765a940b9427003cb8653d7" title=" " coords="801,325,941,365"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_input.html#adb9cfe10463876f946380c2c4b23505a" title=" " coords="763,389,979,415"/>
+<area shape="rect" id="node19" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="1067,332,1165,357"/>
+</map>

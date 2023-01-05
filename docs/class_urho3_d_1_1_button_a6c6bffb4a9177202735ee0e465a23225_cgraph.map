@@ -1,0 +1,26 @@
+<map id="Urho3D::Button::OnKey" name="Urho3D::Button::OnKey">
+<area shape="rect" id="node1" title="React to a key press." coords="5,155,160,180"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i_element.html#a1bc81ebf873ab97c4251c0bad93b568e" title=" " coords="235,90,375,130"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_button.html#a9bd5953bfebb06c06fefa138df407df6" title="React to mouse click begin." coords="208,155,403,180"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_button.html#ac3c389cbe081dedc86b090eaaa99a82b" title="React to mouse click end." coords="213,204,398,229"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="459,205,626,245"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="454,155,631,180"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_button.html#a7da6b87c3d323a912ab3e97b17c6be46" title="Set new pressed state." coords="451,81,635,107"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="683,171,859,211"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_hash_map.html#ac02bdba9ea0d1055a3a75f6bae2ffc69" title="Clear the map." coords="907,177,1073,203"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_hash_map.html#a620be7ef6fc8e2958ef4f09523fd5c72" title="Return iterator to the beginning." coords="1136,177,1304,203"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_hash_map.html#a47eb201d8441d4e4be8626e615cb562d" title="Return iterator to the end." coords="1141,227,1299,252"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_hash_map.html#a3313b8ec65ab0b23c74570898b09175c" title="Free a node." coords="1123,276,1317,301"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_hash_base.html#a2774d115a617b0d6c315132352d43c01" title="Reset bucket head pointers." coords="1121,29,1319,55"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_hash_base.html#a7790b0fb5131f0e0a098e322c9198f39" title="Set new size." coords="1129,79,1311,104"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_hash_base.html#a42b5c2ba692fe96bff763b501b8922a9" title="Return number of elements." coords="1138,128,1302,153"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_hash_map.html#a992327678684d4e38150f32fc676faaf" title="Return the head node." coords="1390,177,1558,203"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_hash_map.html#ac7ee3646e27a2a7710ab5786cb0b7c73" title="Return the tail node." coords="1396,227,1552,252"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_hash_base.html#af0f242c3642f60dc7cf69f3b7d24fa11" title="Return number of buckets." coords="1367,5,1581,31"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_hash_base.html#ab2e9d0c50ac79b0a7eccd15b096745e9" title="Return bucket head pointers." coords="1392,55,1556,80"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_u_i_element.html#a1514f8d82ab6e8a2cf10f20b807f738d" title="Set child offset." coords="701,74,841,114"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_u_i_element.html#a479f87ac369c89be8df4e9da40e6fa3a" title="Return whether a point (either in element or screen coordinates) is inside the element." coords="473,271,613,311"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_u_i_element.html#afed5198a8da4bab8e33e0837a10930b4" title="Convert screen coordinates to element coordinates." coords="701,275,841,315"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_u_i_element.html#a031e2acb1765a940b9427003cb8653d7" title=" " coords="920,283,1060,323"/>
+<area shape="rect" id="node24" href="$_math_defs_8h.html#a881de829a2aa2700593840d5a6978046" title=" " coords="1171,349,1269,375"/>
+</map>

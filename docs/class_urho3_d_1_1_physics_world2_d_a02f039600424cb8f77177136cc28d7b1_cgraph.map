@@ -1,0 +1,27 @@
+<map id="Urho3D::PhysicsWorld2D::OnSceneSet" name="Urho3D::PhysicsWorld2D::OnSceneSet">
+<area shape="rect" id="node1" title="Handle scene being assigned." coords="5,263,176,303"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_physics_world2_d.html#a9820e775c19605f5615399ec43f5f00b" title="Handle the scene subsystem update event, step simulation here." coords="224,167,437,207"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_object.html#a7d9d061f4cf32f5fd5531e11a72834b6" title="Subscribe to an event that can be sent by any sender." coords="243,263,418,303"/>
+<area shape="rect" id="node20" href="$class_urho3_d_1_1_object.html#a153b96c4397e045b2ca2b2d5471d097c" title="Unsubscribe from an event." coords="236,412,425,452"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_physics_world2_d.html#a28f05401892d69770ed6a699af558238" title="Step the simulation forward." coords="502,129,673,169"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_rigid_body2_d.html#ac71fa33fffbe1fe749361b89ccf0f2fb" title="Apply world transform from the Box2D body. Called by PhysicsWorld2D." coords="753,265,911,305"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_object.html#a69af51cfa67f9626273b35a6d501e03e" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="999,5,1166,45"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_physics_world2_d.html#a2e3e613d48b2d2bec40762d90c36faeb" title="Send begin contact events." coords="745,127,919,167"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_object.html#a32020dbf77c196b9777eca479e8abb36" title="Send event to all subscribers." coords="994,158,1171,183"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_physics_world2_d.html#aa70a1a3eadea7b940b514a6eb0736a0c" title="Send end contact events." coords="747,63,917,103"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html#a34f6d23128c61664a11ceb275604e013" title="Return component by type. If there are several, returns the first." coords="982,322,1183,347"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_node.html#a1bc658c7b719ce21531882df362ea958" title=" " coords="998,371,1167,397"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_component.html#a2c22f727341671a0420934f249ffe059" title="Return the scene the node belongs to." coords="1009,208,1157,248"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_node.html#a8f3fe7808b7af4975ddb21be8a269ece" title=" " coords="975,273,1191,298"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_context.html#acb628095602a49ade116c4761ab44004" title="Return a preallocated map for event data. Used for optimization to avoid constant re&#45;allocation of ev..." coords="1239,5,1415,45"/>
+<area shape="rect" id="node13" href="$struct_urho3_d_1_1_physics_world2_d_1_1_contact_info.html#add9d974fc94ebcf109eb8ee1326337ab" title="Write contact info to buffer." coords="997,69,1168,109"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_context.html#ae3e0c5db85e2395f3d34941003c816ad" title="Add event receiver." coords="497,263,678,303"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_object.html#ad9d3702ab78a9d8a8ddad6aae7144abb" title="Find the first event handler with specific sender." coords="494,327,681,367"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_event_handler.html#abe76f0245895dadac146b7a4b7d78713" title="Set sender and event type." coords="502,199,673,239"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_event_handler.html#a18d3379ef44dac87304f2b118e36c83e" title="Return event sender. Null if the handler is non&#45;specific." coords="757,329,907,369"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_object.html#a00bec56f305dd6636d186e5b351d0264" title="Find the first event handler with no specific sender." coords="501,512,673,552"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_context.html#a7b5bd076e695054df7930255c3eee18b" title="Remove event receiver from specific events." coords="485,441,689,481"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_event_handler.html#ae09d06f06d3590e6f4e06006efa90176" title="Return event type." coords="757,521,907,561"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_context.html#a1b685db14efe388bbf40ec5c27bab7eb" title="Return event receivers for a sender and event type, or null if they do not exist." coords="744,457,920,497"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_event_receiver_group.html#a3074ee82cc374a0a9145fe8847086022" title="Remove receiver. Leave holes during send, which requires later cleanup." coords="737,393,927,433"/>
+</map>

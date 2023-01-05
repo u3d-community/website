@@ -1,0 +1,5 @@
+<map id="Urho3D::UIElement::OnWheel" name="Urho3D::UIElement::OnWheel">
+<area shape="rect" id="node1" title="React to mouse wheel." coords="417,5,557,45"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_u_i.html#aa0f1800447d1a747be7e2c7c71e5e069" title="Handle mouse wheel event." coords="159,13,369,38"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_u_i.html#a2c011c43ca66ff4270e98601e4f9c4cf" title="Construct." coords="5,13,111,38"/>
+</map>

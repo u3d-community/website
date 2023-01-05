@@ -1,0 +1,27 @@
+<map id="Urho3D::Zone" name="Urho3D::Zone">
+<area shape="rect" id="node1" title="Component that describes global rendering properties." coords="1377,368,1479,393"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_drawable.html" title="Base class for visible components." coords="1708,575,1835,600"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_weak_ptr.html" title=" " coords="1682,267,1861,307"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_light.html" title="Light component." coords="2025,407,2127,432"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_component.html" title=" " coords="659,645,802,671"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_octree.html" title="Octree component. Should be added only to the root scene node." coords="1040,697,1151,723"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_animatable.html" title="Base class for animatable object, an animatable object can be set animation on it&#39;s attributes,..." coords="32,688,171,713"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_node.html" title="Scene node that may contain components and child nodes." coords="385,657,492,683"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_matrix3x4.html" title="3x4 matrix for scene node transform calculations." coords="35,404,167,429"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="42,595,161,620"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_bounding_box.html" title=" " coords="1020,508,1171,533"/>
+<area shape="rect" id="node11" href="$class_urho3_d_1_1_octant.html" title=" " coords="1373,684,1483,709"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_vector.html" title=" " coords="829,867,996,907"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_vector_base.html" title="Vector base class." coords="368,849,509,875"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="656,755,805,795"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="1195,803,1340,843"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_p_o_d_vector.html" title=" " coords="840,925,985,965"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_color.html" title="RGBA color." coords="385,205,492,231"/>
+<area shape="rect" id="node22" href="$class_urho3_d_1_1_texture.html" title="Base class for texture resources." coords="673,205,789,231"/>
+<area shape="rect" id="node17" href="$struct_urho3_d_1_1_color_1_1_channel_mask.html" title="Mask describing color channels." coords="5,205,197,231"/>
+<area shape="rect" id="node18" href="$struct_urho3_d_1_1_bias_parameters.html" title="Depth bias parameters. Used both by lights (for shadow mapping) and materials." coords="1688,332,1855,357"/>
+<area shape="rect" id="node19" href="$struct_urho3_d_1_1_cascade_parameters.html" title=" " coords="1675,381,1868,407"/>
+<area shape="rect" id="node20" href="$struct_urho3_d_1_1_focus_parameters.html" title=" " coords="1683,431,1860,456"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_shared_ptr.html" title=" " coords="1026,201,1165,241"/>
+<area shape="rect" id="node25" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="1364,243,1492,268"/>
+</map>

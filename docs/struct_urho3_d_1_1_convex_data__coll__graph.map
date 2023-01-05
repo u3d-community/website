@@ -1,0 +1,9 @@
+<map id="Urho3D::ConvexData" name="Urho3D::ConvexData">
+<area shape="rect" id="node1" title="Convex hull geometry data." coords="875,73,1019,98"/>
+<area shape="rect" id="node2" href="$struct_urho3_d_1_1_collision_geometry_data.html" title="Base class for collision shape geometry data." coords="616,73,825,98"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_ref_counted.html" title="Base class for intrusively reference&#45;counted objects. These are noncopyable and non&#45;assignable." coords="253,65,395,90"/>
+<area shape="rect" id="node4" href="$struct_urho3_d_1_1_ref_count.html" title="Reference count structure." coords="5,37,133,62"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="243,117,405,157"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_shared_array_ptr.html" title=" " coords="429,5,592,45"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_vector3.html" title="Three&#45;dimensional vector." coords="10,227,129,253"/>
+</map>

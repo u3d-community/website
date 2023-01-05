@@ -1,0 +1,8 @@
+<map id="Urho3D::BoundingBox::HalfSize" name="Urho3D::BoundingBox::HalfSize">
+<area shape="rect" id="node1" title=" " coords="477,111,628,151"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_decal_set.html#a70a16cdcd0674837b6b2338f94f476b8" title="Add a decal at world coordinates, using a target drawable&#39;s geometry for reference...." coords="240,29,429,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_bounding_box.html#a1eaac173d1df592326f91ea174a74a43" title="Return distance to point." coords="259,79,410,119"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_physics_world.html#abe003859a8d5428d310c9113efa11647" title="Return rigid bodies by a box query." coords="257,143,412,183"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_light.html#a32fb13d9f87c9f6ee99a8998d708a23f" title="Set sort value based on overall intensity over a bounding box." coords="247,207,422,247"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_dynamic_navigation_mesh.html#a2a4d9936b66f8f056928dd48b07ef9a2" title="Return whether the Obstacle is touching the given tile." coords="5,79,192,119"/>
+</map>

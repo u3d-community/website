@@ -1,0 +1,11 @@
+<map id="Urho3D::Scene::Save" name="Urho3D::Scene::Save">
+<area shape="rect" id="node1" title="Save to binary data. Return true if successful." coords="5,71,148,96"/>
+<area shape="rect" id="node2" href="$class_urho3_d_1_1_scene.html#a0f602c744a0a3b830bdc60268ec8834a" title="Finish saving. Sets the scene filename and checksum." coords="196,21,383,47"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_node.html#a8c4ee4fccbbdc6a87dfe8831cdfee88a" title="Save as binary data. Return true if successful." coords="219,71,359,96"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_serializer.html#a467e97940ee0e2911b7d8bfa837a875b" title="Write a four&#45;letter file ID. If the string is not long enough, spaces will be appended." coords="225,121,353,161"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_string.html#a3e075eaafa63ccbe5b6f28a2ad7a50ad" title="Return the C string." coords="431,5,587,31"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_string.html#a0a988cc147946dd80bf73cea2c1ac04c" title=" " coords="433,55,585,80"/>
+<area shape="rect" id="node7" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="461,128,556,153"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_serializer.html#af1212487507dad99d9f389f9c8b48a60" title="Write bytes to the stream. Return number of bytes actually written." coords="635,201,763,241"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_serializer.html#ae8dca217acc7e982a97262ce8f0d7357" title="Write an 8&#45;bit integer." coords="445,229,573,269"/>
+</map>

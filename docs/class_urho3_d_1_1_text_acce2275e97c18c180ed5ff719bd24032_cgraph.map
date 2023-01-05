@@ -1,0 +1,27 @@
+<map id="Urho3D::Text::ApplyAttributes" name="Urho3D::Text::ApplyAttributes">
+<area shape="rect" id="node1" title="Apply attribute changes that can not be applied immediately." coords="5,195,199,220"/>
+<area shape="rect" id="node2" href="$_math_defs_8h.html#ac3865cf9a0484b8452ccc4e62c5661ca" title=" " coords="306,29,402,55"/>
+<area shape="rect" id="node3" href="$class_urho3_d_1_1_serializable.html#a58f03d097b05420b50a9017f44a24593" title="Apply attribute changes that can not be applied immediately. Called after scene load or a network upd..." coords="284,79,424,119"/>
+<area shape="rect" id="node4" href="$class_urho3_d_1_1_text.html#addf8cee35ae07d806d55953f8e37bd99" title="UTF8 to Unicode." coords="247,195,461,220"/>
+<area shape="rect" id="node7" href="$class_urho3_d_1_1_string.html#a0a988cc147946dd80bf73cea2c1ac04c" title=" " coords="533,59,685,84"/>
+<area shape="rect" id="node11" href="$_math_defs_8h.html#a8096c22c3716e172f685af2a5f5e26bb" title=" " coords="795,1115,893,1140"/>
+<area shape="rect" id="node12" href="$class_urho3_d_1_1_text.html#a27a4bc43cff802472202b3d1e532ceba" title="Update text when text, font or spacing changed." coords="269,564,439,589"/>
+<area shape="rect" id="node25" href="$class_urho3_d_1_1_text.html#ae0ac58c7dfc1c6efdcfe69214b98eeb8" title="Validate text selection to be within the text." coords="251,1223,457,1248"/>
+<area shape="rect" id="node5" href="$class_urho3_d_1_1_p_o_d_vector.html#a56e61cb5b8216360fd62b20eb78b5faf" title="Clear the vector." coords="537,158,681,198"/>
+<area shape="rect" id="node8" href="$class_urho3_d_1_1_string.html#a16643a545e2cfcf7a59979bd3c290614" title="Return next Unicode character from UTF8 content and increase byte offset." coords="509,108,709,133"/>
+<area shape="rect" id="node9" href="$class_urho3_d_1_1_p_o_d_vector.html#a3eb78093c096ab9e9d68595facc56470" title="Add an element at the end." coords="523,223,696,248"/>
+<area shape="rect" id="node6" href="$class_urho3_d_1_1_p_o_d_vector.html#a90931bab46c47be9f1989f4ec86bd487" title="Resize the vector." coords="772,241,916,281"/>
+<area shape="rect" id="node10" href="$class_urho3_d_1_1_p_o_d_vector.html#a02b72389727e56688c9f6ed66c2f8733" title="Return last element." coords="757,409,931,435"/>
+<area shape="rect" id="node13" href="$class_urho3_d_1_1_font_face.html#a4b91e47bb935a890c515f4e840217c8b" title="Return pointer to the glyph structure corresponding to a character. Return null if glyph not found." coords="517,437,702,463"/>
+<area shape="rect" id="node14" href="$class_urho3_d_1_1_font_face.html#a7a5a7c77278cea7c12ac7ce9932d64f2" title="Return the kerning for a character and the next character." coords="511,589,708,615"/>
+<area shape="rect" id="node15" href="$class_urho3_d_1_1_u_i_element.html#ac2708f43d9290982eb31d26a7cc10afa" title=" " coords="539,639,679,679"/>
+<area shape="rect" id="node16" href="$class_urho3_d_1_1_u_i_element.html#a2213dfdd16c9f98be3696a23cdd31388" title=" " coords="539,703,679,743"/>
+<area shape="rect" id="node17" href="$class_urho3_d_1_1_font_face.html#a503984368c0c052770c7ddf4a71e9db8" title="Return row height." coords="520,767,699,807"/>
+<area shape="rect" id="node18" href="$class_urho3_d_1_1_u_i_element.html#a8c3df9a7b24aa874345db797a95e130e" title=" " coords="539,831,679,871"/>
+<area shape="rect" id="node19" href="$class_urho3_d_1_1_u_i_element.html#af7389fe1ec87c47bd6c9e6bdb151cda1" title=" " coords="539,895,679,935"/>
+<area shape="rect" id="node20" href="$_math_defs_8h.html#a639c291adc131849b469a216007c4af5" title=" " coords="562,984,657,1009"/>
+<area shape="rect" id="node21" href="$class_urho3_d_1_1_p_o_d_vector.html#a76e8bca181c0ab7e7ebbe5b325c35aa2" title="Remove the last element." coords="526,272,693,297"/>
+<area shape="rect" id="node22" href="$_math_defs_8h.html#a1e0439c3642fe1b9779fe2199b9d89af" title=" " coords="539,1057,680,1083"/>
+<area shape="rect" id="node23" href="$class_urho3_d_1_1_u_i_element.html#a4396e1c9eb02df3a4f5438900c704f76" title="Set fixed height." coords="539,1107,679,1147"/>
+<area shape="rect" id="node24" href="$class_urho3_d_1_1_u_i_element.html#ab5a8fa3fdc2f038afd6f51e8327c3505" title=" " coords="539,373,679,413"/>
+</map>
