@@ -1,0 +1,12 @@
+samples/
+docs/
+node_modules/
+package.json
+package-lock.json
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+# Local Netlify folder
+.netlify

@@ -1,0 +1,10 @@
+title: U3D
+email: support@u3d.io
+description: Open source cross-platform 2D and 3D game engine
+baseurl: ""
+url: ""
+timezone: America/New_York
+twitter_username: jekyllrb
+github_username: jekyll
+plugins:
+  - jekyll-feed

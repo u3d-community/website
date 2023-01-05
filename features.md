@@ -1,0 +1,41 @@
+---
+layout: page
+title: Features
+permalink: /features
+---
+
+- Cross-platform support: Windows, Linux, macOS, iOS, tvOS, Android, Raspberry Pi (and other generic ARM boards), and Web with Emscripten
+- Powerful and configurable rendering pipeline, with implementations for forward, light pre-pass and deferred rendering
+- OpenGL, OpenGL ES, WebGL and Direct3D11
+- All-in-one editor built with ActionScript, allowing you to easily customize the editor to your game needs
+- Two scripting languages available for creating game logic: Lua and AngelScript
+- UI, localization and database subsystems
+- Component based scene model
+- Skeletal, vertex morph and node animation
+- Point, spot and directional lights
+- Cascaded shadow maps
+- Particle rendering
+- Geomipmapped terrain
+- Static and skinned decals
+- LODs
+- Automatic instancing
+- Software rasterized occlusion culling
+- Post-processing
+- HDR and PBR rendering
+- 2D sprites and particles that integrate into the 3D scene
+- Task-based multithreading
+- Hierarchical performance profiler
+- Scene, object and prefab load/save in binary, XML and JSON formats
+- Keyframe animation of object attributes
+- Background loading of resources
+- Keyboard, mouse, joystick and touch input
+- High-performance math library
+- Physics powered by Bullet and Box2D
+- Networking powered by SLikeNet
+- Pathfinding and Crowd Simulation via Recast/Detour
+- Supported images: JPEG, PNG, TGA, BMP, PSD, GIF, HDR
+- Compressed image support: DDS, KTX, PVR
+- Import virtually any 3D file format via [Assimp](https://github.com/assimp/assimp/blob/master/doc/Fileformats.md)
+- 2D and 3D audio playblack, Ogg Vorbis and WAV support
+- TrueType font rendering
+- Built as a single external library, can be linked statically or dynamically
