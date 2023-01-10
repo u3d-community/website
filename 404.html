@@ -24,17 +24,18 @@
   <link rel="manifest" href="/site.webmanifest">
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      const toggler = document.querySelectorAll('[data-toggle="side-menu"]');
+      const toggler = document.querySelectorAll('[data-toggle]');
       if (toggler.length) {
         for (var i = 0; i < toggler.length; i++) {
           const target = toggler[i].getAttribute('data-target');
+          const toggleClass = toggler[i].getAttribute('data-toggle');
           if (target.length) {
             toggler[i].addEventListener('click', function(event) {
               event.preventDefault();
               const menu = document.querySelector(target);
 
               if (menu) {
-                menu.classList.toggle('d-none');
+                menu.classList.toggle(toggleClass);
               }
             });
           }
@@ -61,7 +62,7 @@
     <a class="navbar-brand" href="https://u3d.io">
       <img class="img-fluid" src="/assets/images/logo.svg" alt="U3D Game Engine Logo" width="200">
     </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav09" aria-controls="nav09" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav09" aria-controls="nav09" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="nav09">
